@@ -1,0 +1,18 @@
+[
+  {
+    "fecha": "02/05/2026 19:23",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Arquero",
+    "tipo": "desaparecida",
+    "precio": "450,00€",
+    "precio_num": 450.0
+  },
+  {
+    "fecha": "02/05/2026 19:23",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Arquero (RESERVED)",
+    "tipo": "nueva",
+    "precio": "450,00€",
+    "precio_num": 450.0
+  }
+]
