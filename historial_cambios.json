@@ -62,5 +62,13 @@
     "tipo": "artista_desaparecido",
     "precio": "",
     "precio_num": 0
+  },
+  {
+    "fecha": "03/05/2026 23:47",
+    "artista": "Hugo Barbié",
+    "obra": "Hugo Barbié",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0
   }
 ]
