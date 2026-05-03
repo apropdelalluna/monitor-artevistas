@@ -375,7 +375,7 @@
   <script>
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artevistas';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
+    const DEPLOY_HOOK = 'TU_DEPLOY_HOOK_AQUI';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -456,7 +456,6 @@
         document.getElementById('totalMes').textContent = formatNum(totalMes);
         document.getElementById('obrasMes').innerHTML = `
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
-          ${numReserved > 0 ? `<br><span style="color:var(--reserved)">+ ${formatNum(totalReserved)} en reserva (${numReserved} obra${numReserved !== 1 ? 's' : ''})</span>` : ''}
         `;
 
         // Historial mensual
