@@ -415,23 +415,40 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial] = await Promise.all([
+        const [ventas, historial, estado] = await Promise.all([
           fetchGitHub('ventas_mensuales.json'),
-          fetchGitHub('historial_cambios.json')
+          fetchGitHub('historial_cambios.json'),
+          fetchGitHub('estado_artevistas.json')
         ]);
 
         // Mes actual
         const ahora = new Date();
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
-        
-        // Filtrar RESERVED del total
+
+        // Calcular obras actualmente RESERVED desde el estado actual
+        let totalReserved = 0;
+        let numReserved = 0;
+        Object.values(estado).forEach(artista => {
+          const obras = artista.obras || {};
+          Object.values(obras).forEach(obra => {
+            if (obra.titulo && obra.titulo.includes('RESERVED') && obra.precio_num) {
+              totalReserved += obra.precio_num;
+              numReserved++;
+            }
+          });
+        });
+
+        // Vendidas del mes (sin RESERVED)
         const ventasReales = ventasMes.filter(v => !v.obra.includes('RESERVED'));
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
-        document.getElementById('obrasMes').textContent = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
+        document.getElementById('obrasMes').innerHTML = `
+          ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
+          ${numReserved > 0 ? `<br><span style="color:var(--reserved)">+ ${formatNum(totalReserved)} en reserva (${numReserved} obra${numReserved !== 1 ? 's' : ''})</span>` : ''}
+        `;
 
         // Historial mensual
         const meses = Object.keys(ventas).sort().reverse();
