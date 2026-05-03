@@ -375,7 +375,7 @@
   <script>
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artevistas';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
+    const DEPLOY_HOOK = 'TU_DEPLOY_HOOK_AQUI';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -426,13 +426,13 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Calcular obras actualmente RESERVED desde el estado actual
+        // Calcular obras actualmente RESERVED desde el estado actual (clave = título)
         let totalReserved = 0;
         let numReserved = 0;
         Object.values(estado).forEach(artista => {
           const obras = artista.obras || {};
-          Object.values(obras).forEach(obra => {
-            if (obra.titulo && obra.titulo.includes('RESERVED') && obra.precio_num) {
+          Object.entries(obras).forEach(([titulo, obra]) => {
+            if (titulo.includes('RESERVED') && obra.precio_num) {
               totalReserved += obra.precio_num;
               numReserved++;
             }
