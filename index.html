@@ -375,7 +375,7 @@
   <script>
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artevistas';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
+    const DEPLOY_HOOK = 'TU_DEPLOY_HOOK_AQUI';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -415,10 +415,9 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, estado] = await Promise.all([
+        const [ventas, historial] = await Promise.all([
           fetchGitHub('ventas_mensuales.json'),
-          fetchGitHub('historial_cambios.json'),
-          fetchGitHub('estado_artevistas.json')
+          fetchGitHub('historial_cambios.json')
         ]);
 
         // Mes actual
@@ -426,17 +425,27 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Calcular obras actualmente RESERVED desde el estado actual (clave = título)
+        // Calcular obras actualmente RESERVED desde el historial
+        // Una obra está en reserva si aparece como RESERVED y no tiene una entrada posterior como vendida/desaparecida
         let totalReserved = 0;
         let numReserved = 0;
-        Object.values(estado).forEach(artista => {
-          const obras = artista.obras || {};
-          Object.entries(obras).forEach(([titulo, obra]) => {
-            if (titulo.includes('RESERVED') && obra.precio_num) {
-              totalReserved += obra.precio_num;
-              numReserved++;
-            }
-          });
+        const obrasReserved = {};
+
+        historial.forEach(c => {
+          const esReserved = c.obra.toLowerCase().includes('reserved');
+          const obraBase = c.obra.replace(/\s*\(RESERVED\)/i, '').trim();
+          
+          if (esReserved && c.tipo === 'nueva') {
+            obrasReserved[obraBase] = { precio_num: c.precio_num || 0, artista: c.artista };
+          } else if (!esReserved && (c.tipo === 'vendida' || c.tipo === 'desaparecida' || c.tipo === 'nueva_vendida')) {
+            // Si la obra base aparece como vendida/desaparecida, ya no está en reserva
+            delete obrasReserved[obraBase];
+          }
+        });
+
+        Object.values(obrasReserved).forEach(obra => {
+          totalReserved += obra.precio_num;
+          numReserved++;
         });
 
         // Vendidas del mes (sin RESERVED ni desaparecidas)
