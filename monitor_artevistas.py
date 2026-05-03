@@ -1010,7 +1010,7 @@ def obtener_artistas_web() -> list:
             ),
             "Accept-Language": "es-ES,es;q=0.9",
         }
-        r = requests.get("https://www.artevistas.eu/artists/", headers=headers, timeout=30)
+        r = requests.get("https://www.artevistas.eu/artist/", headers=headers, timeout=30)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         artistas = []
