@@ -375,7 +375,7 @@
   <script>
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artevistas';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
+    const DEPLOY_HOOK = 'TU_DEPLOY_HOOK_AQUI';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -439,8 +439,8 @@
           });
         });
 
-        // Vendidas del mes (sin RESERVED)
-        const ventasReales = ventasMes.filter(v => !v.obra.includes('RESERVED'));
+        // Vendidas del mes (sin RESERVED ni desaparecidas)
+        const ventasReales = ventasMes.filter(v => !v.obra.includes('RESERVED') && v.tipo !== 'desaparecida');
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
@@ -456,7 +456,7 @@
           <thead><tr><th>Mes</th><th>Obras</th><th class="amount">Total</th></tr></thead><tbody>`;
         
         meses.forEach(mes => {
-          const vs = ventas[mes].filter(v => !v.obra.includes('RESERVED'));
+          const vs = ventas[mes].filter(v => !v.obra.includes('RESERVED') && v.tipo !== 'desaparecida');
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           tablaHTML += `<tr class="${esMesActual ? 'mes-actual' : ''}">
