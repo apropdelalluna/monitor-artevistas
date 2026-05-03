@@ -1017,13 +1017,18 @@ def obtener_artistas_web() -> list:
         for a in soup.select("a[href*='/artist/']"):
             href = a.get("href", "")
             nombre = a.get_text(strip=True)
-            if href and nombre and "/artist/" in href:
-                # Normalizar URL
-                if not href.startswith("http"):
-                    href = "https://www.artevistas.eu" + href
-                if not href.endswith("/"):
-                    href += "/"
-                artistas.append({"nombre": nombre, "url": href})
+            if not href or not nombre:
+                continue
+            if not href.startswith("http"):
+                href = "https://www.artevistas.eu" + href
+            if not href.endswith("/"):
+                href += "/"
+            # Filtrar la página de lista de artistas y enlaces genéricos
+            if href.rstrip("/").endswith("/artist"):
+                continue
+            if len(nombre) < 2:
+                continue
+            artistas.append({"nombre": nombre, "url": href})
         # Deduplicar por URL
         vistos = set()
         unicos = []
@@ -1061,9 +1066,17 @@ def detectar_artistas_nuevos() -> list:
 
     if desaparecidos:
         for a in desaparecidos:
-            logging.info("🔴 Artista desaparecido: %s", a["nombre"])
-            ARTISTAS = [x for x in ARTISTAS if x["url"] != a["url"]]
-            cambios.append({"tipo": "artista_desaparecido", "artista": a})
+            # Verificar que realmente no existe (puede ser un problema de scraping)
+            try:
+                r = requests.head(a["url"], timeout=10)
+                if r.status_code == 404:
+                    logging.info("🔴 Artista desaparecido (404 confirmado): %s", a["nombre"])
+                    ARTISTAS = [x for x in ARTISTAS if x["url"] != a["url"]]
+                    cambios.append({"tipo": "artista_desaparecido", "artista": a})
+                else:
+                    logging.info("⚠️  Artista no en lista web pero URL activa: %s", a["nombre"])
+            except Exception:
+                logging.info("⚠️  No se pudo verificar artista: %s", a["nombre"])
 
     if cambios:
         # Guardar lista actualizada en GitHub
