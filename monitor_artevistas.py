@@ -864,6 +864,28 @@ def enviar_resumen_mensual() -> None:
 
 def comprobar_todos() -> None:
     logging.info("─" * 50)
+
+    # Detectar artistas nuevos/desaparecidos
+    cambios_artistas = detectar_artistas_nuevos()
+    if cambios_artistas:
+        for c in cambios_artistas:
+            tipo = c["tipo"]
+            nombre = c["artista"]["nombre"]
+            if tipo == "nuevo_artista":
+                cambios_del_dia.append({
+                    "artista": c["artista"],
+                    "diff": "",
+                    "cambios_obras": [{"tipo": "nuevo_artista", "titulo": nombre, "precio": "", "precio_num": 0}],
+                    "hora": datetime.now().strftime("%H:%M"),
+                })
+            elif tipo == "artista_desaparecido":
+                cambios_del_dia.append({
+                    "artista": c["artista"],
+                    "diff": "",
+                    "cambios_obras": [{"tipo": "artista_desaparecido", "titulo": nombre, "precio": "", "precio_num": 0}],
+                    "hora": datetime.now().strftime("%H:%M"),
+                })
+
     logging.info("Comprobando %d artistas...", len(ARTISTAS))
 
     for artista in ARTISTAS:
@@ -974,6 +996,100 @@ def diagnosticar_html() -> None:
         logging.error("🔍 Error en diagnostico: %s", e)
 
 
+ARCHIVO_ARTISTAS = "artistas_artevistas.json"
+
+
+def obtener_artistas_web() -> list:
+    """Scraping de la página de artistas de Artevistas para obtener lista actualizada."""
+    try:
+        r = requests.get("https://www.artevistas.eu/artists/", headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        artistas = []
+        for a in soup.select("a[href*='/artist/']"):
+            href = a.get("href", "")
+            nombre = a.get_text(strip=True)
+            if href and nombre and "/artist/" in href:
+                # Normalizar URL
+                if not href.startswith("http"):
+                    href = "https://www.artevistas.eu" + href
+                if not href.endswith("/"):
+                    href += "/"
+                artistas.append({"nombre": nombre, "url": href})
+        # Deduplicar por URL
+        vistos = set()
+        unicos = []
+        for a in artistas:
+            if a["url"] not in vistos:
+                vistos.add(a["url"])
+                unicos.append(a)
+        return unicos
+    except Exception as e:
+        logging.error("Error obteniendo artistas de la web: %s", e)
+        return []
+
+
+def detectar_artistas_nuevos() -> list:
+    """Compara artistas de la web con los vigilados y detecta nuevos/desaparecidos."""
+    global ARTISTAS
+
+    artistas_web = obtener_artistas_web()
+    if not artistas_web:
+        return []
+
+    urls_actuales = {a["url"] for a in ARTISTAS}
+    urls_web = {a["url"] for a in artistas_web}
+
+    nuevos = [a for a in artistas_web if a["url"] not in urls_actuales]
+    desaparecidos = [a for a in ARTISTAS if a["url"] not in urls_web]
+
+    cambios = []
+
+    if nuevos:
+        for a in nuevos:
+            logging.info("🟢 Nuevo artista detectado: %s (%s)", a["nombre"], a["url"])
+            ARTISTAS.append(a)
+            cambios.append({"tipo": "nuevo_artista", "artista": a})
+
+    if desaparecidos:
+        for a in desaparecidos:
+            logging.info("🔴 Artista desaparecido: %s", a["nombre"])
+            ARTISTAS = [x for x in ARTISTAS if x["url"] != a["url"]]
+            cambios.append({"tipo": "artista_desaparecido", "artista": a})
+
+    if cambios:
+        # Guardar lista actualizada en GitHub
+        try:
+            with open(ARCHIVO_ARTISTAS, "w", encoding="utf-8") as f:
+                json.dump(ARTISTAS, f, ensure_ascii=False, indent=2)
+            github_guardar_archivo(ARCHIVO_ARTISTAS)
+        except Exception as e:
+            logging.error("Error guardando lista de artistas: %s", e)
+
+    return cambios
+
+
+def cargar_artistas_github() -> None:
+    """Carga la lista de artistas desde GitHub si existe."""
+    global ARTISTAS
+    if not GITHUB_TOKEN:
+        return
+    try:
+        headers = {
+            "Authorization": f"token {GITHUB_TOKEN}",
+            "Accept": "application/vnd.github.v3+json",
+        }
+        url = f"{GITHUB_API}/repos/{GITHUB_REPO}/contents/{ARCHIVO_ARTISTAS}"
+        r = requests.get(url, headers=headers, timeout=15)
+        if r.status_code == 200:
+            import base64
+            contenido = base64.b64decode(r.json()["content"]).decode("utf-8")
+            ARTISTAS = json.loads(contenido)
+            logging.info("Lista de artistas cargada desde GitHub: %d artistas.", len(ARTISTAS))
+    except Exception as e:
+        logging.warning("No se pudo cargar lista de artistas desde GitHub: %s", e)
+
+
 # ── Main ──────────────────────────────────────
 
 def main() -> None:
@@ -992,6 +1108,7 @@ def main() -> None:
     hilo.start()
 
     diagnosticar_html()  # <- diagnostico una sola vez al arrancar
+    cargar_artistas_github()
     cargar_estado()
     comprobar_todos()
 
