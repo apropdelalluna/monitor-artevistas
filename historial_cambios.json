@@ -46,5 +46,21 @@
     "tipo": "vendida",
     "precio": "48,00€",
     "precio_num": 48.0
+  },
+  {
+    "fecha": "03/05/2026 23:40",
+    "artista": "Artists",
+    "obra": "Artists",
+    "tipo": "nuevo_artista",
+    "precio": "",
+    "precio_num": 0
+  },
+  {
+    "fecha": "03/05/2026 23:40",
+    "artista": "Hugo Barbié",
+    "obra": "Hugo Barbié",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0
   }
 ]
