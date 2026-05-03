@@ -15,6 +15,14 @@
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "03/05/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – You/me",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
