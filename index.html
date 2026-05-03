@@ -351,8 +351,8 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">Último cambio detectado</div>
-        <div class="card-value" style="font-size:22px;padding-top:6px;" id="ultimoCambio">—</div>
+        <div class="card-label">En reserva</div>
+        <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
         <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
     </div>
@@ -375,7 +375,7 @@
   <script>
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artevistas';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
+    const DEPLOY_HOOK = 'TU_DEPLOY_HOOK_AQUI';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -475,10 +475,8 @@
         if (cambiosRecientes.length === 0) {
           document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
         } else {
-          // Último cambio card
-          const ult = cambiosRecientes[0];
-          document.getElementById('ultimoCambio').textContent = ult.artista.split('–')[0].trim().split(' ').slice(-1)[0];
-          document.getElementById('ultimoCambioSub').textContent = `${ult.obra} · ${ult.fecha}`;
+        document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
+        document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} actualmente reservada${numReserved !== 1 ? 's' : ''}`;
 
           let cambiosHTML = '';
           cambiosRecientes.forEach(c => {
