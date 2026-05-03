@@ -556,7 +556,7 @@ def calcular_resumen_ventas(cambios: list) -> tuple:
     num_obras = 0
     for cambio in cambios:
         for c in cambio.get("cambios_obras", []):
-            if c["tipo"] in ("vendida", "desaparecida"):
+            if c["tipo"] in ("vendida", "nueva_vendida"):
                 total += c.get("precio_num", 0.0)
                 num_obras += 1
     return total, num_obras
@@ -571,9 +571,19 @@ def construir_bloque_mensual() -> str:
             acumulado = json.load(f)
         mes_actual = datetime.now().strftime("%Y-%m")
         ventas = acumulado.get(mes_actual, [])
-        total = sum(v.get("precio_num", 0.0) for v in ventas)
-        num = len(ventas)
-        nombre_mes = datetime.now().strftime("%B %Y").capitalize()
+        # Filtrar RESERVED y desaparecidas del total
+        ventas_reales = [v for v in ventas if not v.get("obra", "").upper().find("RESERVED") >= 0 and v.get("tipo") not in ("desaparecida",)]
+        ventas_reales = [v for v in ventas if not "RESERVED" in v.get("obra", "") and v.get("tipo") != "desaparecida"]
+        total = sum(v.get("precio_num", 0.0) for v in ventas_reales)
+        num = len(ventas_reales)
+        MESES_ES = {
+            "January": "Enero", "February": "Febrero", "March": "Marzo",
+            "April": "Abril", "May": "Mayo", "June": "Junio",
+            "July": "Julio", "August": "Agosto", "September": "Septiembre",
+            "October": "Octubre", "November": "Noviembre", "December": "Diciembre"
+        }
+        nombre_mes_en = datetime.now().strftime("%B")
+        nombre_mes = MESES_ES.get(nombre_mes_en, nombre_mes_en) + " " + datetime.now().strftime("%Y")
 
         # Historial de meses anteriores
         historial_html = ""
@@ -584,10 +594,11 @@ def construir_bloque_mensual() -> str:
             filas = ""
             for mes in meses_anteriores:
                 ventas_mes = acumulado[mes]
-                total_mes = sum(v.get("precio_num", 0.0) for v in ventas_mes)
-                num_mes = len(ventas_mes)
-                # Convertir "2026-04" a "Abril 2026"
-                nombre = datetime.strptime(mes, "%Y-%m").strftime("%B %Y").capitalize()
+                ventas_mes_reales = [v for v in ventas_mes if not "RESERVED" in v.get("obra", "") and v.get("tipo") != "desaparecida"]
+                total_mes = sum(v.get("precio_num", 0.0) for v in ventas_mes_reales)
+                num_mes = len(ventas_mes_reales)
+                nombre_mes_en = datetime.strptime(mes, "%Y-%m").strftime("%B")
+                nombre = MESES_ES.get(nombre_mes_en, nombre_mes_en) + " " + mes.split("-")[0]
                 filas += f"""
                 <tr>
                   <td style="padding:4px 8px;color:#555;">{nombre}</td>
