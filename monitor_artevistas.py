@@ -1002,7 +1002,15 @@ ARCHIVO_ARTISTAS = "artistas_artevistas.json"
 def obtener_artistas_web() -> list:
     """Scraping de la página de artistas de Artevistas para obtener lista actualizada."""
     try:
-        r = requests.get("https://www.artevistas.eu/artists/", headers=HEADERS, timeout=30)
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            "Accept-Language": "es-ES,es;q=0.9",
+        }
+        r = requests.get("https://www.artevistas.eu/artists/", headers=headers, timeout=30)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         artistas = []
