@@ -9,12 +9,36 @@
       "tipo": "desaparecida"
     },
     {
+      "fecha": "02/05/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Arquero (RESERVED)",
+      "precio": "450,00€",
+      "precio_num": 450.0,
+      "tipo": "nueva"
+    },
+    {
       "fecha": "03/05/2026",
       "artista": "Frank Diamond",
       "obra": "Frank Diamond – Veins II",
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "03/05/2026",
+      "artista": "Frank Diamond",
+      "obra": "Frank Diamond – Veins II (RESERVED)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "nueva"
+    },
+    {
+      "fecha": "03/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Amour",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
     },
     {
       "fecha": "03/05/2026",

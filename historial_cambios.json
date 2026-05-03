@@ -32,6 +32,14 @@
     "precio_num": 200.0
   },
   {
+    "fecha": "03/05/2026 20:10",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amour",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0
+  },
+  {
     "fecha": "03/05/2026 21:23",
     "artista": "The Catman",
     "obra": "The Catman – You/me",
