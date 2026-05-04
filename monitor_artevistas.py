@@ -123,37 +123,6 @@ ARTISTAS = [
     {"nombre": "ZZZ – Various Artists",        "url": "https://www.artevistas.eu/artist/zzz-various-artists/"},
 ]
 
-# ── Base Elements ──────────────────────────────
-ARCHIVO_ESTADO_BE   = "estado_baseelements.json"
-ARCHIVO_MENSUAL_BE  = "ventas_mensuales_be.json"
-ARCHIVO_HISTORIAL_BE = "historial_cambios_be.json"
-ARCHIVO_ARTISTAS_BE = "artistas_baseelements.json"
-
-ARTISTAS_BE = [
-    {"nombre": "El Pez",          "url": "https://www.baseelements.net/product-category/el-pez/"},
-    {"nombre": "Uriginal",        "url": "https://www.baseelements.net/product-category/uriginal/"},
-    {"nombre": "Btoy",            "url": "https://www.baseelements.net/product-category/btoy/"},
-    {"nombre": "Kram",            "url": "https://www.baseelements.net/product-category/kram/"},
-    {"nombre": "Pres Fusion",     "url": "https://www.baseelements.net/product-category/pres-fusion/"},
-    {"nombre": "Ivana Flores",    "url": "https://www.baseelements.net/product-category/ivana-flores/"},
-    {"nombre": "J Loca",          "url": "https://www.baseelements.net/product-category/j-loca/"},
-    {"nombre": "Soem",            "url": "https://www.baseelements.net/product-category/soem/"},
-    {"nombre": "Julian Lorenzo",  "url": "https://www.baseelements.net/product-category/julian-lorenzo/"},
-    {"nombre": "Joan Tarragó",    "url": "https://www.baseelements.net/product-category/joan-tarrago/"},
-    {"nombre": "Zosen",           "url": "https://www.baseelements.net/product-category/zosen/"},
-    {"nombre": "BNS",             "url": "https://www.baseelements.net/product-category/bns/"},
-    {"nombre": "Morcky",          "url": "https://www.baseelements.net/product-category/morcky/"},
-    {"nombre": "Konair",          "url": "https://www.baseelements.net/product-category/konair/"},
-    {"nombre": "Ilia Mayer",      "url": "https://www.baseelements.net/product-category/ilia-mayer/"},
-    {"nombre": "Vic",             "url": "https://www.baseelements.net/product-category/vic/"},
-    {"nombre": "Gastón Sanmiguel","url": "https://www.baseelements.net/product-category/gaston-sanmiguel/"},
-    {"nombre": "Justin Case",     "url": "https://www.baseelements.net/product-category/justin-case/"},
-    {"nombre": "Sara León",       "url": "https://www.baseelements.net/product-category/sara-leon/"},
-]
-
-estado_be: dict = {}
-cambios_del_dia_be: list = []
-
 # ─────────────────────────────────────────────
 #  FIN DE CONFIGURACIÓN
 # ─────────────────────────────────────────────
@@ -1155,138 +1124,6 @@ def cargar_artistas_github() -> None:
         logging.warning("No se pudo cargar lista de artistas desde GitHub: %s", e)
 
 
-# ── Base Elements ─────────────────────────────
-
-def cargar_estado_be() -> None:
-    global estado_be
-    if os.path.exists(ARCHIVO_ESTADO_BE):
-        try:
-            with open(ARCHIVO_ESTADO_BE, "r", encoding="utf-8") as f:
-                estado_be = json.load(f)
-            logging.info("Estado Base Elements cargado: %d artistas.", len(estado_be))
-        except (json.JSONDecodeError, OSError) as e:
-            logging.warning("No se pudo cargar estado BE: %s", e)
-            estado_be = {}
-
-
-def guardar_estado_be() -> None:
-    try:
-        with open(ARCHIVO_ESTADO_BE, "w", encoding="utf-8") as f:
-            json.dump(estado_be, f, ensure_ascii=False, indent=2)
-        github_guardar_archivo(ARCHIVO_ESTADO_BE)
-    except OSError as e:
-        logging.error("No se pudo guardar estado BE: %s", e)
-
-
-def guardar_ventas_mensuales_be(cambios: list) -> None:
-    try:
-        acumulado = {}
-        if os.path.exists(ARCHIVO_MENSUAL_BE):
-            with open(ARCHIVO_MENSUAL_BE, "r", encoding="utf-8") as f:
-                acumulado = json.load(f)
-        mes_actual = datetime.now().strftime("%Y-%m")
-        if mes_actual not in acumulado:
-            acumulado[mes_actual] = []
-        fecha_hoy = datetime.now().strftime("%d/%m/%Y")
-        for cambio in cambios:
-            for c in cambio.get("cambios_obras", []):
-                if c["tipo"] not in ("desaparecida",):
-                    acumulado[mes_actual].append({
-                        "fecha":      fecha_hoy,
-                        "artista":    cambio["artista"]["nombre"],
-                        "obra":       c["titulo"],
-                        "precio":     c.get("precio", ""),
-                        "precio_num": c.get("precio_num", 0.0),
-                        "tipo":       c["tipo"],
-                    })
-        with open(ARCHIVO_MENSUAL_BE, "w", encoding="utf-8") as f:
-            json.dump(acumulado, f, ensure_ascii=False, indent=2)
-        github_guardar_archivo(ARCHIVO_MENSUAL_BE)
-    except Exception as e:
-        logging.error("Error guardando ventas BE: %s", e)
-
-
-def guardar_historial_be(cambios: list) -> None:
-    try:
-        historial = []
-        if os.path.exists(ARCHIVO_HISTORIAL_BE):
-            with open(ARCHIVO_HISTORIAL_BE, "r", encoding="utf-8") as f:
-                historial = json.load(f)
-        fecha_hora = datetime.now().strftime("%d/%m/%Y %H:%M")
-        for cambio in cambios:
-            for c in cambio.get("cambios_obras", []):
-                historial.append({
-                    "fecha":      fecha_hora,
-                    "artista":    cambio["artista"]["nombre"],
-                    "obra":       c["titulo"],
-                    "tipo":       c["tipo"],
-                    "precio":     c.get("precio", ""),
-                    "precio_num": c.get("precio_num", 0.0),
-                })
-        with open(ARCHIVO_HISTORIAL_BE, "w", encoding="utf-8") as f:
-            json.dump(historial, f, ensure_ascii=False, indent=2)
-        github_guardar_archivo(ARCHIVO_HISTORIAL_BE)
-        logging.info("Historial BE actualizado (%d registros).", len(historial))
-    except Exception as e:
-        logging.error("Error guardando historial BE: %s", e)
-
-
-def comprobar_todos_be() -> None:
-    global estado_be, cambios_del_dia_be
-    logging.info("─" * 50)
-    logging.info("Base Elements — Comprobando %d artistas...", len(ARTISTAS_BE))
-
-    for artista in ARTISTAS_BE:
-        nombre = artista["nombre"]
-        contenido = obtener_contenido(artista)
-        if contenido is None:
-            continue
-
-        obras_nuevas = contenido["obras"]
-        hash_actual  = contenido["hash"]
-        texto_actual = contenido["texto"]
-
-        if nombre not in estado_be:
-            estado_be[nombre] = {
-                "hash":  hash_actual,
-                "texto": texto_actual,
-                "obras": obras_nuevas,
-            }
-            logging.info("[BE][%s] Estado inicial guardado (%d obras).", nombre, len(obras_nuevas))
-            continue
-
-        datos_viejos = estado_be[nombre]
-        if hash_actual == datos_viejos.get("hash"):
-            logging.info("[BE][%s] Sin cambios.", nombre)
-            continue
-
-        obras_viejas  = datos_viejos.get("obras", {})
-        cambios_obras = detectar_cambios_obras(obras_nuevas, obras_viejas)
-
-        if cambios_obras:
-            diff = generar_diff(datos_viejos.get("texto", ""), texto_actual)
-            cambios_del_dia_be.append({
-                "artista":      artista,
-                "diff":         diff,
-                "cambios_obras": cambios_obras,
-                "hora":         datetime.now().strftime("%H:%M"),
-            })
-            logging.info("[BE][%s] %d cambios detectados.", nombre, len(cambios_obras))
-
-        estado_be[nombre] = {
-            "hash":  hash_actual,
-            "texto": texto_actual,
-            "obras": obras_nuevas,
-        }
-
-    guardar_estado_be()
-    if cambios_del_dia_be:
-        guardar_ventas_mensuales_be(cambios_del_dia_be)
-        guardar_historial_be(cambios_del_dia_be)
-    logging.info("Base Elements — Comprobación finalizada. Cambios: %d", len(cambios_del_dia_be))
-    cambios_del_dia_be = []
-
-
 # ── Main ──────────────────────────────────────
 
 def main() -> None:
@@ -1307,15 +1144,12 @@ def main() -> None:
     diagnosticar_html()  # <- diagnostico una sola vez al arrancar
     cargar_artistas_github()
     cargar_estado()
-    cargar_estado_be()
     comprobar_todos()
-    comprobar_todos_be()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
 
     schedule.every().day.at("17:50").do(comprobar_todos)
-    schedule.every().day.at("17:50").do(comprobar_todos_be)
     # schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_diario)
     # schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_mensual)
 

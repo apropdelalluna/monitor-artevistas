@@ -336,21 +336,8 @@
   <div class="container">
 
     <header>
-      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
-        <div>
-          <div class="logo" id="logoText">Arte<span>vistas</span> Monitor</div>
-          <div class="subtitle" id="subtitleText">Panel de control · artevistas.eu</div>
-        </div>
-        <div style="position:relative;">
-          <button style="background:transparent;border:1px solid var(--border);color:var(--text);padding:8px 14px;font-family:'DM Mono',monospace;font-size:11px;letter-spacing:1px;cursor:pointer;display:flex;align-items:center;gap:8px;" onclick="toggleGalleryMenu()" id="galleryBtn">
-            <span id="galleryName">Artevistas</span> ▾
-          </button>
-          <div id="galleryMenu" style="display:none;position:absolute;right:0;top:110%;background:#161616;border:1px solid var(--border);min-width:180px;z-index:10;">
-            <div onclick="selectGallery('artevistas')" style="padding:10px 14px;font-size:12px;cursor:pointer;color:var(--accent);">● Artevistas</div>
-            <div onclick="selectGallery('baseelements')" style="padding:10px 14px;font-size:12px;cursor:pointer;color:var(--text);">○ Base Elements</div>
-          </div>
-        </div>
-      </div>
+      <div class="logo">Arte<span>vistas</span> Monitor</div>
+      <div class="subtitle">Panel de control · artevistas.eu</div>
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
@@ -414,46 +401,6 @@
     const GITHUB_REPO = 'monitor-artevistas';
     const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
 
-    const GALERIAS = {
-      artevistas: {
-        nombre: 'Artevistas',
-        subtitulo: 'Panel de control · artevistas.eu',
-        logo: 'Arte<span>vistas</span> Monitor',
-        ventas: 'ventas_mensuales.json',
-        historial: 'historial_cambios.json',
-      },
-      baseelements: {
-        nombre: 'Base Elements',
-        subtitulo: 'Panel de control · baseelements.net',
-        logo: 'Base<span>Elements</span> Monitor',
-        ventas: 'ventas_mensuales_be.json',
-        historial: 'historial_cambios_be.json',
-      }
-    };
-
-    let galeriaActual = 'artevistas';
-
-    function toggleGalleryMenu() {
-      const menu = document.getElementById('galleryMenu');
-      menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
-    }
-
-    function selectGallery(id) {
-      galeriaActual = id;
-      const g = GALERIAS[id];
-      document.getElementById('galleryName').textContent = g.nombre;
-      document.getElementById('logoText').innerHTML = g.logo;
-      document.getElementById('subtitleText').textContent = g.subtitulo;
-      document.getElementById('galleryMenu').style.display = 'none';
-      cargarDatos();
-    }
-
-    document.addEventListener('click', function(e) {
-      if (!e.target.closest('#galleryBtn') && !e.target.closest('#galleryMenu')) {
-        document.getElementById('galleryMenu').style.display = 'none';
-      }
-    });
-
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
       'May':'Mayo','June':'Junio','July':'Julio','August':'Agosto',
@@ -491,11 +438,10 @@
     }
 
     async function cargarDatos() {
-      const g = GALERIAS[galeriaActual];
       try {
         const [ventas, historial] = await Promise.all([
-          fetchGitHub(g.ventas),
-          fetchGitHub(g.historial)
+          fetchGitHub('ventas_mensuales.json'),
+          fetchGitHub('historial_cambios.json')
         ]);
 
         // Mes actual
