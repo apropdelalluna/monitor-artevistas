@@ -1146,13 +1146,12 @@ def main() -> None:
     cargar_estado()
     comprobar_todos()
 
-    # Enviar email siempre al arrancar
-    logging.info("📧 Enviando email al arrancar.")
-    enviar_resumen_diario()
+    # Emails desactivados — usar webapp para ver cambios
+    # enviar_resumen_diario()
 
     schedule.every().day.at("17:50").do(comprobar_todos)
-    schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_diario)
-    schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_mensual)
+    # schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_diario)
+    # schedule.every().day.at(HORA_ENVIO).do(enviar_resumen_mensual)
 
     logging.info("Scheduler activo. Próximo email a las 20:00 UTC (22:00 España).")
 
