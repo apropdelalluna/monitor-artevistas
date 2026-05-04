@@ -365,6 +365,11 @@
     </div>
 
     <div class="section">
+      <div class="section-title" id="vendidasTitle">Obras vendidas</div>
+      <div class="cambios-list" id="vendidasList"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
       <div class="section-title">Obras en reserva</div>
       <div id="reservasList"><span class="loading-text">Cargando...</span></div>
     </div>
@@ -465,24 +470,60 @@
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
         `;
 
-        // Historial mensual
+        // Historial mensual con obras por mes
         const meses = Object.keys(ventas).sort().reverse();
-        let tablaHTML = `<table class="historial-table">
-          <thead><tr><th>Mes</th><th>Obras</th><th class="amount">Total</th></tr></thead><tbody>`;
+        let historialHTML = '';
         
         meses.forEach(mes => {
           const vs = ventas[mes].filter(v => !v.obra.includes('RESERVED') && v.tipo !== 'desaparecida');
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
-          tablaHTML += `<tr class="${esMesActual ? 'mes-actual' : ''}">
-            <td>${formatMes(mes)}${esMesActual ? ' ·' : ''}</td>
-            <td>${vs.length}</td>
-            <td class="amount">${formatNum(total)}</td>
-          </tr>`;
+          const nombreMes = formatMes(mes);
+          
+          historialHTML += `<div style="margin-bottom:16px;">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
+              <div>
+                <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;${esMesActual ? 'color:var(--new)' : ''}">${nombreMes}${esMesActual ? ' ·' : ''}</span>
+                <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+              </div>
+              <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+            </div>`;
+          
+          vs.forEach(v => {
+            const nombreObra = v.obra.replace(/^[^–—-]*[–—-]\s*/, '');
+            historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
+              <span style="color:var(--text-dim);">${v.obra}</span>
+              <span style="font-weight:500;">${formatNum(v.precio_num || 0)}</span>
+            </div>`;
+          });
+
+          historialHTML += '</div>';
         });
 
-        tablaHTML += '</tbody></table>';
-        document.getElementById('historialContainer').innerHTML = tablaHTML;
+        document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
+
+        // Obras vendidas del mes actual
+        const nombreMesActual = formatMes(mesActual);
+        document.getElementById('vendidasTitle').textContent = `Obras vendidas en ${nombreMesActual}`;
+        
+        if (ventasReales.length === 0) {
+          document.getElementById('vendidasList').innerHTML = '<div class="empty">Sin obras vendidas este mes</div>';
+        } else {
+          let vendidasHTML = '';
+          ventasReales.forEach(v => {
+            const artista = v.artista || '';
+            vendidasHTML += `<div class="cambio-item vendida">
+              <div class="cambio-header">
+                <div class="cambio-artista">${artista}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge vendida">🔴 Vendida</span>${v.obra}
+              </div>
+              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('vendidasList').innerHTML = vendidasHTML;
+        }
 
         // Últimos cambios
         const cambiosRecientes = [...historial].reverse().slice(0, 20);
