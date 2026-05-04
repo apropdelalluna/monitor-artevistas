@@ -491,11 +491,14 @@
           let cambiosHTML = '';
           cambiosRecientes.forEach(c => {
             const tipo = c.tipo || 'desaparecida';
+            
+            // No mostrar desaparecidas
+            if (tipo === 'desaparecida') return;
+
             const tipoLabel = {
               'vendida': '🔴 Vendida',
               'nueva': '🟢 Nueva',
               'nueva_vendida': '🔴🟢 Nueva vendida',
-              'desaparecida': '🟠 Desaparecida'
             }[tipo] || tipo;
             
             const esReserved = c.obra.includes('RESERVED');

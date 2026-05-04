@@ -501,6 +501,8 @@ def construir_bloque(cambio: dict) -> str:
 
     filas_obras = ""
     for c in cambios_obras:
+        if c["tipo"] == "desaparecida":
+            continue  # No mostrar desaparecidas en el email
         if c["tipo"] == "vendida":
             icono, etiqueta, color = "🔴", "Vendida", "#c0392b"
         elif c["tipo"] == "desaparecida":
