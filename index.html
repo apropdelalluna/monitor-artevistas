@@ -365,6 +365,11 @@
     </div>
 
     <div class="section">
+      <div class="section-title">Obras en reserva</div>
+      <div id="reservasList"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
       <div class="section-title">Últimos cambios detectados</div>
       <div class="cambios-list" id="cambiosList"><span class="loading-text">Cargando...</span></div>
     </div>
@@ -487,6 +492,25 @@
         } else {
         document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
         document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} actualmente reservada${numReserved !== 1 ? 's' : ''}`;
+
+        // Obras en reserva detalladas
+        if (Object.keys(obrasReserved).length === 0) {
+          document.getElementById('reservasList').innerHTML = '<div class="empty">Sin obras en reserva actualmente</div>';
+        } else {
+          let reservasHTML = '';
+          Object.entries(obrasReserved).forEach(([obra, datos]) => {
+            reservasHTML += `<div class="cambio-item reserved">
+              <div class="cambio-header">
+                <div class="cambio-artista">${datos.artista}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge reserved">🟡 Reserved</span>${obra}
+              </div>
+              ${datos.precio_num ? `<div class="cambio-precio">${formatNum(datos.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('reservasList').innerHTML = reservasHTML;
+        }
 
           let cambiosHTML = '';
           cambiosRecientes.forEach(c => {
