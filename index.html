@@ -438,15 +438,15 @@
     }
 
     async function cargarDatos() {
-      try:
-        const [ventas, historial, estadoJson] = await Promise.all([
+      try {
+        const [ventas, historial, meta] = await Promise.all([
           fetchGitHub('ventas_mensuales.json'),
           fetchGitHub('historial_cambios.json'),
-          fetchGitHub('estado_artevistas.json')
+          fetchGitHub('meta.json')
         ]);
 
         // Última comprobación en Artevistas
-        const ultimaComp = estadoJson._meta?.ultima_comprobacion || '—';
+        const ultimaComp = meta?.ultima_comprobacion || '—';
         document.getElementById('lastUpdateHeader').textContent = `Última visita a Artevistas: ${ultimaComp}`;
 
         // Mes actual
