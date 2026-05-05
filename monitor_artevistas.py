@@ -198,6 +198,9 @@ def cargar_estado() -> None:
 
 def guardar_estado() -> None:
     try:
+        estado["_meta"] = {
+            "ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")
+        }
         with open(ARCHIVO_ESTADO, "w", encoding="utf-8") as f:
             json.dump(estado, f, ensure_ascii=False, indent=2)
         github_guardar_archivo(ARCHIVO_ESTADO)
