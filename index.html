@@ -447,6 +447,7 @@
 
         // Última comprobación en Artevistas
         const ultimaComp = meta?.ultima_comprobacion || '—';
+        console.log('meta.json:', meta, 'ultimaComp:', ultimaComp);
         document.getElementById('lastUpdateHeader').textContent = `Última visita a Artevistas: ${ultimaComp}`;
 
         // Mes actual
