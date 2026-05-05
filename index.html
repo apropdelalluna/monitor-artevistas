@@ -438,16 +438,15 @@
     }
 
     async function cargarDatos() {
-      try {
-        const [ventas, historial, meta] = await Promise.all([
+      try:
+        const [ventas, historial, estadoJson] = await Promise.all([
           fetchGitHub('ventas_mensuales.json'),
           fetchGitHub('historial_cambios.json'),
-          fetchGitHub('meta.json')
+          fetchGitHub('estado_artevistas.json')
         ]);
 
         // Última comprobación en Artevistas
-        const ultimaComp = meta?.ultima_comprobacion || '—';
-        console.log('meta.json:', meta, 'ultimaComp:', ultimaComp);
+        const ultimaComp = estadoJson._meta?.ultima_comprobacion || '—';
         document.getElementById('lastUpdateHeader').textContent = `Última visita a Artevistas: ${ultimaComp}`;
 
         // Mes actual
@@ -546,6 +545,29 @@
 
         // Últimos cambios
         const cambiosRecientes = [...historial].reverse().slice(0, 20);
+
+        document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
+        document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} actualmente reservada${numReserved !== 1 ? 's' : ''}`;
+
+        // Obras en reserva detalladas
+        document.getElementById('reservasMeta').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} · ${formatNum(totalReserved)}`;
+        if (Object.keys(obrasReserved).length === 0) {
+          document.getElementById('reservasList').innerHTML = '<div class="empty">Sin obras en reserva actualmente</div>';
+        } else {
+          let reservasHTML = '';
+          Object.entries(obrasReserved).forEach(([obra, datos]) => {
+            reservasHTML += `<div class="cambio-item reserved">
+              <div class="cambio-header">
+                <div class="cambio-artista">${datos.artista}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge reserved">🟡 Reserved</span>${obra}
+              </div>
+              ${datos.precio_num ? `<div class="cambio-precio">${formatNum(datos.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('reservasList').innerHTML = reservasHTML;
+        }
         
         if (cambiosRecientes.length === 0) {
           document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
