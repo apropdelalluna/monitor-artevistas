@@ -198,12 +198,14 @@ def cargar_estado() -> None:
 
 def guardar_estado() -> None:
     try:
-        estado["_meta"] = {
-            "ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")
-        }
         with open(ARCHIVO_ESTADO, "w", encoding="utf-8") as f:
             json.dump(estado, f, ensure_ascii=False, indent=2)
         github_guardar_archivo(ARCHIVO_ESTADO)
+        # Guardar meta separado con hora de última comprobación
+        meta = {"ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+        with open("meta.json", "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False)
+        github_guardar_archivo("meta.json")
     except OSError as e:
         logging.error("No se pudo guardar el estado: %s", e)
 
