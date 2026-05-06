@@ -959,6 +959,9 @@ def comprobar_todos() -> None:
         }
 
     guardar_estado()
+    if cambios_del_dia:
+        guardar_ventas_mensuales(cambios_del_dia)
+        guardar_historial(cambios_del_dia)
     logging.info("Comprobación finalizada. Cambios acumulados hoy: %d", len(cambios_del_dia))
 
 
