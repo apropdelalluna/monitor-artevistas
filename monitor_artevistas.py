@@ -454,13 +454,22 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
             })
         else:
             info_nueva = obras_nuevas[titulo]
-            if info_vieja["estado"] != info_nueva["estado"] and info_nueva["estado"] == "vendido":
-                cambios.append({
-                    "tipo":       "vendida",
-                    "titulo":     titulo,
-                    "precio":     info_vieja["precio"],
-                    "precio_num": info_vieja.get("precio_num", 0.0),
-                })
+            if info_vieja["estado"] != info_nueva["estado"]:
+                if info_nueva["estado"] == "vendido":
+                    cambios.append({
+                        "tipo":       "vendida",
+                        "titulo":     titulo,
+                        "precio":     info_vieja["precio"],
+                        "precio_num": info_vieja.get("precio_num", 0.0),
+                    })
+                elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
+                    # Obra que estaba vendida y vuelve a estar disponible (nueva unidad)
+                    cambios.append({
+                        "tipo":       "nueva",
+                        "titulo":     titulo,
+                        "precio":     info_nueva["precio"],
+                        "precio_num": info_nueva.get("precio_num", 0.0),
+                    })
     for titulo, info_nueva in obras_nuevas.items():
         if titulo not in obras_viejas:
             # Obra nueva — puede estar disponible o ya vendida
