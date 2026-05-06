@@ -749,6 +749,46 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         logging.error("Error guardando ventas mensuales: %s", e)
 
 
+def calcular_ventas_totales() -> None:
+    """Visita cada obra vendida de cada artista y calcula el total vendido por artista."""
+    logging.info("📊 Calculando ventas totales por artista...")
+    resultado = {}
+
+    for nombre_artista, datos in estado.items():
+        if nombre_artista == "_meta":
+            continue
+        obras = datos.get("obras", {})
+        vendidas = [(titulo, info["url"]) for titulo, info in obras.items() if info["estado"] == "vendido"]
+
+        if not vendidas:
+            continue
+
+        logging.info("  [%s] %d obras vendidas — obteniendo precios...", nombre_artista, len(vendidas))
+        total = 0.0
+        detalle = []
+
+        for titulo, url in vendidas:
+            _, precio_num = obtener_precio_desde_producto(url)
+            if precio_num > 0:
+                total += precio_num
+                detalle.append({"titulo": titulo, "precio_num": precio_num})
+            time.sleep(0.5)
+
+        resultado[nombre_artista] = {
+            "total": total,
+            "obras_vendidas": len(vendidas),
+            "obras_con_precio": len(detalle),
+            "detalle": detalle,
+            "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")
+        }
+        logging.info("  [%s] Total: %.0f€", nombre_artista, total)
+
+    with open("ventas_totales.json", "w", encoding="utf-8") as f:
+        json.dump(resultado, f, ensure_ascii=False, indent=2)
+    github_guardar_archivo("ventas_totales.json")
+    logging.info("✅ ventas_totales.json guardado en GitHub.")
+
+
 def guardar_historial(cambios: list) -> None:
     """Acumula todos los cambios detectados en historial_cambios.json, sin sobreescribir."""
     try:
@@ -1162,6 +1202,10 @@ def main() -> None:
     cargar_artistas_github()
     cargar_estado()
     comprobar_todos()
+
+    # Calcular ventas totales si se activa con variable de entorno CALCULAR_VENTAS=1
+    if os.environ.get("CALCULAR_VENTAS") == "1":
+        calcular_ventas_totales()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
