@@ -749,6 +749,63 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         logging.error("Error guardando ventas mensuales: %s", e)
 
 
+def buscar_duplicados() -> None:
+    """Busca obras con título duplicado comparando URLs — añade las que faltan en ventas_totales."""
+    logging.info("🔍 Buscando obras duplicadas por título en páginas de artistas...")
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json — ejecuta CALCULAR_VENTAS=1 primero.")
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    total_nuevas = 0
+
+    for artista in ARTISTAS:
+        nombre = artista["nombre"]
+        contenido = obtener_contenido(artista)
+        if contenido is None:
+            continue
+
+        obras_web = contenido["obras"]
+        obras_estado = estado.get(nombre, {}).get("obras", {})
+
+        # URLs ya registradas en el estado
+        urls_registradas = {info["url"] for info in obras_estado.values()}
+
+        for titulo, info in obras_web.items():
+            if info["estado"] != "vendido":
+                continue
+            # Si la URL no está registrada en el estado — es un duplicado no contabilizado
+            if info["url"] not in urls_registradas:
+                _, precio_num = obtener_precio_desde_producto(info["url"])
+                if nombre not in resultado:
+                    resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+
+                # Generar título único
+                titulo_unico = titulo
+                titulos_existentes = {o["titulo"] for o in resultado[nombre].get("detalle", [])}
+                contador = 2
+                while titulo_unico in titulos_existentes:
+                    titulo_unico = f"{titulo} ({contador})"
+                    contador += 1
+
+                resultado[nombre]["detalle"].append({"titulo": titulo_unico, "precio_num": precio_num})
+                resultado[nombre]["obras_vendidas"] += 1
+                if precio_num > 0:
+                    resultado[nombre]["total"] += precio_num
+                    resultado[nombre]["obras_con_precio"] += 1
+                total_nuevas += 1
+                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo_unico, precio_num)
+                time.sleep(0.5)
+
+    with open("ventas_totales.json", "w", encoding="utf-8") as f:
+        json.dump(resultado, f, ensure_ascii=False, indent=2)
+    github_guardar_archivo("ventas_totales.json")
+    logging.info("✅ ventas_totales.json actualizado. Obras duplicadas encontradas: %d", total_nuevas)
+
+
 def buscar_obras_faltantes() -> None:
     """Hace scraping de cada página de artista para encontrar obras SOLD no registradas en el estado."""
     logging.info("🔍 Buscando obras vendidas no registradas en el estado...")
@@ -1292,6 +1349,10 @@ def main() -> None:
     # Buscar obras faltantes en ventas_totales si se activa con BUSCAR_FALTANTES=1
     if os.environ.get("BUSCAR_FALTANTES") == "1":
         buscar_obras_faltantes()
+
+    # Buscar duplicados por URL si se activa con BUSCAR_DUPLICADOS=1
+    if os.environ.get("BUSCAR_DUPLICADOS") == "1":
+        buscar_duplicados()
 
     # Rellenar precios faltantes si se activa con RELLENAR_PRECIOS=1
     if os.environ.get("RELLENAR_PRECIOS") == "1":
