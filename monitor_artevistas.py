@@ -749,6 +749,44 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         logging.error("Error guardando ventas mensuales: %s", e)
 
 
+def rellenar_precios_faltantes() -> None:
+    """Visita solo las obras sin precio en ventas_totales.json y completa los datos."""
+    logging.info("📊 Rellenando precios faltantes en ventas_totales.json...")
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json — ejecuta CALCULAR_VENTAS=1 primero.")
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    total_rellenados = 0
+
+    for artista, datos in estado.items():
+        if artista == "_meta" or artista not in resultado:
+            continue
+
+        obras_estado = datos.get("obras", {})
+        detalle_actual = {o["titulo"]: o for o in resultado[artista].get("detalle", [])}
+        vendidas = [(titulo, info["url"]) for titulo, info in obras_estado.items() if info["estado"] == "vendido"]
+
+        for titulo, url in vendidas:
+            if titulo not in detalle_actual:
+                _, precio_num = obtener_precio_desde_producto(url)
+                if precio_num > 0:
+                    resultado[artista]["detalle"].append({"titulo": titulo, "precio_num": precio_num})
+                    resultado[artista]["total"] += precio_num
+                    resultado[artista]["obras_con_precio"] += 1
+                    total_rellenados += 1
+                    logging.info("  ✅ %s – %s: %.0f€", artista, titulo, precio_num)
+                time.sleep(0.5)
+
+    with open("ventas_totales.json", "w", encoding="utf-8") as f:
+        json.dump(resultado, f, ensure_ascii=False, indent=2)
+    github_guardar_archivo("ventas_totales.json")
+    logging.info("✅ ventas_totales.json actualizado. Precios rellenados: %d", total_rellenados)
+
+
 def calcular_ventas_totales() -> None:
     """Visita cada obra vendida de cada artista y calcula el total vendido por artista."""
     logging.info("📊 Calculando ventas totales por artista...")
@@ -1206,6 +1244,10 @@ def main() -> None:
     # Calcular ventas totales si se activa con variable de entorno CALCULAR_VENTAS=1
     if os.environ.get("CALCULAR_VENTAS") == "1":
         calcular_ventas_totales()
+
+    # Rellenar precios faltantes si se activa con RELLENAR_PRECIOS=1
+    if os.environ.get("RELLENAR_PRECIOS") == "1":
+        rellenar_precios_faltantes()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
