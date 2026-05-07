@@ -9572,9 +9572,9 @@
     "ultima_actualizacion": "07/05/2026 06:38"
   },
   "Sandra Partera": {
-    "total": 40952.0,
+    "total": 49922.0,
     "obras_vendidas": 85,
-    "obras_con_precio": 26,
+    "obras_con_precio": 35,
     "detalle": [
       {
         "titulo": "Sandra Partera – Smallblackboard 6",
@@ -9679,6 +9679,42 @@
       {
         "titulo": "Sandra Partera – (des) aprender",
         "precio_num": 500.0
+      },
+      {
+        "titulo": "Sandra Partera – Impasse 1",
+        "precio_num": 1000.0
+      },
+      {
+        "titulo": "Sandra Partera – Always under construction",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Sandra Partera – Peix que es mossega la cua 7 vegades (6)",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Sandra Partera – Smallblackboard 7",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Sandra Partera – Mundo nuevo de ilusión, falto de realidad",
+        "precio_num": 1600.0
+      },
+      {
+        "titulo": "Sandra Partera – Free mistake",
+        "precio_num": 1000.0
+      },
+      {
+        "titulo": "Sandra Partera – Children of inner child",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Sandra Partera – Riquem!",
+        "precio_num": 224.0
+      },
+      {
+        "titulo": "Sandra Partera – Saudade",
+        "precio_num": 3796.0
       }
     ],
     "ultima_actualizacion": "07/05/2026 07:04"
