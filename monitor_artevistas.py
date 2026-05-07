@@ -749,6 +749,50 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         logging.error("Error guardando ventas mensuales: %s", e)
 
 
+def buscar_obras_faltantes() -> None:
+    """Hace scraping de cada página de artista para encontrar obras SOLD no registradas en el estado."""
+    logging.info("🔍 Buscando obras vendidas no registradas en el estado...")
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json — ejecuta CALCULAR_VENTAS=1 primero.")
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    total_nuevas = 0
+
+    for artista in ARTISTAS:
+        nombre = artista["nombre"]
+        contenido = obtener_contenido(artista)
+        if contenido is None:
+            continue
+
+        obras_web = contenido["obras"]
+        obras_estado = estado.get(nombre, {}).get("obras", {})
+        detalle_actual = {o["titulo"]: o for o in resultado.get(nombre, {}).get("detalle", [])}
+
+        # Buscar obras SOLD en la web que no están ni en el estado ni en ventas_totales
+        for titulo, info in obras_web.items():
+            if info["estado"] == "vendido" and titulo not in obras_estado and titulo not in detalle_actual:
+                _, precio_num = obtener_precio_desde_producto(info["url"])
+                if nombre not in resultado:
+                    resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+                resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num})
+                resultado[nombre]["obras_vendidas"] += 1
+                if precio_num > 0:
+                    resultado[nombre]["total"] += precio_num
+                    resultado[nombre]["obras_con_precio"] += 1
+                total_nuevas += 1
+                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo, precio_num)
+                time.sleep(0.5)
+
+    with open("ventas_totales.json", "w", encoding="utf-8") as f:
+        json.dump(resultado, f, ensure_ascii=False, indent=2)
+    github_guardar_archivo("ventas_totales.json")
+    logging.info("✅ ventas_totales.json actualizado. Obras nuevas encontradas: %d", total_nuevas)
+
+
 def rellenar_precios_faltantes() -> None:
     """Visita solo las obras sin precio en ventas_totales.json y completa los datos."""
     logging.info("📊 Rellenando precios faltantes en ventas_totales.json...")
@@ -1244,6 +1288,10 @@ def main() -> None:
     # Calcular ventas totales si se activa con variable de entorno CALCULAR_VENTAS=1
     if os.environ.get("CALCULAR_VENTAS") == "1":
         calcular_ventas_totales()
+
+    # Buscar obras faltantes en ventas_totales si se activa con BUSCAR_FALTANTES=1
+    if os.environ.get("BUSCAR_FALTANTES") == "1":
+        buscar_obras_faltantes()
 
     # Rellenar precios faltantes si se activa con RELLENAR_PRECIOS=1
     if os.environ.get("RELLENAR_PRECIOS") == "1":
