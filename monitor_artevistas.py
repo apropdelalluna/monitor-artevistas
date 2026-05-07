@@ -312,7 +312,7 @@ def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
 
 
 def extraer_obras(soup: BeautifulSoup) -> dict:
-    """Extrae {titulo: {precio, precio_num, estado}} de la página de un artista."""
+    """Extrae {url: {titulo, precio, precio_num, estado, url}} de la página de un artista."""
     obras = {}
 
     # Selectores en orden de especificidad — cubre distintas versiones de WooCommerce/Artevistas
@@ -375,13 +375,17 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
         es_vendido = bool(sold) or any(p in texto_producto for p in PALABRAS_VENTA)
         estado_obra = "vendido" if es_vendido else "disponible"
 
-        # URL de la obra individual
+        # URL de la obra individual — usada como clave única
         url_obra = None
         enlace = producto.select_one("a.woocommerce-LoopProduct-link, a.woocommerce-loop-product__link, .box-image a")
         if enlace and enlace.get("href"):
             url_obra = enlace["href"]
 
-        obras[titulo] = {
+        # Usar URL como clave para evitar sobreescribir duplicados de título
+        clave = url_obra if url_obra else titulo
+
+        obras[clave] = {
+            "titulo":     titulo,
             "precio":     precio_str,
             "precio_num": precio_num,
             "estado":     estado_obra,
@@ -444,8 +448,9 @@ def obtener_contenido(artista: dict) -> dict | None:
 
 def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
     cambios = []
-    for titulo, info_vieja in obras_viejas.items():
-        if titulo not in obras_nuevas:
+    for clave, info_vieja in obras_viejas.items():
+        titulo = info_vieja.get("titulo", clave)
+        if clave not in obras_nuevas:
             cambios.append({
                 "tipo":       "desaparecida",
                 "titulo":     titulo,
@@ -453,7 +458,7 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
                 "precio_num": info_vieja.get("precio_num", 0.0),
             })
         else:
-            info_nueva = obras_nuevas[titulo]
+            info_nueva = obras_nuevas[clave]
             if info_vieja["estado"] != info_nueva["estado"]:
                 if info_nueva["estado"] == "vendido":
                     cambios.append({
@@ -463,21 +468,19 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
                         "precio_num": info_vieja.get("precio_num", 0.0),
                     })
                 elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
-                    # Obra que estaba vendida y vuelve a estar disponible (nueva unidad)
                     cambios.append({
                         "tipo":       "nueva",
                         "titulo":     titulo,
                         "precio":     info_nueva["precio"],
                         "precio_num": info_nueva.get("precio_num", 0.0),
                     })
-    for titulo, info_nueva in obras_nuevas.items():
-        if titulo not in obras_viejas:
-            # Obra nueva — puede estar disponible o ya vendida
+    for clave, info_nueva in obras_nuevas.items():
+        titulo = info_nueva.get("titulo", clave)
+        if clave not in obras_viejas:
             tipo = "nueva_vendida" if info_nueva.get("estado") == "vendido" else "nueva"
             precio_str = info_nueva["precio"]
             precio_num = info_nueva.get("precio_num", 0.0)
 
-            # Si está vendida y sin precio, intentar extraerlo de la página individual
             if tipo == "nueva_vendida" and precio_num == 0.0 and info_nueva.get("url"):
                 logging.info("Buscando precio de obra vendida: %s", titulo)
                 precio_str, precio_num = obtener_precio_desde_producto(info_nueva["url"])
@@ -1066,7 +1069,35 @@ def enviar_resumen_mensual() -> None:
 
 
 
-# ── Comprobación ──────────────────────────────
+def migrar_estado_a_url_clave() -> None:
+    """Migra el estado antiguo (clave=titulo) al nuevo formato (clave=url)."""
+    global estado
+    migrado = 0
+    for nombre, datos in estado.items():
+        if nombre == "_meta":
+            continue
+        obras = datos.get("obras", {})
+        obras_nuevas = {}
+        necesita_migracion = False
+        for clave, info in obras.items():
+            # Si la clave es una URL ya está migrado
+            if clave.startswith("http"):
+                obras_nuevas[clave] = info
+            else:
+                # Clave es título — migrar a URL
+                necesita_migracion = True
+                url = info.get("url") or clave
+                if "titulo" not in info:
+                    info["titulo"] = clave
+                obras_nuevas[url] = info
+        if necesita_migracion:
+            datos["obras"] = obras_nuevas
+            migrado += 1
+    if migrado > 0:
+        logging.info("Estado migrado a clave URL: %d artistas actualizados.", migrado)
+
+
+
 
 def comprobar_todos() -> None:
     logging.info("─" * 50)
@@ -1340,6 +1371,7 @@ def main() -> None:
     diagnosticar_html()  # <- diagnostico una sola vez al arrancar
     cargar_artistas_github()
     cargar_estado()
+    migrar_estado_a_url_clave()
     comprobar_todos()
 
     # Calcular ventas totales si se activa con variable de entorno CALCULAR_VENTAS=1
