@@ -78,5 +78,13 @@
     "tipo": "artista_desaparecido",
     "precio": "",
     "precio_num": 0
+  },
+  {
+    "fecha": "07/05/2026 17:54",
+    "artista": "Yoshihito Suzuki",
+    "obra": "Yoshihito Suzuki",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0
   }
 ]
