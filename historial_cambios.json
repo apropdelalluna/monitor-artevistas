@@ -86,5 +86,45 @@
     "tipo": "artista_desaparecido",
     "precio": "",
     "precio_num": 0
+  },
+  {
+    "fecha": "08/05/2026 11:36",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Bunny Kate Pompei (reserved)",
+    "tipo": "vendida",
+    "precio": "2.300,00€",
+    "precio_num": 2300.0
+  },
+  {
+    "fecha": "08/05/2026 11:36",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Zulu Fashion Week",
+    "tipo": "nueva",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0
+  },
+  {
+    "fecha": "08/05/2026 11:36",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Catrina",
+    "tipo": "nueva",
+    "precio": "120,00€",
+    "precio_num": 120.0
+  },
+  {
+    "fecha": "08/05/2026 11:36",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Zulu fashion week (3)",
+    "tipo": "nueva_vendida",
+    "precio": "120,00€",
+    "precio_num": 120.0
+  },
+  {
+    "fecha": "08/05/2026 11:36",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Bunny Revolution – Baroque",
+    "tipo": "nueva_vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0
   }
 ]
