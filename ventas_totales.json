@@ -10843,10 +10843,11 @@
     ],
     "ultima_actualizacion": "07/05/2026 07:13"
   },
+{
   "White Rabbit": {
-    "total": 74856.0,
-    "obras_vendidas": 134,
-    "obras_con_precio": 134,
+    "total": 77516.0,
+    "obras_vendidas": 137,
+    "obras_con_precio": 137,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -11383,10 +11384,15 @@
       {
         "titulo": "White Rabbit – Bunny Revolution 4",
         "precio_num": 1200.0
+      },
+      {
+        "titulo": "White Rabbit – Bunny Kate Pompei (reserved)",
+        "precio_num": 2300.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:19"
-  },
+    "ultima_actualizacion": "08/05/2026 11:36"
+  }
+}
   "Xavi Mira": {
     "total": 122880.0,
     "obras_vendidas": 74,
