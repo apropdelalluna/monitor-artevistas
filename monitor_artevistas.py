@@ -931,6 +931,40 @@ def calcular_ventas_totales() -> None:
     logging.info("✅ ventas_totales.json guardado en GitHub.")
 
 
+def actualizar_ventas_totales(cambios: list) -> None:
+    """Añade las nuevas ventas detectadas al ventas_totales.json."""
+    if not os.path.exists("ventas_totales.json"):
+        return
+    try:
+        with open("ventas_totales.json", "r", encoding="utf-8") as f:
+            resultado = json.load(f)
+
+        actualizados = 0
+        for cambio in cambios:
+            artista = cambio["artista"]["nombre"]
+            for c in cambio.get("cambios_obras", []):
+                if c["tipo"] in ("vendida", "nueva_vendida") and c.get("precio_num", 0) > 0:
+                    if artista not in resultado:
+                        resultado[artista] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+                    resultado[artista]["detalle"].append({
+                        "titulo": c["titulo"],
+                        "precio_num": c["precio_num"]
+                    })
+                    resultado[artista]["obras_vendidas"] += 1
+                    resultado[artista]["total"] += c["precio_num"]
+                    resultado[artista]["obras_con_precio"] += 1
+                    resultado[artista]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+                    actualizados += 1
+
+        if actualizados > 0:
+            with open("ventas_totales.json", "w", encoding="utf-8") as f:
+                json.dump(resultado, f, ensure_ascii=False, indent=2)
+            github_guardar_archivo("ventas_totales.json")
+            logging.info("✅ ventas_totales.json actualizado con %d nuevas ventas.", actualizados)
+    except Exception as e:
+        logging.error("Error actualizando ventas_totales: %s", e)
+
+
 def guardar_historial(cambios: list) -> None:
     """Acumula todos los cambios detectados en historial_cambios.json, sin sobreescribir."""
     try:
@@ -1172,6 +1206,7 @@ def comprobar_todos() -> None:
     if cambios_del_dia:
         guardar_ventas_mensuales(cambios_del_dia)
         guardar_historial(cambios_del_dia)
+        actualizar_ventas_totales(cambios_del_dia)
     logging.info("Comprobación finalizada. Cambios acumulados hoy: %d", len(cambios_del_dia))
 
 
