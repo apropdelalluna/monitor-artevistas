@@ -14324,14 +14324,9 @@
         "titulo": "White Rabbit – Bunny Revolution 4",
         "precio_num": 1200.0
       },
-      {
-        "titulo": "White Rabbit Zulu Fashion Week 3",
-        "precio_num": 120.0
-      },
-      {
-        "titulo": "White Rabbit Bunny Revolution Baroque",
-        "precio_num": 60.0
-      }
+     {"titulo": "White Rabbit – Zulu fashion week (3)", "precio_num": 120.0},
+{"titulo": "White Rabbit – Bunny Revolution – Baroque", "precio_num": 60.0},
+{"titulo": "White Rabbit – Bunny Kate Pompei (reserved)", "precio_num": 2300.0},
     ],
     "ultima_actualizacion": "07/05/2026 07:19"
   },
