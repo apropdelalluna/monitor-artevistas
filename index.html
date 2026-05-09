@@ -545,8 +545,6 @@
         }
 
         // Últimos cambios
-        const cambiosRecientes = [...historial].reverse().slice(0, 20);
-
         document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
         document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} actualmente reservada${numReserved !== 1 ? 's' : ''}`;
 
@@ -569,26 +567,27 @@
           });
           document.getElementById('reservasList').innerHTML = reservasHTML;
         }
-        
-        if (cambiosRecientes.length === 0) {
-          document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
-        } else {
-          let cambiosHTML = '';
-          cambiosRecientes.forEach(c => {
-            const tipo = c.tipo || 'desaparecida';
-            
-            // No mostrar desaparecidas
-            if (tipo === 'desaparecida') return;
 
+        const todosLosCambios = [...historial].reverse().filter(c => c.tipo !== 'desaparecida' && c.tipo !== 'artista_desaparecido' && c.tipo !== 'nuevo_artista');
+        const LIMITE_INICIAL = 50;
+        let mostrandoCambios = LIMITE_INICIAL;
+
+        function renderCambios() {
+          const cambiosAMostrar = todosLosCambios.slice(0, mostrandoCambios);
+          if (cambiosAMostrar.length === 0) {
+            document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
+            return;
+          }
+          let cambiosHTML = '';
+          cambiosAMostrar.forEach(c => {
+            const tipo = c.tipo || 'desaparecida';
             const tipoLabel = {
               'vendida': '🔴 Vendida',
               'nueva': '🟢 Nueva',
               'nueva_vendida': '🔴🟢 Nueva vendida',
             }[tipo] || tipo;
-            
             const esReserved = c.obra.includes('RESERVED');
             const claseItem = esReserved ? 'reserved' : tipo;
-
             cambiosHTML += `<div class="cambio-item ${claseItem}">
               <div class="cambio-header">
                 <div class="cambio-artista">${c.artista}</div>
@@ -601,9 +600,22 @@
               ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
             </div>`;
           });
-
+          if (todosLosCambios.length > mostrandoCambios) {
+            cambiosHTML += `<div style="text-align:center;padding:16px 0;">
+              <button onclick="verMasCambios()" style="background:none;border:1px solid var(--border);color:var(--accent);padding:8px 20px;cursor:pointer;font-family:inherit;font-size:11px;letter-spacing:2px;text-transform:uppercase;">
+                Ver más (${todosLosCambios.length - mostrandoCambios} restantes)
+              </button>
+            </div>`;
+          }
           document.getElementById('cambiosList').innerHTML = cambiosHTML;
         }
+
+        window.verMasCambios = function() {
+          mostrandoCambios += 50;
+          renderCambios();
+        };
+
+        renderCambios();
 
         // Status
         document.getElementById('statusDot').className = 'status-dot';
