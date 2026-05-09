@@ -448,15 +448,42 @@ def obtener_contenido(artista: dict) -> dict | None:
 
 def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
     cambios = []
+    # Índice de obras nuevas por título para fallback cuando la clave no coincide
+    obras_nuevas_por_titulo = {}
+    for clave_n, info_n in obras_nuevas.items():
+        t = info_n.get("titulo", clave_n)
+        if t not in obras_nuevas_por_titulo:
+            obras_nuevas_por_titulo[t] = (clave_n, info_n)
+
     for clave, info_vieja in obras_viejas.items():
         titulo = info_vieja.get("titulo", clave)
         if clave not in obras_nuevas:
-            cambios.append({
-                "tipo":       "desaparecida",
-                "titulo":     titulo,
-                "precio":     info_vieja["precio"],
-                "precio_num": info_vieja.get("precio_num", 0.0),
-            })
+            # Intentar encontrar por título como fallback (obras sin URL en estado antiguo)
+            match = obras_nuevas_por_titulo.get(titulo)
+            if match:
+                _, info_nueva = match
+                if info_vieja["estado"] != info_nueva["estado"]:
+                    if info_nueva["estado"] == "vendido":
+                        cambios.append({
+                            "tipo":       "vendida",
+                            "titulo":     titulo,
+                            "precio":     info_vieja["precio"],
+                            "precio_num": info_vieja.get("precio_num", 0.0),
+                        })
+                    elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
+                        cambios.append({
+                            "tipo":       "nueva",
+                            "titulo":     titulo,
+                            "precio":     info_nueva["precio"],
+                            "precio_num": info_nueva.get("precio_num", 0.0),
+                        })
+            else:
+                cambios.append({
+                    "tipo":       "desaparecida",
+                    "titulo":     titulo,
+                    "precio":     info_vieja["precio"],
+                    "precio_num": info_vieja.get("precio_num", 0.0),
+                })
         else:
             info_nueva = obras_nuevas[clave]
             if info_vieja["estado"] != info_nueva["estado"]:
@@ -474,9 +501,13 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
                         "precio":     info_nueva["precio"],
                         "precio_num": info_nueva.get("precio_num", 0.0),
                     })
+
+    # Claves del estado viejo que ya se procesaron por título (para no duplicar)
+    claves_viejas_titulos = {info.get("titulo", clave) for clave, info in obras_viejas.items()}
+
     for clave, info_nueva in obras_nuevas.items():
         titulo = info_nueva.get("titulo", clave)
-        if clave not in obras_viejas:
+        if clave not in obras_viejas and titulo not in claves_viejas_titulos:
             tipo = "nueva_vendida" if info_nueva.get("estado") == "vendido" else "nueva"
             precio_str = info_nueva["precio"]
             precio_num = info_nueva.get("precio_num", 0.0)
