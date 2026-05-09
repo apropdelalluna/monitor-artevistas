@@ -5612,9 +5612,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 282084.0,
-    "obras_vendidas": 1125,
-    "obras_con_precio": 1119,
+    "total": 415746.0,
+    "obras_vendidas": 1710,
+    "obras_con_precio": 1704,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -10107,9 +10107,2349 @@
       {
         "titulo": "https://www.artevistas.eu/product/love-bcn-2/",
         "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Fly high",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – You and me, one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Fix you",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Art of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Fly high",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Forever",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Carpe Diem",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Light your shine",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – You are art",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – We are one",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Together",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Life",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Loving",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Forever",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – You and me, one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – In love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Daydreaming",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Love is all around",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me Lata – Fly high",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Life",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Que bello es vivir",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – All you need is love",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me Lata – Me lata el corazón",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 380.0
+      },
+      {
+        "titulo": "Me Lata – Contigo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – You and me, one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Art of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – You and me, one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Art of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Art of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Happy",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Fly high",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – You are art",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – You and Me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Don’t stop me now",
+        "precio_num": 360.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – The way you are",
+        "precio_num": 320.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Me lata el corazón",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Forever",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – ♥ Bcn",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Together",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Happy",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – You got me",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – You are art",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Art is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Peace",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Get up, stand up",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 320.0
+      },
+      {
+        "titulo": "Me Lata – Nosotros",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Spray Smiley",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – One Love",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Life",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – You can do it",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Dream Big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 50.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Here comes the sun",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Art of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Happy",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Je suis fou de toi",
+        "precio_num": 380.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 380.0
+      },
+      {
+        "titulo": "Me Lata – Life",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Peace",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Be happy",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Peace",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love Bcn",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Love is a drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – You and Me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – All my loving to you",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Contigo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Together",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Barcelona",
+        "precio_num": 320.0
+      },
+      {
+        "titulo": "Me Lata – Sunshine",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Beautiful",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – One life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Peace",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me Lata – You and Me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Be happy",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Together",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Never give up",
+        "precio_num": 380.0
+      },
+      {
+        "titulo": "Me Lata – Now is the moment",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Unstoppable",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – One life to live one life to give",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me Lata – The way you are",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 360.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Contigo",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Never give up",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – One more time",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Contigo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – Hope",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me Lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Art of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – One Love",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – You and me one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Que bello es vivir",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me lata – Together",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – M’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – All you need is love",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 380.0
+      },
+      {
+        "titulo": "Me lata – You and me one",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – All we need is love",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Fighters",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Et sento a prop",
+        "precio_num": 20.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – When your eyes and mine can see the same",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – I feel like making dreams come true",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Love is the drug",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Loving",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Je suis fou de toi",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Spray Smiley",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Hope",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Vivir cada momento abrazando el horizonte",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 850.0
+      },
+      {
+        "titulo": "Me lata – One Love",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Live is life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Together",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Te regalo mi sonrisa",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – You give me life",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – ❤ Barcelona",
+        "precio_num": 360.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Peace",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me Lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Volver",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – What a beautiful smile",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – You make it easy",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – Llum de la meva vida",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Nos lata",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – We have a dream",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Art of my life",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Como tú no hay dos",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Esperança",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Artivismo",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Arte",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – You are my angel",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Hope",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – All my loving to you",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Spray can Love is the best",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – You give me life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – One more time",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – You are like a hip hop song",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Peace",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Life",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Y hacer siluetas de amor bajo la luna",
+        "precio_num": 372.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 700.0
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – You and me ONE 2",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Hope",
+        "precio_num": 100.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Nothing is gonna change my love for you",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – I am your ninja",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 360.0
+      },
+      {
+        "titulo": "Me lata – Smiley XXL",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Life",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me Lata – ❤ Bcn",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Arte efimero, amor eterno",
+        "precio_num": 950.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – When your eyes and mine can see the same",
+        "precio_num": 1500.0
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love azul",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Amor azul",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me lata – We can change the world",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 40.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – 🙂",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – All you need is love",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Shiny happy people holding hands",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – All we need is love",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We can change the world",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – You are so cool",
+        "precio_num": 85.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 260.0
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – I feel like making dreams come true",
+        "precio_num": 1700.0
+      },
+      {
+        "titulo": "Me lata – Get up stand up",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Love azul",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – When your eyes and mine can see the same",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Hope",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Unstoppable",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Unbreakable",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – Bésame",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Me lata",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Haring’s heart",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Street art",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Amor rojo",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Spray can Love of my life",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Spray can Me lata",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 485.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 400.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – How to tell you I love you again",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – I wanna rock you",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 650.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Corona",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Bésame",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Corazón",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – You are my angel",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – You are art",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Corazón",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Corazón",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Nos lata el corazon",
+        "precio_num": 800.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 280.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Dream a little dream of me",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – Smiley",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – What a beautiful smile",
+        "precio_num": 110.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 550.0
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 130.0
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 160.0
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – I am your ninja",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Sentir como lata",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 50.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love rojo",
+        "precio_num": 180.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Harring’s ❤",
+        "precio_num": 50.0
+      },
+      {
+        "titulo": "Me lata – Harring’s ❤",
+        "precio_num": 50.0
+      },
+      {
+        "titulo": "Me lata – Love amarillo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Amor rojo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me lata – Nos lata el corazón",
+        "precio_num": 600.0
+      },
+      {
+        "titulo": "Me lata – Love rojo",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Sentir como lata",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Unconditional",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 350.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – You are my angel",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Together we can",
+        "precio_num": 250.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – I am your ninja",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – You are so cool",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – One Love",
+        "precio_num": 300.0
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 85.0
+      },
+      {
+        "titulo": "Me lata – I just want to make love to you",
+        "precio_num": 85.0
+      },
+      {
+        "titulo": "Me lata – Como decirte otra vez te quiero",
+        "precio_num": 80.0
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 200.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Crown",
+        "precio_num": 45.0
+      },
+      {
+        "titulo": "Me lata – Bésame",
+        "precio_num": 120.0
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0
+      },
+      {
+        "titulo": "Me lata – Love (dirty) Bcn",
+        "precio_num": 220.0
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Heart",
+        "precio_num": 60.0
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 440.0
+      },
+      {
+        "titulo": "Me lata – Love Bcn",
+        "precio_num": 220.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:22"
+    "ultima_actualizacion": "09/05/2026 12:45"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
@@ -10484,9 +12824,9 @@
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "MOWCKA": {
-    "total": 5404.0,
-    "obras_vendidas": 43,
-    "obras_con_precio": 43,
+    "total": 5454.0,
+    "obras_vendidas": 44,
+    "obras_con_precio": 44,
     "detalle": [
       {
         "titulo": "Mowcka – Sin título 8",
@@ -10659,9 +12999,13 @@
       {
         "titulo": "Mowcka – Apertura y liberación – 30 x 21 cm",
         "precio_num": 20.0
+      },
+      {
+        "titulo": "Mowcka – Sin título 21",
+        "precio_num": 50.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:26"
+    "ultima_actualizacion": "09/05/2026 12:45"
   },
   "Neon Sandwich": {
     "total": 7000.0,
