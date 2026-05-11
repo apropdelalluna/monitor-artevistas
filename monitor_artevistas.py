@@ -1239,6 +1239,7 @@ def comprobar_todos() -> None:
         guardar_historial(cambios_del_dia)
         actualizar_ventas_totales(cambios_del_dia)
     logging.info("Comprobación finalizada. Cambios acumulados hoy: %d", len(cambios_del_dia))
+    cambios_del_dia = []
 
 
 # ── Diagnóstico HTML ──────────────────────────

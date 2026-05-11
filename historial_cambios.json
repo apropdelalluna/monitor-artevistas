@@ -64,23 +64,7 @@
     "precio_num": 0
   },
   {
-    "fecha": "03/05/2026 23:47",
-    "artista": "Hugo Barbié",
-    "obra": "Hugo Barbié",
-    "tipo": "artista_desaparecido",
-    "precio": "",
-    "precio_num": 0
-  },
-  {
     "fecha": "07/05/2026 14:04",
-    "artista": "Yoshihito Suzuki",
-    "obra": "Yoshihito Suzuki",
-    "tipo": "artista_desaparecido",
-    "precio": "",
-    "precio_num": 0
-  },
-  {
-    "fecha": "07/05/2026 17:54",
     "artista": "Yoshihito Suzuki",
     "obra": "Yoshihito Suzuki",
     "tipo": "artista_desaparecido",
@@ -137,14 +121,6 @@
   },
   {
     "fecha": "11/05/2026 12:56",
-    "artista": "Pol Ballonga",
-    "obra": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
-    "tipo": "vendida",
-    "precio": "500,00€",
-    "precio_num": 500.0
-  },
-  {
-    "fecha": "11/05/2026 17:54",
     "artista": "Pol Ballonga",
     "obra": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
     "tipo": "vendida",
