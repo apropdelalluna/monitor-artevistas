@@ -142,5 +142,13 @@
     "tipo": "vendida",
     "precio": "500,00€",
     "precio_num": 500.0
+  },
+  {
+    "fecha": "11/05/2026 17:54",
+    "artista": "Pol Ballonga",
+    "obra": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0
   }
 ]
