@@ -9152,9 +9152,9 @@
     "ultima_actualizacion": "07/05/2026 06:35"
   },
   "Pol Ballonga": {
-    "total": 21400.0,
-    "obras_vendidas": 13,
-    "obras_con_precio": 13,
+    "total": 21900.0,
+    "obras_vendidas": 14,
+    "obras_con_precio": 14,
     "detalle": [
       {
         "titulo": "Pol Ballonga – Atmosphere",
@@ -9207,9 +9207,13 @@
       {
         "titulo": "Pol Ballonga – Blue Thoughts",
         "precio_num": 250.0
+      },
+      {
+        "titulo": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
+        "precio_num": 500.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:35"
+    "ultima_actualizacion": "11/05/2026 12:56"
   },
   "Ramón Pons": {
     "total": 12750.0,
