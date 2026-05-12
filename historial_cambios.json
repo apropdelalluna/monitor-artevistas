@@ -126,5 +126,45 @@
     "tipo": "vendida",
     "precio": "500,00€",
     "precio_num": 500.0
+  },
+  {
+    "fecha": "12/05/2026 19:17",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Crucificados (RESERVED)",
+    "tipo": "vendida",
+    "precio": "2.900,00€",
+    "precio_num": 2900.0
+  },
+  {
+    "fecha": "12/05/2026 19:17",
+    "artista": "Frank Diamond",
+    "obra": "Frank Diamond – The false sky",
+    "tipo": "vendida",
+    "precio": "150,00€",
+    "precio_num": 150.0
+  },
+  {
+    "fecha": "12/05/2026 19:17",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau Aka Unavista – Leopard Head",
+    "tipo": "nueva",
+    "precio": "2.850,00€",
+    "precio_num": 2850.0
+  },
+  {
+    "fecha": "12/05/2026 19:17",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau Aka Unavista – Chilling Leopard",
+    "tipo": "nueva",
+    "precio": "955,00€",
+    "precio_num": 955.0
+  },
+  {
+    "fecha": "12/05/2026 19:17",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau Aka Unavista – Poisonous frogs",
+    "tipo": "nueva",
+    "precio": "955,00€",
+    "precio_num": 955.0
   }
 ]
