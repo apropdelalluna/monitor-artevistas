@@ -1476,9 +1476,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 131898.0,
-    "obras_vendidas": 84,
-    "obras_con_precio": 84,
+    "total": 134798.0,
+    "obras_vendidas": 85,
+    "obras_con_precio": 85,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -1814,6 +1814,10 @@
       },
       {
         "titulo": "Art is Trash – Crucificados (RESERVED)",
+        "precio_num": 2900.0
+      },
+      {
+        "titulo": "Art is Trash – Crucificados",
         "precio_num": 2900.0
       }
     ],
