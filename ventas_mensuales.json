@@ -103,6 +103,14 @@
       "precio": "150,00€",
       "precio_num": 150.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "12/05/2026",
+      "artista": "Orson Buch",
+      "obra": "Orson Buch – Pez Crespo",
+      "precio": "160,00€",
+      "precio_num": 160.0,
+      "tipo": "vendida"
     }
   ]
 }
