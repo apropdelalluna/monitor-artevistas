@@ -87,6 +87,22 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "12/05/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Crucificados (RESERVED)",
+      "precio": "2.900,00€",
+      "precio_num": 2900.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "12/05/2026",
+      "artista": "Frank Diamond",
+      "obra": "Frank Diamond – The false sky",
+      "precio": "150,00€",
+      "precio_num": 150.0,
+      "tipo": "vendida"
     }
   ]
 }
