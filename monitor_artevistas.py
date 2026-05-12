@@ -367,7 +367,7 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
 
         # Estado (vendido / disponible)
         sold = producto.select_one(
-            ".sold_out_badge, .out-of-stock, .soldout, "
+            ".sold_out_badge, .out-of-stock, .soldout, .out-of-stock-label, "
             "[class*='sold'], [class*='vendido'], .ribbon"
         )
         # También buscar el texto "sold" / "vendido" en el propio bloque
