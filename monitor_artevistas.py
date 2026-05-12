@@ -1165,6 +1165,7 @@ def migrar_estado_a_url_clave() -> None:
 
 
 def comprobar_todos() -> None:
+    global cambios_del_dia
     logging.info("─" * 50)
 
     # Detectar artistas nuevos/desaparecidos
