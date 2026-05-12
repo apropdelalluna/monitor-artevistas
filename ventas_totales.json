@@ -1476,9 +1476,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 128998.0,
-    "obras_vendidas": 83,
-    "obras_con_precio": 83,
+    "total": 131898.0,
+    "obras_vendidas": 84,
+    "obras_con_precio": 84,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -1811,9 +1811,13 @@
       {
         "titulo": "Art is Trash – Diablo",
         "precio_num": 968.0
+      },
+      {
+        "titulo": "Art is Trash – Crucificados (RESERVED)",
+        "precio_num": 2900.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:34"
+    "ultima_actualizacion": "12/05/2026 19:17"
   },
   "Ashwan": {
     "total": 7335.0,
@@ -3604,9 +3608,9 @@
     "ultima_actualizacion": "07/05/2026 04:46"
   },
   "Frank Diamond": {
-    "total": 8030.0,
-    "obras_vendidas": 44,
-    "obras_con_precio": 44,
+    "total": 8180.0,
+    "obras_vendidas": 45,
+    "obras_con_precio": 45,
     "detalle": [
       {
         "titulo": "Frank Diamond – Lifeless",
@@ -3783,9 +3787,13 @@
       {
         "titulo": "Frank Diamond – Fractured time",
         "precio_num": 150.0
+      },
+      {
+        "titulo": "Frank Diamond – The false sky",
+        "precio_num": 150.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:48"
+    "ultima_actualizacion": "12/05/2026 19:17"
   },
   "Gil Gelpi": {
     "total": 100510.0,
