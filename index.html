@@ -478,8 +478,8 @@
           numReserved++;
         });
 
-        // Vendidas del mes (sin RESERVED ni desaparecidas)
-        const ventasReales = ventasMes.filter(v => !v.obra.includes('RESERVED') && v.tipo !== 'desaparecida');
+        // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
+        const ventasReales = ventasMes.filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
@@ -493,7 +493,7 @@
         let historialHTML = '';
         
         meses.forEach(mes => {
-          const vs = ventas[mes].filter(v => !v.obra.includes('RESERVED') && v.tipo !== 'desaparecida');
+          const vs = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
@@ -569,32 +569,24 @@
           });
           document.getElementById('reservasList').innerHTML = reservasHTML;
         }
-
-        const LIMITE_INICIAL = 50;
-        let mostrandoCambios = LIMITE_INICIAL;
-
-        function renderCambios() {
-          const cambiosAMostrar = [...historial].reverse().slice(0, mostrandoCambios);
-          if (cambiosAMostrar.length === 0) {
-            document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
-            return;
-          }
+        
+        if (cambiosRecientes.length === 0) {
+          document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
+        } else {
           let cambiosHTML = '';
-          cambiosAMostrar.forEach(c => {
+          cambiosRecientes.forEach(c => {
             const tipo = c.tipo || 'desaparecida';
-
-            // No mostrar desaparecidas de obras (sí artistas)
+            
+            // No mostrar desaparecidas
             if (tipo === 'desaparecida') return;
 
             const tipoLabel = {
               'vendida': '🔴 Vendida',
               'nueva': '🟢 Nueva',
               'nueva_vendida': '🔴🟢 Nueva vendida',
-              'artista_desaparecido': '🟠 Artista desaparecido',
-              'nuevo_artista': '🟢 Nuevo artista',
             }[tipo] || tipo;
-
-            const esReserved = (c.obra || '').includes('RESERVED');
+            
+            const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
             const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
 
             cambiosHTML += `<div class="cambio-item ${claseItem}">
@@ -604,27 +596,14 @@
               </div>
               <div class="cambio-obra">
                 <span class="badge ${claseItem}">${esReserved ? '🟡 Reserved' : tipoLabel}</span>
-                ${c.obra || c.artista}
+                ${c.obra}
               </div>
               ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
             </div>`;
           });
-          if (historial.length > mostrandoCambios) {
-            cambiosHTML += `<div style="text-align:center;padding:16px 0;">
-              <button onclick="verMasCambios()" style="background:none;border:1px solid var(--border);color:var(--accent);padding:8px 20px;cursor:pointer;font-family:inherit;font-size:11px;letter-spacing:2px;text-transform:uppercase;">
-                Ver más (${historial.length - mostrandoCambios} restantes)
-              </button>
-            </div>`;
-          }
+
           document.getElementById('cambiosList').innerHTML = cambiosHTML;
         }
-
-        window.verMasCambios = function() {
-          mostrandoCambios += 50;
-          renderCambios();
-        };
-
-        renderCambios();
 
         // Status
         document.getElementById('statusDot').className = 'status-dot';
