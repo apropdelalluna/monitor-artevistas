@@ -8288,9 +8288,9 @@
     "ultima_actualizacion": "07/05/2026 06:29"
   },
   "Orson Buch": {
-    "total": 6470.0,
-    "obras_vendidas": 29,
-    "obras_con_precio": 29,
+    "total": 6630.0,
+    "obras_vendidas": 30,
+    "obras_con_precio": 30,
     "detalle": [
       {
         "titulo": "Orson Buch – Daurada Pequeña",
@@ -8407,9 +8407,13 @@
       {
         "titulo": "Orson Buch – Cuervo",
         "precio_num": 200.0
+      },
+      {
+        "titulo": "Orson Buch – Pez Crespo",
+        "precio_num": 160.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:29"
+    "ultima_actualizacion": "12/05/2026 21:35"
   },
   "Ortaire de Coupigny": {
     "total": 11180.0,
