@@ -808,33 +808,39 @@ def buscar_duplicados() -> None:
         # URLs ya registradas en el estado
         urls_registradas = {info["url"] for info in obras_estado.values()}
 
+        # URLs ya registradas en ventas_totales (para evitar duplicados entre ejecuciones)
+        urls_en_ventas = {o.get("url") for o in resultado.get(nombre, {}).get("detalle", []) if o.get("url")}
+
         for titulo, info in obras_web.items():
             if info["estado"] != "vendido":
                 continue
-            # Si la URL no está registrada en el estado — es un duplicado no contabilizado
-            if info["url"] not in urls_registradas:
-                _, precio_num = obtener_precio_desde_producto(info["url"])
-                if nombre not in resultado:
-                    resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+            url_obra = info["url"]
+            # Si la URL ya está en el estado o en ventas_totales — ya contabilizada
+            if url_obra in urls_registradas or url_obra in urls_en_ventas:
+                continue
 
-                # Generar título único usando el título real de la obra
-                titulo_real = info.get("titulo") or titulo
-                titulo_unico = titulo_real
-                titulos_existentes = {o["titulo"] for o in resultado[nombre].get("detalle", [])}
-                contador = 2
-                while titulo_unico in titulos_existentes:
-                    titulo_unico = f"{titulo_real} ({contador})"
-                    contador += 1
-                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo_unico, precio_num)
+            _, precio_num = obtener_precio_desde_producto(url_obra)
+            if nombre not in resultado:
+                resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
 
-                resultado[nombre]["detalle"].append({"titulo": titulo_unico, "precio_num": precio_num})
-                resultado[nombre]["obras_vendidas"] += 1
-                if precio_num > 0:
-                    resultado[nombre]["total"] += precio_num
-                    resultado[nombre]["obras_con_precio"] += 1
-                total_nuevas += 1
-                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo_unico, precio_num)
-                time.sleep(0.5)
+            # Generar título único usando el título real de la obra
+            titulo_real = info.get("titulo") or titulo
+            titulo_unico = titulo_real
+            titulos_existentes = {o["titulo"] for o in resultado[nombre].get("detalle", [])}
+            contador = 2
+            while titulo_unico in titulos_existentes:
+                titulo_unico = f"{titulo_real} ({contador})"
+                contador += 1
+
+            resultado[nombre]["detalle"].append({"titulo": titulo_unico, "precio_num": precio_num, "url": url_obra})
+            resultado[nombre]["obras_vendidas"] += 1
+            if precio_num > 0:
+                resultado[nombre]["total"] += precio_num
+                resultado[nombre]["obras_con_precio"] += 1
+            total_nuevas += 1
+            urls_en_ventas.add(url_obra)
+            logging.info("  ✅ %s – %s: %.0f€", nombre, titulo_unico, precio_num)
+            time.sleep(0.5)
 
     with open("ventas_totales.json", "w", encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
