@@ -825,7 +825,7 @@ def buscar_duplicados() -> None:
                 while titulo_unico in titulos_existentes:
                     titulo_unico = f"{titulo_real} ({contador})"
                     contador += 1
-                logging.info("  DEBUG: clave=%s | titulo_real=%s", titulo[:60], titulo_real[:60])
+                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo_unico, precio_num)
 
                 resultado[nombre]["detalle"].append({"titulo": titulo_unico, "precio_num": precio_num})
                 resultado[nombre]["obras_vendidas"] += 1
