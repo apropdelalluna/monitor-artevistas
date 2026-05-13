@@ -5300,9 +5300,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 148422.0,
-    "obras_vendidas": 534,
-    "obras_con_precio": 534,
+    "total": 148622.0,
+    "obras_vendidas": 535,
+    "obras_con_precio": 535,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -7439,9 +7439,13 @@
       {
         "titulo": "Me lata – Love (rose)",
         "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Amour",
+        "precio_num": 200.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:22"
+    "ultima_actualizacion": "13/05/2026 17:34"
   },
   "Miquel Serratosa": {
     "total": 43900.0,
@@ -10868,9 +10872,9 @@
     "ultima_actualizacion": "07/05/2026 07:13"
   },
   "White Rabbit": {
-    "total": 77156.0,
-    "obras_vendidas": 135,
-    "obras_con_precio": 135,
+    "total": 77276.0,
+    "obras_vendidas": 136,
+    "obras_con_precio": 136,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -11411,9 +11415,13 @@
       {
         "titulo": "White Rabbit – Bunny Kate Pompei (reserved)",
         "precio_num": 2300.0
+      },
+      {
+        "titulo": "White Rabbit – Catrina",
+        "precio_num": 120.0
       }
     ],
-    "ultima_actualizacion": "08/05/2026 11:36"
+    "ultima_actualizacion": "13/05/2026 17:34"
   },
   "Xavi Mira": {
     "total": 122880.0,
