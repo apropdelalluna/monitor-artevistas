@@ -127,6 +127,14 @@
       "precio": "120,00€",
       "precio_num": 120.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love of my life",
+      "precio": "320,00€",
+      "precio_num": 320.0,
+      "tipo": "vendida"
     }
   ]
 }
