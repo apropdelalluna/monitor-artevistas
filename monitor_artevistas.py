@@ -818,12 +818,14 @@ def buscar_duplicados() -> None:
                     resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
 
                 # Generar título único usando el título real de la obra
-                titulo_unico = info.get("titulo", titulo)
+                titulo_real = info.get("titulo") or titulo
+                titulo_unico = titulo_real
                 titulos_existentes = {o["titulo"] for o in resultado[nombre].get("detalle", [])}
                 contador = 2
                 while titulo_unico in titulos_existentes:
-                    titulo_unico = f"{titulo} ({contador})"
+                    titulo_unico = f"{titulo_real} ({contador})"
                     contador += 1
+                logging.info("  DEBUG: clave=%s | titulo_real=%s", titulo[:60], titulo_real[:60])
 
                 resultado[nombre]["detalle"].append({"titulo": titulo_unico, "precio_num": precio_num})
                 resultado[nombre]["obras_vendidas"] += 1
