@@ -811,12 +811,24 @@ def buscar_duplicados() -> None:
         # URLs ya registradas en ventas_totales (para evitar duplicados entre ejecuciones)
         urls_en_ventas = {o.get("url") for o in resultado.get(nombre, {}).get("detalle", []) if o.get("url")}
 
+        # Títulos base ya en ventas_totales (sin el sufijo "(N)") para obras sin URL guardada
+        import re as _re
+        titulos_base_en_ventas = set()
+        for o in resultado.get(nombre, {}).get("detalle", []):
+            t = _re.sub(r' \(\d+\)$', '', o["titulo"])
+            titulos_base_en_ventas.add(t)
+
         for titulo, info in obras_web.items():
             if info["estado"] != "vendido":
                 continue
             url_obra = info["url"]
+            titulo_real = info.get("titulo") or titulo
+
             # Si la URL ya está en el estado o en ventas_totales — ya contabilizada
             if url_obra in urls_registradas or url_obra in urls_en_ventas:
+                continue
+            # Si el título base ya existe en ventas_totales sin URL — probablemente ya contabilizada
+            if titulo_real in titulos_base_en_ventas:
                 continue
 
             _, precio_num = obtener_precio_desde_producto(url_obra)
@@ -824,7 +836,6 @@ def buscar_duplicados() -> None:
                 resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
 
             # Generar título único usando el título real de la obra
-            titulo_real = info.get("titulo") or titulo
             titulo_unico = titulo_real
             titulos_existentes = {o["titulo"] for o in resultado[nombre].get("detalle", [])}
             contador = 2

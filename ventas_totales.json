@@ -1,8 +1,8 @@
 {
   "180 Hilos": {
-    "total": 5599.0,
-    "obras_vendidas": 115,
-    "obras_con_precio": 115,
+    "total": 5514.0,
+    "obras_vendidas": 113,
+    "obras_con_precio": 113,
     "detalle": [
       {
         "titulo": "180 hilos – Pepa Reverter – Tot cor arcoiris",
@@ -455,24 +455,14 @@
       {
         "titulo": "180 Hilos – Laika by Juan Castaño",
         "precio_num": 120.0
-      },
-      {
-        "titulo": "180 Hilos – Olinda by Felipe Kehdi (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/olinda-by-felipe-kehdi-2/"
-      },
-      {
-        "titulo": "180 Hilos – Jelly boys 2 by Juan Díaz-Faes (2)",
-        "precio_num": 35.0,
-        "url": "https://www.artevistas.eu/product/jelly-boys-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:24"
   },
   "Akore": {
-    "total": 68415.0,
-    "obras_vendidas": 74,
-    "obras_con_precio": 74,
+    "total": 65845.0,
+    "obras_vendidas": 69,
+    "obras_con_precio": 69,
     "detalle": [
       {
         "titulo": "Akore – Roots",
@@ -749,31 +739,6 @@
       {
         "titulo": "Akore – Carton box: Amara",
         "precio_num": 300.0
-      },
-      {
-        "titulo": "Akore – Mursi Girl (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/mursi-girl-2/"
-      },
-      {
-        "titulo": "Akore – Mursi Girl (3)",
-        "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/mursi-girl/"
-      },
-      {
-        "titulo": "Akore – Frida (2)",
-        "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/frida/"
-      },
-      {
-        "titulo": "Akore – Princess (2)",
-        "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/akore-princess-2/"
-      },
-      {
-        "titulo": "Akore – Delight (2)",
-        "precio_num": 900.0,
-        "url": "https://www.artevistas.eu/product/delight-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:26"
@@ -1059,9 +1024,9 @@
     "ultima_actualizacion": "07/05/2026 04:28"
   },
   "Andrzej Farfulowski": {
-    "total": 85130.0,
-    "obras_vendidas": 62,
-    "obras_con_precio": 62,
+    "total": 71230.0,
+    "obras_vendidas": 55,
+    "obras_con_precio": 55,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1282,41 +1247,6 @@
       {
         "titulo": "Andrzej Farfulowski – Señor anónimo del tren",
         "precio_num": 2300.0
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Sabrina (2)",
-        "precio_num": 4000.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-sabrina-2/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Sabrina (3)",
-        "precio_num": 3900.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-sabrina/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Julia (2)",
-        "precio_num": 2800.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-julia/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Autoportrait (2)",
-        "precio_num": 1700.0,
-        "url": "https://www.artevistas.eu/product/autoportrait-2/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Untitled (2)",
-        "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/untitled-4/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Untitled (3)",
-        "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/untitled-3/"
-      },
-      {
-        "titulo": "Andrzej Farfulowski – Untitled (4)",
-        "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/untitled-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:29"
@@ -1974,9 +1904,9 @@
     "ultima_actualizacion": "07/05/2026 04:34"
   },
   "Bernard Tartinville": {
-    "total": 1740.0,
-    "obras_vendidas": 6,
-    "obras_con_precio": 6,
+    "total": 1100.0,
+    "obras_vendidas": 4,
+    "obras_con_precio": 4,
     "detalle": [
       {
         "titulo": "Bernard Tartinville – Marie Antoinette 6",
@@ -1993,24 +1923,14 @@
       {
         "titulo": "Bernard Tartinville – Marie Antoinette 3",
         "precio_num": 350.0
-      },
-      {
-        "titulo": "Bernard Tartinville – Marie Antoinette 3 (2)",
-        "precio_num": 180.0,
-        "url": "https://www.artevistas.eu/product/bernard-tartinville-marie-antoinette-4/"
-      },
-      {
-        "titulo": "Bernard Tartinville – Marie Antoinette 4 (2)",
-        "precio_num": 460.0,
-        "url": "https://www.artevistas.eu/product/bernard-tartinville-marie-antoinette-4-3/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:34"
   },
   "BL2A": {
-    "total": 84430.0,
-    "obras_vendidas": 86,
-    "obras_con_precio": 86,
+    "total": 73850.0,
+    "obras_vendidas": 72,
+    "obras_con_precio": 72,
     "detalle": [
       {
         "titulo": "BL2A – Comparte tu mente",
@@ -2299,84 +2219,14 @@
       {
         "titulo": "BL2A – Planta cara en el mundo",
         "precio_num": 550.0
-      },
-      {
-        "titulo": "BL2A – RA-19 (2)",
-        "precio_num": 1500.0,
-        "url": "https://www.artevistas.eu/product/bl2a-ra-19/"
-      },
-      {
-        "titulo": "BL2A – Ser polifacético (2)",
-        "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/bl2a-ser-polifacetico/"
-      },
-      {
-        "titulo": "BL2A – Protege tu mente (2)",
-        "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/protege-tu-mente/"
-      },
-      {
-        "titulo": "BL2A – Planta cara (2)",
-        "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/planta-cara-2/"
-      },
-      {
-        "titulo": "BL2A – Planta cara (3)",
-        "precio_num": 550.0,
-        "url": "https://www.artevistas.eu/product/plantando-cara/"
-      },
-      {
-        "titulo": "BL2A – Sentir que se acaba el tiempo (2)",
-        "precio_num": 800.0,
-        "url": "https://www.artevistas.eu/product/sentir-que-se-acaba-el-tiempo/"
-      },
-      {
-        "titulo": "BL2A – Siempre perdemos tiempo (2)",
-        "precio_num": 1300.0,
-        "url": "https://www.artevistas.eu/product/bl2a-siempre-perdemos-tiempo-2/"
-      },
-      {
-        "titulo": "BL2A – Reconstruye tu mente (2)",
-        "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/reconstruye-tu-mente-2/"
-      },
-      {
-        "titulo": "BL2A – Comparte tu mente (2)",
-        "precio_num": 550.0,
-        "url": "https://www.artevistas.eu/product/reconstruye-tu-mente/"
-      },
-      {
-        "titulo": "BL2A – Siempre perdemos tiempo (3)",
-        "precio_num": 980.0,
-        "url": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-7/"
-      },
-      {
-        "titulo": "BL2A – Comparte tu mente (3)",
-        "precio_num": 1000.0,
-        "url": "https://www.artevistas.eu/product/comparte-tu-mente-2/"
-      },
-      {
-        "titulo": "BL2A – Siempre perdemos tiempo (4)",
-        "precio_num": 750.0,
-        "url": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-5/"
-      },
-      {
-        "titulo": "BL2A – Siempre perdemos tiempo (5)",
-        "precio_num": 650.0,
-        "url": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-4/"
-      },
-      {
-        "titulo": "BL2A – Siempre perdemos tiempo (6)",
-        "precio_num": 600.0,
-        "url": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:37"
   },
   "Bran Sólo": {
-    "total": 2610.0,
-    "obras_vendidas": 112,
-    "obras_con_precio": 112,
+    "total": 2550.0,
+    "obras_vendidas": 109,
+    "obras_con_precio": 109,
     "detalle": [
       {
         "titulo": "Bran Sólo – El dibujo del dibujo",
@@ -2813,21 +2663,6 @@
       {
         "titulo": "Bran Sólo – Ethan",
         "precio_num": 40.0
-      },
-      {
-        "titulo": "Bran Sólo – Sálvame (2)",
-        "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/bran-solo-salvame/"
-      },
-      {
-        "titulo": "Bran Sólo – La rosa azul (2)",
-        "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/la-rosa-azul/"
-      },
-      {
-        "titulo": "Bran Sólo – En las rocas (2)",
-        "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/19341/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:41"
@@ -3225,9 +3060,9 @@
     "ultima_actualizacion": "07/05/2026 04:43"
   },
   "Corentin Huon de Penanster": {
-    "total": 21740.0,
-    "obras_vendidas": 33,
-    "obras_con_precio": 33,
+    "total": 18390.0,
+    "obras_vendidas": 29,
+    "obras_con_precio": 29,
     "detalle": [
       {
         "titulo": "Corentin Huon de Penanster – Femme active",
@@ -3344,26 +3179,6 @@
       {
         "titulo": "Corentin Huon de Penanster – Victoire de Castellane",
         "precio_num": 450.0
-      },
-      {
-        "titulo": "Corentin Huon de Penanster – Twins (2)",
-        "precio_num": 900.0,
-        "url": "https://www.artevistas.eu/product/corentin-huon-de-penanster-twins/"
-      },
-      {
-        "titulo": "Corentin Huon de Penanster – La Russe (2)",
-        "precio_num": 800.0,
-        "url": "https://www.artevistas.eu/product/corentin-huon-de-penanster-la-russe-3/"
-      },
-      {
-        "titulo": "Corentin Huon de Penanster – Meurtre aux ciseaux (2)",
-        "precio_num": 1200.0,
-        "url": "https://www.artevistas.eu/product/meurtre-aux-ciseaux-2/"
-      },
-      {
-        "titulo": "Corentin Huon de Penanster – Jacky Morgan (2)",
-        "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/jacky-morgan/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:43"
@@ -3385,26 +3200,21 @@
     "ultima_actualizacion": "07/05/2026 04:43"
   },
   "Daniel Délano": {
-    "total": 300.0,
-    "obras_vendidas": 2,
-    "obras_con_precio": 2,
+    "total": 150.0,
+    "obras_vendidas": 1,
+    "obras_con_precio": 1,
     "detalle": [
       {
         "titulo": "Daniel Délano – Untitled",
         "precio_num": 150.0
-      },
-      {
-        "titulo": "Daniel Délano – Untitled (2)",
-        "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/untitled-14/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:43"
   },
   "Daniele Lipari": {
-    "total": 920.0,
-    "obras_vendidas": 5,
-    "obras_con_precio": 5,
+    "total": 760.0,
+    "obras_vendidas": 4,
+    "obras_con_precio": 4,
     "detalle": [
       {
         "titulo": "Daniele Lipari – Como arriba es abajo",
@@ -3421,19 +3231,14 @@
       {
         "titulo": "Daniele Lipari – Gravedad",
         "precio_num": 120.0
-      },
-      {
-        "titulo": "Daniele Lipari – Gato blanco, gato negro (2)",
-        "precio_num": 160.0,
-        "url": "https://www.artevistas.eu/product/gato-blanco-gato-negro-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "El Xupet Negre": {
-    "total": 29857.0,
-    "obras_vendidas": 24,
-    "obras_con_precio": 24,
+    "total": 29137.0,
+    "obras_vendidas": 21,
+    "obras_con_precio": 21,
     "detalle": [
       {
         "titulo": "El Xupet Negre – Peace now",
@@ -3518,21 +3323,6 @@
       {
         "titulo": "El Xupet Negre – Sanpaul",
         "precio_num": 220.0
-      },
-      {
-        "titulo": "El Xupet Negre – Untitled (2)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/untitled-87/"
-      },
-      {
-        "titulo": "El Xupet Negre – Untitled (3)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/untitled-85/"
-      },
-      {
-        "titulo": "El Xupet Negre – Untitled (4)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/untitled-86/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:44"
@@ -3606,9 +3396,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "Filthy Freak": {
-    "total": 12468.0,
-    "obras_vendidas": 53,
-    "obras_con_precio": 53,
+    "total": 12393.0,
+    "obras_vendidas": 52,
+    "obras_con_precio": 52,
     "detalle": [
       {
         "titulo": "Filthy Freak – Skull big 1",
@@ -3817,11 +3607,6 @@
       {
         "titulo": "Filthy Freak – Skulls of colour #3",
         "precio_num": 130.0
-      },
-      {
-        "titulo": "Filthy Freak – Fast death Black/Red (2)",
-        "precio_num": 75.0,
-        "url": "https://www.artevistas.eu/product/filthy-freak-fast-death-black-red/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:46"
@@ -4539,9 +4324,9 @@
     "ultima_actualizacion": "07/05/2026 04:51"
   },
   "Jean-Marc Hild": {
-    "total": 33360.0,
-    "obras_vendidas": 25,
-    "obras_con_precio": 25,
+    "total": 31760.0,
+    "obras_vendidas": 24,
+    "obras_con_precio": 24,
     "detalle": [
       {
         "titulo": "Jean-Marc Hild – Hundun espace ondulatoire X",
@@ -4638,11 +4423,6 @@
       {
         "titulo": "Jean-Marc Hild – Gravitation XVIII",
         "precio_num": 600.0
-      },
-      {
-        "titulo": "Jean-Marc Hild – Renouveau IV (2)",
-        "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/renouveau-iv-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:51"
@@ -4820,9 +4600,9 @@
     "ultima_actualizacion": "07/05/2026 04:52"
   },
   "Konair": {
-    "total": 46826.0,
-    "obras_vendidas": 79,
-    "obras_con_precio": 79,
+    "total": 32203.0,
+    "obras_vendidas": 55,
+    "obras_con_precio": 55,
     "detalle": [
       {
         "titulo": "Konair – Sin Título",
@@ -5043,126 +4823,6 @@
       {
         "titulo": "Konair – Untitled",
         "precio_num": 120.0
-      },
-      {
-        "titulo": "Konair – Polo rosa (2)",
-        "precio_num": 350.0,
-        "url": "https://www.artevistas.eu/product/konair-polo-rosa/"
-      },
-      {
-        "titulo": "Konair – Sin Título (2)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-19/"
-      },
-      {
-        "titulo": "Konair – Sin Título (3)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-20/"
-      },
-      {
-        "titulo": "Konair – Sin Título (4)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-18/"
-      },
-      {
-        "titulo": "Konair – Polo amarillo (2)",
-        "precio_num": 363.0,
-        "url": "https://www.artevistas.eu/product/polo-amarillo-2/"
-      },
-      {
-        "titulo": "Konair – Sin Título (5)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-21/"
-      },
-      {
-        "titulo": "Konair – Sin Título (6)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-14/"
-      },
-      {
-        "titulo": "Konair – Sin Título (7)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-10/"
-      },
-      {
-        "titulo": "Konair – Sin Título (8)",
-        "precio_num": 1300.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-23/"
-      },
-      {
-        "titulo": "Konair – Polo de hormigon (2)",
-        "precio_num": 300.0,
-        "url": "https://www.artevistas.eu/product/polo-de-hormigon-2/"
-      },
-      {
-        "titulo": "Konair – S/T (2)",
-        "precio_num": 3000.0,
-        "url": "https://www.artevistas.eu/product/st-5/"
-      },
-      {
-        "titulo": "Konair – S/T (3)",
-        "precio_num": 2000.0,
-        "url": "https://www.artevistas.eu/product/st-4/"
-      },
-      {
-        "titulo": "Konair – S/T (4)",
-        "precio_num": 2000.0,
-        "url": "https://www.artevistas.eu/product/st-3/"
-      },
-      {
-        "titulo": "Konair – Sin Título (9)",
-        "precio_num": 240.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-17/"
-      },
-      {
-        "titulo": "Konair – Sin Título (10)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-16/"
-      },
-      {
-        "titulo": "Konair – Sin Título (11)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-15/"
-      },
-      {
-        "titulo": "Konair – Sin Título (12)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-13/"
-      },
-      {
-        "titulo": "Konair – Sin Título (13)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-12/"
-      },
-      {
-        "titulo": "Konair – Sin Título (14)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-11/"
-      },
-      {
-        "titulo": "Konair – Untitled (2)",
-        "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/untitled-93/"
-      },
-      {
-        "titulo": "Konair – Untitled (3)",
-        "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/untitled-92/"
-      },
-      {
-        "titulo": "Konair – Untitled (4)",
-        "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/untitled-91/"
-      },
-      {
-        "titulo": "Konair – Melting ice pop (2)",
-        "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/helado-azul/"
-      },
-      {
-        "titulo": "Konair – Untitled (5)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/untitled-74/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 04:54"
@@ -7796,9 +7456,9 @@
     "ultima_actualizacion": "13/05/2026 21:10"
   },
   "Miquel Serratosa": {
-    "total": 45500.0,
-    "obras_vendidas": 27,
-    "obras_con_precio": 27,
+    "total": 43900.0,
+    "obras_vendidas": 26,
+    "obras_con_precio": 26,
     "detalle": [
       {
         "titulo": "Miquel Serratosa – S-48",
@@ -7903,19 +7563,14 @@
       {
         "titulo": "Miquel Serratosa – LN-04",
         "precio_num": 950.0
-      },
-      {
-        "titulo": "Miquel Serratosa – PL – 02 (2)",
-        "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/fr-01/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:23"
   },
   "Mireia Cifuentes": {
-    "total": 10503.0,
-    "obras_vendidas": 35,
-    "obras_con_precio": 35,
+    "total": 7634.0,
+    "obras_vendidas": 30,
+    "obras_con_precio": 30,
     "detalle": [
       {
         "titulo": "Mireia Cifuentes – Cráneo",
@@ -8036,39 +7691,14 @@
       {
         "titulo": "Mireia Cifuentes – Sin Título",
         "precio_num": 39.0
-      },
-      {
-        "titulo": "Mireia Cifuentes – Cráneo II (2)",
-        "precio_num": 2500.0,
-        "url": "https://www.artevistas.eu/product/mireia-cifuentes-craneo-ii-2/"
-      },
-      {
-        "titulo": "Mireia Cifuentes – Autorretrato de perfil (2)",
-        "precio_num": 35.0,
-        "url": "https://www.artevistas.eu/product/mireia-cifuentes-autorretrato-de-perfil/"
-      },
-      {
-        "titulo": "Mireia Cifuentes – Inner child II (2)",
-        "precio_num": 35.0,
-        "url": "https://www.artevistas.eu/product/mireia-cifuentes-inner-child-ii-2/"
-      },
-      {
-        "titulo": "Mireia Cifuentes – Sin Título (2)",
-        "precio_num": 260.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-7/"
-      },
-      {
-        "titulo": "Mireia Cifuentes – Sin Título (3)",
-        "precio_num": 39.0,
-        "url": "https://www.artevistas.eu/product/sin-titulo-3/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "Miss Cutcut": {
-    "total": 8190.0,
-    "obras_vendidas": 25,
-    "obras_con_precio": 25,
+    "total": 8090.0,
+    "obras_vendidas": 24,
+    "obras_con_precio": 24,
     "detalle": [
       {
         "titulo": "Miss Cutcut – Un sueño vino",
@@ -8165,11 +7795,6 @@
       {
         "titulo": "Miss Cutcut – Commission work",
         "precio_num": 1530.0
-      },
-      {
-        "titulo": "Miss Cutcut – Chicaflor (2)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/chicaflor-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:24"
@@ -8355,9 +7980,9 @@
     "ultima_actualizacion": "07/05/2026 06:26"
   },
   "Neon Sandwich": {
-    "total": 7000.0,
-    "obras_vendidas": 82,
-    "obras_con_precio": 82,
+    "total": 6800.0,
+    "obras_vendidas": 78,
+    "obras_con_precio": 78,
     "detalle": [
       {
         "titulo": "Neon Sandwich – Powdered Water II",
@@ -8670,26 +8295,6 @@
       {
         "titulo": "Neon Sandwich – Metal Fantasma Baby Buddha",
         "precio_num": 240.0
-      },
-      {
-        "titulo": "Neon Sandwich – Powdered Water (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/neon-sandwich-powdered-water-3/"
-      },
-      {
-        "titulo": "Neon Sandwich – Cruise Lotus (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/neon-sandwich-cruise-lotus-2/"
-      },
-      {
-        "titulo": "Neon Sandwich – Thatcher Lotus (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/neon-sandwich-thatcher-lotus-2/"
-      },
-      {
-        "titulo": "Neon Sandwich – Vader Lotus (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/neon-sandwich-vader-lotus-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:29"
@@ -8823,9 +8428,9 @@
     "ultima_actualizacion": "12/05/2026 21:35"
   },
   "Ortaire de Coupigny": {
-    "total": 12780.0,
-    "obras_vendidas": 122,
-    "obras_con_precio": 122,
+    "total": 11180.0,
+    "obras_vendidas": 104,
+    "obras_con_precio": 104,
     "detalle": [
       {
         "titulo": "Ortaire de Coupigny – Sardine S80",
@@ -9242,104 +8847,14 @@
       {
         "titulo": "Ortaire de Coupigny – Sardine  S67",
         "precio_num": 145.0
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardine S46 (2)",
-        "precio_num": 110.0,
-        "url": "https://www.artevistas.eu/product/ortaire-de-coupigny-sardine-s46-2/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (2)",
-        "precio_num": 250.0,
-        "url": "https://www.artevistas.eu/product/sardines-18/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (3)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/sardines-17/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (4)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/sardines-16/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (5)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/sardines-15/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (6)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/sardines-14/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (7)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-13/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (8)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-12/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (9)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-11/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (10)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-9/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (11)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-8/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (12)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-7/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (13)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-6/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (14)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-5/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (15)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-4/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (16)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-3/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (17)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines-2/"
-      },
-      {
-        "titulo": "Ortaire de Coupigny – Sardines (18)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/sardines/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:33"
   },
   "Oscar Gartín": {
-    "total": 54945.0,
-    "obras_vendidas": 33,
-    "obras_con_precio": 33,
+    "total": 50145.0,
+    "obras_vendidas": 31,
+    "obras_con_precio": 31,
     "detalle": [
       {
         "titulo": "Oscar Gartín – El mirador",
@@ -9464,24 +8979,14 @@
       {
         "titulo": "Oscar Gartín – Marina",
         "precio_num": 2400.0
-      },
-      {
-        "titulo": "Oscar Gartín – BCN (2)",
-        "precio_num": 2400.0,
-        "url": "https://www.artevistas.eu/product/oscar-gartin-bcn-2/"
-      },
-      {
-        "titulo": "Oscar Gartín – Barcelona (2)",
-        "precio_num": 2400.0,
-        "url": "https://www.artevistas.eu/product/barcelona-6/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:34"
   },
   "Pepe Pujol Carabantes": {
-    "total": 46450.0,
-    "obras_vendidas": 15,
-    "obras_con_precio": 15,
+    "total": 37950.0,
+    "obras_vendidas": 13,
+    "obras_con_precio": 13,
     "detalle": [
       {
         "titulo": "Pepe Pujol Carabantes – Vilanova",
@@ -9534,24 +9039,14 @@
       {
         "titulo": "Pepe Pujol Carabantes – Quiosco de la Rambla",
         "precio_num": 3200.0
-      },
-      {
-        "titulo": "Pepe Pujol Carabantes – Vilanova (2)",
-        "precio_num": 3500.0,
-        "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-vilanova-2/"
-      },
-      {
-        "titulo": "Pepe Pujol Carabantes – Barcelona (2)",
-        "precio_num": 5000.0,
-        "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-barcelona-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:34"
   },
   "Peta Rodríguez": {
-    "total": 38880.0,
-    "obras_vendidas": 26,
-    "obras_con_precio": 26,
+    "total": 38480.0,
+    "obras_vendidas": 25,
+    "obras_con_precio": 25,
     "detalle": [
       {
         "titulo": "Peta Rodríguez – Huellas 4",
@@ -9652,11 +9147,6 @@
       {
         "titulo": "Peta Rodríguez – Pegaso",
         "precio_num": 2400.0
-      },
-      {
-        "titulo": "Peta Rodríguez – Bar (2)",
-        "precio_num": 400.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-bar/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:35"
@@ -9758,9 +9248,9 @@
     "ultima_actualizacion": "11/05/2026 17:54"
   },
   "Ramón Pons": {
-    "total": 12830.0,
-    "obras_vendidas": 76,
-    "obras_con_precio": 76,
+    "total": 12750.0,
+    "obras_vendidas": 75,
+    "obras_con_precio": 75,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -10061,11 +9551,6 @@
       {
         "titulo": "Ramón Pons – Individuo cuerda fina",
         "precio_num": 80.0
-      },
-      {
-        "titulo": "Ramón Pons – Individuo rosa (2)",
-        "precio_num": 80.0,
-        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-rosa-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 06:38"
@@ -10439,9 +9924,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 9790.0,
-    "obras_vendidas": 43,
-    "obras_con_precio": 43,
+    "total": 9190.0,
+    "obras_vendidas": 25,
+    "obras_con_precio": 25,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -10542,96 +10027,6 @@
       {
         "titulo": "Sater – Transformer FGC",
         "precio_num": 50.0
-      },
-      {
-        "titulo": "Sater – Tenerife (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-berlin-4/"
-      },
-      {
-        "titulo": "Sater – Tenerife (3)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-tenerife/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Berlín (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-berlin-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Cercanías (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-cercanias-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Dublín (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-dublin-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Estocolmo (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-estocolmo-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – FGC (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-fgc-3/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Lisboa (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-lisboa-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Madrid (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-madrid-4/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Marseille (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-marseille-3/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Munich (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-munich-3/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Barcelona Antiguo (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona-antiguo-2/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Praga (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-praga-3/"
-      },
-      {
-        "titulo": "Sater – Swat (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/sater-swat-3/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Teherán (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-teheran-3/"
-      },
-      {
-        "titulo": "Sater – Rusty subways – Amsterdam (2)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-rusty-subways-amsterdam-2/"
-      },
-      {
-        "titulo": "Sater – Transformer FGC (2)",
-        "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/sater-transformer-fgc-3/"
-      },
-      {
-        "titulo": "Sater – Transformer FGC (3)",
-        "precio_num": 30.0,
-        "url": "https://www.artevistas.eu/product/sater-transformer-fgc-2/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 07:05"
@@ -12381,9 +11776,9 @@
     "ultima_actualizacion": "07/05/2026 07:22"
   },
   "Xavier Krauel": {
-    "total": 2830.0,
-    "obras_vendidas": 22,
-    "obras_con_precio": 22,
+    "total": 1810.0,
+    "obras_vendidas": 16,
+    "obras_con_precio": 16,
     "detalle": [
       {
         "titulo": "Xavier Krauel – Untitled",
@@ -12448,36 +11843,6 @@
       {
         "titulo": "Xavier Krauel – Pez 1",
         "precio_num": 100.0
-      },
-      {
-        "titulo": "Xavier Krauel – Pez 8 (2)",
-        "precio_num": 140.0,
-        "url": "https://www.artevistas.eu/product/pez-8-2/"
-      },
-      {
-        "titulo": "Xavier Krauel – Pez 2 (2)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/pez-2-2/"
-      },
-      {
-        "titulo": "Xavier Krauel – Untitled (2)",
-        "precio_num": 300.0,
-        "url": "https://www.artevistas.eu/product/untitled-20/"
-      },
-      {
-        "titulo": "Xavier Krauel – Untitled (3)",
-        "precio_num": 300.0,
-        "url": "https://www.artevistas.eu/product/untitled-19/"
-      },
-      {
-        "titulo": "Xavier Krauel – Pez 9 (2)",
-        "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/pez-9/"
-      },
-      {
-        "titulo": "Xavier Krauel – Pez 1 (2)",
-        "precio_num": 80.0,
-        "url": "https://www.artevistas.eu/product/pez-1/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 07:22"
@@ -12707,9 +12072,9 @@
     "ultima_actualizacion": "07/05/2026 07:23"
   },
   "Zach Oreo": {
-    "total": 24590.0,
-    "obras_vendidas": 31,
-    "obras_con_precio": 31,
+    "total": 24450.0,
+    "obras_vendidas": 29,
+    "obras_con_precio": 29,
     "detalle": [
       {
         "titulo": "Zach Oreo – Badass Bear Money I",
@@ -12826,16 +12191,6 @@
       {
         "titulo": "Zach Oreo – Hustle hard",
         "precio_num": 1900.0
-      },
-      {
-        "titulo": "Zach Oreo – Revolution – Do art not war (2)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/revolution-do-art-not-war-2/"
-      },
-      {
-        "titulo": "Zach Oreo – Revolution – Do art not war (3)",
-        "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/revolution-do-art-not-war/"
       }
     ],
     "ultima_actualizacion": "07/05/2026 07:24"
