@@ -5304,9 +5304,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 148622.0,
-    "obras_vendidas": 535,
-    "obras_con_precio": 535,
+    "total": 148942.0,
+    "obras_vendidas": 536,
+    "obras_con_precio": 536,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -7447,9 +7447,13 @@
       {
         "titulo": "Me Lata – Amour",
         "precio_num": 200.0
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 320.0
       }
     ],
-    "ultima_actualizacion": "13/05/2026 17:34"
+    "ultima_actualizacion": "13/05/2026 21:10"
   },
   "Miquel Serratosa": {
     "total": 43900.0,
