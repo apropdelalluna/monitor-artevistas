@@ -174,5 +174,37 @@
     "tipo": "vendida",
     "precio": "160,00€",
     "precio_num": 160.0
+  },
+  {
+    "fecha": "13/05/2026 17:34",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amour",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0
+  },
+  {
+    "fecha": "13/05/2026 17:34",
+    "artista": "Ninon Réo",
+    "obra": "Ninon Réo – Eyes III",
+    "tipo": "nueva",
+    "precio": "1.000,00€",
+    "precio_num": 1000.0
+  },
+  {
+    "fecha": "13/05/2026 17:34",
+    "artista": "Ninon Réo",
+    "obra": "Ninon Réo – Vent I",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0
+  },
+  {
+    "fecha": "13/05/2026 17:34",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Catrina",
+    "tipo": "vendida",
+    "precio": "120,00€",
+    "precio_num": 120.0
   }
 ]
