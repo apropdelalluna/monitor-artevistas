@@ -111,6 +111,22 @@
       "precio": "160,00€",
       "precio_num": 160.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Amour",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/05/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Catrina",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
     }
   ]
 }
