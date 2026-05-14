@@ -274,7 +274,7 @@
       const contenedor = document.getElementById('detalle-' + id);
       const rows = Array.from(contenedor.querySelectorAll('.obra-row'));
       if (_ordenState[id] === 'nombre') {
-        rows.sort((a, b) => a.querySelector('.obra-titulo').textContent.localeCompare(b.querySelector('.obra-titulo').textContent, 'es'));
+        rows.sort((a, b) => a.querySelector('.obra-titulo').textContent.toLowerCase().localeCompare(b.querySelector('.obra-titulo').textContent.toLowerCase(), 'es'));
         btn.textContent = '↕ Por nombre';
       } else {
         rows.sort((a, b) => {
