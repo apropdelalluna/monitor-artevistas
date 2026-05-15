@@ -10071,9 +10071,9 @@
     "ultima_actualizacion": "07/05/2026 06:38"
   },
   "Reb.MWC": {
-    "total": 80.0,
-    "obras_vendidas": 8,
-    "obras_con_precio": 8,
+    "total": 240.0,
+    "obras_vendidas": 9,
+    "obras_con_precio": 9,
     "detalle": [
       {
         "titulo": "Reb Mwc – Pg de Colom",
@@ -10106,9 +10106,13 @@
       {
         "titulo": "Reb Mwc – D en Gignàs",
         "precio_num": 10.0
+      },
+      {
+        "titulo": "Reb.MWC – Pffft Peach",
+        "precio_num": 160.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:38"
+    "ultima_actualizacion": "15/05/2026 16:55"
   },
   "Rémi Boudeperche": {
     "total": 50.0,
