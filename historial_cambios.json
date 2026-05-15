@@ -214,5 +214,13 @@
     "tipo": "vendida",
     "precio": "320,00€",
     "precio_num": 320.0
+  },
+  {
+    "fecha": "15/05/2026 16:55",
+    "artista": "Reb.MWC",
+    "obra": "Reb.MWC – Pffft Peach",
+    "tipo": "vendida",
+    "precio": "160,00€",
+    "precio_num": 160.0
   }
 ]
