@@ -143,6 +143,30 @@
       "precio": "160,00€",
       "precio_num": 160.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "16/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Wild (Reserved)",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "16/05/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Sound on Black and Gold",
+      "precio": "60,00€",
+      "precio_num": 60.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "16/05/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – The bunny flying blah blah blue",
+      "precio": "60,00€",
+      "precio_num": 60.0,
+      "tipo": "vendida"
     }
   ]
 }
