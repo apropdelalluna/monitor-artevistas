@@ -167,6 +167,14 @@
       "precio": "60,00€",
       "precio_num": 60.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "16/05/2026",
+      "artista": "Pol Ballonga",
+      "obra": "Pol Ballonga – Immerse",
+      "precio": "3.000,00€",
+      "precio_num": 3000.0,
+      "tipo": "vendida"
     }
   ]
 }
