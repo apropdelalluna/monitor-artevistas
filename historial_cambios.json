@@ -270,5 +270,13 @@
     "tipo": "vendida",
     "precio": "100,00€",
     "precio_num": 100.0
+  },
+  {
+    "fecha": "17/05/2026 17:53",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Shark Skate #3",
+    "tipo": "vendida",
+    "precio": "180,00€",
+    "precio_num": 180.0
   }
 ]
