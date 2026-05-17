@@ -448,7 +448,6 @@ def obtener_contenido(artista: dict) -> dict | None:
 
 def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
     cambios = []
-    # Índice de obras nuevas por título para fallback cuando la clave no coincide
     obras_nuevas_por_titulo = {}
     for clave_n, info_n in obras_nuevas.items():
         t = info_n.get("titulo", clave_n)
@@ -458,51 +457,24 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
     for clave, info_vieja in obras_viejas.items():
         titulo = info_vieja.get("titulo", clave)
         if clave not in obras_nuevas:
-            # Intentar encontrar por título como fallback (obras sin URL en estado antiguo)
             match = obras_nuevas_por_titulo.get(titulo)
             if match:
                 _, info_nueva = match
                 if info_vieja["estado"] != info_nueva["estado"]:
                     if info_nueva["estado"] == "vendido":
-                        cambios.append({
-                            "tipo":       "vendida",
-                            "titulo":     titulo,
-                            "precio":     info_vieja["precio"],
-                            "precio_num": info_vieja.get("precio_num", 0.0),
-                        })
+                        cambios.append({"tipo": "vendida", "titulo": titulo, "precio": info_vieja["precio"], "precio_num": info_vieja.get("precio_num", 0.0), "url": info_nueva.get("url", "")})
                     elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
-                        cambios.append({
-                            "tipo":       "nueva",
-                            "titulo":     titulo,
-                            "precio":     info_nueva["precio"],
-                            "precio_num": info_nueva.get("precio_num", 0.0),
-                        })
+                        cambios.append({"tipo": "nueva", "titulo": titulo, "precio": info_nueva["precio"], "precio_num": info_nueva.get("precio_num", 0.0), "url": info_nueva.get("url", "")})
             else:
-                cambios.append({
-                    "tipo":       "desaparecida",
-                    "titulo":     titulo,
-                    "precio":     info_vieja["precio"],
-                    "precio_num": info_vieja.get("precio_num", 0.0),
-                })
+                cambios.append({"tipo": "desaparecida", "titulo": titulo, "precio": info_vieja["precio"], "precio_num": info_vieja.get("precio_num", 0.0), "url": info_vieja.get("url", "")})
         else:
             info_nueva = obras_nuevas[clave]
             if info_vieja["estado"] != info_nueva["estado"]:
                 if info_nueva["estado"] == "vendido":
-                    cambios.append({
-                        "tipo":       "vendida",
-                        "titulo":     titulo,
-                        "precio":     info_vieja["precio"],
-                        "precio_num": info_vieja.get("precio_num", 0.0),
-                    })
+                    cambios.append({"tipo": "vendida", "titulo": titulo, "precio": info_vieja["precio"], "precio_num": info_vieja.get("precio_num", 0.0), "url": info_nueva.get("url", "")})
                 elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
-                    cambios.append({
-                        "tipo":       "nueva",
-                        "titulo":     titulo,
-                        "precio":     info_nueva["precio"],
-                        "precio_num": info_nueva.get("precio_num", 0.0),
-                    })
+                    cambios.append({"tipo": "nueva", "titulo": titulo, "precio": info_nueva["precio"], "precio_num": info_nueva.get("precio_num", 0.0), "url": info_nueva.get("url", "")})
 
-    # Claves del estado viejo que ya se procesaron por título (para no duplicar)
     claves_viejas_titulos = {info.get("titulo", clave) for clave, info in obras_viejas.items()}
 
     for clave, info_nueva in obras_nuevas.items():
@@ -511,17 +483,10 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
             tipo = "nueva_vendida" if info_nueva.get("estado") == "vendido" else "nueva"
             precio_str = info_nueva["precio"]
             precio_num = info_nueva.get("precio_num", 0.0)
-
             if tipo == "nueva_vendida" and precio_num == 0.0 and info_nueva.get("url"):
                 logging.info("Buscando precio de obra vendida: %s", titulo)
                 precio_str, precio_num = obtener_precio_desde_producto(info_nueva["url"])
-
-            cambios.append({
-                "tipo":       tipo,
-                "titulo":     titulo,
-                "precio":     precio_str,
-                "precio_num": precio_num,
-            })
+            cambios.append({"tipo": tipo, "titulo": titulo, "precio": precio_str, "precio_num": precio_num, "url": info_nueva.get("url", "")})
     return cambios
 
 
@@ -872,14 +837,7 @@ def buscar_obras_faltantes() -> None:
                 _, precio_num = obtener_precio_desde_producto(info["url"])
                 if nombre not in resultado:
                     resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
-                resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num})
-                resultado[nombre]["obras_vendidas"] += 1
-                if precio_num > 0:
-                    resultado[nombre]["total"] += precio_num
-                    resultado[nombre]["obras_con_precio"] += 1
-                total_nuevas += 1
-                logging.info("  ✅ %s – %s: %.0f€", nombre, titulo, precio_num)
-                time.sleep(0.5)
+                resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": info["url"]})
 
     with open("ventas_totales.json", "w", encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
@@ -912,7 +870,7 @@ def rellenar_precios_faltantes() -> None:
             if titulo not in detalle_actual:
                 _, precio_num = obtener_precio_desde_producto(url)
                 if precio_num > 0:
-                    resultado[artista]["detalle"].append({"titulo": titulo, "precio_num": precio_num})
+                    resultado[artista]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
                     resultado[artista]["total"] += precio_num
                     resultado[artista]["obras_con_precio"] += 1
                     total_rellenados += 1
@@ -947,7 +905,7 @@ def calcular_ventas_totales() -> None:
             _, precio_num = obtener_precio_desde_producto(url)
             if precio_num > 0:
                 total += precio_num
-                detalle.append({"titulo": titulo, "precio_num": precio_num})
+                detalle.append({"titulo": titulo, "precio_num": precio_num, "url": url})
             time.sleep(0.5)
 
         resultado[nombre_artista] = {
@@ -1018,6 +976,7 @@ def guardar_historial(cambios: list) -> None:
                     "tipo":       c["tipo"],
                     "precio":     c.get("precio", ""),
                     "precio_num": c.get("precio_num", 0.0),
+                    "url":        c.get("url", ""),
                 })
 
         with open(ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
