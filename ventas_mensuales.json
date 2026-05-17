@@ -191,6 +191,22 @@
       "precio": "180,00€",
       "precio_num": 180.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "17/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Si me das a elegir me quedo contigo",
+      "precio": "450,00€",
+      "precio_num": 450.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Gracias corazón por cada latido",
+      "precio": "450,00€",
+      "precio_num": 450.0,
+      "tipo": "vendida"
     }
   ]
 }
