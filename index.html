@@ -510,7 +510,7 @@
           vs.forEach(v => {
             const nombreObra = v.obra.replace(/^[^–—-]*[–—-]\s*/, '');
             historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
-              <span style="color:var(--text-dim);">${v.obra}</span>
+              <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}</span>
               <span style="font-weight:500;">${formatNum(v.precio_num || 0)}</span>
             </div>`;
           });
