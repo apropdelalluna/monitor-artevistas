@@ -329,8 +329,11 @@
           [...detalle]
             .sort((a, b) => b.precio_num - a.precio_num)
             .forEach(obra => {
+              const titulo = obra.url
+                ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
+                : obra.titulo;
               html += `<div class="obra-row">
-                <span class="obra-titulo">${obra.titulo}</span>
+                <span class="obra-titulo">${titulo}</span>
                 <span class="obra-precio">${formatNum(obra.precio_num)}</span>
               </div>`;
             });
