@@ -5648,9 +5648,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 149137.0,
-    "obras_vendidas": 538,
-    "obras_con_precio": 538,
+    "total": 150037.0,
+    "obras_vendidas": 540,
+    "obras_con_precio": 540,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -7803,9 +7803,17 @@
       {
         "titulo": "Me Lata – Peace",
         "precio_num": 100.0
+      },
+      {
+        "titulo": "Me Lata – Si me das a elegir me quedo contigo",
+        "precio_num": 450.0
+      },
+      {
+        "titulo": "Me Lata – Gracias corazón por cada latido",
+        "precio_num": 450.0
       }
     ],
-    "ultima_actualizacion": "17/05/2026 11:19"
+    "ultima_actualizacion": "17/05/2026 19:37"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
