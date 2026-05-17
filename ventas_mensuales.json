@@ -14,7 +14,8 @@
       "obra": "Art is Trash – Arquero (RESERVED)",
       "precio": "450,00€",
       "precio_num": 450.0,
-      "tipo": "nueva"
+      "tipo": "nueva",
+      "url": "https://www.artevistas.eu/product/art-is-trash-arquero/"
     },
     {
       "fecha": "03/05/2026",
@@ -30,7 +31,8 @@
       "obra": "Frank Diamond – Veins II (RESERVED)",
       "precio": "200,00€",
       "precio_num": 200.0,
-      "tipo": "nueva"
+      "tipo": "nueva",
+      "url": "https://www.artevistas.eu/product/veins-ii/"
     },
     {
       "fecha": "03/05/2026",
@@ -38,7 +40,8 @@
       "obra": "Me Lata – Amour",
       "precio": "200,00€",
       "precio_num": 200.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
     },
     {
       "fecha": "03/05/2026",
@@ -46,7 +49,8 @@
       "obra": "The Catman – You/me",
       "precio": "48,00€",
       "precio_num": 48.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/the-catman-you-me/"
     },
     {
       "fecha": "08/05/2026",
@@ -62,7 +66,8 @@
       "obra": "White Rabbit – Zulu fashion week (3)",
       "precio": "120,00€",
       "precio_num": 120.0,
-      "tipo": "nueva_vendida"
+      "tipo": "nueva_vendida",
+      "url": "https://www.artevistas.eu/product/white-rabbit-zulu-fashion-week-3/"
     },
     {
       "fecha": "08/05/2026",
@@ -70,7 +75,8 @@
       "obra": "White Rabbit – Bunny Revolution – Baroque",
       "precio": "60,00€",
       "precio_num": 60.0,
-      "tipo": "nueva_vendida"
+      "tipo": "nueva_vendida",
+      "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque/"
     },
     {
       "fecha": "09/05/2026",
@@ -78,7 +84,8 @@
       "obra": "Mowcka – Sin título 21",
       "precio": "50,00€",
       "precio_num": 50.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-21/"
     },
     {
       "fecha": "11/05/2026",
@@ -86,7 +93,8 @@
       "obra": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
       "precio": "500,00€",
       "precio_num": 500.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/"
     },
     {
       "fecha": "12/05/2026",
@@ -102,7 +110,8 @@
       "obra": "Frank Diamond – The false sky",
       "precio": "150,00€",
       "precio_num": 150.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/the-false-sky/"
     },
     {
       "fecha": "12/05/2026",
@@ -110,7 +119,8 @@
       "obra": "Orson Buch – Pez Crespo",
       "precio": "160,00€",
       "precio_num": 160.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/orson-buch-pez-crespo/"
     },
     {
       "fecha": "13/05/2026",
@@ -118,7 +128,8 @@
       "obra": "Me Lata – Amour",
       "precio": "200,00€",
       "precio_num": 200.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
     },
     {
       "fecha": "13/05/2026",
@@ -126,7 +137,8 @@
       "obra": "White Rabbit – Catrina",
       "precio": "120,00€",
       "precio_num": 120.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/white-rabbit-catrina/"
     },
     {
       "fecha": "13/05/2026",
@@ -134,7 +146,8 @@
       "obra": "Me Lata – Love of my life",
       "precio": "320,00€",
       "precio_num": 320.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/"
     },
     {
       "fecha": "15/05/2026",
@@ -142,7 +155,8 @@
       "obra": "Reb.MWC – Pffft Peach",
       "precio": "160,00€",
       "precio_num": 160.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/reb-mwc-pffft-peach/"
     },
     {
       "fecha": "16/05/2026",
@@ -158,7 +172,8 @@
       "obra": "White Rabbit – Sound on Black and Gold",
       "precio": "60,00€",
       "precio_num": 60.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-black-and-gold/"
     },
     {
       "fecha": "16/05/2026",
@@ -166,7 +181,8 @@
       "obra": "White Rabbit – The bunny flying blah blah blue",
       "precio": "60,00€",
       "precio_num": 60.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/the-bunny-flying-blah-blah-blue/"
     },
     {
       "fecha": "16/05/2026",
@@ -174,7 +190,8 @@
       "obra": "Pol Ballonga – Immerse",
       "precio": "3.000,00€",
       "precio_num": 3000.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/pol-ballonga-immerse/"
     },
     {
       "fecha": "17/05/2026",
@@ -182,7 +199,8 @@
       "obra": "Me Lata – Peace",
       "precio": "100,00€",
       "precio_num": 100.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-peace-7/"
     },
     {
       "fecha": "17/05/2026",
@@ -190,7 +208,8 @@
       "obra": "Filthy Freak – Shark Skate #3",
       "precio": "180,00€",
       "precio_num": 180.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/filthy-freak-shark-skate-2/"
     },
     {
       "fecha": "17/05/2026",
@@ -198,7 +217,8 @@
       "obra": "Me Lata – Si me das a elegir me quedo contigo",
       "precio": "450,00€",
       "precio_num": 450.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-si-me-das-a-elegir-me-quedo-contigo/"
     },
     {
       "fecha": "17/05/2026",
@@ -206,7 +226,8 @@
       "obra": "Me Lata – Gracias corazón por cada latido",
       "precio": "450,00€",
       "precio_num": 450.0,
-      "tipo": "vendida"
+      "tipo": "vendida",
+      "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/"
     }
   ]
 }
