@@ -5644,9 +5644,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 149037.0,
-    "obras_vendidas": 537,
-    "obras_con_precio": 537,
+    "total": 149137.0,
+    "obras_vendidas": 538,
+    "obras_con_precio": 538,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -7795,9 +7795,13 @@
       {
         "titulo": "Me Lata – Wild (Reserved)",
         "precio_num": 95.0
+      },
+      {
+        "titulo": "Me Lata – Peace",
+        "precio_num": 100.0
       }
     ],
-    "ultima_actualizacion": "16/05/2026 16:21"
+    "ultima_actualizacion": "17/05/2026 11:19"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
