@@ -13,7 +13,8 @@
     "obra": "Art is Trash – Arquero (RESERVED)",
     "tipo": "nueva",
     "precio": "450,00€",
-    "precio_num": 450.0
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-arquero/"
   },
   {
     "fecha": "03/05/2026 19:52",
@@ -29,7 +30,8 @@
     "obra": "Frank Diamond – Veins II (RESERVED)",
     "tipo": "nueva",
     "precio": "200,00€",
-    "precio_num": 200.0
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/veins-ii/"
   },
   {
     "fecha": "03/05/2026 20:10",
@@ -37,7 +39,8 @@
     "obra": "Me Lata – Amour",
     "tipo": "vendida",
     "precio": "200,00€",
-    "precio_num": 200.0
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
   },
   {
     "fecha": "03/05/2026 21:23",
@@ -45,7 +48,8 @@
     "obra": "The Catman – You/me",
     "tipo": "vendida",
     "precio": "48,00€",
-    "precio_num": 48.0
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-you-me/"
   },
   {
     "fecha": "03/05/2026 23:40",
@@ -85,7 +89,8 @@
     "obra": "White Rabbit – Zulu Fashion Week",
     "tipo": "nueva",
     "precio": "1.250,00€",
-    "precio_num": 1250.0
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/zulu-fashion-week/"
   },
   {
     "fecha": "08/05/2026 11:36",
@@ -93,7 +98,8 @@
     "obra": "White Rabbit – Catrina",
     "tipo": "nueva",
     "precio": "120,00€",
-    "precio_num": 120.0
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-catrina/"
   },
   {
     "fecha": "08/05/2026 11:36",
@@ -101,7 +107,8 @@
     "obra": "White Rabbit – Zulu fashion week (3)",
     "tipo": "nueva_vendida",
     "precio": "120,00€",
-    "precio_num": 120.0
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-zulu-fashion-week-3/"
   },
   {
     "fecha": "08/05/2026 11:36",
@@ -109,7 +116,8 @@
     "obra": "White Rabbit – Bunny Revolution – Baroque",
     "tipo": "nueva_vendida",
     "precio": "60,00€",
-    "precio_num": 60.0
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque/"
   },
   {
     "fecha": "09/05/2026 12:45",
@@ -117,7 +125,8 @@
     "obra": "Mowcka – Sin título 21",
     "tipo": "vendida",
     "precio": "50,00€",
-    "precio_num": 50.0
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-21/"
   },
   {
     "fecha": "11/05/2026 12:56",
@@ -125,7 +134,8 @@
     "obra": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
     "tipo": "vendida",
     "precio": "500,00€",
-    "precio_num": 500.0
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/"
   },
   {
     "fecha": "12/05/2026 19:17",
@@ -141,7 +151,8 @@
     "obra": "Frank Diamond – The false sky",
     "tipo": "vendida",
     "precio": "150,00€",
-    "precio_num": 150.0
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/the-false-sky/"
   },
   {
     "fecha": "12/05/2026 19:17",
@@ -149,7 +160,8 @@
     "obra": "Julien Deniau Aka Unavista – Leopard Head",
     "tipo": "nueva",
     "precio": "2.850,00€",
-    "precio_num": 2850.0
+    "precio_num": 2850.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-leopard-head/"
   },
   {
     "fecha": "12/05/2026 19:17",
@@ -157,7 +169,8 @@
     "obra": "Julien Deniau Aka Unavista – Chilling Leopard",
     "tipo": "nueva",
     "precio": "955,00€",
-    "precio_num": 955.0
+    "precio_num": 955.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-chilling-leopard/"
   },
   {
     "fecha": "12/05/2026 19:17",
@@ -165,7 +178,8 @@
     "obra": "Julien Deniau Aka Unavista – Poisonous frogs",
     "tipo": "nueva",
     "precio": "955,00€",
-    "precio_num": 955.0
+    "precio_num": 955.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-poisonous-frogs/"
   },
   {
     "fecha": "12/05/2026 21:35",
@@ -173,7 +187,8 @@
     "obra": "Orson Buch – Pez Crespo",
     "tipo": "vendida",
     "precio": "160,00€",
-    "precio_num": 160.0
+    "precio_num": 160.0,
+    "url": "https://www.artevistas.eu/product/orson-buch-pez-crespo/"
   },
   {
     "fecha": "13/05/2026 17:34",
@@ -181,7 +196,8 @@
     "obra": "Me Lata – Amour",
     "tipo": "vendida",
     "precio": "200,00€",
-    "precio_num": 200.0
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
   },
   {
     "fecha": "13/05/2026 17:34",
@@ -189,7 +205,8 @@
     "obra": "Ninon Réo – Eyes III",
     "tipo": "nueva",
     "precio": "1.000,00€",
-    "precio_num": 1000.0
+    "precio_num": 1000.0,
+    "url": "https://www.artevistas.eu/product/ninon-reo-eyes-iii/"
   },
   {
     "fecha": "13/05/2026 17:34",
@@ -197,7 +214,8 @@
     "obra": "Ninon Réo – Vent I",
     "tipo": "nueva",
     "precio": "500,00€",
-    "precio_num": 500.0
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/ninon-reo-vent-i/"
   },
   {
     "fecha": "13/05/2026 17:34",
@@ -205,7 +223,8 @@
     "obra": "White Rabbit – Catrina",
     "tipo": "vendida",
     "precio": "120,00€",
-    "precio_num": 120.0
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-catrina/"
   },
   {
     "fecha": "13/05/2026 21:10",
@@ -213,7 +232,8 @@
     "obra": "Me Lata – Love of my life",
     "tipo": "vendida",
     "precio": "320,00€",
-    "precio_num": 320.0
+    "precio_num": 320.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/"
   },
   {
     "fecha": "15/05/2026 16:55",
@@ -221,7 +241,8 @@
     "obra": "Reb.MWC – Pffft Peach",
     "tipo": "vendida",
     "precio": "160,00€",
-    "precio_num": 160.0
+    "precio_num": 160.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-pffft-peach/"
   },
   {
     "fecha": "16/05/2026 16:21",
@@ -237,7 +258,8 @@
     "obra": "White Rabbit – Sound on Black and Gold",
     "tipo": "vendida",
     "precio": "60,00€",
-    "precio_num": 60.0
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-black-and-gold/"
   },
   {
     "fecha": "16/05/2026 16:21",
@@ -245,7 +267,8 @@
     "obra": "White Rabbit – The bunny flying blah blah blue",
     "tipo": "vendida",
     "precio": "60,00€",
-    "precio_num": 60.0
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/the-bunny-flying-blah-blah-blue/"
   },
   {
     "fecha": "16/05/2026 16:21",
@@ -253,7 +276,8 @@
     "obra": "White Rabbit – Zulu woman gold",
     "tipo": "nueva",
     "precio": "60,00€",
-    "precio_num": 60.0
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-zulu-woman-gold/"
   },
   {
     "fecha": "16/05/2026 17:53",
@@ -261,7 +285,8 @@
     "obra": "Pol Ballonga – Immerse",
     "tipo": "vendida",
     "precio": "3.000,00€",
-    "precio_num": 3000.0
+    "precio_num": 3000.0,
+    "url": "https://www.artevistas.eu/product/pol-ballonga-immerse/"
   },
   {
     "fecha": "17/05/2026 11:19",
@@ -269,7 +294,8 @@
     "obra": "Me Lata – Peace",
     "tipo": "vendida",
     "precio": "100,00€",
-    "precio_num": 100.0
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/me-lata-peace-7/"
   },
   {
     "fecha": "17/05/2026 17:53",
@@ -277,7 +303,8 @@
     "obra": "Filthy Freak – Shark Skate #3",
     "tipo": "vendida",
     "precio": "180,00€",
-    "precio_num": 180.0
+    "precio_num": 180.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-shark-skate-2/"
   },
   {
     "fecha": "17/05/2026 19:37",
@@ -285,7 +312,8 @@
     "obra": "Me Lata – Si me das a elegir me quedo contigo",
     "tipo": "vendida",
     "precio": "450,00€",
-    "precio_num": 450.0
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/me-lata-si-me-das-a-elegir-me-quedo-contigo/"
   },
   {
     "fecha": "17/05/2026 19:37",
@@ -293,6 +321,7 @@
     "obra": "Me Lata – Gracias corazón por cada latido",
     "tipo": "vendida",
     "precio": "450,00€",
-    "precio_num": 450.0
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/"
   }
 ]
