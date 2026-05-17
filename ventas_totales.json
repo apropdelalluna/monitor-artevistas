@@ -3606,9 +3606,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "Filthy Freak": {
-    "total": 12468.0,
-    "obras_vendidas": 53,
-    "obras_con_precio": 53,
+    "total": 12648.0,
+    "obras_vendidas": 54,
+    "obras_con_precio": 54,
     "detalle": [
       {
         "titulo": "Filthy Freak – Skull big 1",
@@ -3822,9 +3822,13 @@
         "titulo": "https://www.artevistas.eu/product/filthy-freak-fast-death-black-red/",
         "precio_num": 75.0,
         "url": "https://www.artevistas.eu/product/filthy-freak-fast-death-black-red/"
+      },
+      {
+        "titulo": "Filthy Freak – Shark Skate #3",
+        "precio_num": 180.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:46"
+    "ultima_actualizacion": "17/05/2026 17:53"
   },
   "Frank Diamond": {
     "total": 8180.0,
