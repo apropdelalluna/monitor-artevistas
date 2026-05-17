@@ -175,6 +175,14 @@
       "precio": "3.000,00€",
       "precio_num": 3000.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "17/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Peace",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
     }
   ]
 }
