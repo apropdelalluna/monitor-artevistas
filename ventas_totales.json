@@ -2324,7 +2324,8 @@
       },
       {
         "titulo": "Art is Trash – Crucificados (RESERVED)",
-        "precio_num": 2900.0
+        "precio_num": 2900.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-crucificados/"
       },
       {
         "titulo": "Art is Trash – Crucificados",
@@ -9588,7 +9589,8 @@
       },
       {
         "titulo": "Me Lata – Wild (Reserved)",
-        "precio_num": 95.0
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/me-lata-wild-2/"
       },
       {
         "titulo": "Me Lata – Peace",
@@ -14840,7 +14842,8 @@
       },
       {
         "titulo": "White Rabbit – Bunny Kate Pompei (reserved)",
-        "precio_num": 2300.0
+        "precio_num": 2300.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-kate-pompei/"
       },
       {
         "titulo": "White Rabbit – Catrina",
