@@ -471,8 +471,10 @@
     }
 
     async function fetchGitHub(file) {
-      const url = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${GITHUB_REPO}@main/${file}?t=${Date.now()}`;
-      const r = await fetch(url);
+      const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${file}`;
+      const r = await fetch(url, {
+        headers: { 'Accept': 'application/vnd.github.v3.raw' }
+      });
       if (!r.ok) throw new Error('No encontrado');
       return r.json();
     }
@@ -655,23 +657,37 @@
     async function despertarServicio() {
       const btn = document.getElementById('wakeBtn');
       btn.disabled = true;
-      btn.textContent = '⏳ Despertando...';
       document.getElementById('statusDot').className = 'status-dot loading';
-      document.getElementById('statusText').textContent = 'Despertando el servicio...';
 
       try {
         await fetch(DEPLOY_HOOK, { method: 'POST', mode: 'no-cors' });
-        showToast('✅ Servicio despertado. El email llegará en ~15 min.');
-        btn.textContent = '✅ Despertado';
-        setTimeout(() => {
-          btn.disabled = false;
-          btn.textContent = '⚡ Despertar servicio';
-          cargarDatos();
-        }, 30000);
+        showToast('✅ Servicio despertado. Actualizando datos en ~16 min.');
+
+        const totalSegundos = 16 * 60;
+        let restantes = totalSegundos;
+
+        const intervalo = setInterval(() => {
+          restantes--;
+          const min = Math.floor(restantes / 60);
+          const seg = restantes % 60;
+          btn.textContent = `⏳ ${min}:${String(seg).padStart(2, '0')} para actualizar`;
+
+          if (restantes <= 0) {
+            clearInterval(intervalo);
+            btn.textContent = '🔄 Actualizando...';
+            cargarDatos().then(() => {
+              btn.disabled = false;
+              btn.textContent = '⚡ Despertar servicio';
+              document.getElementById('statusDot').className = 'status-dot';
+            });
+          }
+        }, 1000);
+
       } catch (e) {
         showToast('❌ Error al despertar el servicio');
         btn.disabled = false;
         btn.textContent = '⚡ Despertar servicio';
+        document.getElementById('statusDot').className = 'status-dot error';
       }
     }
 
@@ -684,9 +700,6 @@
     }
 
     cargarDatos();
-
-    // Recargar datos cada 2 minutos automáticamente
-    setInterval(cargarDatos, 2 * 60 * 1000);
   </script>
 </body>
 </html>
