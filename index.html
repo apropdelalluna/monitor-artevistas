@@ -471,7 +471,7 @@
     }
 
     async function fetchGitHub(file) {
-      const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/${file}?t=${Date.now()}`;
+      const url = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${GITHUB_REPO}@main/${file}?t=${Date.now()}`;
       const r = await fetch(url);
       if (!r.ok) throw new Error('No encontrado');
       return r.json();
