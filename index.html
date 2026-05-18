@@ -554,6 +554,26 @@
             </div>`;
           });
 
+          // Resumen por artista
+          const porArtista = {};
+          vs.forEach(v => {
+            if (!porArtista[v.artista]) porArtista[v.artista] = { obras: 0, total: 0 };
+            porArtista[v.artista].obras++;
+            porArtista[v.artista].total += v.precio_num || 0;
+          });
+          const artistasOrdenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+          if (artistasOrdenados.length > 1) {
+            historialHTML += `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
+              <div style="font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;">Por artista</div>`;
+            artistasOrdenados.forEach(([artista, datos]) => {
+              historialHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
+                <span style="color:var(--text-dim);">${artista} <span style="font-size:10px;">(${datos.obras})</span></span>
+                <span style="color:var(--accent);font-weight:500;">${formatNum(datos.total)}</span>
+              </div>`;
+            });
+            historialHTML += `</div>`;
+          }
+
           historialHTML += '</div>';
         });
 
