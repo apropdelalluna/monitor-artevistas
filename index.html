@@ -413,9 +413,11 @@
 
     function renderCambios(desde, hasta) {
       let cambiosHTML = '';
+      let ultimoIndice = desde;
       for (let i = desde; i < Math.min(hasta, _historialInvertido.length); i++) {
         const c = _historialInvertido[i];
         const tipo = c.tipo || 'desaparecida';
+        ultimoIndice = i + 1;
         if (tipo === 'desaparecida') continue;
         const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
         const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
@@ -431,8 +433,8 @@
           </div>
           ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
         </div>`;
-        _cambiosMostrados = i + 1;
       }
+      _cambiosMostrados = ultimoIndice;
       return cambiosHTML;
     }
 
