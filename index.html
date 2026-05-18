@@ -408,6 +408,43 @@
       'September':'Septiembre','October':'Octubre','November':'Noviembre','December':'Diciembre'
     };
 
+    let _historialInvertido = [];
+    let _cambiosMostrados = 0;
+
+    function renderCambios(desde, hasta) {
+      let cambiosHTML = '';
+      for (let i = desde; i < Math.min(hasta, _historialInvertido.length); i++) {
+        const c = _historialInvertido[i];
+        const tipo = c.tipo || 'desaparecida';
+        if (tipo === 'desaparecida') continue;
+        const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
+        const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
+        const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
+        cambiosHTML += `<div class="cambio-item ${claseItem}">
+          <div class="cambio-header">
+            <div class="cambio-artista">${c.artista}</div>
+            <div class="cambio-fecha">${c.fecha}</div>
+          </div>
+          <div class="cambio-obra">
+            <span class="badge ${claseItem}">${esReserved ? '🟡 Reserved' : tipoLabel}</span>
+            ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
+          </div>
+          ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
+        </div>`;
+        _cambiosMostrados = i + 1;
+      }
+      return cambiosHTML;
+    }
+
+    function verMasCambios() {
+      const boton = document.getElementById('verMasBtn');
+      const nuevoHTML = renderCambios(_cambiosMostrados, _cambiosMostrados + 20);
+      boton.insertAdjacentHTML('beforebegin', nuevoHTML);
+      const restantes = _historialInvertido.length - _cambiosMostrados;
+      if (restantes <= 0) boton.style.display = 'none';
+      else boton.textContent = `Ver más (${restantes} restantes)`;
+    }
+
     function mesEnEspanol(str) {
       return str.replace(/January|February|March|April|May|June|July|August|September|October|November|December/g,
         m => MESES_ES[m] || m);
@@ -568,58 +605,14 @@
         }
 
         // Últimos cambios
-        const historialInvertido = [...historial].reverse();
-        const LIMITE_INICIAL = 20;
-        let cambiosMostrados = 0;
+        _historialInvertido = [...historial].reverse();
+        _cambiosMostrados = 0;
 
-        function renderCambios(desde, hasta) {
-          let cambiosHTML = '';
-          for (let i = desde; i < Math.min(hasta, historialInvertido.length); i++) {
-            const c = historialInvertido[i];
-            const tipo = c.tipo || 'desaparecida';
-            if (tipo === 'desaparecida') continue;
-            const tipoLabel = {
-              'vendida': '🔴 Vendida',
-              'nueva': '🟢 Nueva',
-              'nueva_vendida': '🔴🟢 Nueva vendida',
-            }[tipo] || tipo;
-            const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
-            const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
-            cambiosHTML += `<div class="cambio-item ${claseItem}">
-              <div class="cambio-header">
-                <div class="cambio-artista">${c.artista}</div>
-                <div class="cambio-fecha">${c.fecha}</div>
-              </div>
-              <div class="cambio-obra">
-                <span class="badge ${claseItem}">${esReserved ? '🟡 Reserved' : tipoLabel}</span>
-                ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
-              </div>
-              ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
-            </div>`;
-            cambiosMostrados = i + 1;
-          }
-          return cambiosHTML;
-        }
-
-        function verMasCambios() {
-          const contenedor = document.getElementById('cambiosList');
-          const boton = document.getElementById('verMasBtn');
-          const siguiente = cambiosMostrados + 20;
-          const nuevoHTML = renderCambios(cambiosMostrados, siguiente);
-          boton.insertAdjacentHTML('beforebegin', nuevoHTML);
-          const restantes = historialInvertido.length - cambiosMostrados;
-          if (restantes <= 0) {
-            boton.style.display = 'none';
-          } else {
-            boton.textContent = `Ver más (${restantes} restantes)`;
-          }
-        }
-
-        if (historialInvertido.length === 0) {
+        if (_historialInvertido.length === 0) {
           document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
         } else {
-          const htmlInicial = renderCambios(0, LIMITE_INICIAL);
-          const restantes = historialInvertido.length - cambiosMostrados;
+          const htmlInicial = renderCambios(0, 20);
+          const restantes = _historialInvertido.length - _cambiosMostrados;
           const botonHTML = restantes > 0 ? `<button id="verMasBtn" onclick="verMasCambios()" style="width:100%;margin-top:12px;padding:10px;background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;">Ver más (${restantes} restantes)</button>` : '';
           document.getElementById('cambiosList').innerHTML = htmlInicial + botonHTML;
         }
