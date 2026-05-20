@@ -6903,9 +6903,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 150037.0,
-    "obras_vendidas": 540,
-    "obras_con_precio": 540,
+    "total": 150357.0,
+    "obras_vendidas": 541,
+    "obras_con_precio": 541,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9606,9 +9606,13 @@
         "titulo": "Me Lata – Gracias corazón por cada latido",
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/"
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 320.0
       }
     ],
-    "ultima_actualizacion": "17/05/2026 19:37"
+    "ultima_actualizacion": "20/05/2026 18:13"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
