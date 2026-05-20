@@ -323,5 +323,14 @@
     "precio": "450,00€",
     "precio_num": 450.0,
     "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/"
+  },
+  {
+    "fecha": "20/05/2026 18:13",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love of my life",
+    "tipo": "vendida",
+    "precio": "320,00€",
+    "precio_num": 320.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-17/"
   }
 ]
