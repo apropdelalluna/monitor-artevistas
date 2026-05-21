@@ -1129,9 +1129,9 @@
     "ultima_actualizacion": "07/05/2026 04:27"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 17750.0,
-    "obras_vendidas": 34,
-    "obras_con_precio": 34,
+    "total": 18050.0,
+    "obras_vendidas": 35,
+    "obras_con_precio": 35,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1302,9 +1302,13 @@
         "titulo": "Álvaro Gómez-Pantoja – Hombre descamisado en habitación roja",
         "precio_num": 300.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-descamisado-en-habitacion-roja/"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mujer joven con chandal rosa",
+        "precio_num": 300.0
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:28"
+    "ultima_actualizacion": "21/05/2026 22:37"
   },
   "Andrzej Farfulowski": {
     "total": 85130.0,
