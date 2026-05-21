@@ -341,5 +341,14 @@
     "precio": "680,00€",
     "precio_num": 680.0,
     "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-ii/"
+  },
+  {
+    "fecha": "21/05/2026 22:37",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Mujer joven con chandal rosa",
+    "tipo": "vendida",
+    "precio": "300,00€",
+    "precio_num": 300.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mujer-joven-con-chandal-rosa/"
   }
 ]
