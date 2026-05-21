@@ -332,5 +332,14 @@
     "precio": "320,00€",
     "precio_num": 320.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-17/"
+  },
+  {
+    "fecha": "21/05/2026 11:14",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Pikachu II",
+    "tipo": "nueva",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-ii/"
   }
 ]
