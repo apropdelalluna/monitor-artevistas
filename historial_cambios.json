@@ -359,5 +359,14 @@
     "precio": "245,00€",
     "precio_num": 245.0,
     "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-354o-acto-2/"
+  },
+  {
+    "fecha": "23/05/2026 12:36",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Enamorarte",
+    "tipo": "nueva",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/me-lata-enamorarte/"
   }
 ]
