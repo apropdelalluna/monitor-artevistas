@@ -935,16 +935,19 @@ def actualizar_ventas_totales(cambios: list) -> None:
         for cambio in cambios:
             artista = cambio["artista"]["nombre"]
             for c in cambio.get("cambios_obras", []):
-                if c["tipo"] in ("vendida", "nueva_vendida") and c.get("precio_num", 0) > 0:
+                if c["tipo"] in ("vendida", "nueva_vendida"):
+                    precio_num = c.get("precio_num", 0.0)
                     if artista not in resultado:
                         resultado[artista] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
                     resultado[artista]["detalle"].append({
                         "titulo": c["titulo"],
-                        "precio_num": c["precio_num"]
+                        "precio_num": precio_num,
+                        "url": c.get("url", ""),
                     })
                     resultado[artista]["obras_vendidas"] += 1
-                    resultado[artista]["total"] += c["precio_num"]
-                    resultado[artista]["obras_con_precio"] += 1
+                    if precio_num > 0:
+                        resultado[artista]["total"] += precio_num
+                        resultado[artista]["obras_con_precio"] += 1
                     resultado[artista]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
                     actualizados += 1
 
