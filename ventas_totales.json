@@ -1907,9 +1907,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 134798.0,
-    "obras_vendidas": 85,
-    "obras_con_precio": 85,
+    "total": 135248.0,
+    "obras_vendidas": 86,
+    "obras_con_precio": 86,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2335,9 +2335,14 @@
         "titulo": "Art is Trash – Crucificados",
         "precio_num": 2900.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-crucificados/"
+      },
+      {
+        "titulo": "Art is Trash – Arquero (RESERVED)",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-arquero/"
       }
     ],
-    "ultima_actualizacion": "12/05/2026 19:17"
+    "ultima_actualizacion": "24/05/2026 13:07"
   },
   "Ashwan": {
     "total": 7335.0,
@@ -4695,9 +4700,9 @@
     "ultima_actualizacion": "17/05/2026 17:53"
   },
   "Frank Diamond": {
-    "total": 8180.0,
-    "obras_vendidas": 45,
-    "obras_con_precio": 45,
+    "total": 8380.0,
+    "obras_vendidas": 46,
+    "obras_con_precio": 46,
     "detalle": [
       {
         "titulo": "Frank Diamond – Lifeless",
@@ -4923,9 +4928,14 @@
         "titulo": "Frank Diamond – The false sky",
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/the-false-sky/"
+      },
+      {
+        "titulo": "Frank Diamond – Veins II (RESERVED)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/veins-ii/"
       }
     ],
-    "ultima_actualizacion": "12/05/2026 19:17"
+    "ultima_actualizacion": "24/05/2026 13:07"
   },
   "Gil Gelpi": {
     "total": 100510.0,
@@ -6448,9 +6458,9 @@
     "ultima_actualizacion": "07/05/2026 04:54"
   },
   "Mark Rox": {
-    "total": 124640.0,
-    "obras_vendidas": 12,
-    "obras_con_precio": 12,
+    "total": 137140.0,
+    "obras_vendidas": 13,
+    "obras_con_precio": 13,
     "detalle": [
       {
         "titulo": "Mark Rox – ARTonaut #18",
@@ -6511,9 +6521,14 @@
         "titulo": "Mark Rox – ARTonaut Family #4",
         "precio_num": 7200.0,
         "url": "https://www.artevistas.eu/product/mark-rox-artonaut-family-4/"
+      },
+      {
+        "titulo": "Mark Rox – Graffiti Camel",
+        "precio_num": 12500.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-camel/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:55"
+    "ultima_actualizacion": "24/05/2026 13:07"
   },
   "Martí Roca Balcells": {
     "total": 62150.0,
@@ -6907,9 +6922,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Me Lata": {
-    "total": 150357.0,
-    "obras_vendidas": 541,
-    "obras_con_precio": 541,
+    "total": 150447.0,
+    "obras_vendidas": 542,
+    "obras_con_precio": 542,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9614,9 +9629,14 @@
       {
         "titulo": "Me Lata – Love of my life",
         "precio_num": 320.0
+      },
+      {
+        "titulo": "Me Lata – Love is the drug",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-24/"
       }
     ],
-    "ultima_actualizacion": "20/05/2026 18:13"
+    "ultima_actualizacion": "24/05/2026 13:07"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
