@@ -276,6 +276,22 @@
       "precio": "90,00€",
       "precio_num": 90.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "25/05/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – Graffiti Giraffe",
+      "precio": "15.000,00€",
+      "precio_num": 15000.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "25/05/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – ARTonaut #10 (Reserved)",
+      "precio": "8.500,00€",
+      "precio_num": 8500.0,
+      "tipo": "vendida"
     }
   ]
 }
