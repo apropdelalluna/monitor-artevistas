@@ -6458,9 +6458,9 @@
     "ultima_actualizacion": "07/05/2026 04:54"
   },
   "Mark Rox": {
-    "total": 137140.0,
-    "obras_vendidas": 13,
-    "obras_con_precio": 13,
+    "total": 160640.0,
+    "obras_vendidas": 15,
+    "obras_con_precio": 15,
     "detalle": [
       {
         "titulo": "Mark Rox – ARTonaut #18",
@@ -6526,9 +6526,19 @@
         "titulo": "Mark Rox – Graffiti Camel",
         "precio_num": 12500.0,
         "url": "https://www.artevistas.eu/product/mark-rox-graffiti-camel/"
+      },
+      {
+        "titulo": "Mark Rox – Graffiti Giraffe",
+        "precio_num": 15000.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-giraffe/"
+      },
+      {
+        "titulo": "Mark Rox – ARTonaut #10 (Reserved)",
+        "precio_num": 8500.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/"
       }
     ],
-    "ultima_actualizacion": "24/05/2026 13:07"
+    "ultima_actualizacion": "25/05/2026 12:00"
   },
   "Martí Roca Balcells": {
     "total": 62150.0,
