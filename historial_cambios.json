@@ -404,5 +404,23 @@
     "precio": "90,00€",
     "precio_num": 90.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-24/"
+  },
+  {
+    "fecha": "25/05/2026 12:00",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Graffiti Giraffe",
+    "tipo": "vendida",
+    "precio": "15.000,00€",
+    "precio_num": 15000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-graffiti-giraffe/"
+  },
+  {
+    "fecha": "25/05/2026 12:00",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #10 (Reserved)",
+    "tipo": "vendida",
+    "precio": "8.500,00€",
+    "precio_num": 8500.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/"
   }
 ]
