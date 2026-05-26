@@ -300,6 +300,14 @@
       "precio": "750,00€",
       "precio_num": 750.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "26/05/2026",
+      "artista": "Sergi Muñoz Lozano",
+      "obra": "Sergi Muñoz Lozano – Half monster Half human (RESERVED)",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
     }
   ]
 }
