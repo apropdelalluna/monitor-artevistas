@@ -292,6 +292,14 @@
       "precio": "8.500,00€",
       "precio_num": 8500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "26/05/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Caballo 8",
+      "precio": "750,00€",
+      "precio_num": 750.0,
+      "tipo": "vendida"
     }
   ]
 }
