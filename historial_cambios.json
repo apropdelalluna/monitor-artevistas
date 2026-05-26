@@ -422,5 +422,14 @@
     "precio": "8.500,00€",
     "precio_num": 8500.0,
     "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/"
+  },
+  {
+    "fecha": "26/05/2026 14:55",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Caballo 8",
+    "tipo": "vendida",
+    "precio": "750,00€",
+    "precio_num": 750.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-caballo-8/"
   }
 ]
