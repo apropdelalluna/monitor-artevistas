@@ -13111,9 +13111,9 @@
     "ultima_actualizacion": "07/05/2026 07:05"
   },
   "Sergi Muñoz Lozano": {
-    "total": 65910.0,
-    "obras_vendidas": 52,
-    "obras_con_precio": 52,
+    "total": 66410.0,
+    "obras_vendidas": 53,
+    "obras_con_precio": 53,
     "detalle": [
       {
         "titulo": "Sergi Muñoz Lozano – Identidad (RESERVED)",
@@ -13374,9 +13374,14 @@
         "titulo": "Sergi Muñoz Lozano – Darkness light",
         "precio_num": 2200.0,
         "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-darkness-light/"
+      },
+      {
+        "titulo": "Sergi Muñoz Lozano – Half monster Half human (RESERVED)",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-half-monster-half-human/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:07"
+    "ultima_actualizacion": "26/05/2026 18:20"
   },
   "Street Cyber": {
     "total": 1995.0,
