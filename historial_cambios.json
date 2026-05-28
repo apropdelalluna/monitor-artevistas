@@ -440,5 +440,50 @@
     "precio": "500,00€",
     "precio_num": 500.0,
     "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-half-monster-half-human/"
+  },
+  {
+    "fecha": "28/05/2026 13:35",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #15",
+    "tipo": "nueva_vendida",
+    "precio": "25.000,00€",
+    "precio_num": 25000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-17-2/"
+  },
+  {
+    "fecha": "28/05/2026 13:35",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Let’s stay together M",
+    "tipo": "vendida",
+    "precio": "1.700,00€",
+    "precio_num": 1700.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-m/"
+  },
+  {
+    "fecha": "28/05/2026 13:35",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Let’s stay together S",
+    "tipo": "vendida",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-s/"
+  },
+  {
+    "fecha": "28/05/2026 13:35",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – La vague",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+  },
+  {
+    "fecha": "28/05/2026 13:35",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Typon noir – Goorden Yannick",
+    "tipo": "vendida",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/goorden-yannick/"
   }
 ]
