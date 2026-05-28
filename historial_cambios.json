@@ -485,5 +485,23 @@
     "precio": "98,00€",
     "precio_num": 98.0,
     "url": "https://www.artevistas.eu/product/goorden-yannick/"
+  },
+  {
+    "fecha": "28/05/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Autocensura",
+    "tipo": "vendida",
+    "precio": "2.100,00€",
+    "precio_num": 2100.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-autocensura/"
+  },
+  {
+    "fecha": "28/05/2026 19:01",
+    "artista": "Frank Diamond",
+    "obra": "Frank Diamond – Fragmentos",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/"
   }
 ]
