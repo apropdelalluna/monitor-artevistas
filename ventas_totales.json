@@ -1907,9 +1907,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 135998.0,
-    "obras_vendidas": 87,
-    "obras_con_precio": 87,
+    "total": 138098.0,
+    "obras_vendidas": 88,
+    "obras_con_precio": 88,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2345,9 +2345,14 @@
         "titulo": "Art is Trash – Caballo 8",
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-caballo-8/"
+      },
+      {
+        "titulo": "Art is Trash – Autocensura",
+        "precio_num": 2100.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-autocensura/"
       }
     ],
-    "ultima_actualizacion": "26/05/2026 14:56"
+    "ultima_actualizacion": "28/05/2026 19:01"
   },
   "Ashwan": {
     "total": 7335.0,
@@ -4705,9 +4710,9 @@
     "ultima_actualizacion": "17/05/2026 17:53"
   },
   "Frank Diamond": {
-    "total": 8380.0,
-    "obras_vendidas": 46,
-    "obras_con_precio": 46,
+    "total": 8580.0,
+    "obras_vendidas": 47,
+    "obras_con_precio": 47,
     "detalle": [
       {
         "titulo": "Frank Diamond – Lifeless",
@@ -4938,9 +4943,14 @@
         "titulo": "Frank Diamond – Veins II (RESERVED)",
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/veins-ii/"
+      },
+      {
+        "titulo": "Frank Diamond – Fragmentos",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/"
       }
     ],
-    "ultima_actualizacion": "24/05/2026 13:07"
+    "ultima_actualizacion": "28/05/2026 19:01"
   },
   "Gil Gelpi": {
     "total": 100510.0,
