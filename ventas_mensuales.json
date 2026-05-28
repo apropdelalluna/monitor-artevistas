@@ -308,6 +308,46 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "28/05/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – ARTonaut #15",
+      "precio": "25.000,00€",
+      "precio_num": 25000.0,
+      "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "28/05/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Let’s stay together M",
+      "precio": "1.700,00€",
+      "precio_num": 1700.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "28/05/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Let’s stay together S",
+      "precio": "1.250,00€",
+      "precio_num": 1250.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "28/05/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – La vague",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "28/05/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Typon noir – Goorden Yannick",
+      "precio": "98,00€",
+      "precio_num": 98.0,
+      "tipo": "vendida"
     }
   ]
 }
