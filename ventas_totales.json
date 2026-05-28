@@ -6463,9 +6463,9 @@
     "ultima_actualizacion": "07/05/2026 04:54"
   },
   "Mark Rox": {
-    "total": 160640.0,
-    "obras_vendidas": 15,
-    "obras_con_precio": 15,
+    "total": 185640.0,
+    "obras_vendidas": 16,
+    "obras_con_precio": 16,
     "detalle": [
       {
         "titulo": "Mark Rox – ARTonaut #18",
@@ -6541,9 +6541,14 @@
         "titulo": "Mark Rox – ARTonaut #10 (Reserved)",
         "precio_num": 8500.0,
         "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/"
+      },
+      {
+        "titulo": "Mark Rox – ARTonaut #15",
+        "precio_num": 25000.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-17-2/"
       }
     ],
-    "ultima_actualizacion": "25/05/2026 12:00"
+    "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Martí Roca Balcells": {
     "total": 62150.0,
@@ -6894,9 +6899,9 @@
     "ultima_actualizacion": "07/05/2026 04:57"
   },
   "Matthieu Kowad": {
-    "total": 7650.0,
-    "obras_vendidas": 7,
-    "obras_con_precio": 7,
+    "total": 10600.0,
+    "obras_vendidas": 9,
+    "obras_con_precio": 9,
     "detalle": [
       {
         "titulo": "Matthieu Kowad – Us and them S",
@@ -6932,9 +6937,19 @@
         "titulo": "Matthieu Kowad – The Clash",
         "precio_num": 950.0,
         "url": "https://www.artevistas.eu/product/matthieu-kowad-the-clash/"
+      },
+      {
+        "titulo": "Matthieu Kowad – Let’s stay together M",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-m/"
+      },
+      {
+        "titulo": "Matthieu Kowad – Let’s stay together S",
+        "precio_num": 1250.0,
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-s/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:57"
+    "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
     "total": 150447.0,
@@ -12486,17 +12501,22 @@
     "ultima_actualizacion": "15/05/2026 16:55"
   },
   "Rémi Boudeperche": {
-    "total": 50.0,
-    "obras_vendidas": 1,
-    "obras_con_precio": 1,
+    "total": 90.0,
+    "obras_vendidas": 2,
+    "obras_con_precio": 2,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-a-labandon/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – La vague",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:38"
+    "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Sandra Partera": {
     "total": 49722.0,
@@ -15847,9 +15867,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 45876.0,
-    "obras_vendidas": 33,
-    "obras_con_precio": 33,
+    "total": 45974.0,
+    "obras_vendidas": 34,
+    "obras_con_precio": 34,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -16015,8 +16035,13 @@
         "titulo": "J.J. Abramovitz – Visages de l’humanité 25",
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/visages-de-lhumanite-25/"
+      },
+      {
+        "titulo": "Typon noir – Goorden Yannick",
+        "precio_num": 98.0,
+        "url": "https://www.artevistas.eu/product/goorden-yannick/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:25"
+    "ultima_actualizacion": "28/05/2026 13:35"
   }
 }
