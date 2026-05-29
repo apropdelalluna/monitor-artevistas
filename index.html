@@ -419,7 +419,6 @@
         const c = _historialInvertido[i];
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
-        if (tipo === 'desaparecida') continue;
         const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
         const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
@@ -662,9 +661,9 @@
 
       try {
         await fetch(DEPLOY_HOOK, { method: 'POST', mode: 'no-cors' });
-        showToast('✅ Servicio despertado. Actualizando datos en ~16 min.');
+        showToast('✅ Servicio despertado. Actualizando datos en ~4 min.');
 
-        const totalSegundos = 16 * 60;
+        const totalSegundos = 4 * 60;
         let restantes = totalSegundos;
 
         const intervalo = setInterval(() => {
