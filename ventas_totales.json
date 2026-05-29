@@ -6962,9 +6962,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 150447.0,
-    "obras_vendidas": 542,
-    "obras_con_precio": 542,
+    "total": 150797.0,
+    "obras_vendidas": 543,
+    "obras_con_precio": 543,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9674,9 +9674,14 @@
         "titulo": "Me Lata – Love is the drug",
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-24/"
+      },
+      {
+        "titulo": "Me Lata – Fighters",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/me-lata-fighters-5/"
       }
     ],
-    "ultima_actualizacion": "24/05/2026 13:07"
+    "ultima_actualizacion": "29/05/2026 20:06"
   },
   "Miquel Serratosa": {
     "total": 45500.0,
