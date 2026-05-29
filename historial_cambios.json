@@ -521,5 +521,14 @@
     "precio": "5.865,00€",
     "precio_num": 5865.0,
     "url": "https://www.artevistas.eu/product/javier-de-cea-code-switching-3-1/"
+  },
+  {
+    "fecha": "29/05/2026 20:06",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Fighters",
+    "tipo": "vendida",
+    "precio": "350,00€",
+    "precio_num": 350.0,
+    "url": "https://www.artevistas.eu/product/me-lata-fighters-5/"
   }
 ]
