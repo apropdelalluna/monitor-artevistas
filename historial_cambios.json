@@ -503,5 +503,23 @@
     "precio": "200,00€",
     "precio_num": 200.0,
     "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/"
+  },
+  {
+    "fecha": "29/05/2026 12:04",
+    "artista": "Javier de Cea",
+    "obra": "Javier de Cea – Code switching 3.2",
+    "tipo": "desaparecida",
+    "precio": "5.865,00€",
+    "precio_num": 5865.0,
+    "url": "https://www.artevistas.eu/product/javier-de-cea-code-switching-3-2/"
+  },
+  {
+    "fecha": "29/05/2026 12:04",
+    "artista": "Javier de Cea",
+    "obra": "Javier de Cea – Code switching 3.1",
+    "tipo": "desaparecida",
+    "precio": "5.865,00€",
+    "precio_num": 5865.0,
+    "url": "https://www.artevistas.eu/product/javier-de-cea-code-switching-3-1/"
   }
 ]
