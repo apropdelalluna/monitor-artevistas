@@ -380,6 +380,14 @@
       "precio": "5.865,00€",
       "precio_num": 5865.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "29/05/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Fighters",
+      "precio": "350,00€",
+      "precio_num": 350.0,
+      "tipo": "vendida"
     }
   ]
 }
