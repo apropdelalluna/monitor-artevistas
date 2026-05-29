@@ -364,6 +364,22 @@
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "29/05/2026",
+      "artista": "Javier de Cea",
+      "obra": "Javier de Cea – Code switching 3.2",
+      "precio": "5.865,00€",
+      "precio_num": 5865.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "29/05/2026",
+      "artista": "Javier de Cea",
+      "obra": "Javier de Cea – Code switching 3.1",
+      "precio": "5.865,00€",
+      "precio_num": 5865.0,
+      "tipo": "desaparecida"
     }
   ]
 }
