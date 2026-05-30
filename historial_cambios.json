@@ -530,5 +530,14 @@
     "precio": "350,00€",
     "precio_num": 350.0,
     "url": "https://www.artevistas.eu/product/me-lata-fighters-5/"
+  },
+  {
+    "fecha": "30/05/2026 18:41",
+    "artista": "Ashwan",
+    "obra": "Ashwan – Can’t stop, won’t stop Blue I",
+    "tipo": "vendida",
+    "precio": "180,00€",
+    "precio_num": 180.0,
+    "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/"
   }
 ]
