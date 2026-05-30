@@ -2355,9 +2355,9 @@
     "ultima_actualizacion": "28/05/2026 19:01"
   },
   "Ashwan": {
-    "total": 7335.0,
-    "obras_vendidas": 18,
-    "obras_con_precio": 18,
+    "total": 7515.0,
+    "obras_vendidas": 19,
+    "obras_con_precio": 19,
     "detalle": [
       {
         "titulo": "Ashwan – Can’t stop, won’t stop Blue III",
@@ -2448,9 +2448,14 @@
         "titulo": "Ashwan – Even men of steel",
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/ashwan-even-men-of-steel/"
+      },
+      {
+        "titulo": "Ashwan – Can’t stop, won’t stop Blue I",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:34"
+    "ultima_actualizacion": "30/05/2026 18:41"
   },
   "Bernard Tartinville": {
     "total": 1740.0,
