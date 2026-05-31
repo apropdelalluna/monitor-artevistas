@@ -566,5 +566,50 @@
     "precio": "1.600,00€",
     "precio_num": 1600.0,
     "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/"
+  },
+  {
+    "fecha": "31/05/2026 23:45",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Majestad",
+    "tipo": "vendida",
+    "precio": "2.420,00€",
+    "precio_num": 2420.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-majestad/"
+  },
+  {
+    "fecha": "31/05/2026 23:45",
+    "artista": "Miquel Serratosa",
+    "obra": "Miquel Serratosa – S-96 – Topografía de l’incert",
+    "tipo": "vendida",
+    "precio": "2.400,00€",
+    "precio_num": 2400.0,
+    "url": "https://www.artevistas.eu/product/miquel-serratosa-s-96-topografia-de-lincert/"
+  },
+  {
+    "fecha": "31/05/2026 23:45",
+    "artista": "Miquel Serratosa",
+    "obra": "Miquel Serratosa – RM – 02",
+    "tipo": "vendida",
+    "precio": "1.600,00€",
+    "precio_num": 1600.0,
+    "url": "https://www.artevistas.eu/product/rm-02/"
+  },
+  {
+    "fecha": "31/05/2026 23:45",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Connected Zero Baby Buddha",
+    "tipo": "nueva",
+    "precio": "140,00€",
+    "precio_num": 140.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-connected-zero-baby-buddha/"
+  },
+  {
+    "fecha": "31/05/2026 23:45",
+    "artista": "Tim Marsh",
+    "obra": "Tim Marsh – The Leopard of Love",
+    "tipo": "nueva_vendida",
+    "precio": "7.500,00€",
+    "precio_num": 7500.0,
+    "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/"
   }
 ]
