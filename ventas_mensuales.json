@@ -412,6 +412,38 @@
       "precio": "1.600,00€",
       "precio_num": 1600.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "31/05/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Majestad",
+      "precio": "2.420,00€",
+      "precio_num": 2420.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "31/05/2026",
+      "artista": "Miquel Serratosa",
+      "obra": "Miquel Serratosa – S-96 – Topografía de l’incert",
+      "precio": "2.400,00€",
+      "precio_num": 2400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "31/05/2026",
+      "artista": "Miquel Serratosa",
+      "obra": "Miquel Serratosa – RM – 02",
+      "precio": "1.600,00€",
+      "precio_num": 1600.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "31/05/2026",
+      "artista": "Tim Marsh",
+      "obra": "Tim Marsh – The Leopard of Love",
+      "precio": "7.500,00€",
+      "precio_num": 7500.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
