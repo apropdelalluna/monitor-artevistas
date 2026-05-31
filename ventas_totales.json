@@ -9832,9 +9832,9 @@
     "ultima_actualizacion": "07/05/2026 06:23"
   },
   "Mireia Cifuentes": {
-    "total": 10503.0,
-    "obras_vendidas": 35,
-    "obras_con_precio": 35,
+    "total": 10563.0,
+    "obras_vendidas": 36,
+    "obras_con_precio": 36,
     "detalle": [
       {
         "titulo": "Mireia Cifuentes – Cráneo",
@@ -10010,9 +10010,14 @@
         "titulo": "https://www.artevistas.eu/product/sin-titulo-3/",
         "precio_num": 39.0,
         "url": "https://www.artevistas.eu/product/sin-titulo-3/"
+      },
+      {
+        "titulo": "Mireia Cifuentes – Collage Rx",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-collage-rx/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:24"
+    "ultima_actualizacion": "31/05/2026 18:17"
   },
   "Miss Cutcut": {
     "total": 8190.0,
@@ -13151,9 +13156,9 @@
     "ultima_actualizacion": "07/05/2026 07:05"
   },
   "Sergi Muñoz Lozano": {
-    "total": 66410.0,
-    "obras_vendidas": 53,
-    "obras_con_precio": 53,
+    "total": 68010.0,
+    "obras_vendidas": 54,
+    "obras_con_precio": 54,
     "detalle": [
       {
         "titulo": "Sergi Muñoz Lozano – Identidad (RESERVED)",
@@ -13419,9 +13424,14 @@
         "titulo": "Sergi Muñoz Lozano – Half monster Half human (RESERVED)",
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-half-monster-half-human/"
+      },
+      {
+        "titulo": "Sergi Muñoz Lozano – Frágil",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/"
       }
     ],
-    "ultima_actualizacion": "26/05/2026 18:20"
+    "ultima_actualizacion": "31/05/2026 18:17"
   },
   "Street Cyber": {
     "total": 1995.0,
