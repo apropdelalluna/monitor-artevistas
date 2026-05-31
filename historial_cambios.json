@@ -539,5 +539,32 @@
     "precio": "180,00€",
     "precio_num": 180.0,
     "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/"
+  },
+  {
+    "fecha": "31/05/2026 18:17",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Charmander",
+    "tipo": "nueva",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-charmander/"
+  },
+  {
+    "fecha": "31/05/2026 18:17",
+    "artista": "Mireia Cifuentes",
+    "obra": "Mireia Cifuentes – Collage Rx",
+    "tipo": "vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/mireia-cifuentes-collage-rx/"
+  },
+  {
+    "fecha": "31/05/2026 18:17",
+    "artista": "Sergi Muñoz Lozano",
+    "obra": "Sergi Muñoz Lozano – Frágil",
+    "tipo": "vendida",
+    "precio": "1.600,00€",
+    "precio_num": 1600.0,
+    "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/"
   }
 ]
