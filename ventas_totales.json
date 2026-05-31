@@ -1907,9 +1907,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 138098.0,
-    "obras_vendidas": 88,
-    "obras_con_precio": 88,
+    "total": 140518.0,
+    "obras_vendidas": 89,
+    "obras_con_precio": 89,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2350,9 +2350,14 @@
         "titulo": "Art is Trash – Autocensura",
         "precio_num": 2100.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-autocensura/"
+      },
+      {
+        "titulo": "Art is Trash – Majestad",
+        "precio_num": 2420.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-majestad/"
       }
     ],
-    "ultima_actualizacion": "28/05/2026 19:01"
+    "ultima_actualizacion": "31/05/2026 23:45"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -9689,9 +9694,9 @@
     "ultima_actualizacion": "29/05/2026 20:06"
   },
   "Miquel Serratosa": {
-    "total": 45500.0,
-    "obras_vendidas": 27,
-    "obras_con_precio": 27,
+    "total": 49500.0,
+    "obras_vendidas": 29,
+    "obras_con_precio": 29,
     "detalle": [
       {
         "titulo": "Miquel Serratosa – S-48",
@@ -9827,9 +9832,19 @@
         "titulo": "https://www.artevistas.eu/product/fr-01/",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/fr-01/"
+      },
+      {
+        "titulo": "Miquel Serratosa – S-96 – Topografía de l’incert",
+        "precio_num": 2400.0,
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-96-topografia-de-lincert/"
+      },
+      {
+        "titulo": "Miquel Serratosa – RM – 02",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/rm-02/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:23"
+    "ultima_actualizacion": "31/05/2026 23:45"
   },
   "Mireia Cifuentes": {
     "total": 10563.0,
@@ -14123,9 +14138,9 @@
     "ultima_actualizacion": "07/05/2026 07:12"
   },
   "Tim Marsh": {
-    "total": 44900.0,
-    "obras_vendidas": 24,
-    "obras_con_precio": 24,
+    "total": 52400.0,
+    "obras_vendidas": 25,
+    "obras_con_precio": 25,
     "detalle": [
       {
         "titulo": "Tim Marsh – Candy crush",
@@ -14246,9 +14261,14 @@
         "titulo": "Tim Marsh – El patrón de prueba",
         "precio_num": 1200.0,
         "url": "https://www.artevistas.eu/product/el-patron-de-prueba/"
+      },
+      {
+        "titulo": "Tim Marsh – The Leopard of Love",
+        "precio_num": 7500.0,
+        "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:13"
+    "ultima_actualizacion": "31/05/2026 23:45"
   },
   "Toni Riera": {
     "total": 470.0,
