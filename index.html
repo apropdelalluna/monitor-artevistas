@@ -603,53 +603,6 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Obras vendidas del mes actual
-        const nombreMesActual = formatMes(mesActual);
-        document.getElementById('vendidasTitle').textContent = `Obras vendidas en ${nombreMesActual}`;
-        document.getElementById('vendidasMeta').textContent = `${ventasReales.length} obra${ventasReales.length !== 1 ? 's' : ''} · ${formatNum(totalMes)}`;
-        
-        if (ventasReales.length === 0) {
-          document.getElementById('vendidasList').innerHTML = '<div class="empty">Sin obras vendidas este mes</div>';
-        } else {
-          let vendidasHTML = '';
-          [...ventasReales].reverse().forEach(v => {
-            const artista = v.artista || '';
-            vendidasHTML += `<div class="cambio-item vendida">
-              <div class="cambio-header">
-                <div class="cambio-artista">${artista}</div>
-              </div>
-              <div class="cambio-obra">
-                <span class="badge vendida">🔴 Vendida</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
-              </div>
-              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
-            </div>`;
-          });
-          document.getElementById('vendidasList').innerHTML = vendidasHTML;
-        }
-
-        document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
-        document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} actualmente reservada${numReserved !== 1 ? 's' : ''}`;
-
-        // Obras en reserva detalladas
-        document.getElementById('reservasMeta').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} · ${formatNum(totalReserved)}`;
-        if (Object.keys(obrasReserved).length === 0) {
-          document.getElementById('reservasList').innerHTML = '<div class="empty">Sin obras en reserva actualmente</div>';
-        } else {
-          let reservasHTML = '';
-          Object.entries(obrasReserved).forEach(([obra, datos]) => {
-            reservasHTML += `<div class="cambio-item reserved">
-              <div class="cambio-header">
-                <div class="cambio-artista">${datos.artista}</div>
-              </div>
-              <div class="cambio-obra">
-                <span class="badge reserved">🟡 Reserved</span>${obra}
-              </div>
-              ${datos.precio_num ? `<div class="cambio-precio">${formatNum(datos.precio_num)}</div>` : ''}
-            </div>`;
-          });
-          document.getElementById('reservasList').innerHTML = reservasHTML;
-        }
-
         // Últimos cambios
         _historialInvertido = [...historial].reverse();
         _cambiosMostrados = 0;
