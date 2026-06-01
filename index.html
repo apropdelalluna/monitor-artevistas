@@ -599,6 +599,12 @@
           }
         }
 
+        // Añadir mes actual si no tiene datos
+        if (!meses.includes(mesActual)) {
+          meses.unshift(mesActual);
+          ventas[mesActual] = [];
+        }
+
         meses.forEach((mes, idx) => {
           historialHTML += buildMesHTML(mes, idx);
         });
