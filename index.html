@@ -530,6 +530,9 @@
         `;
 
         // Historial mensual con obras por mes
+        // Añadir mes actual si no tiene datos
+        if (!ventas[mesActual]) ventas[mesActual] = [];
+
         const meses = Object.keys(ventas).sort().reverse();
         let historialHTML = '';
 
@@ -597,12 +600,6 @@
               </div>
             </div>`;
           }
-        }
-
-        // Añadir mes actual si no tiene datos
-        if (!meses.includes(mesActual)) {
-          meses.unshift(mesActual);
-          ventas[mesActual] = [];
         }
 
         meses.forEach((mes, idx) => {
