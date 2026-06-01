@@ -567,8 +567,8 @@
             artistasHTML += `</div>`;
           }
 
-          if (esMesActual) {
-            // Mes actual: siempre visible
+          if (idx === 0) {
+            // Primer mes (más reciente): siempre visible
             return `<div style="margin-bottom:16px;">
               <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
                 <div>
