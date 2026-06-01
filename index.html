@@ -532,31 +532,21 @@
         // Historial mensual con obras por mes
         const meses = Object.keys(ventas).sort().reverse();
         let historialHTML = '';
-        
-        meses.forEach(mes => {
+
+        function buildMesHTML(mes, idx) {
           const vs = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
-          
-          historialHTML += `<div style="margin-bottom:16px;">
-            <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
-              <div>
-                <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;${esMesActual ? 'color:var(--new)' : ''}">${nombreMes}${esMesActual ? ' ·' : ''}</span>
-                <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
-              </div>
-              <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
-            </div>`;
-          
+
+          let obrasHTML = '';
           [...vs].reverse().forEach(v => {
-            const nombreObra = v.obra.replace(/^[^–—-]*[–—-]\s*/, '');
-            historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
+            obrasHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
               <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}</span>
               <span style="font-weight:500;">${formatNum(v.precio_num || 0)}</span>
             </div>`;
           });
 
-          // Resumen por artista
           const porArtista = {};
           vs.forEach(v => {
             if (!porArtista[v.artista]) porArtista[v.artista] = { obras: 0, total: 0 };
@@ -564,19 +554,53 @@
             porArtista[v.artista].total += v.precio_num || 0;
           });
           const artistasOrdenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+          let artistasHTML = '';
           if (artistasOrdenados.length > 1) {
-            historialHTML += `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
+            artistasHTML = `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
               <div style="font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;">Por artista</div>`;
             artistasOrdenados.forEach(([artista, datos]) => {
-              historialHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
+              artistasHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
                 <span style="color:var(--text-dim);">${artista} <span style="font-size:10px;">(${datos.obras})</span></span>
                 <span style="color:var(--accent);font-weight:500;">${formatNum(datos.total)}</span>
               </div>`;
             });
-            historialHTML += `</div>`;
+            artistasHTML += `</div>`;
           }
 
-          historialHTML += '</div>';
+          if (esMesActual) {
+            // Mes actual: siempre visible
+            return `<div style="margin-bottom:16px;">
+              <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
+                <div>
+                  <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--new)">${nombreMes} ·</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                </div>
+                <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+              </div>
+              ${obrasHTML}${artistasHTML}
+            </div>`;
+          } else {
+            // Meses anteriores: desplegable
+            return `<div style="margin-bottom:8px;border:1px solid var(--border);">
+              <div onclick="toggleMes(${idx})" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;cursor:pointer;background:var(--surface);">
+                <div>
+                  <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;">${nombreMes}</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                </div>
+                <div style="display:flex;align-items:center;gap:12px;">
+                  <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+                  <span id="mes-arrow-${idx}" style="font-size:18px;color:var(--text-dim);">▸</span>
+                </div>
+              </div>
+              <div id="mes-content-${idx}" style="display:none;">
+                ${obrasHTML}${artistasHTML}
+              </div>
+            </div>`;
+          }
+        }
+
+        meses.forEach((mes, idx) => {
+          historialHTML += buildMesHTML(mes, idx);
         });
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
@@ -694,6 +718,14 @@
     function toggleSection(id) {
       const content = document.getElementById(id + 'List');
       const arrow = document.getElementById(id + 'Arrow');
+      const isOpen = content.style.display !== 'none';
+      content.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
+    }
+
+    function toggleMes(idx) {
+      const content = document.getElementById('mes-content-' + idx);
+      const arrow = document.getElementById('mes-arrow-' + idx);
       const isOpen = content.style.display !== 'none';
       content.style.display = isOpen ? 'none' : 'block';
       arrow.textContent = isOpen ? '▸' : '▾';
