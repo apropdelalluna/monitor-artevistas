@@ -629,5 +629,14 @@
     "precio": "95,00€",
     "precio_num": 95.0,
     "url": "https://www.artevistas.eu/product/me-lata-soul/"
+  },
+  {
+    "fecha": "03/06/2026 20:29",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Fin de la relación",
+    "tipo": "vendida",
+    "precio": "1.700,00€",
+    "precio_num": 1700.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-fin-de-la-relacion/"
   }
 ]
