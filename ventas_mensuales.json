@@ -445,5 +445,15 @@
       "precio_num": 7500.0,
       "tipo": "nueva_vendida"
     }
+  ],
+  "2026-06": [
+    {
+      "fecha": "03/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Soul",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    }
   ]
 }
