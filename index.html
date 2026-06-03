@@ -367,6 +367,17 @@
     </div>
 
     <div class="section">
+      <div style="display:flex;justify-content:space-between;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--border);cursor:pointer;" onclick="toggleSection('reservas')">
+        <div class="section-title" style="border:none;padding:0;margin:0;">Obras en reserva</div>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <span style="font-size:11px;color:var(--text-dim);" id="reservasMeta"></span>
+          <span style="font-size:20px;color:var(--text-dim);" id="reservasArrow">▸</span>
+        </div>
+      </div>
+      <div id="reservasList" style="margin-top:12px;display:none;"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
       <div class="section-title">Últimos cambios detectados</div>
       <div class="cambios-list" id="cambiosList"><span class="loading-text">Cargando...</span></div>
     </div>
@@ -459,10 +470,11 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
+        const [ventas, historial, meta, estado] = await Promise.all([
           fetchGitHub('ventas_mensuales.json'),
           fetchGitHub('historial_cambios.json'),
-          fetchGitHub('meta.json')
+          fetchGitHub('meta.json'),
+          fetchGitHub('estado_artevistas.json')
         ]);
 
         // Última comprobación en Artevistas
@@ -474,27 +486,26 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Calcular obras actualmente RESERVED desde el historial
-        // Una obra está en reserva si aparece como RESERVED y no tiene una entrada posterior como vendida/desaparecida
+        // Calcular obras en reserva desde estado_artevistas.json
         let totalReserved = 0;
         let numReserved = 0;
         const obrasReserved = {};
 
-        historial.forEach(c => {
-          const esReserved = c.obra.toLowerCase().includes('reserved');
-          const obraBase = c.obra.replace(/\s*\(RESERVED\)/i, '').trim();
-          
-          if (esReserved && c.tipo === 'nueva') {
-            obrasReserved[obraBase] = { precio_num: c.precio_num || 0, artista: c.artista };
-          } else if (!esReserved && (c.tipo === 'vendida' || c.tipo === 'desaparecida' || c.tipo === 'nueva_vendida')) {
-            // Si la obra base aparece como vendida/desaparecida, ya no está en reserva
-            delete obrasReserved[obraBase];
-          }
-        });
-
-        Object.values(obrasReserved).forEach(obra => {
-          totalReserved += obra.precio_num;
-          numReserved++;
+        Object.values(estado).forEach(artista => {
+          Object.values(artista.obras || {}).forEach(obra => {
+            if (obra.titulo && obra.titulo.toLowerCase().includes('reserved') && obra.estado !== 'vendido') {
+              const tituloBase = obra.titulo.replace(/\s*\(RESERVED\)/i, '').trim();
+              obrasReserved[tituloBase] = {
+                precio_num: obra.precio_num || 0,
+                precio: obra.precio || '',
+                artista: obra.titulo.split(' – ')[0] || '',
+                url: obra.url || '',
+                titulo: tituloBase,
+              };
+              totalReserved += obra.precio_num || 0;
+              numReserved++;
+            }
+          });
         });
 
         // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
@@ -506,6 +517,32 @@
         document.getElementById('obrasMes').innerHTML = `
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
         `;
+
+        // Tarjeta "En reserva"
+        document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
+        document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} en reserva`;
+
+        // Obras en reserva detalladas
+        document.getElementById('reservasMeta').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} · ${formatNum(totalReserved)}`;
+        if (Object.keys(obrasReserved).length === 0) {
+          document.getElementById('reservasList').innerHTML = '<div class="empty">Sin obras en reserva actualmente</div>';
+        } else {
+          const reservasOrdenadas = Object.entries(obrasReserved).sort((a, b) => (b[1].precio_num || 0) - (a[1].precio_num || 0));
+          let reservasHTML = '';
+          reservasOrdenadas.forEach(([tituloBase, datos]) => {
+            reservasHTML += `<div class="cambio-item reserved">
+              <div class="cambio-header">
+                <div class="cambio-artista">${datos.artista}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge reserved">🟡 Reserved</span>
+                ${datos.url ? `<a href="${datos.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${tituloBase}</a>` : tituloBase}
+              </div>
+              ${datos.precio_num ? `<div class="cambio-precio">${formatNum(datos.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('reservasList').innerHTML = reservasHTML;
+        }
 
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
