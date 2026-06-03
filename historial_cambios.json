@@ -611,5 +611,23 @@
     "precio": "7.500,00€",
     "precio_num": 7500.0,
     "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/"
+  },
+  {
+    "fecha": "03/06/2026 12:54",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Bulbasaur",
+    "tipo": "nueva",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-bulbasaur/"
+  },
+  {
+    "fecha": "03/06/2026 12:54",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Soul",
+    "tipo": "vendida",
+    "precio": "95,00€",
+    "precio_num": 95.0,
+    "url": "https://www.artevistas.eu/product/me-lata-soul/"
   }
 ]
