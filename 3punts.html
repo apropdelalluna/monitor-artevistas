@@ -5,15 +5,15 @@
   <meta name="robots" content="noindex, nofollow">
   <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Monitor Artquemy</title>
+  <title>Monitor 3 Punts</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #0e0e0e;
       --surface: #161616;
       --border: #2a2a2a;
-      --accent: #c0392b;
-      --accent-dim: #8a2a1e;
+      --accent: #b5a08a;
+      --accent-dim: #7a6a55;
       --text: #e8e4dc;
       --text-dim: #888;
       --sold: #e05252;
@@ -339,14 +339,12 @@
     <header>
       <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;">
         <div>
-          <div class="logo">Art<span>quemy</span> Monitor</div>
-          <div class="subtitle">Panel de control · artquemy.com</div>
+          <div class="logo"><span>3</span> Punts Monitor</div>
+          <div class="subtitle">Panel de control · 3punts.com</div>
         </div>
         <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;margin-top:4px;">
-          <a href="resumen.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">📊 Resumen galerías →</a>
-          <a href="ventas.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>
-          <a href="baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Base Elements →</a>
-          <a href="3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">3 Punts →</a>
+          
+<a href="ventas_3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>          <a href="index.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Artquemy →</a>          <a href="baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Base Elements →</a>
         </div>
       </div>
       <div class="status-bar">
@@ -468,15 +466,15 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
-          fetchGitHub('ventas_mensuales_artquemy.json'),
-          fetchGitHub('historial_cambios_artquemy.json'),
-          fetchGitHub('meta_artquemy.json')
+        const [ventas, historial, meta, estado] = await Promise.all([
+          fetchGitHub('ventas_mensuales_3punts.json'),
+          fetchGitHub('historial_cambios_3punts.json'),
+          fetchGitHub('meta_3punts.json')
         ]);
 
         // Última comprobación en Artevistas
         const ultimaComp = meta?.ultima_comprobacion || '—';
-        document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
+        document.getElementById('lastUpdateHeader').textContent = `Última visita a 3 Punts: ${ultimaComp}`;
 
         // Mes actual
         const ahora = new Date();
@@ -589,23 +587,17 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios
-        const historialPlano = [];
-        historial.forEach(entrada => {
-          (entrada.cambios_obras || []).forEach(cam => {
-            historialPlano.push({
-              fecha:    entrada.fecha || cam.fecha || '',
-              artista:  cam.artista || entrada.artista || '',
-              tipo:     cam.tipo,
-              obra:     cam.titulo || '',
-              precio:   cam.precio,
-              precio_num: cam.precio_num,
-              url:      cam.url,
-              precio_anterior: cam.precio_anterior,
-              precio_estimado: cam.precio_estimado,
-            });
-          });
-        });
+        // Últimos cambios — 3 Punts tiene estructura plana
+        const historialPlano = historial.map(c => ({
+          fecha:           c.fecha,
+          artista:         c.artista,
+          tipo:            c.tipo,
+          obra:            c.titulo || c.obra || '',
+          precio:          c.precio,
+          precio_num:      c.precio_num,
+          url:             c.url,
+          precio_anterior: c.precio_anterior,
+        }));
         _historialInvertido = historialPlano.reverse();
         _cambiosMostrados = 0;
 

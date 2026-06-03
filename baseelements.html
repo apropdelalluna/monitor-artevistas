@@ -5,15 +5,15 @@
   <meta name="robots" content="noindex, nofollow">
   <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Monitor Artquemy</title>
+  <title>Monitor Base Elements</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #0e0e0e;
       --surface: #161616;
       --border: #2a2a2a;
-      --accent: #c0392b;
-      --accent-dim: #8a2a1e;
+      --accent: #e8e4dc;
+      --accent-dim: #b0aca4;
       --text: #e8e4dc;
       --text-dim: #888;
       --sold: #e05252;
@@ -339,14 +339,12 @@
     <header>
       <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;">
         <div>
-          <div class="logo">Art<span>quemy</span> Monitor</div>
-          <div class="subtitle">Panel de control · artquemy.com</div>
+          <div class="logo">Base<span>Elements</span></div>
+          <div class="subtitle">Sales Monitor · baseelements.net</div>
         </div>
         <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;margin-top:4px;">
-          <a href="resumen.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">📊 Resumen galerías →</a>
-          <a href="ventas.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>
-          <a href="baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Base Elements →</a>
-          <a href="3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">3 Punts →</a>
+          
+<a href="ventas_baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>          <a href="index.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Artquemy →</a>          <a href="3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">3 Punts →</a>
         </div>
       </div>
       <div class="status-bar">
@@ -468,15 +466,15 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
-          fetchGitHub('ventas_mensuales_artquemy.json'),
-          fetchGitHub('historial_cambios_artquemy.json'),
-          fetchGitHub('meta_artquemy.json')
+        const [ventas, historial, meta, estado] = await Promise.all([
+          fetchGitHub('ventas_mensuales_baseelements.json'),
+          fetchGitHub('historial_cambios_baseelements.json'),
+          fetchGitHub('meta_baseelements.json')
         ]);
 
         // Última comprobación en Artevistas
         const ultimaComp = meta?.ultima_comprobacion || '—';
-        document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
+        document.getElementById('lastUpdateHeader').textContent = `Última visita a Base Elements: ${ultimaComp}`;
 
         // Mes actual
         const ahora = new Date();
@@ -589,13 +587,13 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios
+        // Últimos cambios — estructura anidada
         const historialPlano = [];
         historial.forEach(entrada => {
           (entrada.cambios_obras || []).forEach(cam => {
             historialPlano.push({
               fecha:    entrada.fecha || cam.fecha || '',
-              artista:  cam.artista || entrada.artista || '',
+              artista:  cam.artista || entrada.artista?.nombre || entrada.artista || '',
               tipo:     cam.tipo,
               obra:     cam.titulo || '',
               precio:   cam.precio,
