@@ -638,5 +638,14 @@
     "precio": "1.700,00€",
     "precio_num": 1700.0,
     "url": "https://www.artevistas.eu/product/art-is-trash-fin-de-la-relacion/"
+  },
+  {
+    "fecha": "04/06/2026 18:15",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Skywise Baby Buddha",
+    "tipo": "vendida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-skywise-baby-buddha/"
   }
 ]
