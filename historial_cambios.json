@@ -656,5 +656,14 @@
     "precio": "350,00€",
     "precio_num": 350.0,
     "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/"
+  },
+  {
+    "fecha": "05/06/2026 18:56",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Dreaming mountain",
+    "tipo": "vendida",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/"
   }
 ]
