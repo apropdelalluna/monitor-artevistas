@@ -647,5 +647,14 @@
     "precio": "150,00€",
     "precio_num": 150.0,
     "url": "https://www.artevistas.eu/product/neon-sandwich-skywise-baby-buddha/"
+  },
+  {
+    "fecha": "05/06/2026 12:02",
+    "artista": "Me Lata",
+    "obra": "Me Lata – In your arms",
+    "tipo": "vendida",
+    "precio": "350,00€",
+    "precio_num": 350.0,
+    "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/"
   }
 ]
