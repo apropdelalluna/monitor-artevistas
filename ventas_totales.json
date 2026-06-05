@@ -6977,9 +6977,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 150892.0,
-    "obras_vendidas": 544,
-    "obras_con_precio": 544,
+    "total": 151242.0,
+    "obras_vendidas": 545,
+    "obras_con_precio": 545,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9699,9 +9699,14 @@
         "titulo": "Me Lata – Soul",
         "precio_num": 95.0,
         "url": "https://www.artevistas.eu/product/me-lata-soul/"
+      },
+      {
+        "titulo": "Me Lata – In your arms",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/"
       }
     ],
-    "ultima_actualizacion": "03/06/2026 12:54"
+    "ultima_actualizacion": "05/06/2026 12:02"
   },
   "Miquel Serratosa": {
     "total": 49500.0,
