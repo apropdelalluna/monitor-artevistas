@@ -470,6 +470,14 @@
       "precio": "150,00€",
       "precio_num": 150.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "05/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – In your arms",
+      "precio": "350,00€",
+      "precio_num": 350.0,
+      "tipo": "vendida"
     }
   ]
 }
