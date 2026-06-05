@@ -4968,9 +4968,9 @@
     "ultima_actualizacion": "28/05/2026 19:01"
   },
   "Gil Gelpi": {
-    "total": 100510.0,
-    "obras_vendidas": 51,
-    "obras_con_precio": 51,
+    "total": 103310.0,
+    "obras_vendidas": 52,
+    "obras_con_precio": 52,
     "detalle": [
       {
         "titulo": "Gil Gelpi – Sin título XI",
@@ -5226,9 +5226,14 @@
         "titulo": "Gil Gelpi – Sin título II",
         "precio_num": 80.0,
         "url": "https://www.artevistas.eu/product/sin-titulo-ii/"
+      },
+      {
+        "titulo": "Gil Gelpi – Dreaming mountain",
+        "precio_num": 2800.0,
+        "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:49"
+    "ultima_actualizacion": "05/06/2026 18:56"
   },
   "Irene Bou": {
     "total": 78190.0,
