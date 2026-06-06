@@ -1907,9 +1907,9 @@
     "ultima_actualizacion": "07/05/2026 04:31"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 142218.0,
-    "obras_vendidas": 90,
-    "obras_con_precio": 90,
+    "total": 143068.0,
+    "obras_vendidas": 91,
+    "obras_con_precio": 91,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2360,9 +2360,14 @@
         "titulo": "Art is Trash – Fin de la relación",
         "precio_num": 1700.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-fin-de-la-relacion/"
+      },
+      {
+        "titulo": "Art is Trash – Atardecer",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-atardecer/"
       }
     ],
-    "ultima_actualizacion": "03/06/2026 20:29"
+    "ultima_actualizacion": "06/06/2026 18:34"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -4725,9 +4730,9 @@
     "ultima_actualizacion": "17/05/2026 17:53"
   },
   "Frank Diamond": {
-    "total": 8580.0,
-    "obras_vendidas": 47,
-    "obras_con_precio": 47,
+    "total": 8730.0,
+    "obras_vendidas": 48,
+    "obras_con_precio": 48,
     "detalle": [
       {
         "titulo": "Frank Diamond – Lifeless",
@@ -4963,9 +4968,14 @@
         "titulo": "Frank Diamond – Fragmentos",
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/"
+      },
+      {
+        "titulo": "Frank Diamond – Dancing in the mist",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/dancing-in-the-mist/"
       }
     ],
-    "ultima_actualizacion": "28/05/2026 19:01"
+    "ultima_actualizacion": "06/06/2026 18:34"
   },
   "Gil Gelpi": {
     "total": 103310.0,
@@ -13610,9 +13620,9 @@
     "ultima_actualizacion": "07/05/2026 07:08"
   },
   "The Catman": {
-    "total": 9667.0,
-    "obras_vendidas": 109,
-    "obras_con_precio": 109,
+    "total": 9763.0,
+    "obras_vendidas": 111,
+    "obras_con_precio": 111,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14158,9 +14168,19 @@
         "titulo": "The Catman – Art loves you",
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-art-loves-you/"
+      },
+      {
+        "titulo": "The Catman – Madame et monsieur",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/madame-et-monsieur/"
+      },
+      {
+        "titulo": "The Catman – You person of the year",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/you-person/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:12"
+    "ultima_actualizacion": "06/06/2026 18:34"
   },
   "Tim Marsh": {
     "total": 52400.0,
