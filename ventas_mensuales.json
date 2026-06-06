@@ -486,6 +486,38 @@
       "precio": "2.800,00€",
       "precio_num": 2800.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "06/06/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Atardecer",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/06/2026",
+      "artista": "Frank Diamond",
+      "obra": "Frank Diamond – Dancing in the mist",
+      "precio": "150,00€",
+      "precio_num": 150.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/06/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Madame et monsieur",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/06/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – You person of the year",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
