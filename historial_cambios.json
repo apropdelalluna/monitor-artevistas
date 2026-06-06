@@ -665,5 +665,95 @@
     "precio": "2.800,00€",
     "precio_num": 2800.0,
     "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Atardecer",
+    "tipo": "vendida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-atardecer/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Crucificados II",
+    "tipo": "nueva",
+    "precio": "1.000,00€",
+    "precio_num": 1000.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-crucificados-ii/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Frank Diamond",
+    "obra": "Frank Diamond – Dancing in the mist",
+    "tipo": "vendida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/dancing-in-the-mist/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Forever (RESERVED)",
+    "tipo": "nueva",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/me-lata-forever-5/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love always wins (RESERVED)",
+    "tipo": "nueva",
+    "precio": "400,00€",
+    "precio_num": 400.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-always-wins/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – La vague",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "The Catman",
+    "obra": "The Catman – Madame et monsieur",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/madame-et-monsieur/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "The Catman",
+    "obra": "The Catman – You person of the year",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/you-person/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "The Catman",
+    "obra": "The Catman – Missed you",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/missed-you/"
+  },
+  {
+    "fecha": "06/06/2026 18:34",
+    "artista": "The Catman",
+    "obra": "The Catman – Un dinosaurio escudriña un ciclo",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-un-dinosaurio-escudrina-un-ciclo/"
   }
 ]
