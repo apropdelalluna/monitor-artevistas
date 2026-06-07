@@ -542,6 +542,14 @@
       "precio": "1.600,00€",
       "precio_num": 1600.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "07/06/2026",
+      "artista": "Sater",
+      "obra": "Sater – Vagón olvidado",
+      "precio": "1.500,00€",
+      "precio_num": 1500.0,
+      "tipo": "vendida"
     }
   ]
 }
