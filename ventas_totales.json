@@ -9724,9 +9724,9 @@
     "ultima_actualizacion": "05/06/2026 12:02"
   },
   "Miquel Serratosa": {
-    "total": 49500.0,
-    "obras_vendidas": 29,
-    "obras_con_precio": 29,
+    "total": 51700.0,
+    "obras_vendidas": 30,
+    "obras_con_precio": 30,
     "detalle": [
       {
         "titulo": "Miquel Serratosa – S-48",
@@ -9872,9 +9872,14 @@
         "titulo": "Miquel Serratosa – RM – 02",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/rm-02/"
+      },
+      {
+        "titulo": "Miquel Serratosa – S-83 – Travessía pictórica",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-83-travessia-pictorica/"
       }
     ],
-    "ultima_actualizacion": "31/05/2026 23:45"
+    "ultima_actualizacion": "07/06/2026 11:49"
   },
   "Mireia Cifuentes": {
     "total": 10563.0,
@@ -14334,9 +14339,9 @@
     "ultima_actualizacion": "07/05/2026 07:13"
   },
   "White Rabbit": {
-    "total": 77276.0,
-    "obras_vendidas": 137,
-    "obras_con_precio": 137,
+    "total": 80626.0,
+    "obras_vendidas": 139,
+    "obras_con_precio": 139,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -15022,9 +15027,19 @@
         "titulo": "White Rabbit – The bunny flying blah blah blue",
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/the-bunny-flying-blah-blah-blue/"
+      },
+      {
+        "titulo": "White Rabbit – Contemporary Masks 22_#2",
+        "precio_num": 1750.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-masks-22_2/"
+      },
+      {
+        "titulo": "White Rabbit – Contemporary Mask – Boy 2",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/"
       }
     ],
-    "ultima_actualizacion": "16/05/2026 16:21"
+    "ultima_actualizacion": "07/06/2026 11:49"
   },
   "Xavi Mira": {
     "total": 122880.0,
