@@ -782,5 +782,14 @@
     "precio": "1.600,00€",
     "precio_num": 1600.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/"
+  },
+  {
+    "fecha": "07/06/2026 18:29",
+    "artista": "Sater",
+    "obra": "Sater – Vagón olvidado",
+    "tipo": "vendida",
+    "precio": "1.500,00€",
+    "precio_num": 1500.0,
+    "url": "https://www.artevistas.eu/product/sater-vagon-olvidado/"
   }
 ]
