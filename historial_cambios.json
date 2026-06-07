@@ -755,5 +755,32 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-un-dinosaurio-escudrina-un-ciclo/"
+  },
+  {
+    "fecha": "07/06/2026 11:49",
+    "artista": "Miquel Serratosa",
+    "obra": "Miquel Serratosa – S-83 – Travessía pictórica",
+    "tipo": "vendida",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/miquel-serratosa-s-83-travessia-pictorica/"
+  },
+  {
+    "fecha": "07/06/2026 11:49",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Contemporary Masks 22_#2",
+    "tipo": "vendida",
+    "precio": "1.750,00€",
+    "precio_num": 1750.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-masks-22_2/"
+  },
+  {
+    "fecha": "07/06/2026 11:49",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Contemporary Mask – Boy 2",
+    "tipo": "vendida",
+    "precio": "1.600,00€",
+    "precio_num": 1600.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/"
   }
 ]
