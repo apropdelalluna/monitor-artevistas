@@ -550,6 +550,30 @@
       "precio": "1.500,00€",
       "precio_num": 1500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "08/06/2026",
+      "artista": "António Azevedo",
+      "obra": "António Azevedo – Era uma vez… (365º Acto)",
+      "precio": "245,00€",
+      "precio_num": 245.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/06/2026",
+      "artista": "Tempe Hernández",
+      "obra": "Tempe Hernández – Hablan y no dicen nada II",
+      "precio": "180,00€",
+      "precio_num": 180.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/06/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – I Love You XXXL",
+      "precio": "65,00€",
+      "precio_num": 65.0,
+      "tipo": "vendida"
     }
   ]
 }
