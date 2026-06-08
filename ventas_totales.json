@@ -1629,9 +1629,9 @@
     "ultima_actualizacion": "07/05/2026 04:29"
   },
   "António Azevedo": {
-    "total": 13040.0,
-    "obras_vendidas": 54,
-    "obras_con_precio": 54,
+    "total": 13285.0,
+    "obras_vendidas": 55,
+    "obras_con_precio": 55,
     "detalle": [
       {
         "titulo": "António Azevedo –  Era uma vez… (242° Acto)",
@@ -1902,9 +1902,14 @@
         "titulo": "António Azevedo – Era uma vez… (311º Acto)",
         "precio_num": 245.0,
         "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-311o-acto/"
+      },
+      {
+        "titulo": "António Azevedo – Era uma vez… (365º Acto)",
+        "precio_num": 245.0,
+        "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-365o-acto/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:31"
+    "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
     "total": 143068.0,
@@ -13582,9 +13587,9 @@
     "ultima_actualizacion": "07/05/2026 07:07"
   },
   "Tempe Hernández": {
-    "total": 7780.0,
-    "obras_vendidas": 8,
-    "obras_con_precio": 8,
+    "total": 7960.0,
+    "obras_vendidas": 9,
+    "obras_con_precio": 9,
     "detalle": [
       {
         "titulo": "Tempe Hernández – Monk",
@@ -13625,14 +13630,19 @@
         "titulo": "Tempe Hernández – Bloque Errante IX",
         "precio_num": 2000.0,
         "url": "https://www.artevistas.eu/product/tempe-hernandez-bloque-errante-ix/"
+      },
+      {
+        "titulo": "Tempe Hernández – Hablan y no dicen nada II",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/hablan-y-no-dicen-nada-ii-2/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:08"
+    "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 9763.0,
-    "obras_vendidas": 111,
-    "obras_con_precio": 111,
+    "total": 9828.0,
+    "obras_vendidas": 112,
+    "obras_con_precio": 112,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14188,9 +14198,14 @@
         "titulo": "The Catman – You person of the year",
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/you-person/"
+      },
+      {
+        "titulo": "The Catman – I Love You XXXL",
+        "precio_num": 65.0,
+        "url": "https://www.artevistas.eu/product/the-catman-i-love-you-xxxl/"
       }
     ],
-    "ultima_actualizacion": "06/06/2026 18:34"
+    "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Tim Marsh": {
     "total": 52400.0,
