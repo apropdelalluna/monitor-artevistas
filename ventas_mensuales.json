@@ -574,6 +574,22 @@
       "precio": "65,00€",
       "precio_num": 65.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "10/06/2026",
+      "artista": "Frank Diamond",
+      "obra": "Frank Diamond – The butterflies",
+      "precio": "150,00€",
+      "precio_num": 150.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "10/06/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Balu – Untitled",
+      "precio": "3.800,00€",
+      "precio_num": 3800.0,
+      "tipo": "vendida"
     }
   ]
 }
