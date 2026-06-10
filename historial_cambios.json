@@ -818,5 +818,23 @@
     "precio": "65,00€",
     "precio_num": 65.0,
     "url": "https://www.artevistas.eu/product/the-catman-i-love-you-xxxl/"
+  },
+  {
+    "fecha": "10/06/2026 12:06",
+    "artista": "Frank Diamond",
+    "obra": "Frank Diamond – The butterflies",
+    "tipo": "vendida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/the-butterflies/"
+  },
+  {
+    "fecha": "10/06/2026 12:06",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Balu – Untitled",
+    "tipo": "vendida",
+    "precio": "3.800,00€",
+    "precio_num": 3800.0,
+    "url": "https://www.artevistas.eu/product/balu-untitled/"
   }
 ]
