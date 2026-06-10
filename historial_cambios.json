@@ -836,5 +836,14 @@
     "precio": "3.800,00€",
     "precio_num": 3800.0,
     "url": "https://www.artevistas.eu/product/balu-untitled/"
+  },
+  {
+    "fecha": "10/06/2026 18:13",
+    "artista": "Me Lata",
+    "obra": "Me Lata – In love with life",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-4/"
   }
 ]
