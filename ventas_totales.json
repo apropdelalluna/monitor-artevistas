@@ -4735,9 +4735,9 @@
     "ultima_actualizacion": "17/05/2026 17:53"
   },
   "Frank Diamond": {
-    "total": 8730.0,
-    "obras_vendidas": 48,
-    "obras_con_precio": 48,
+    "total": 8880.0,
+    "obras_vendidas": 49,
+    "obras_con_precio": 49,
     "detalle": [
       {
         "titulo": "Frank Diamond – Lifeless",
@@ -4978,9 +4978,14 @@
         "titulo": "Frank Diamond – Dancing in the mist",
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/dancing-in-the-mist/"
+      },
+      {
+        "titulo": "Frank Diamond – The butterflies",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/the-butterflies/"
       }
     ],
-    "ultima_actualizacion": "06/06/2026 18:34"
+    "ultima_actualizacion": "10/06/2026 12:06"
   },
   "Gil Gelpi": {
     "total": 103310.0,
@@ -15997,9 +16002,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 45974.0,
-    "obras_vendidas": 34,
-    "obras_con_precio": 34,
+    "total": 49774.0,
+    "obras_vendidas": 35,
+    "obras_con_precio": 35,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -16170,8 +16175,13 @@
         "titulo": "Typon noir – Goorden Yannick",
         "precio_num": 98.0,
         "url": "https://www.artevistas.eu/product/goorden-yannick/"
+      },
+      {
+        "titulo": "Balu – Untitled",
+        "precio_num": 3800.0,
+        "url": "https://www.artevistas.eu/product/balu-untitled/"
       }
     ],
-    "ultima_actualizacion": "28/05/2026 13:35"
+    "ultima_actualizacion": "10/06/2026 12:06"
   }
 }
