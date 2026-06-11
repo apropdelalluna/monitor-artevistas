@@ -1922,9 +1922,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 143068.0,
-    "obras_vendidas": 91,
-    "obras_con_precio": 91,
+    "total": 147030.0,
+    "obras_vendidas": 94,
+    "obras_con_precio": 94,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2380,9 +2380,24 @@
         "titulo": "Art is Trash – Atardecer",
         "precio_num": 850.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-atardecer/"
+      },
+      {
+        "titulo": "Art is Trash – Circunferencia (RESERVED)",
+        "precio_num": 2662.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-circunferencia/"
+      },
+      {
+        "titulo": "Art is Trash – El artista errante (Reserved)",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-artista-errante/"
+      },
+      {
+        "titulo": "Art is Trash – El profesional (RESERVED)",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-profesional/"
       }
     ],
-    "ultima_actualizacion": "06/06/2026 18:34"
+    "ultima_actualizacion": "11/06/2026 18:15"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -6435,9 +6450,9 @@
     "ultima_actualizacion": "07/05/2026 04:54"
   },
   "María Cuéllar": {
-    "total": 21590.0,
-    "obras_vendidas": 16,
-    "obras_con_precio": 16,
+    "total": 22290.0,
+    "obras_vendidas": 17,
+    "obras_con_precio": 17,
     "detalle": [
       {
         "titulo": "María Cuéllar – ¿Qué buscamos?",
@@ -6518,9 +6533,14 @@
         "titulo": "María Cuéllar – Afirmar reflejo / Afirmar imágen",
         "precio_num": 1200.0,
         "url": "https://www.artevistas.eu/product/maria-cuellar-afirmar-reflejo-afirmar-imagen/"
+      },
+      {
+        "titulo": "María Cuéllar – Percepciones adulteradas; I Dream about Blue Phtalo Cheeseburger (RESERVED)",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/maria-cuellar-percepciones-adulteradas-i-dream-about-blue-phtalo-cheeseburger/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:54"
+    "ultima_actualizacion": "11/06/2026 18:15"
   },
   "Mark Rox": {
     "total": 185640.0,
@@ -13241,9 +13261,9 @@
     "ultima_actualizacion": "07/06/2026 18:29"
   },
   "Sergi Muñoz Lozano": {
-    "total": 68010.0,
-    "obras_vendidas": 54,
-    "obras_con_precio": 54,
+    "total": 69610.0,
+    "obras_vendidas": 55,
+    "obras_con_precio": 55,
     "detalle": [
       {
         "titulo": "Sergi Muñoz Lozano – Identidad (RESERVED)",
@@ -13514,9 +13534,14 @@
         "titulo": "Sergi Muñoz Lozano – Frágil",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/"
+      },
+      {
+        "titulo": "Sergi Muñoz Lozano – Lost soul face (RESERVED)",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-lost-soul-face/"
       }
     ],
-    "ultima_actualizacion": "31/05/2026 18:17"
+    "ultima_actualizacion": "11/06/2026 18:15"
   },
   "Street Cyber": {
     "total": 1995.0,
@@ -14361,9 +14386,9 @@
     "ultima_actualizacion": "31/05/2026 23:45"
   },
   "Toni Riera": {
-    "total": 470.0,
-    "obras_vendidas": 2,
-    "obras_con_precio": 2,
+    "total": 1990.0,
+    "obras_vendidas": 4,
+    "obras_con_precio": 4,
     "detalle": [
       {
         "titulo": "Toni Riera – Lika – ed. 200",
@@ -14374,9 +14399,19 @@
         "titulo": "Toni Riera – Cena en el campo – ed. 250",
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/cena-en-el-campo/"
+      },
+      {
+        "titulo": "Toni Riera – 45 RPM 1/25 (RESERVED)",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/toni-riera-45-rpm-1-25/"
+      },
+      {
+        "titulo": "Toni Riera – Hotel Montesol – ed. 500 (RESERVED)",
+        "precio_num": 320.0,
+        "url": "https://www.artevistas.eu/product/hotel-montesol/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:13"
+    "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
     "total": 80626.0,
