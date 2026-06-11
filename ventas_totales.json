@@ -1311,9 +1311,9 @@
     "ultima_actualizacion": "21/05/2026 22:37"
   },
   "Andrzej Farfulowski": {
-    "total": 85130.0,
-    "obras_vendidas": 62,
-    "obras_con_precio": 62,
+    "total": 85290.0,
+    "obras_vendidas": 64,
+    "obras_con_precio": 64,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1624,9 +1624,19 @@
         "titulo": "https://www.artevistas.eu/product/untitled-2/",
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/untitled-2/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – Autoportrait without glasses paper",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoportrait-without-glasses-2/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – Autoretrato con gallo muerto paper",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoretrato-con-gallo-muerto/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:29"
+    "ultima_actualizacion": "11/06/2026 11:10"
   },
   "António Azevedo": {
     "total": 13285.0,
