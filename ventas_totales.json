@@ -7032,9 +7032,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 151332.0,
-    "obras_vendidas": 546,
-    "obras_con_precio": 546,
+    "total": 151552.0,
+    "obras_vendidas": 547,
+    "obras_con_precio": 547,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9764,9 +9764,14 @@
         "titulo": "Me Lata – In love with life",
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-4/"
+      },
+      {
+        "titulo": "Me Lata – T’estimo (RESERVED)",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-25/"
       }
     ],
-    "ultima_actualizacion": "10/06/2026 18:13"
+    "ultima_actualizacion": "12/06/2026 09:03"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -13685,9 +13690,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 9828.0,
-    "obras_vendidas": 112,
-    "obras_con_precio": 112,
+    "total": 11939.0,
+    "obras_vendidas": 123,
+    "obras_con_precio": 123,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14248,9 +14253,64 @@
         "titulo": "The Catman – I Love You XXXL",
         "precio_num": 65.0,
         "url": "https://www.artevistas.eu/product/the-catman-i-love-you-xxxl/"
+      },
+      {
+        "titulo": "The Catman – Misguided (RESERVED)",
+        "precio_num": 1100.0,
+        "url": "https://www.artevistas.eu/product/the-catman-misguided/"
+      },
+      {
+        "titulo": "The Catman – Art Loves You (RESERVED)",
+        "precio_num": 550.0,
+        "url": "https://www.artevistas.eu/product/the-catman-art-loves-you-3/"
+      },
+      {
+        "titulo": "The Catman – You art here (Reserved)",
+        "precio_num": 77.0,
+        "url": "https://www.artevistas.eu/product/the-catman-you-art-here-2/"
+      },
+      {
+        "titulo": "The Catman – Outsider (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-outsider/"
+      },
+      {
+        "titulo": "The Catman – Pirate heart (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-pirate-heart-2/"
+      },
+      {
+        "titulo": "The Catman – Km 0 (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/30635/"
+      },
+      {
+        "titulo": "The Catman – Dreamer (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/dreamer-2/"
+      },
+      {
+        "titulo": "The Catman – Do not cross (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/do-not-cross/"
+      },
+      {
+        "titulo": "The Catman – Woman (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/woman/"
+      },
+      {
+        "titulo": "The Catman – Youniverse (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/youniverse/"
+      },
+      {
+        "titulo": "The Catman – 100% magic (RESERVED)",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
       }
     ],
-    "ultima_actualizacion": "08/06/2026 11:49"
+    "ultima_actualizacion": "12/06/2026 09:03"
   },
   "Tim Marsh": {
     "total": 52400.0,
