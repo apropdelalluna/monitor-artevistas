@@ -1124,5 +1124,194 @@
     "precio": "320,00€",
     "precio_num": 320.0,
     "url": "https://www.artevistas.eu/product/hotel-montesol/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Magnolia blanca",
+    "tipo": "desaparecida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-magnolia-blanca/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Magnolia rosa",
+    "tipo": "desaparecida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-magnolia-rosa/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Salvia",
+    "tipo": "desaparecida",
+    "precio": "300,00€",
+    "precio_num": 300.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-salvia/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Círculo 1",
+    "tipo": "desaparecida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-circulo-1/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Varita de flor",
+    "tipo": "desaparecida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-varita-de-flor/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Lirium",
+    "tipo": "desaparecida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-lirium/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Composició",
+    "tipo": "desaparecida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-composicio/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Pétalo 2",
+    "tipo": "desaparecida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-petalo-2/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar – Pétalo 1",
+    "tipo": "desaparecida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/maria-cuellar-petalo-1/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "Me Lata",
+    "obra": "Me Lata – T’estimo (RESERVED)",
+    "tipo": "vendida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/me-lata-testimo-25/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Misguided (RESERVED)",
+    "tipo": "vendida",
+    "precio": "1.100,00€",
+    "precio_num": 1100.0,
+    "url": "https://www.artevistas.eu/product/the-catman-misguided/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Art Loves You (RESERVED)",
+    "tipo": "vendida",
+    "precio": "550,00€",
+    "precio_num": 550.0,
+    "url": "https://www.artevistas.eu/product/the-catman-art-loves-you-3/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – You art here (Reserved)",
+    "tipo": "vendida",
+    "precio": "77,00€",
+    "precio_num": 77.0,
+    "url": "https://www.artevistas.eu/product/the-catman-you-art-here-2/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Outsider (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-outsider/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Pirate heart (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-pirate-heart-2/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Km 0 (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/30635/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Dreamer (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/dreamer-2/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Do not cross (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/do-not-cross/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Woman (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/woman/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Youniverse (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/youniverse/"
+  },
+  {
+    "fecha": "12/06/2026 09:03",
+    "artista": "The Catman",
+    "obra": "The Catman – 100% magic (RESERVED)",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
   }
 ]
