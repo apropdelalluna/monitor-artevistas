@@ -1313,5 +1313,59 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Escultura",
+    "tipo": "nueva",
+    "precio": "3.100,00€",
+    "precio_num": 3100.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-escultura/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Gallo de pelea",
+    "tipo": "nueva",
+    "precio": "3.500,00€",
+    "precio_num": 3500.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-gallo-de-pelea/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Guerrero",
+    "tipo": "nueva",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-guerrero/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Por detrash",
+    "tipo": "nueva",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-por-detrash/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – El desierto empieza aquí",
+    "tipo": "nueva",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/"
+  },
+  {
+    "fecha": "12/06/2026 19:01",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Hasta que llegó su hora",
+    "tipo": "nueva",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-hasta-que-llego-su-hora/"
   }
 ]
