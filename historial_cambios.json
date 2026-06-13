@@ -1367,5 +1367,68 @@
     "precio": "850,00€",
     "precio_num": 850.0,
     "url": "https://www.artevistas.eu/product/art-is-trash-hasta-que-llego-su-hora/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – 3",
+    "tipo": "vendida",
+    "precio": "520,00€",
+    "precio_num": 520.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-3/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – La basura y tú",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-la-basura-y-tu/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "Konair",
+    "obra": "Konair – Pink Tower",
+    "tipo": "vendida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/konair-pink-tower/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Spray Smiley",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "The Catman",
+    "obra": "The Catman – Woman",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-woman/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "The Catman",
+    "obra": "The Catman – Home sweet home",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-home-sweet-home/"
+  },
+  {
+    "fecha": "13/06/2026 18:50",
+    "artista": "The Catman",
+    "obra": "The Catman – Please say yes",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-please-say-yes/"
   }
 ]
