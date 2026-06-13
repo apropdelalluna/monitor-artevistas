@@ -1311,9 +1311,9 @@
     "ultima_actualizacion": "21/05/2026 22:37"
   },
   "Andrzej Farfulowski": {
-    "total": 85290.0,
-    "obras_vendidas": 64,
-    "obras_con_precio": 64,
+    "total": 85810.0,
+    "obras_vendidas": 65,
+    "obras_con_precio": 65,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1634,9 +1634,14 @@
         "titulo": "Andrzej Farfulowski – Autoretrato con gallo muerto paper",
         "precio_num": 80.0,
         "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoretrato-con-gallo-muerto/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – 3",
+        "precio_num": 520.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-3/"
       }
     ],
-    "ultima_actualizacion": "11/06/2026 11:10"
+    "ultima_actualizacion": "13/06/2026 18:50"
   },
   "António Azevedo": {
     "total": 13285.0,
@@ -1922,9 +1927,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 147030.0,
-    "obras_vendidas": 94,
-    "obras_con_precio": 94,
+    "total": 147530.0,
+    "obras_vendidas": 95,
+    "obras_con_precio": 95,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2395,9 +2400,14 @@
         "titulo": "Art is Trash – El profesional (RESERVED)",
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-el-profesional/"
+      },
+      {
+        "titulo": "Art is Trash – La basura y tú",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-la-basura-y-tu/"
       }
     ],
-    "ultima_actualizacion": "11/06/2026 18:15"
+    "ultima_actualizacion": "13/06/2026 18:50"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -6009,9 +6019,9 @@
     "ultima_actualizacion": "07/05/2026 04:52"
   },
   "Konair": {
-    "total": 46826.0,
-    "obras_vendidas": 79,
-    "obras_con_precio": 79,
+    "total": 47046.0,
+    "obras_vendidas": 80,
+    "obras_con_precio": 80,
     "detalle": [
       {
         "titulo": "Konair – Sin Título",
@@ -6407,9 +6417,14 @@
         "titulo": "https://www.artevistas.eu/product/untitled-74/",
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/untitled-74/"
+      },
+      {
+        "titulo": "Konair – Pink Tower",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/konair-pink-tower/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:54"
+    "ultima_actualizacion": "13/06/2026 18:50"
   },
   "Laura Erviti": {
     "total": 610.0,
@@ -7032,9 +7047,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 151552.0,
-    "obras_vendidas": 547,
-    "obras_con_precio": 547,
+    "total": 151642.0,
+    "obras_vendidas": 548,
+    "obras_con_precio": 548,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9769,9 +9784,14 @@
         "titulo": "Me Lata – T’estimo (RESERVED)",
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/me-lata-testimo-25/"
+      },
+      {
+        "titulo": "Me Lata – Spray Smiley",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
       }
     ],
-    "ultima_actualizacion": "12/06/2026 09:03"
+    "ultima_actualizacion": "13/06/2026 18:50"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
