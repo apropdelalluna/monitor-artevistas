@@ -838,6 +838,38 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/06/2026",
+      "artista": "Andrzej Farfulowski",
+      "obra": "Andrzej Farfulowski – 3",
+      "precio": "520,00€",
+      "precio_num": 520.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/06/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – La basura y tú",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/06/2026",
+      "artista": "Konair",
+      "obra": "Konair – Pink Tower",
+      "precio": "220,00€",
+      "precio_num": 220.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Spray Smiley",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
     }
   ]
 }
