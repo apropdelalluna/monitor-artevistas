@@ -1511,5 +1511,23 @@
     "precio": "450,00€",
     "precio_num": 450.0,
     "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/"
+  },
+  {
+    "fecha": "14/06/2026 18:38",
+    "artista": "180 Hilos",
+    "obra": "180 Hilos – Las abejas by Carmen García Gordillo",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/las-abejas-by-carmen-garcia-gordillo/"
+  },
+  {
+    "fecha": "14/06/2026 18:38",
+    "artista": "180 Hilos",
+    "obra": "180 hilos – Nature sauvage by Ana Jarén",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/"
   }
 ]
