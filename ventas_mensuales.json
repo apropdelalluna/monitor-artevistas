@@ -870,6 +870,30 @@
       "precio": "90,00€",
       "precio_num": 90.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "14/06/2026",
+      "artista": "El Xupet Negre",
+      "obra": "El Xupet Negre – Noir Art",
+      "precio": "700,00€",
+      "precio_num": 700.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Spray Smiley",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – It’s not easy but you can do it",
+      "precio": "450,00€",
+      "precio_num": 450.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
