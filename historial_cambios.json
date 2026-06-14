@@ -1430,5 +1430,86 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-please-say-yes/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – El espejo",
+    "tipo": "nueva",
+    "precio": "6.800,00€",
+    "precio_num": 6800.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-el-espejo/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Terminator",
+    "tipo": "nueva",
+    "precio": "6.430,00€",
+    "precio_num": 6430.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-terminator/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Junto a la guitarra",
+    "tipo": "nueva",
+    "precio": "5.885,00€",
+    "precio_num": 5885.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-junto-a-la-guitarra/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Sonar",
+    "tipo": "nueva",
+    "precio": "6.450,00€",
+    "precio_num": 6450.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-sonar/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – El pico",
+    "tipo": "nueva",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-el-pico/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "El Xupet Negre",
+    "obra": "El Xupet Negre – Noir Art",
+    "tipo": "vendida",
+    "precio": "700,00€",
+    "precio_num": 700.0,
+    "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Spray Smiley",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-4/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Spray Smiley",
+    "tipo": "nueva",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+  },
+  {
+    "fecha": "14/06/2026 11:38",
+    "artista": "Me Lata",
+    "obra": "Me Lata – It’s not easy but you can do it",
+    "tipo": "nueva_vendida",
+    "precio": "450,00€",
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/"
   }
 ]
