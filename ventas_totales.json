@@ -4283,9 +4283,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "El Xupet Negre": {
-    "total": 29857.0,
-    "obras_vendidas": 24,
-    "obras_con_precio": 24,
+    "total": 30557.0,
+    "obras_vendidas": 25,
+    "obras_con_precio": 25,
     "detalle": [
       {
         "titulo": "El Xupet Negre – Peace now",
@@ -4406,9 +4406,14 @@
         "titulo": "https://www.artevistas.eu/product/untitled-86/",
         "precio_num": 240.0,
         "url": "https://www.artevistas.eu/product/untitled-86/"
+      },
+      {
+        "titulo": "El Xupet Negre – Noir Art",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:44"
+    "ultima_actualizacion": "14/06/2026 11:38"
   },
   "Fèlix Roca": {
     "total": 17300.0,
@@ -7047,9 +7052,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 151642.0,
-    "obras_vendidas": 548,
-    "obras_con_precio": 548,
+    "total": 152182.0,
+    "obras_vendidas": 550,
+    "obras_con_precio": 550,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9789,9 +9794,19 @@
         "titulo": "Me Lata – Spray Smiley",
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+      },
+      {
+        "titulo": "Me Lata – Spray Smiley",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-4/"
+      },
+      {
+        "titulo": "Me Lata – It’s not easy but you can do it",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/"
       }
     ],
-    "ultima_actualizacion": "13/06/2026 18:50"
+    "ultima_actualizacion": "14/06/2026 11:38"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
