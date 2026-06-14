@@ -1,8 +1,8 @@
 {
   "180 Hilos": {
-    "total": 5599.0,
-    "obras_vendidas": 115,
-    "obras_con_precio": 115,
+    "total": 5749.0,
+    "obras_vendidas": 117,
+    "obras_con_precio": 117,
     "detalle": [
       {
         "titulo": "180 hilos – Pepa Reverter – Tot cor arcoiris",
@@ -578,9 +578,19 @@
         "titulo": "https://www.artevistas.eu/product/jelly-boys-2/",
         "precio_num": 35.0,
         "url": "https://www.artevistas.eu/product/jelly-boys-2/"
+      },
+      {
+        "titulo": "180 Hilos – Las abejas by Carmen García Gordillo",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/las-abejas-by-carmen-garcia-gordillo/"
+      },
+      {
+        "titulo": "180 hilos – Nature sauvage by Ana Jarén",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:24"
+    "ultima_actualizacion": "14/06/2026 18:38"
   },
   "Akore": {
     "total": 68415.0,
