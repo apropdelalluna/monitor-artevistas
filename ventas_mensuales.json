@@ -910,6 +910,14 @@
       "precio": "100,00€",
       "precio_num": 100.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "15/06/2026",
+      "artista": "Álvaro Gómez-Pantoja",
+      "obra": "Álvaro Gómez-Pantoja – Chico sentado junto a planta de interior",
+      "precio": "600,00€",
+      "precio_num": 600.0,
+      "tipo": "vendida"
     }
   ]
 }
