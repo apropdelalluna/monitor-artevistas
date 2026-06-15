@@ -1529,5 +1529,14 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/"
+  },
+  {
+    "fecha": "15/06/2026 17:57",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Chico sentado junto a planta de interior",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/"
   }
 ]
