@@ -12628,9 +12628,9 @@
     "ultima_actualizacion": "07/05/2026 06:38"
   },
   "Reb.MWC": {
-    "total": 240.0,
-    "obras_vendidas": 9,
-    "obras_con_precio": 9,
+    "total": 360.0,
+    "obras_vendidas": 13,
+    "obras_con_precio": 13,
     "detalle": [
       {
         "titulo": "Reb Mwc – Pg de Colom",
@@ -12676,14 +12676,34 @@
         "titulo": "Reb.MWC – Pffft Peach",
         "precio_num": 160.0,
         "url": "https://www.artevistas.eu/product/reb-mwc-pffft-peach/"
+      },
+      {
+        "titulo": "Reb Mwc – Self Portrait",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-self-portrait/"
+      },
+      {
+        "titulo": "Reb Mwc – With the power of a bear",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-with-the-power-of-a-bear/"
+      },
+      {
+        "titulo": "Reb Mwc – Perros Callejeros",
+        "precio_num": 25.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-perros-callejeros/"
+      },
+      {
+        "titulo": "Reb Mwc – Plaza Real",
+        "precio_num": 25.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-2/"
       }
     ],
-    "ultima_actualizacion": "15/05/2026 16:55"
+    "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 90.0,
-    "obras_vendidas": 2,
-    "obras_con_precio": 2,
+    "total": 610.0,
+    "obras_vendidas": 15,
+    "obras_con_precio": 15,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -12694,9 +12714,74 @@
         "titulo": "Rémi Boudeperche – La vague",
         "precio_num": 40.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Epave",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-epave/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Arbre, Parc Güell",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-arbre-parc-guell/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Cactus",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-cactus/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Sagrada Familia",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/32385/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Noche en Barcelona",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Barcelona",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Barcelona II",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona-ii/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Noche en Barcelona",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Caravane",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-caravane/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Sagrada Familia",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Casa Batllo II",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-casa-batllo-ii/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – L’inconnue",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-linconnue/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Dans ta gueule",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
       }
     ],
-    "ultima_actualizacion": "28/05/2026 13:35"
+    "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Sandra Partera": {
     "total": 49722.0,
