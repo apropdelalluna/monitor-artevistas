@@ -1538,5 +1538,158 @@
     "precio": "600,00€",
     "precio_num": 600.0,
     "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – Self Portrait",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-self-portrait/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – With the power of a bear",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-with-the-power-of-a-bear/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – Perros Callejeros",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-perros-callejeros/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – Plaza Real",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-2/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Epave",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-epave/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Arbre, Parc Güell",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-arbre-parc-guell/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Cactus",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-cactus/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/32385/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Noche en Barcelona",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Barcelona",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Barcelona II",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona-ii/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Noche en Barcelona",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Caravane",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-caravane/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Casa Batllo II",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-casa-batllo-ii/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – L’inconnue",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-linconnue/"
+  },
+  {
+    "fecha": "17/06/2026 21:12",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Dans ta gueule",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
   }
 ]
