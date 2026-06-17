@@ -918,6 +918,142 @@
       "precio": "600,00€",
       "precio_num": 600.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – Self Portrait",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – With the power of a bear",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – Perros Callejeros",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – Plaza Real",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Epave",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Arbre, Parc Güell",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Cactus",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Sagrada Familia",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Noche en Barcelona",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Barcelona",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Barcelona II",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Noche en Barcelona",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Caravane",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Sagrada Familia",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Casa Batllo II",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – L’inconnue",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Dans ta gueule",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
     }
   ]
 }
