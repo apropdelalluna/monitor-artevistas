@@ -1691,5 +1691,23 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
+  },
+  {
+    "fecha": "18/06/2026 12:54",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Noche en Barcelona",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona/"
+  },
+  {
+    "fecha": "18/06/2026 12:54",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Dans ta gueule",
+    "tipo": "nueva",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
   }
 ]
