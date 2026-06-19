@@ -1709,5 +1709,77 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Mireia Cifuentes",
+    "obra": "Mireia Cifuentes – Flores IV",
+    "tipo": "vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/mireia-cifuentes-flores-iv/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo Verde 3",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-verde-3/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia",
+    "tipo": "nueva",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/32385/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Noche en Barcelona",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Caravane",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-caravane/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Casa Batllo II",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-casa-batllo-ii/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Sergi Muñoz Lozano",
+    "obra": "Sergi Muñoz Lozano – Comienzos",
+    "tipo": "vendida",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/comienzos/"
+  },
+  {
+    "fecha": "19/06/2026 16:35",
+    "artista": "Yoshbott",
+    "obra": "Yoshbott – Taxonomy 118 (Hiena)",
+    "tipo": "nueva",
+    "precio": "1.900,00€",
+    "precio_num": 1900.0,
+    "url": "https://www.artevistas.eu/product/yoshbott-taxonomy-118-hiena/"
   }
 ]
