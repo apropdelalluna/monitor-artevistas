@@ -9982,9 +9982,9 @@
     "ultima_actualizacion": "07/06/2026 11:49"
   },
   "Mireia Cifuentes": {
-    "total": 10563.0,
-    "obras_vendidas": 36,
-    "obras_con_precio": 36,
+    "total": 10623.0,
+    "obras_vendidas": 37,
+    "obras_con_precio": 37,
     "detalle": [
       {
         "titulo": "Mireia Cifuentes – Cráneo",
@@ -10165,9 +10165,14 @@
         "titulo": "Mireia Cifuentes – Collage Rx",
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/mireia-cifuentes-collage-rx/"
+      },
+      {
+        "titulo": "Mireia Cifuentes – Flores IV",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-flores-iv/"
       }
     ],
-    "ultima_actualizacion": "31/05/2026 18:17"
+    "ultima_actualizacion": "19/06/2026 16:35"
   },
   "Miss Cutcut": {
     "total": 8190.0,
@@ -12240,9 +12245,9 @@
     "ultima_actualizacion": "16/05/2026 17:53"
   },
   "Ramón Pons": {
-    "total": 12830.0,
-    "obras_vendidas": 76,
-    "obras_con_precio": 76,
+    "total": 12930.0,
+    "obras_vendidas": 77,
+    "obras_con_precio": 77,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -12623,9 +12628,14 @@
         "titulo": "https://www.artevistas.eu/product/ramon-pons-individuo-rosa-2/",
         "precio_num": 80.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-individuo-rosa-2/"
+      },
+      {
+        "titulo": "Ramón Pons – Individuo Verde 3",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-verde-3/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:38"
+    "ultima_actualizacion": "19/06/2026 16:35"
   },
   "Reb.MWC": {
     "total": 360.0,
@@ -13401,9 +13411,9 @@
     "ultima_actualizacion": "07/06/2026 18:29"
   },
   "Sergi Muñoz Lozano": {
-    "total": 69610.0,
-    "obras_vendidas": 55,
-    "obras_con_precio": 55,
+    "total": 70410.0,
+    "obras_vendidas": 56,
+    "obras_con_precio": 56,
     "detalle": [
       {
         "titulo": "Sergi Muñoz Lozano – Identidad (RESERVED)",
@@ -13679,9 +13689,14 @@
         "titulo": "Sergi Muñoz Lozano – Lost soul face (RESERVED)",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-lost-soul-face/"
+      },
+      {
+        "titulo": "Sergi Muñoz Lozano – Comienzos",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/comienzos/"
       }
     ],
-    "ultima_actualizacion": "11/06/2026 18:15"
+    "ultima_actualizacion": "19/06/2026 16:35"
   },
   "Street Cyber": {
     "total": 1995.0,
