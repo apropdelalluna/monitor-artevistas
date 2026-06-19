@@ -1,8 +1,8 @@
 {
   "180 Hilos": {
-    "total": 5749.0,
-    "obras_vendidas": 117,
-    "obras_con_precio": 117,
+    "total": 5849.0,
+    "obras_vendidas": 118,
+    "obras_con_precio": 118,
     "detalle": [
       {
         "titulo": "180 hilos – Pepa Reverter – Tot cor arcoiris",
@@ -588,9 +588,14 @@
         "titulo": "180 hilos – Nature sauvage by Ana Jarén",
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/"
+      },
+      {
+        "titulo": "180 Hilos – Nature sauvage girafe by Ana Jarén",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/nature-sauvage-girafe-by-ana-jaren/"
       }
     ],
-    "ultima_actualizacion": "14/06/2026 18:38"
+    "ultima_actualizacion": "19/06/2026 20:25"
   },
   "Akore": {
     "total": 68415.0,
@@ -10308,9 +10313,9 @@
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "MOWCKA": {
-    "total": 5404.0,
-    "obras_vendidas": 43,
-    "obras_con_precio": 43,
+    "total": 5474.0,
+    "obras_vendidas": 44,
+    "obras_con_precio": 44,
     "detalle": [
       {
         "titulo": "Mowcka – Sin título 8",
@@ -10526,9 +10531,14 @@
         "titulo": "Mowcka – Apertura y liberación – 30 x 21 cm",
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/apertura-y-liberacion/"
+      },
+      {
+        "titulo": "Mowcka – Sin título 3",
+        "precio_num": 70.0,
+        "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-3/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:26"
+    "ultima_actualizacion": "19/06/2026 20:25"
   },
   "Neon Sandwich": {
     "total": 7150.0,
