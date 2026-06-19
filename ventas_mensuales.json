@@ -1078,6 +1078,22 @@
       "precio": "800,00€",
       "precio_num": 800.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "19/06/2026",
+      "artista": "180 Hilos",
+      "obra": "180 Hilos – Nature sauvage girafe by Ana Jarén",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "19/06/2026",
+      "artista": "MOWCKA",
+      "obra": "Mowcka – Sin título 3",
+      "precio": "70,00€",
+      "precio_num": 70.0,
+      "tipo": "vendida"
     }
   ]
 }
