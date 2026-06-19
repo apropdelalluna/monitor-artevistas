@@ -1781,5 +1781,41 @@
     "precio": "1.900,00€",
     "precio_num": 1900.0,
     "url": "https://www.artevistas.eu/product/yoshbott-taxonomy-118-hiena/"
+  },
+  {
+    "fecha": "19/06/2026 20:25",
+    "artista": "180 Hilos",
+    "obra": "180 Hilos – Nature sauvage girafe by Ana Jarén",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/nature-sauvage-girafe-by-ana-jaren/"
+  },
+  {
+    "fecha": "19/06/2026 20:25",
+    "artista": "MOWCKA",
+    "obra": "Mowcka – Sin título 3",
+    "tipo": "vendida",
+    "precio": "70,00€",
+    "precio_num": 70.0,
+    "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-3/"
+  },
+  {
+    "fecha": "19/06/2026 20:25",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Bunny Sagrada",
+    "tipo": "nueva",
+    "precio": "1.800,00€",
+    "precio_num": 1800.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-bunny-sagrada/"
+  },
+  {
+    "fecha": "19/06/2026 20:25",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Eyes wide twins",
+    "tipo": "nueva",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-eyes-wide-twins/"
   }
 ]
