@@ -1817,5 +1817,14 @@
     "precio": "800,00€",
     "precio_num": 800.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-eyes-wide-twins/"
+  },
+  {
+    "fecha": "20/06/2026 12:22",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Reflejo Urbano I",
+    "tipo": "vendida",
+    "precio": "7.800,00€",
+    "precio_num": 7800.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-reflejo-urbano-i/"
   }
 ]
