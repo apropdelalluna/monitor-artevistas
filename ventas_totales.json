@@ -11913,9 +11913,9 @@
     "ultima_actualizacion": "07/05/2026 06:34"
   },
   "Pepe Pujol Carabantes": {
-    "total": 46450.0,
-    "obras_vendidas": 15,
-    "obras_con_precio": 15,
+    "total": 54250.0,
+    "obras_vendidas": 16,
+    "obras_con_precio": 16,
     "detalle": [
       {
         "titulo": "Pepe Pujol Carabantes – Vilanova",
@@ -11991,9 +11991,14 @@
         "titulo": "https://www.artevistas.eu/product/pepe-pujol-carabantes-barcelona-2/",
         "precio_num": 5000.0,
         "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-barcelona-2/"
+      },
+      {
+        "titulo": "Pepe Pujol Carabantes – Reflejo Urbano I",
+        "precio_num": 7800.0,
+        "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-reflejo-urbano-i/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:34"
+    "ultima_actualizacion": "20/06/2026 12:22"
   },
   "Peta Rodríguez": {
     "total": 38880.0,
