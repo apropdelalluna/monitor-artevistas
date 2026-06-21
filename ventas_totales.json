@@ -1144,9 +1144,9 @@
     "ultima_actualizacion": "07/05/2026 04:27"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 18650.0,
-    "obras_vendidas": 36,
-    "obras_con_precio": 36,
+    "total": 19150.0,
+    "obras_vendidas": 37,
+    "obras_con_precio": 37,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1326,14 +1326,19 @@
         "titulo": "Álvaro Gómez-Pantoja – Chico sentado junto a planta de interior",
         "precio_num": 600.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombres de invierno",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombres-de-invierno/"
       }
     ],
-    "ultima_actualizacion": "15/06/2026 17:57"
+    "ultima_actualizacion": "21/06/2026 06:55"
   },
   "Andrzej Farfulowski": {
-    "total": 85810.0,
-    "obras_vendidas": 65,
-    "obras_con_precio": 65,
+    "total": 86850.0,
+    "obras_vendidas": 67,
+    "obras_con_precio": 67,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1659,9 +1664,19 @@
         "titulo": "Andrzej Farfulowski – 3",
         "precio_num": 520.0,
         "url": "https://www.artevistas.eu/product/andrzej-farfulowski-3/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – 9",
+        "precio_num": 520.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-9/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – 12",
+        "precio_num": 520.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-12/"
       }
     ],
-    "ultima_actualizacion": "13/06/2026 18:50"
+    "ultima_actualizacion": "21/06/2026 06:55"
   },
   "António Azevedo": {
     "total": 13285.0,
@@ -7072,9 +7087,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 152182.0,
-    "obras_vendidas": 550,
-    "obras_con_precio": 550,
+    "total": 152277.0,
+    "obras_vendidas": 551,
+    "obras_con_precio": 551,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9824,9 +9839,14 @@
         "titulo": "Me Lata – It’s not easy but you can do it",
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/"
+      },
+      {
+        "titulo": "Me Lata – Wild",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/me-lata-wild/"
       }
     ],
-    "ultima_actualizacion": "14/06/2026 11:38"
+    "ultima_actualizacion": "21/06/2026 06:55"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
