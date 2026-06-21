@@ -1102,6 +1102,38 @@
       "precio": "7.800,00€",
       "precio_num": 7800.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "21/06/2026",
+      "artista": "Álvaro Gómez-Pantoja",
+      "obra": "Álvaro Gómez-Pantoja – Hombres de invierno",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "21/06/2026",
+      "artista": "Andrzej Farfulowski",
+      "obra": "Andrzej Farfulowski – 9",
+      "precio": "520,00€",
+      "precio_num": 520.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "21/06/2026",
+      "artista": "Andrzej Farfulowski",
+      "obra": "Andrzej Farfulowski – 12",
+      "precio": "520,00€",
+      "precio_num": 520.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "21/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Wild",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
     }
   ]
 }
