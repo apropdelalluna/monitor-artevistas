@@ -1134,6 +1134,14 @@
       "precio": "95,00€",
       "precio_num": 95.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "23/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Shine",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
     }
   ]
 }
