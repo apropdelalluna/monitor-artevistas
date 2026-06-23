@@ -1862,5 +1862,14 @@
     "precio": "95,00€",
     "precio_num": 95.0,
     "url": "https://www.artevistas.eu/product/me-lata-wild/"
+  },
+  {
+    "fecha": "23/06/2026 19:44",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Shine",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-shine-2/"
   }
 ]
