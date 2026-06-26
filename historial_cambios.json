@@ -1871,5 +1871,14 @@
     "precio": "200,00€",
     "precio_num": 200.0,
     "url": "https://www.artevistas.eu/product/me-lata-shine-2/"
+  },
+  {
+    "fecha": "26/06/2026 15:23",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Zulu boy Pink and Black",
+    "tipo": "vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/"
   }
 ]
