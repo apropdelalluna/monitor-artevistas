@@ -1142,6 +1142,14 @@
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "26/06/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Zulu boy Pink and Black",
+      "precio": "60,00€",
+      "precio_num": 60.0,
+      "tipo": "vendida"
     }
   ]
 }
