@@ -14664,9 +14664,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 80626.0,
-    "obras_vendidas": 139,
-    "obras_con_precio": 139,
+    "total": 80686.0,
+    "obras_vendidas": 140,
+    "obras_con_precio": 140,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -15362,9 +15362,14 @@
         "titulo": "White Rabbit – Contemporary Mask – Boy 2",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/"
+      },
+      {
+        "titulo": "White Rabbit – Zulu boy Pink and Black",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/"
       }
     ],
-    "ultima_actualizacion": "07/06/2026 11:49"
+    "ultima_actualizacion": "26/06/2026 15:23"
   },
   "Xavi Mira": {
     "total": 122880.0,
