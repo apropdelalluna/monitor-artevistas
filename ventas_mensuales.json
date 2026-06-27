@@ -1150,6 +1150,22 @@
       "precio": "60,00€",
       "precio_num": 60.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "27/06/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Resumiendo",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/06/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Tus pasos",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
