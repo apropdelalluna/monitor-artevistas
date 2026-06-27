@@ -1880,5 +1880,23 @@
     "precio": "60,00€",
     "precio_num": 60.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/"
+  },
+  {
+    "fecha": "27/06/2026 19:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Resumiendo",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-resumiendo/"
+  },
+  {
+    "fecha": "27/06/2026 19:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Tus pasos",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/"
   }
 ]
