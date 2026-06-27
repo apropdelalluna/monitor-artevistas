@@ -13880,9 +13880,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 11939.0,
-    "obras_vendidas": 123,
-    "obras_con_precio": 123,
+    "total": 12035.0,
+    "obras_vendidas": 125,
+    "obras_con_precio": 125,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14498,9 +14498,19 @@
         "titulo": "The Catman – 100% magic (RESERVED)",
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
+      },
+      {
+        "titulo": "The Catman – Resumiendo",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-resumiendo/"
+      },
+      {
+        "titulo": "The Catman – Tus pasos",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/"
       }
     ],
-    "ultima_actualizacion": "12/06/2026 09:03"
+    "ultima_actualizacion": "27/06/2026 19:59"
   },
   "Tim Marsh": {
     "total": 52400.0,
