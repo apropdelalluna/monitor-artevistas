@@ -598,9 +598,9 @@
     "ultima_actualizacion": "19/06/2026 20:25"
   },
   "Akore": {
-    "total": 68415.0,
-    "obras_vendidas": 74,
-    "obras_con_precio": 74,
+    "total": 68915.0,
+    "obras_vendidas": 75,
+    "obras_con_precio": 75,
     "detalle": [
       {
         "titulo": "Akore – Roots",
@@ -971,9 +971,14 @@
         "titulo": "https://www.artevistas.eu/product/delight-2/",
         "precio_num": 900.0,
         "url": "https://www.artevistas.eu/product/delight-2/"
+      },
+      {
+        "titulo": "Akore – Street tribe",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/street-tribe/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:26"
+    "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Alberto Blanchart": {
     "total": 27100.0,
@@ -3968,9 +3973,9 @@
     "ultima_actualizacion": "07/05/2026 04:42"
   },
   "Charlax": {
-    "total": 6480.0,
-    "obras_vendidas": 20,
-    "obras_con_precio": 20,
+    "total": 6730.0,
+    "obras_vendidas": 21,
+    "obras_con_precio": 21,
     "detalle": [
       {
         "titulo": "Charlax – La création",
@@ -4071,9 +4076,14 @@
         "titulo": "Charlax – Macrocosme III",
         "precio_num": 38.0,
         "url": "https://www.artevistas.eu/product/macrocosme-3/"
+      },
+      {
+        "titulo": "Charlax – L’illusion",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/charlax-lillusion/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:43"
+    "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Corentin Huon de Penanster": {
     "total": 21740.0,
@@ -12751,9 +12761,9 @@
     "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 610.0,
-    "obras_vendidas": 15,
-    "obras_con_precio": 15,
+    "total": 650.0,
+    "obras_vendidas": 16,
+    "obras_con_precio": 16,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -12829,9 +12839,14 @@
         "titulo": "Rémi Boudeperche – Dans ta gueule",
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – La vague",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
       }
     ],
-    "ultima_actualizacion": "17/06/2026 21:12"
+    "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Sandra Partera": {
     "total": 49722.0,
