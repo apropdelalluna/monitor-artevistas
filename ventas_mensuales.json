@@ -1166,6 +1166,30 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "28/06/2026",
+      "artista": "Akore",
+      "obra": "Akore – Street tribe",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "28/06/2026",
+      "artista": "Charlax",
+      "obra": "Charlax – L’illusion",
+      "precio": "250,00€",
+      "precio_num": 250.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "28/06/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – La vague",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
     }
   ]
 }
