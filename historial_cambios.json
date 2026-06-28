@@ -1898,5 +1898,32 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/"
+  },
+  {
+    "fecha": "28/06/2026 18:47",
+    "artista": "Akore",
+    "obra": "Akore – Street tribe",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/street-tribe/"
+  },
+  {
+    "fecha": "28/06/2026 18:47",
+    "artista": "Charlax",
+    "obra": "Charlax – L’illusion",
+    "tipo": "vendida",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/charlax-lillusion/"
+  },
+  {
+    "fecha": "28/06/2026 18:47",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – La vague",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
   }
 ]
