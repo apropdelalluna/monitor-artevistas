@@ -5951,9 +5951,9 @@
     "ultima_actualizacion": "07/05/2026 04:52"
   },
   "Julien Deniau aka Unavista": {
-    "total": 13190.0,
-    "obras_vendidas": 22,
-    "obras_con_precio": 22,
+    "total": 13440.0,
+    "obras_vendidas": 23,
+    "obras_con_precio": 23,
     "detalle": [
       {
         "titulo": "Julien Deniau aka Unavista – Japanese fish",
@@ -6064,9 +6064,14 @@
         "titulo": "Julien Deniau aka Unavista – Burned Forest Lady",
         "precio_num": 980.0,
         "url": "https://www.artevistas.eu/product/burned-forest-lady/"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Gorion",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-gorion/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:52"
+    "ultima_actualizacion": "29/06/2026 18:17"
   },
   "Konair": {
     "total": 47046.0,
@@ -7097,9 +7102,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 152477.0,
-    "obras_vendidas": 552,
-    "obras_con_precio": 552,
+    "total": 153777.0,
+    "obras_vendidas": 553,
+    "obras_con_precio": 553,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9859,9 +9864,14 @@
         "titulo": "Me Lata – Shine",
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/me-lata-shine-2/"
+      },
+      {
+        "titulo": "Me Lata – We are crazy people in love with life",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/"
       }
     ],
-    "ultima_actualizacion": "23/06/2026 19:44"
+    "ultima_actualizacion": "29/06/2026 18:17"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
