@@ -1925,5 +1925,23 @@
     "precio": "40,00€",
     "precio_num": 40.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+  },
+  {
+    "fecha": "29/06/2026 18:17",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau aka Unavista – Gorion",
+    "tipo": "vendida",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-gorion/"
+  },
+  {
+    "fecha": "29/06/2026 18:17",
+    "artista": "Me Lata",
+    "obra": "Me Lata – We are crazy people in love with life",
+    "tipo": "vendida",
+    "precio": "1.300,00€",
+    "precio_num": 1300.0,
+    "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/"
   }
 ]
