@@ -1190,6 +1190,22 @@
       "precio": "40,00€",
       "precio_num": 40.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "29/06/2026",
+      "artista": "Julien Deniau aka Unavista",
+      "obra": "Julien Deniau aka Unavista – Gorion",
+      "precio": "250,00€",
+      "precio_num": 250.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "29/06/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – We are crazy people in love with life",
+      "precio": "1.300,00€",
+      "precio_num": 1300.0,
+      "tipo": "vendida"
     }
   ]
 }
