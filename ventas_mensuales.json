@@ -1207,5 +1207,15 @@
       "precio_num": 1300.0,
       "tipo": "vendida"
     }
+  ],
+  "2026-07": [
+    {
+      "fecha": "01/07/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Marta Ballvé – Soneto",
+      "precio": "2.700,00€",
+      "precio_num": 2700.0,
+      "tipo": "vendida"
+    }
   ]
 }
