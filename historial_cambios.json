@@ -1952,5 +1952,32 @@
     "precio": "2.700,00€",
     "precio_num": 2700.0,
     "url": "https://www.artevistas.eu/product/soneto/"
+  },
+  {
+    "fecha": "01/07/2026 18:20",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Chica tumbada en sófa con estampado floral",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/"
+  },
+  {
+    "fecha": "01/07/2026 18:20",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Cortez – Living free",
+    "tipo": "nueva",
+    "precio": "3.500,00€",
+    "precio_num": 3500.0,
+    "url": "https://www.artevistas.eu/product/cortez-living-free/"
+  },
+  {
+    "fecha": "01/07/2026 18:20",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Cortez – Juliano",
+    "tipo": "nueva",
+    "precio": "3.500,00€",
+    "precio_num": 3500.0,
+    "url": "https://www.artevistas.eu/product/cortez-juliano/"
   }
 ]
