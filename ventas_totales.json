@@ -1149,9 +1149,9 @@
     "ultima_actualizacion": "07/05/2026 04:27"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 19150.0,
-    "obras_vendidas": 37,
-    "obras_con_precio": 37,
+    "total": 19650.0,
+    "obras_vendidas": 38,
+    "obras_con_precio": 38,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1336,9 +1336,14 @@
         "titulo": "Álvaro Gómez-Pantoja – Hombres de invierno",
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombres-de-invierno/"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chica tumbada en sófa con estampado floral",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/"
       }
     ],
-    "ultima_actualizacion": "21/06/2026 06:55"
+    "ultima_actualizacion": "01/07/2026 18:20"
   },
   "Andrzej Farfulowski": {
     "total": 86850.0,
