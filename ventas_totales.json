@@ -16342,9 +16342,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 49774.0,
-    "obras_vendidas": 35,
-    "obras_con_precio": 35,
+    "total": 52474.0,
+    "obras_vendidas": 36,
+    "obras_con_precio": 36,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -16520,8 +16520,13 @@
         "titulo": "Balu – Untitled",
         "precio_num": 3800.0,
         "url": "https://www.artevistas.eu/product/balu-untitled/"
+      },
+      {
+        "titulo": "Marta Ballvé – Soneto",
+        "precio_num": 2700.0,
+        "url": "https://www.artevistas.eu/product/soneto/"
       }
     ],
-    "ultima_actualizacion": "10/06/2026 12:06"
+    "ultima_actualizacion": "01/07/2026 09:26"
   }
 }
