@@ -1943,5 +1943,14 @@
     "precio": "1.300,00€",
     "precio_num": 1300.0,
     "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/"
+  },
+  {
+    "fecha": "01/07/2026 09:26",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Marta Ballvé – Soneto",
+    "tipo": "vendida",
+    "precio": "2.700,00€",
+    "precio_num": 2700.0,
+    "url": "https://www.artevistas.eu/product/soneto/"
   }
 ]
