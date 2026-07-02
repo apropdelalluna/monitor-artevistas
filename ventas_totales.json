@@ -7107,9 +7107,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 153777.0,
-    "obras_vendidas": 553,
-    "obras_con_precio": 553,
+    "total": 153997.0,
+    "obras_vendidas": 554,
+    "obras_con_precio": 554,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9874,9 +9874,14 @@
         "titulo": "Me Lata – We are crazy people in love with life",
         "precio_num": 1300.0,
         "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/"
+      },
+      {
+        "titulo": "Me Lata – Big Hug",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/me-lata-big-hug/"
       }
     ],
-    "ultima_actualizacion": "29/06/2026 18:20"
+    "ultima_actualizacion": "02/07/2026 10:00"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
