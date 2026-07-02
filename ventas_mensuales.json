@@ -1232,6 +1232,62 @@
       "precio": "220,00€",
       "precio_num": 220.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Mini lata amarillo",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 7",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 6",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 9",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 2",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 1",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "02/07/2026",
+      "artista": "Peta Rodríguez",
+      "obra": "Peta Rodríguez – Totemismo 4",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
     }
   ]
 }
