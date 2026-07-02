@@ -1979,5 +1979,14 @@
     "precio": "3.500,00€",
     "precio_num": 3500.0,
     "url": "https://www.artevistas.eu/product/cortez-juliano/"
+  },
+  {
+    "fecha": "02/07/2026 10:00",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Big Hug",
+    "tipo": "vendida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/me-lata-big-hug/"
   }
 ]
