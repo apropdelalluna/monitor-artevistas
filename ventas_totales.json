@@ -7107,9 +7107,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 153997.0,
-    "obras_vendidas": 554,
-    "obras_con_precio": 554,
+    "total": 154017.0,
+    "obras_vendidas": 555,
+    "obras_con_precio": 555,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9879,9 +9879,14 @@
         "titulo": "Me Lata – Big Hug",
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/me-lata-big-hug/"
+      },
+      {
+        "titulo": "Me Lata – Mini lata amarillo",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/me-lata-mini-lata-amarillo/"
       }
     ],
-    "ultima_actualizacion": "02/07/2026 10:00"
+    "ultima_actualizacion": "02/07/2026 22:11"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -12056,9 +12061,9 @@
     "ultima_actualizacion": "20/06/2026 12:22"
   },
   "Peta Rodríguez": {
-    "total": 38880.0,
-    "obras_vendidas": 26,
-    "obras_con_precio": 26,
+    "total": 40560.0,
+    "obras_vendidas": 32,
+    "obras_con_precio": 32,
     "detalle": [
       {
         "titulo": "Peta Rodríguez – Huellas 4",
@@ -12189,9 +12194,39 @@
         "titulo": "https://www.artevistas.eu/product/peta-rodriguez-bar/",
         "precio_num": 400.0,
         "url": "https://www.artevistas.eu/product/peta-rodriguez-bar/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 7",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-7/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 6",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-6/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 9",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-5/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 2",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-3/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 1",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-2/"
+      },
+      {
+        "titulo": "Peta Rodríguez – Totemismo 4",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-1/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 06:35"
+    "ultima_actualizacion": "02/07/2026 22:11"
   },
   "Peter Doherty": {
     "total": 18400.0,
