@@ -1988,5 +1988,68 @@
     "precio": "220,00€",
     "precio_num": 220.0,
     "url": "https://www.artevistas.eu/product/me-lata-big-hug/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Mini lata amarillo",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/me-lata-mini-lata-amarillo/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 7",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-7/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 6",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-6/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 9",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-5/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 2",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-3/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 1",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-2/"
+  },
+  {
+    "fecha": "02/07/2026 22:11",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Totemismo 4",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-1/"
   }
 ]
