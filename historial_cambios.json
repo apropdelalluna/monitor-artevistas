@@ -2069,5 +2069,14 @@
     "precio": "850,00€",
     "precio_num": 850.0,
     "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/"
+  },
+  {
+    "fecha": "04/07/2026 18:36",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Big dreams forever and ever",
+    "tipo": "vendida",
+    "precio": "700,00€",
+    "precio_num": 700.0,
+    "url": "https://www.artevistas.eu/product/me-lata-big-dreams-forever-and-ever/"
   }
 ]
