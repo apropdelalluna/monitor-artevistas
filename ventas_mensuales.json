@@ -1288,6 +1288,22 @@
       "precio": "280,00€",
       "precio_num": 280.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "04/07/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Guerrero",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "04/07/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – El desierto empieza aquí",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
     }
   ]
 }
