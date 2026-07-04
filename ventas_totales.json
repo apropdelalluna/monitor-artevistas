@@ -1972,9 +1972,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 147530.0,
-    "obras_vendidas": 95,
-    "obras_con_precio": 95,
+    "total": 149230.0,
+    "obras_vendidas": 97,
+    "obras_con_precio": 97,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2450,9 +2450,19 @@
         "titulo": "Art is Trash – La basura y tú",
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-la-basura-y-tu/"
+      },
+      {
+        "titulo": "Art is Trash – Guerrero",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-guerrero/"
+      },
+      {
+        "titulo": "Art is Trash – El desierto empieza aquí",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/"
       }
     ],
-    "ultima_actualizacion": "13/06/2026 18:50"
+    "ultima_actualizacion": "04/07/2026 17:36"
   },
   "Ashwan": {
     "total": 7515.0,
