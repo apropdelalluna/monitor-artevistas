@@ -2051,5 +2051,23 @@
     "precio": "280,00€",
     "precio_num": 280.0,
     "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-1/"
+  },
+  {
+    "fecha": "04/07/2026 17:36",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Guerrero",
+    "tipo": "vendida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-guerrero/"
+  },
+  {
+    "fecha": "04/07/2026 17:36",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – El desierto empieza aquí",
+    "tipo": "vendida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/"
   }
 ]
