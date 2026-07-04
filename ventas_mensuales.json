@@ -1304,6 +1304,14 @@
       "precio": "850,00€",
       "precio_num": 850.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "04/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Big dreams forever and ever",
+      "precio": "700,00€",
+      "precio_num": 700.0,
+      "tipo": "vendida"
     }
   ]
 }
