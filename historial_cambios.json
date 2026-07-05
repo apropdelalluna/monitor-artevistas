@@ -2078,5 +2078,14 @@
     "precio": "700,00€",
     "precio_num": 700.0,
     "url": "https://www.artevistas.eu/product/me-lata-big-dreams-forever-and-ever/"
+  },
+  {
+    "fecha": "05/07/2026 15:16",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – Victoria",
+    "tipo": "vendida",
+    "precio": "1.500,00€",
+    "precio_num": 1500.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-victoria/"
   }
 ]
