@@ -2087,5 +2087,32 @@
     "precio": "1.500,00€",
     "precio_num": 1500.0,
     "url": "https://www.artevistas.eu/product/andrzej-farfulowski-victoria/"
+  },
+  {
+    "fecha": "06/07/2026 11:11",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Untitled II",
+    "tipo": "vendida",
+    "precio": "75,00€",
+    "precio_num": 75.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-untitled-ii/"
+  },
+  {
+    "fecha": "06/07/2026 11:11",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Untitled I",
+    "tipo": "vendida",
+    "precio": "75,00€",
+    "precio_num": 75.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/"
+  },
+  {
+    "fecha": "06/07/2026 11:11",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Tortoises",
+    "tipo": "nueva_vendida",
+    "precio": "7.000,00€",
+    "precio_num": 7000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-tortoises/"
   }
 ]
