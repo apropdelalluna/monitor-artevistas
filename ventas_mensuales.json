@@ -1320,6 +1320,30 @@
       "precio": "1.500,00€",
       "precio_num": 1500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "06/07/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Untitled II",
+      "precio": "75,00€",
+      "precio_num": 75.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/07/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Untitled I",
+      "precio": "75,00€",
+      "precio_num": 75.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/07/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – Tortoises",
+      "precio": "7.000,00€",
+      "precio_num": 7000.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
