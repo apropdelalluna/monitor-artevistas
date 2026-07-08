@@ -1344,6 +1344,14 @@
       "precio": "7.000,00€",
       "precio_num": 7000.0,
       "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "08/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Spray Smiley",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
     }
   ]
 }
