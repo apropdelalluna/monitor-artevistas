@@ -2114,5 +2114,14 @@
     "precio": "7.000,00€",
     "precio_num": 7000.0,
     "url": "https://www.artevistas.eu/product/mark-rox-tortoises/"
+  },
+  {
+    "fecha": "08/07/2026 10:43",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Spray Smiley",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
   }
 ]
