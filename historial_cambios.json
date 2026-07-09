@@ -2132,5 +2132,32 @@
     "precio": "30,00€",
     "precio_num": 30.0,
     "url": "https://www.artevistas.eu/product/sater-rusty-subways-berlin-2/"
+  },
+  {
+    "fecha": "09/07/2026 20:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Dream bigger than big",
+    "tipo": "nueva",
+    "precio": "400,00€",
+    "precio_num": 400.0,
+    "url": "https://www.artevistas.eu/product/me-lata-dream-bigger-than-big-2/"
+  },
+  {
+    "fecha": "09/07/2026 20:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – We are Revolution",
+    "tipo": "nueva",
+    "precio": "1.300,00€",
+    "precio_num": 1300.0,
+    "url": "https://www.artevistas.eu/product/me-lata-we-are-revolution/"
+  },
+  {
+    "fecha": "09/07/2026 20:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Art",
+    "tipo": "nueva",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/me-lata-art/"
   }
 ]
