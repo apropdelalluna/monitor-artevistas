@@ -2123,5 +2123,14 @@
     "precio": "90,00€",
     "precio_num": 90.0,
     "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+  },
+  {
+    "fecha": "09/07/2026 06:49",
+    "artista": "Sater",
+    "obra": "Sater – Rusty subways – Berlín",
+    "tipo": "nueva",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/sater-rusty-subways-berlin-2/"
   }
 ]
