@@ -1352,6 +1352,22 @@
       "precio": "90,00€",
       "precio_num": 90.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "10/07/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Abacus Memento Mori",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "10/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Formidable",
+      "precio": "250,00€",
+      "precio_num": 250.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
