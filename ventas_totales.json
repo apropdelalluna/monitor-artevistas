@@ -7137,9 +7137,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 154807.0,
-    "obras_vendidas": 557,
-    "obras_con_precio": 557,
+    "total": 155057.0,
+    "obras_vendidas": 558,
+    "obras_con_precio": 558,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9924,9 +9924,14 @@
         "titulo": "Me Lata – Spray Smiley",
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+      },
+      {
+        "titulo": "Me Lata – Formidable",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/me-lata-formidable/"
       }
     ],
-    "ultima_actualizacion": "08/07/2026 10:43"
+    "ultima_actualizacion": "10/07/2026 18:22"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
