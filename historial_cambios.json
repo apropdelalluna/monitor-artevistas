@@ -2159,5 +2159,23 @@
     "precio": "120,00€",
     "precio_num": 120.0,
     "url": "https://www.artevistas.eu/product/me-lata-art/"
+  },
+  {
+    "fecha": "10/07/2026 18:22",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Abacus Memento Mori",
+    "tipo": "desaparecida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-abacus-memento-mori/"
+  },
+  {
+    "fecha": "10/07/2026 18:22",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Formidable",
+    "tipo": "nueva_vendida",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/me-lata-formidable/"
   }
 ]
