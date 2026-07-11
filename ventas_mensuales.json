@@ -1368,6 +1368,14 @@
       "precio": "250,00€",
       "precio_num": 250.0,
       "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "11/07/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – ARTonaut #Girl power",
+      "precio": "2.800,00€",
+      "precio_num": 2800.0,
+      "tipo": "desaparecida"
     }
   ]
 }
