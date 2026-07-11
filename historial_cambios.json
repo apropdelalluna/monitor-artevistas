@@ -2393,5 +2393,14 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-individuo-negro-y-rojo/"
+  },
+  {
+    "fecha": "11/07/2026 18:45",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #Girl power",
+    "tipo": "desaparecida",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-girl-power/"
   }
 ]
