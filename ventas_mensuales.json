@@ -1376,6 +1376,14 @@
       "precio": "2.800,00€",
       "precio_num": 2800.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "12/07/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Juan Manuel Pajares – Beautiful Chaos",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
