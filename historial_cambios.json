@@ -2438,5 +2438,14 @@
     "precio": "Precio no disponible",
     "precio_num": 0.0,
     "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"
+  },
+  {
+    "fecha": "12/07/2026 18:06",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love (RESERVED)",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-22/"
   }
 ]
