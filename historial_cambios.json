@@ -2402,5 +2402,41 @@
     "precio": "2.800,00€",
     "precio_num": 2800.0,
     "url": "https://www.artevistas.eu/product/mark-rox-artonaut-girl-power/"
+  },
+  {
+    "fecha": "12/07/2026 15:28",
+    "artista": "Frank Diamond",
+    "obra": "Frank Diamond – Broken memories",
+    "tipo": "nueva",
+    "precio": "400,00€",
+    "precio_num": 400.0,
+    "url": "https://www.artevistas.eu/product/broken-memories/"
+  },
+  {
+    "fecha": "12/07/2026 15:28",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Juan Manuel Pajares – Boxe",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/"
+  },
+  {
+    "fecha": "12/07/2026 15:28",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Juan Manuel Pajares – Davinci",
+    "tipo": "nueva",
+    "precio": "2.300,00€",
+    "precio_num": 2300.0,
+    "url": "https://www.artevistas.eu/product/juan-manuel-pajares-davinci/"
+  },
+  {
+    "fecha": "12/07/2026 15:28",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Juan Manuel Pajares – Beautiful Chaos",
+    "tipo": "nueva_vendida",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"
   }
 ]
