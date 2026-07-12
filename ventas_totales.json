@@ -16433,7 +16433,7 @@
   },
   "ZZZ – Various Artists": {
     "total": 52474.0,
-    "obras_vendidas": 36,
+    "obras_vendidas": 37,
     "obras_con_precio": 36,
     "detalle": [
       {
@@ -16615,8 +16615,13 @@
         "titulo": "Marta Ballvé – Soneto",
         "precio_num": 2700.0,
         "url": "https://www.artevistas.eu/product/soneto/"
+      },
+      {
+        "titulo": "Juan Manuel Pajares – Beautiful Chaos",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"
       }
     ],
-    "ultima_actualizacion": "01/07/2026 09:26"
+    "ultima_actualizacion": "12/07/2026 15:28"
   }
 }
