@@ -1384,6 +1384,14 @@
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "12/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love (RESERVED)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
     }
   ]
 }
