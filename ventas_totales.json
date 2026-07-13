@@ -2611,9 +2611,9 @@
     "ultima_actualizacion": "07/05/2026 04:34"
   },
   "BL2A": {
-    "total": 84430.0,
-    "obras_vendidas": 86,
-    "obras_con_precio": 86,
+    "total": 86630.0,
+    "obras_vendidas": 87,
+    "obras_con_precio": 87,
     "detalle": [
       {
         "titulo": "BL2A – Comparte tu mente",
@@ -3044,9 +3044,14 @@
         "titulo": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-2/",
         "precio_num": 600.0,
         "url": "https://www.artevistas.eu/product/siempre-perdemos-tiempo-2/"
+      },
+      {
+        "titulo": "BL2A – Ukulele planta cara (concert ukulele)",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/ukelele-planta-cara-ukelele-concierto/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:37"
+    "ultima_actualizacion": "13/07/2026 10:37"
   },
   "Bran Sólo": {
     "total": 2610.0,
@@ -14000,9 +14005,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12035.0,
-    "obras_vendidas": 125,
-    "obras_con_precio": 125,
+    "total": 12083.0,
+    "obras_vendidas": 126,
+    "obras_con_precio": 126,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14628,9 +14633,14 @@
         "titulo": "The Catman – Tus pasos",
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/"
+      },
+      {
+        "titulo": "The Catman – Passion kisses",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-passion-kisses/"
       }
     ],
-    "ultima_actualizacion": "27/06/2026 19:59"
+    "ultima_actualizacion": "13/07/2026 10:37"
   },
   "Tim Marsh": {
     "total": 52400.0,
@@ -16438,7 +16448,7 @@
   },
   "ZZZ – Various Artists": {
     "total": 52474.0,
-    "obras_vendidas": 37,
+    "obras_vendidas": 38,
     "obras_con_precio": 36,
     "detalle": [
       {
@@ -16625,8 +16635,13 @@
         "titulo": "Juan Manuel Pajares – Beautiful Chaos",
         "precio_num": 0.0,
         "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"
+      },
+      {
+        "titulo": "Juan Manuel Pajares – Old fashion",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/"
       }
     ],
-    "ultima_actualizacion": "12/07/2026 15:28"
+    "ultima_actualizacion": "13/07/2026 10:37"
   }
 }
