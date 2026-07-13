@@ -2447,5 +2447,32 @@
     "precio": "200,00€",
     "precio_num": 200.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-22/"
+  },
+  {
+    "fecha": "13/07/2026 10:37",
+    "artista": "BL2A",
+    "obra": "BL2A – Ukulele planta cara (concert ukulele)",
+    "tipo": "vendida",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/ukelele-planta-cara-ukelele-concierto/"
+  },
+  {
+    "fecha": "13/07/2026 10:37",
+    "artista": "The Catman",
+    "obra": "The Catman – Passion kisses",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-passion-kisses/"
+  },
+  {
+    "fecha": "13/07/2026 10:37",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Juan Manuel Pajares – Old fashion",
+    "tipo": "nueva_vendida",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/"
   }
 ]
