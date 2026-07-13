@@ -1392,6 +1392,30 @@
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/07/2026",
+      "artista": "BL2A",
+      "obra": "BL2A – Ukulele planta cara (concert ukulele)",
+      "precio": "2.200,00€",
+      "precio_num": 2200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/07/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Passion kisses",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/07/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Juan Manuel Pajares – Old fashion",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
