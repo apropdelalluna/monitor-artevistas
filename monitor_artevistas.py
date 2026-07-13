@@ -22,6 +22,7 @@ import re
 import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from datetime import datetime
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -268,8 +269,95 @@ def precio_a_numero(precio_str: str) -> float:
 
 
 
+def _slug_desde_url(url_producto: str) -> str:
+    """Extrae el slug de una URL tipo .../product/mi-obra-2/ -> 'mi-obra-2'."""
+    partes = [p for p in urlparse(url_producto).path.split("/") if p]
+    return partes[-1] if partes else ""
+
+
+def _precio_via_json_ld(soup: BeautifulSoup) -> float:
+    """Nivel 1: busca priceSpecification en JSON-LD (método original)."""
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(script.string or "")
+            productos = []
+            if isinstance(data, dict):
+                if data.get("@type") == "Product":
+                    productos.append(data)
+                elif "@graph" in data:
+                    productos = [x for x in data["@graph"] if x.get("@type") == "Product"]
+            for prod in productos:
+                for offer in prod.get("offers", []):
+                    for spec in offer.get("priceSpecification", []):
+                        precio_num = float(spec.get("price", 0))
+                        if precio_num > 0:
+                            return precio_num
+        except Exception:
+            continue
+    return 0.0
+
+
+def _precio_via_store_api(url_producto: str, headers: dict) -> float:
+    """Nivel 2: WooCommerce Store API (no requiere autenticación).
+    A veces conserva el precio aunque el JSON-LD ya lo haya perdido tras la venta."""
+    slug = _slug_desde_url(url_producto)
+    if not slug:
+        return 0.0
+    base = f"{urlparse(url_producto).scheme}://{urlparse(url_producto).netloc}"
+    api_url = f"{base}/wp-json/wc/store/v1/products"
+    try:
+        r = requests.get(api_url, params={"slug": slug}, headers=headers, timeout=15)
+        r.raise_for_status()
+        data = r.json()
+        if not data:
+            return 0.0
+        prices = data[0].get("prices", {})
+        precio_raw = prices.get("price")
+        minor_unit = prices.get("currency_minor_unit", 2)
+        if precio_raw not in (None, "", "0"):
+            return float(precio_raw) / (10 ** minor_unit)
+    except Exception as e:
+        logging.debug("Store API falló para %s: %s", slug, e)
+    return 0.0
+
+
+def _precio_via_wayback(url_producto: str, headers: dict) -> float:
+    """Nivel 3 (último recurso): snapshot de la Wayback Machine de antes
+    de que la obra se marcara como vendida."""
+    try:
+        r = requests.get(
+            "http://archive.org/wayback/available",
+            params={"url": url_producto},
+            headers=headers,
+            timeout=15,
+        )
+        r.raise_for_status()
+        snap = r.json().get("archived_snapshots", {}).get("closest")
+        if not snap or not snap.get("available"):
+            return 0.0
+        r2 = requests.get(snap["url"], headers=headers, timeout=20)
+        r2.raise_for_status()
+        soup = BeautifulSoup(r2.text, "html.parser")
+        precio_num = _precio_via_json_ld(soup)
+        if precio_num > 0:
+            return precio_num
+        match = re.search(r"([\d.]+,\d{2})\s*€", r2.text)
+        if match:
+            return precio_a_numero(match.group(1) + "€")
+    except Exception as e:
+        logging.debug("Wayback falló para %s: %s", url_producto, e)
+    return 0.0
+
+
 def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
-    """Extrae el precio de la página individual de una obra via JSON-LD."""
+    """Extrae el precio de una obra probando, en orden:
+    1. JSON-LD de la página en vivo (método original)
+    2. WooCommerce Store API
+    3. Wayback Machine (snapshot previo a la venta)
+    Cubre el caso de obras que se registran como vendidas sin haber pasado
+    antes por 'disponible' (precio nunca capturado por el scraper normal).
+    Devuelve ("Precio no disponible", 0.0) si ninguna vía funciona.
+    """
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -278,35 +366,34 @@ def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
         ),
         "Accept-Language": "es-ES,es;q=0.9",
     }
+
+    precio_num = 0.0
+    fuente = None
+
     try:
         resp = requests.get(url_producto, headers=headers, timeout=20)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
-
-        # Buscar JSON-LD
-        for script in soup.find_all("script", type="application/ld+json"):
-            try:
-                data = json.loads(script.string or "")
-                # Puede ser un objeto o una lista dentro de @graph
-                productos = []
-                if isinstance(data, dict):
-                    if data.get("@type") == "Product":
-                        productos.append(data)
-                    elif "@graph" in data:
-                        productos = [x for x in data["@graph"] if x.get("@type") == "Product"]
-                for prod in productos:
-                    for offer in prod.get("offers", []):
-                        for spec in offer.get("priceSpecification", []):
-                            precio_num = float(spec.get("price", 0))
-                            if precio_num > 0:
-                                moneda = spec.get("priceCurrency", "EUR")
-                                precio_str = f"{precio_num:,.2f}€".replace(",", "X").replace(".", ",").replace("X", ".")
-                                return precio_str, precio_num
-            except Exception:
-                continue
-
+        precio_num = _precio_via_json_ld(soup)
+        if precio_num > 0:
+            fuente = "json-ld"
     except Exception as e:
-        logging.debug("No se pudo obtener precio de %s: %s", url_producto, e)
+        logging.debug("No se pudo obtener página de %s: %s", url_producto, e)
+
+    if precio_num == 0.0:
+        precio_num = _precio_via_store_api(url_producto, headers)
+        if precio_num > 0:
+            fuente = "store-api"
+
+    if precio_num == 0.0:
+        precio_num = _precio_via_wayback(url_producto, headers)
+        if precio_num > 0:
+            fuente = "wayback"
+
+    if precio_num > 0:
+        precio_str = f"{precio_num:,.2f}€".replace(",", "X").replace(".", ",").replace("X", ".")
+        logging.info("Precio recuperado (%s) para %s: %s", fuente, url_producto, precio_str)
+        return precio_str, precio_num
 
     return "Precio no disponible", 0.0
 
