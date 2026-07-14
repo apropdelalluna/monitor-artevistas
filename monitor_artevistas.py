@@ -955,19 +955,28 @@ def recuperar_precios_pajares_pendientes() -> None:
         logging.warning("No se encontró la entrada '%s' en ventas_totales.json", ARTISTA)
         return
 
-    urls_actuales = {o.get("url") for o in resultado[ARTISTA].get("detalle", []) if o.get("url")}
+    detalle = resultado[ARTISTA].get("detalle", [])
+    # Índice por URL -> posición en la lista, para poder actualizar en vez de duplicar
+    indice_por_url = {o.get("url"): i for i, o in enumerate(detalle) if o.get("url")}
     encontrados = 0
 
     for titulo, url in OBRAS_PENDIENTES:
-        if url in urls_actuales:
-            logging.info("  ⏭️  %s ya tiene precio registrado, se salta.", titulo)
+        idx = indice_por_url.get(url)
+        precio_ya_registrado = detalle[idx]["precio_num"] if idx is not None else 0.0
+
+        if precio_ya_registrado > 0:
+            logging.info("  ⏭️  %s ya tiene precio real registrado (%.0f€), se salta.", titulo, precio_ya_registrado)
             continue
 
         _, precio_num = obtener_precio_desde_producto(url)
         if precio_num > 0:
-            resultado[ARTISTA]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+            if idx is not None:
+                # Ya existía una entrada placeholder (precio 0) — se actualiza en vez de duplicar
+                resultado[ARTISTA]["detalle"][idx]["precio_num"] = precio_num
+            else:
+                resultado[ARTISTA]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+                resultado[ARTISTA]["obras_con_precio"] += 1
             resultado[ARTISTA]["total"] += precio_num
-            resultado[ARTISTA]["obras_con_precio"] += 1
             encontrados += 1
             logging.info("  ✅ %s: %.0f€", titulo, precio_num)
         else:
