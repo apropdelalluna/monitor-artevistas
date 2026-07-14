@@ -932,8 +932,63 @@ def buscar_obras_faltantes() -> None:
     logging.info("✅ ventas_totales.json actualizado. Obras nuevas encontradas: %d", total_nuevas)
 
 
+def recuperar_precios_pajares_pendientes() -> None:
+    """Comprobación acotada a las 2 obras de Juan Manuel Pajares aún sin precio
+    (Beautiful Chaos, Old fashion). No toca ningún otro artista ni obra.
+    Solo escribe en ventas_totales.json si encuentra un precio real > 0."""
+    logging.info("🎯 Comprobando precio de obras pendientes de Pájares...")
+
+    OBRAS_PENDIENTES = [
+        ("Juan Manuel Pajares – Beautiful Chaos", "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"),
+        ("Juan Manuel Pajares – Old fashion", "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/"),
+    ]
+    ARTISTA = "ZZZ – Various Artists"
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json todavía.")
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    if ARTISTA not in resultado:
+        logging.warning("No se encontró la entrada '%s' en ventas_totales.json", ARTISTA)
+        return
+
+    urls_actuales = {o.get("url") for o in resultado[ARTISTA].get("detalle", []) if o.get("url")}
+    encontrados = 0
+
+    for titulo, url in OBRAS_PENDIENTES:
+        if url in urls_actuales:
+            logging.info("  ⏭️  %s ya tiene precio registrado, se salta.", titulo)
+            continue
+
+        _, precio_num = obtener_precio_desde_producto(url)
+        if precio_num > 0:
+            resultado[ARTISTA]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+            resultado[ARTISTA]["total"] += precio_num
+            resultado[ARTISTA]["obras_con_precio"] += 1
+            encontrados += 1
+            logging.info("  ✅ %s: %.0f€", titulo, precio_num)
+        else:
+            logging.info("  ✘ %s: todavía sin precio disponible.", titulo)
+        time.sleep(1)
+
+    if encontrados > 0:
+        with open("ventas_totales.json", "w", encoding="utf-8") as f:
+            json.dump(resultado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo("ventas_totales.json")
+        logging.info("✅ ventas_totales.json actualizado. Precios de Pájares encontrados: %d", encontrados)
+    else:
+        logging.info("Sin novedades — ninguna de las 2 obras tiene precio disponible todavía.")
+
+
 def rellenar_precios_faltantes() -> None:
-    """Visita solo las obras sin precio en ventas_totales.json y completa los datos."""
+    """Visita solo las obras sin precio en ventas_totales.json y completa los datos.
+    Compara por URL (identificador único real), no por título, para evitar
+    reprocesar y duplicar obras cuyo título no coincide exactamente entre
+    estado_artevistas.json y ventas_totales.json (por ejemplo, entradas
+    antiguas guardadas con la URL como título)."""
     logging.info("📊 Rellenando precios faltantes en ventas_totales.json...")
 
     if not os.path.exists("ventas_totales.json"):
@@ -950,17 +1005,19 @@ def rellenar_precios_faltantes() -> None:
             continue
 
         obras_estado = datos.get("obras", {})
-        detalle_actual = {o["titulo"]: o for o in resultado[artista].get("detalle", [])}
+        # Clave por URL, no por título — evita el mismatch que causaba duplicados
+        urls_actuales = {o.get("url") for o in resultado[artista].get("detalle", []) if o.get("url")}
         vendidas = [(titulo, info["url"]) for titulo, info in obras_estado.items() if info["estado"] == "vendido"]
 
         for titulo, url in vendidas:
-            if titulo not in detalle_actual:
+            if url and url not in urls_actuales:
                 _, precio_num = obtener_precio_desde_producto(url)
                 if precio_num > 0:
                     resultado[artista]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
                     resultado[artista]["total"] += precio_num
                     resultado[artista]["obras_con_precio"] += 1
                     total_rellenados += 1
+                    urls_actuales.add(url)
                     logging.info("  ✅ %s – %s: %.0f€", artista, titulo, precio_num)
                 time.sleep(0.5)
 
@@ -1509,6 +1566,10 @@ def main() -> None:
     # Rellenar precios faltantes si se activa con RELLENAR_PRECIOS=1
     if os.environ.get("RELLENAR_PRECIOS") == "1":
         rellenar_precios_faltantes()
+
+    # Comprobación acotada SOLO de las 2 obras pendientes de Pájares, si se activa con CHECK_PAJARES=1
+    if os.environ.get("CHECK_PAJARES") == "1":
+        recuperar_precios_pajares_pendientes()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
