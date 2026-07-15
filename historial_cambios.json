@@ -2708,5 +2708,14 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-bandera-pirata/"
+  },
+  {
+    "fecha": "15/07/2026 20:46",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love",
+    "tipo": "vendida",
+    "precio": "95,00€",
+    "precio_num": 95.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-30/"
   }
 ]
