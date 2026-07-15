@@ -1416,6 +1416,14 @@
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "15/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
     }
   ]
 }
