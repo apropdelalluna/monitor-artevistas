@@ -2735,5 +2735,14 @@
     "precio": "25,00€",
     "precio_num": 25.0,
     "url": "https://www.artevistas.eu/product/conejos/"
+  },
+  {
+    "fecha": "16/07/2026 16:08",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Abrazo",
+    "tipo": "vendida",
+    "precio": "125,00€",
+    "precio_num": 125.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/"
   }
 ]
