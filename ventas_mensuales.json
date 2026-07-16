@@ -1424,6 +1424,22 @@
       "precio": "95,00€",
       "precio_num": 95.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "16/07/2026",
+      "artista": "Sanz i Vila",
+      "obra": "Sanz i Vila – Noche",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "16/07/2026",
+      "artista": "Sanz i Vila",
+      "obra": "Sanz i Vila – Conejos",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "desaparecida"
     }
   ]
 }
