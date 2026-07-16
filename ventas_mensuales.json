@@ -1448,6 +1448,22 @@
       "precio": "125,00€",
       "precio_num": 125.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "16/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "16/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Art",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
     }
   ]
 }
