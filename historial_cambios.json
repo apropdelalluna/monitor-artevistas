@@ -2744,5 +2744,50 @@
     "precio": "125,00€",
     "precio_num": 125.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/"
+  },
+  {
+    "fecha": "16/07/2026 19:07",
+    "artista": "Xavier Krauel",
+    "obra": "Xavier Krauel",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "16/07/2026 19:07",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-29/"
+  },
+  {
+    "fecha": "16/07/2026 19:07",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Art",
+    "tipo": "vendida",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/me-lata-art/"
+  },
+  {
+    "fecha": "16/07/2026 19:07",
+    "artista": "Me Lata",
+    "obra": "Me Lata – One & only we love you (RESERVED)",
+    "tipo": "nueva",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-one-only-we-love-you/"
+  },
+  {
+    "fecha": "16/07/2026 19:07",
+    "artista": "Me Lata",
+    "obra": "Me Lata – The power of love",
+    "tipo": "nueva",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-the-power-of-love/"
   }
 ]
