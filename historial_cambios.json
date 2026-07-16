@@ -2717,5 +2717,23 @@
     "precio": "95,00€",
     "precio_num": 95.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-30/"
+  },
+  {
+    "fecha": "16/07/2026 11:13",
+    "artista": "Sanz i Vila",
+    "obra": "Sanz i Vila – Noche",
+    "tipo": "desaparecida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/noche/"
+  },
+  {
+    "fecha": "16/07/2026 11:13",
+    "artista": "Sanz i Vila",
+    "obra": "Sanz i Vila – Conejos",
+    "tipo": "desaparecida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/conejos/"
   }
 ]
