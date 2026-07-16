@@ -12410,9 +12410,9 @@
     "ultima_actualizacion": "16/05/2026 17:53"
   },
   "Ramón Pons": {
-    "total": 12930.0,
-    "obras_vendidas": 77,
-    "obras_con_precio": 77,
+    "total": 13055.0,
+    "obras_vendidas": 78,
+    "obras_con_precio": 78,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -12798,9 +12798,14 @@
         "titulo": "Ramón Pons – Individuo Verde 3",
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-individuo-verde-3/"
+      },
+      {
+        "titulo": "Ramón Pons – Abrazo",
+        "precio_num": 125.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/"
       }
     ],
-    "ultima_actualizacion": "19/06/2026 16:35"
+    "ultima_actualizacion": "16/07/2026 16:08"
   },
   "Reb.MWC": {
     "total": 360.0,
