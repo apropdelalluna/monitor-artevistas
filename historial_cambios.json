@@ -2789,5 +2789,77 @@
     "precio": "90,00€",
     "precio_num": 90.0,
     "url": "https://www.artevistas.eu/product/me-lata-the-power-of-love/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "SM 172",
+    "obra": "SM 172",
+    "tipo": "nuevo_artista",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "Sanz i Vila",
+    "obra": "Sanz i Vila",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Atrapadas en el tiempo",
+    "tipo": "vendida",
+    "precio": "2.700,00€",
+    "precio_num": 2700.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sanz i Vila – Invierno",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/invierno/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sanz i Vila – Erizos",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/erizos/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sanz i Vila – Otoño",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/otono/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sanz i Vila – Ella",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/ella/"
+  },
+  {
+    "fecha": "17/07/2026 17:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sanz i Vila – Él",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/el-2/"
   }
 ]
