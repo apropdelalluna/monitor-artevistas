@@ -2861,5 +2861,32 @@
     "precio": "25,00€",
     "precio_num": 25.0,
     "url": "https://www.artevistas.eu/product/el-2/"
+  },
+  {
+    "fecha": "17/07/2026 23:11",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Abacus Tzompantli VI",
+    "tipo": "nueva",
+    "precio": "260,00€",
+    "precio_num": 260.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-abacus-tzompantli-vi/"
+  },
+  {
+    "fecha": "17/07/2026 23:11",
+    "artista": "Me Lata",
+    "obra": "Me Lata – One & only we love you (RESERVED)",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-one-only-we-love-you/"
+  },
+  {
+    "fecha": "17/07/2026 23:11",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love is the drug (RESERVED)",
+    "tipo": "vendida",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-13/"
   }
 ]
