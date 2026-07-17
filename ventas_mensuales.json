@@ -1472,6 +1472,22 @@
       "precio": "2.700,00€",
       "precio_num": 2700.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "17/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – One & only we love you (RESERVED)",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "17/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love is the drug (RESERVED)",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
     }
   ]
 }
