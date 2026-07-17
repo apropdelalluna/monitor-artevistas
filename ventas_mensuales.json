@@ -1464,6 +1464,14 @@
       "precio": "120,00€",
       "precio_num": 120.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "17/07/2026",
+      "artista": "Xavi Mira",
+      "obra": "Xavi Mira – Atrapadas en el tiempo",
+      "precio": "2.700,00€",
+      "precio_num": 2700.0,
+      "tipo": "vendida"
     }
   ]
 }
