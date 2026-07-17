@@ -7142,9 +7142,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 155672.0,
-    "obras_vendidas": 562,
-    "obras_con_precio": 562,
+    "total": 155882.0,
+    "obras_vendidas": 564,
+    "obras_con_precio": 564,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9954,9 +9954,19 @@
         "titulo": "Me Lata – Art",
         "precio_num": 120.0,
         "url": "https://www.artevistas.eu/product/me-lata-art/"
+      },
+      {
+        "titulo": "Me Lata – One & only we love you (RESERVED)",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-one-only-we-love-you/"
+      },
+      {
+        "titulo": "Me Lata – Love is the drug (RESERVED)",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-13/"
       }
     ],
-    "ultima_actualizacion": "16/07/2026 19:07"
+    "ultima_actualizacion": "17/07/2026 23:11"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
