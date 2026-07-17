@@ -15532,9 +15532,9 @@
     "ultima_actualizacion": "26/06/2026 15:23"
   },
   "Xavi Mira": {
-    "total": 122880.0,
-    "obras_vendidas": 74,
-    "obras_con_precio": 74,
+    "total": 125580.0,
+    "obras_vendidas": 75,
+    "obras_con_precio": 75,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -15905,9 +15905,14 @@
         "titulo": "Xavi Mira – La Ironía",
         "precio_num": 1300.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-la-ironia/"
+      },
+      {
+        "titulo": "Xavi Mira – Atrapadas en el tiempo",
+        "precio_num": 2700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:22"
+    "ultima_actualizacion": "17/07/2026 17:03"
   },
   "Xavier Krauel": {
     "total": 2830.0,
