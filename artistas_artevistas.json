@@ -216,10 +216,6 @@
     "url": "https://www.artevistas.eu/artist/santo/"
   },
   {
-    "nombre": "Sanz i Vila",
-    "url": "https://www.artevistas.eu/artist/sanz-i-vila/"
-  },
-  {
     "nombre": "Sater",
     "url": "https://www.artevistas.eu/artist/sater/"
   },
@@ -270,5 +266,9 @@
   {
     "nombre": "ZZZ – Various Artists",
     "url": "https://www.artevistas.eu/artist/zzz-various-artists/"
+  },
+  {
+    "nombre": "SM 172",
+    "url": "https://www.artevistas.eu/artist/sm-172/"
   }
 ]
