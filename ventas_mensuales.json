@@ -1488,6 +1488,22 @@
       "precio": "120,00€",
       "precio_num": 120.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "18/07/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – ARTonaut #Lazy genius",
+      "precio": "2.800,00€",
+      "precio_num": 2800.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "18/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – I Can see you in my dream",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
     }
   ]
 }
