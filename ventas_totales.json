@@ -13388,9 +13388,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 11290.0,
-    "obras_vendidas": 44,
-    "obras_con_precio": 44,
+    "total": 12140.0,
+    "obras_vendidas": 45,
+    "obras_con_precio": 45,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -13611,9 +13611,14 @@
         "titulo": "Sater – Vagón olvidado",
         "precio_num": 1500.0,
         "url": "https://www.artevistas.eu/product/sater-vagon-olvidado/"
+      },
+      {
+        "titulo": "Sater – Renfe",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/sater-renfe/"
       }
     ],
-    "ultima_actualizacion": "07/06/2026 18:29"
+    "ultima_actualizacion": "18/07/2026 18:45"
   },
   "Sergi Muñoz Lozano": {
     "total": 70410.0,
