@@ -1504,6 +1504,14 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "18/07/2026",
+      "artista": "Sater",
+      "obra": "Sater – Renfe",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
     }
   ]
 }
