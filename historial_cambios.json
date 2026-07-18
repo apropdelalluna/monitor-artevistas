@@ -2888,5 +2888,32 @@
     "precio": "120,00€",
     "precio_num": 120.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-13/"
+  },
+  {
+    "fecha": "18/07/2026 10:11",
+    "artista": "180 Hilos",
+    "obra": "180 Hilos",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "18/07/2026 10:11",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #Lazy genius",
+    "tipo": "vendida",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-lazy-genius/"
+  },
+  {
+    "fecha": "18/07/2026 10:11",
+    "artista": "Me Lata",
+    "obra": "Me Lata – I Can see you in my dream",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/me-lata-i-can-see-you-in-my-dream/"
   }
 ]
