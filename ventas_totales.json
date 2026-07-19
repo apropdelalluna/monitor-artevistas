@@ -16497,9 +16497,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 52474.0,
-    "obras_vendidas": 38,
-    "obras_con_precio": 36,
+    "total": 58044.0,
+    "obras_vendidas": 39,
+    "obras_con_precio": 37,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -16690,8 +16690,13 @@
         "titulo": "Juan Manuel Pajares – Old fashion",
         "precio_num": 0.0,
         "url": "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/"
+      },
+      {
+        "titulo": "Juan Manuel Pajares – Boxe",
+        "precio_num": 5570.0,
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/"
       }
     ],
-    "ultima_actualizacion": "13/07/2026 10:37"
+    "ultima_actualizacion": "19/07/2026 19:09"
   }
 }
