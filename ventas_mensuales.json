@@ -1512,6 +1512,14 @@
       "precio": "850,00€",
       "precio_num": 850.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "19/07/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Juan Manuel Pajares – Boxe",
+      "precio": "5.570,00€",
+      "precio_num": 5570.0,
+      "tipo": "vendida"
     }
   ]
 }
