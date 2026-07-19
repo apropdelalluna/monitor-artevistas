@@ -2933,5 +2933,194 @@
     "precio": "850,00€",
     "precio_num": 850.0,
     "url": "https://www.artevistas.eu/product/sater-renfe/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Alberto Blanchart",
+    "obra": "Mark Rox – Alberto Blanchart – ARTonaut #Colab",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-alberto-blanchart-artonaut-colab/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Alberto Blanchart – ARTonaut #Colab",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-alberto-blanchart-artonaut-colab/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox\t– ARTonaut #13 02",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-13-02/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox\t– ARTonaut #12 01",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-12-01/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #11 01",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-11-01/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Juan Manuel Pajares – Boxe",
+    "tipo": "vendida",
+    "precio": "5.570,00€",
+    "precio_num": 5570.0,
+    "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Balu – Izenbururik Gabe II",
+    "tipo": "nueva",
+    "precio": "2.500,00€",
+    "precio_num": 2500.0,
+    "url": "https://www.artevistas.eu/product/balu-izenbururik-gabe-ii/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Balu – Izenbururik Gabe I",
+    "tipo": "nueva",
+    "precio": "2.500,00€",
+    "precio_num": 2500.0,
+    "url": "https://www.artevistas.eu/product/balu-izenbururik-gabe-i/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172- Salto al color",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-salto-al-color/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Deliriums",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-deliriums/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Mirada oriental",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-mirada-oriental/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Mística",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-mistica/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Modernismo oculto",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-modernismo-oculto/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – La Reina Estrella",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-la-reina-estrella/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – La música de Nerea",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sm-172-la-musica-de-nerea/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Mercuria",
+    "tipo": "nueva",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/sm-172-mercuria/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Futuro presente 2",
+    "tipo": "nueva",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/sm-172-futuro-presente-2/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "SM 172",
+    "obra": "SM 172 – Futuro presente",
+    "tipo": "nueva",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/sm-172-futuro-presente/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Come to the gold side",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-come-to-the-gold-side/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Yo soy tu madre",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-yo-soy-tu-madre/"
+  },
+  {
+    "fecha": "19/07/2026 19:09",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – True Love",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-true-love/"
   }
 ]
