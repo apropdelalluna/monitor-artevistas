@@ -3149,5 +3149,32 @@
     "precio": "350,00€",
     "precio_num": 350.0,
     "url": "https://www.artevistas.eu/product/me-lata-one-love-8/"
+  },
+  {
+    "fecha": "21/07/2026 19:52",
+    "artista": "James Ormiston",
+    "obra": "James Ormiston – Žofie IV",
+    "tipo": "vendida",
+    "precio": "1.300,00€",
+    "precio_num": 1300.0,
+    "url": "https://www.artevistas.eu/product/james-ormiston-zofie-iv/"
+  },
+  {
+    "fecha": "21/07/2026 19:52",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau aka Unavista – Ojo rojo",
+    "tipo": "vendida",
+    "precio": "110,00€",
+    "precio_num": 110.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-ojo-rojo/"
+  },
+  {
+    "fecha": "21/07/2026 19:52",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit –  Bunny A.R.M.Y – 23 – 1",
+    "tipo": "vendida",
+    "precio": "1.100,00€",
+    "precio_num": 1100.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/"
   }
 ]
