@@ -1346,9 +1346,9 @@
     "ultima_actualizacion": "01/07/2026 18:20"
   },
   "Andrzej Farfulowski": {
-    "total": 88350.0,
-    "obras_vendidas": 68,
-    "obras_con_precio": 68,
+    "total": 90450.0,
+    "obras_vendidas": 69,
+    "obras_con_precio": 69,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1689,9 +1689,14 @@
         "titulo": "Andrzej Farfulowski – Victoria",
         "precio_num": 1500.0,
         "url": "https://www.artevistas.eu/product/andrzej-farfulowski-victoria/"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – Ana (green)",
+        "precio_num": 2100.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-ana-green/"
       }
     ],
-    "ultima_actualizacion": "05/07/2026 15:16"
+    "ultima_actualizacion": "21/07/2026 18:08"
   },
   "António Azevedo": {
     "total": 13285.0,
@@ -7147,9 +7152,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 156382.0,
-    "obras_vendidas": 565,
-    "obras_con_precio": 565,
+    "total": 156732.0,
+    "obras_vendidas": 566,
+    "obras_con_precio": 566,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -9974,9 +9979,14 @@
         "titulo": "Me Lata – I Can see you in my dream",
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/me-lata-i-can-see-you-in-my-dream/"
+      },
+      {
+        "titulo": "Me Lata – One Love",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/me-lata-one-love-8/"
       }
     ],
-    "ultima_actualizacion": "18/07/2026 10:11"
+    "ultima_actualizacion": "21/07/2026 18:08"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
