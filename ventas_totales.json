@@ -16708,5 +16708,56 @@
       }
     ],
     "ultima_actualizacion": "19/07/2026 19:09"
+  },
+  "SM 172": {
+    "total": 13700.0,
+    "obras_vendidas": 6,
+    "obras_con_precio": 6,
+    "detalle": [
+      {
+        "titulo": "SM 172 – 01",
+        "precio_num": 3000.0,
+        "url": "https://www.artevistas.eu/product/sm172-01/"
+      },
+      {
+        "titulo": "SM 172-03",
+        "precio_num": 3000.0,
+        "url": "https://www.artevistas.eu/product/sm172-03/"
+      },
+      {
+        "titulo": "SM 172-05",
+        "precio_num": 2600.0,
+        "url": "https://www.artevistas.eu/product/sm172-05/"
+      },
+      {
+        "titulo": "SM 172-09",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/sm172-09/"
+      },
+      {
+        "titulo": "SM 172-21",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/sm172-21/"
+      },
+      {
+        "titulo": "SM 172-30",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/sm172-30-2/"
+      }
+    ],
+    "ultima_actualizacion": "21/07/2026 18:35"
+  },
+  "Marina Salazar (No Queda Tinte)": {
+    "total": 20.0,
+    "obras_vendidas": 1,
+    "obras_con_precio": 1,
+    "detalle": [
+      {
+        "titulo": "Marina Salazar – Not every boy wants to be a soldier",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-not-every-boy-wants-to-be-a-soldier/"
+      }
+    ],
+    "ultima_actualizacion": "21/07/2026 18:35"
   }
 }
