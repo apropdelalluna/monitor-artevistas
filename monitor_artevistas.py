@@ -932,6 +932,73 @@ def buscar_obras_faltantes() -> None:
     logging.info("✅ ventas_totales.json actualizado. Obras nuevas encontradas: %d", total_nuevas)
 
 
+def recuperar_ventas_artistas_reaparecidos() -> None:
+    """Backfill puntual: recupera las ventas de obras que ya estaban 'vendido'
+    en estado_artevistas.json la primera vez que se vio a un artista nuevo o
+    reaparecido (bug corregido en comprobar_todos, pero no retroactivo).
+    Caso concreto: SM 172 y Marina Salazar (No Queda Tinte).
+    No toca ningún otro artista."""
+    logging.info("🔁 Recuperando ventas perdidas de artistas nuevos/reaparecidos...")
+
+    ARTISTAS_AFECTADOS = ["SM 172", "Marina Salazar (No Queda Tinte)"]
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json todavía.")
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    total_recuperadas = 0
+
+    for nombre in ARTISTAS_AFECTADOS:
+        obras_estado = estado.get(nombre, {}).get("obras", {})
+        vendidas = {url: o for url, o in obras_estado.items() if o.get("estado") == "vendido"}
+
+        if not vendidas:
+            logging.info("  [%s] Sin obras vendidas en el estado, nada que hacer.", nombre)
+            continue
+
+        if nombre not in resultado:
+            resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+
+        urls_actuales = {o.get("url") for o in resultado[nombre].get("detalle", []) if o.get("url")}
+
+        for url, o in vendidas.items():
+            if url in urls_actuales:
+                continue
+
+            titulo = o.get("titulo", url)
+            precio_num = o.get("precio_num", 0.0)
+
+            # Si el estado ya tenía el precio (como Marina Salazar), lo usamos directo.
+            # Si no (como SM 172), intentamos recuperarlo con el mismo fallback de siempre.
+            if precio_num <= 0:
+                _, precio_num = obtener_precio_desde_producto(url)
+                time.sleep(1)
+
+            resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+            resultado[nombre]["obras_vendidas"] += 1
+            if precio_num > 0:
+                resultado[nombre]["total"] += precio_num
+                resultado[nombre]["obras_con_precio"] += 1
+            resultado[nombre]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+            total_recuperadas += 1
+
+            if precio_num > 0:
+                logging.info("  ✅ [%s] %s: %.0f€", nombre, titulo, precio_num)
+            else:
+                logging.info("  ✘ [%s] %s: sin precio disponible.", nombre, titulo)
+
+    if total_recuperadas > 0:
+        with open("ventas_totales.json", "w", encoding="utf-8") as f:
+            json.dump(resultado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo("ventas_totales.json")
+        logging.info("✅ ventas_totales.json actualizado. Ventas recuperadas: %d", total_recuperadas)
+    else:
+        logging.info("Sin novedades — nada pendiente de recuperar.")
+
+
 def recuperar_precios_pajares_pendientes() -> None:
     """Comprobación acotada a las 2 obras de Juan Manuel Pajares aún sin precio
     (Beautiful Chaos, Old fashion). No toca ningún otro artista ni obra.
@@ -1579,6 +1646,10 @@ def main() -> None:
     # Comprobación acotada SOLO de las 2 obras pendientes de Pájares, si se activa con CHECK_PAJARES=1
     if os.environ.get("CHECK_PAJARES") == "1":
         recuperar_precios_pajares_pendientes()
+
+    # Backfill puntual de ventas perdidas de SM 172 / Marina Salazar, si se activa con RECUPERAR_REAPARECIDOS=1
+    if os.environ.get("RECUPERAR_REAPARECIDOS") == "1":
+        recuperar_ventas_artistas_reaparecidos()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
