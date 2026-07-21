@@ -253,6 +253,19 @@
       return n.toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
     }
 
+    // Normaliza variantes de nombre conocidas (mismo artista, distinta grafía en la web origen)
+    const NORMALIZACION_NOMBRES = {
+      'juan manuel pajares': 'Juan Manuel Pájares',
+    };
+
+    function extraerArtistaReal(titulo) {
+      let nombre = titulo;
+      if (titulo.includes(' – ')) nombre = titulo.split(' – ')[0].trim();
+      else if (titulo.includes(' - ')) nombre = titulo.split(' - ')[0].trim();
+      const clave = nombre.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      return NORMALIZACION_NOMBRES[clave] || nombre;
+    }
+
     async function fetchGitHub(file) {
       const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/${file}?t=${Date.now()}`;
       const r = await fetch(url);
@@ -311,6 +324,7 @@
           const id = i;
           const detalle = datos.detalle || [];
           const sinPrecio = datos.obras_vendidas - datos.obras_con_precio;
+          const esZZZ = nombre === 'ZZZ – Various Artists';
 
           html += `<div class="artista-item">
             <div class="artista-header" onclick="toggleArtista(${id})">
@@ -323,28 +337,81 @@
             </div>
             <div class="artista-obras" id="obras-${id}">`;
 
-          html += `<div style="padding:4px 0 8px 16px;">
-            <button onclick="toggleOrden(${id})" id="btn-orden-${id}" style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:2px;text-transform:uppercase;background:none;border:1px solid var(--border);color:var(--text-dim);padding:4px 10px;cursor:pointer;">↕ Por precio</button>
-          </div>
-          <div id="detalle-${id}">`;
-          [...detalle]
-            .sort((a, b) => b.precio_num - a.precio_num)
-            .forEach(obra => {
-              const titulo = obra.url
-                ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
-                : obra.titulo;
-              html += `<div class="obra-row">
-                <span class="obra-titulo">${titulo}</span>
-                <span class="obra-precio">${formatNum(obra.precio_num)}</span>
-              </div>`;
+          if (esZZZ) {
+            // Agrupar por artista real extraído del título, en vez de lista plana
+            const grupos = {};
+            detalle.forEach(obra => {
+              const artistaReal = extraerArtistaReal(obra.titulo);
+              if (!grupos[artistaReal]) grupos[artistaReal] = [];
+              grupos[artistaReal].push(obra);
             });
-          html += `</div>`;
 
-          if (sinPrecio > 0) {
-            html += `<div class="obra-row">
-              <span class="obra-titulo" style="color:var(--text-dim);font-style:italic;">${sinPrecio} obra${sinPrecio !== 1 ? 's' : ''} sin precio registrado</span>
-              <span class="obra-precio">—</span>
-            </div>`;
+            const gruposOrdenados = Object.entries(grupos)
+              .map(([nombreReal, obras]) => ({
+                nombreReal,
+                obras,
+                subtotal: obras.reduce((s, o) => s + o.precio_num, 0),
+              }))
+              .sort((a, b) => b.subtotal - a.subtotal);
+
+            gruposOrdenados.forEach((grupo, j) => {
+              const subId = `zzz-${id}-${j}`;
+              const conPrecio = grupo.obras.filter(o => o.precio_num > 0).length;
+              html += `<div style="margin-left:16px;border-bottom:1px solid var(--border);">
+                <div class="artista-header" style="padding:10px 0;" onclick="toggleArtista('${subId}')">
+                  <div class="artista-nombre" style="font-size:14px;">${grupo.nombreReal}</div>
+                  <div class="artista-right">
+                    <span class="artista-meta">${grupo.obras.length} obra${grupo.obras.length !== 1 ? 's' : ''}</span>
+                    <span class="artista-total" style="font-size:14px;">${formatNum(grupo.subtotal)}</span>
+                    <span class="artista-arrow" id="arrow-${subId}">▾</span>
+                  </div>
+                </div>
+                <div class="artista-obras" id="obras-${subId}">`;
+              [...grupo.obras]
+                .sort((a, b) => b.precio_num - a.precio_num)
+                .forEach(obra => {
+                  const titulo = obra.url
+                    ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
+                    : obra.titulo;
+                  html += `<div class="obra-row" style="padding-left:16px;">
+                    <span class="obra-titulo">${titulo}</span>
+                    <span class="obra-precio">${obra.precio_num > 0 ? formatNum(obra.precio_num) : '—'}</span>
+                  </div>`;
+                });
+              if (conPrecio < grupo.obras.length) {
+                const faltan = grupo.obras.length - conPrecio;
+                html += `<div class="obra-row" style="padding-left:16px;">
+                  <span class="obra-titulo" style="color:var(--text-dim);font-style:italic;">${faltan} obra${faltan !== 1 ? 's' : ''} sin precio registrado</span>
+                  <span class="obra-precio">—</span>
+                </div>`;
+              }
+              html += `</div></div>`;
+            });
+
+          } else {
+            html += `<div style="padding:4px 0 8px 16px;">
+              <button onclick="toggleOrden(${id})" id="btn-orden-${id}" style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:2px;text-transform:uppercase;background:none;border:1px solid var(--border);color:var(--text-dim);padding:4px 10px;cursor:pointer;">↕ Por precio</button>
+            </div>
+            <div id="detalle-${id}">`;
+            [...detalle]
+              .sort((a, b) => b.precio_num - a.precio_num)
+              .forEach(obra => {
+                const titulo = obra.url
+                  ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
+                  : obra.titulo;
+                html += `<div class="obra-row">
+                  <span class="obra-titulo">${titulo}</span>
+                  <span class="obra-precio">${formatNum(obra.precio_num)}</span>
+                </div>`;
+              });
+            html += `</div>`;
+
+            if (sinPrecio > 0) {
+              html += `<div class="obra-row">
+                <span class="obra-titulo" style="color:var(--text-dim);font-style:italic;">${sinPrecio} obra${sinPrecio !== 1 ? 's' : ''} sin precio registrado</span>
+                <span class="obra-precio">—</span>
+              </div>`;
+            }
           }
 
           html += `</div></div>`;
