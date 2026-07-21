@@ -3122,5 +3122,32 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-true-love/"
+  },
+  {
+    "fecha": "21/07/2026 18:08",
+    "artista": "Bran Sólo",
+    "obra": "Bran Sólo",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "21/07/2026 18:08",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – Ana (green)",
+    "tipo": "vendida",
+    "precio": "2.100,00€",
+    "precio_num": 2100.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-ana-green/"
+  },
+  {
+    "fecha": "21/07/2026 18:08",
+    "artista": "Me Lata",
+    "obra": "Me Lata – One Love",
+    "tipo": "vendida",
+    "precio": "350,00€",
+    "precio_num": 350.0,
+    "url": "https://www.artevistas.eu/product/me-lata-one-love-8/"
   }
 ]
