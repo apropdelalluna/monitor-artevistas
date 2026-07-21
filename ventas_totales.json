@@ -5604,9 +5604,9 @@
     "ultima_actualizacion": "07/05/2026 04:50"
   },
   "James Ormiston": {
-    "total": 14030.0,
-    "obras_vendidas": 17,
-    "obras_con_precio": 17,
+    "total": 15330.0,
+    "obras_vendidas": 18,
+    "obras_con_precio": 18,
     "detalle": [
       {
         "titulo": "James Ormiston – Don’t carry it all",
@@ -5692,9 +5692,14 @@
         "titulo": "James Ormiston – Pushing through the skin",
         "precio_num": 400.0,
         "url": "https://www.artevistas.eu/product/james-ormiston-pushing-through-the-skin/"
+      },
+      {
+        "titulo": "James Ormiston – Žofie IV",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/james-ormiston-zofie-iv/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:51"
+    "ultima_actualizacion": "21/07/2026 19:52"
   },
   "Javier de Cea": {
     "total": 40250.0,
@@ -5991,9 +5996,9 @@
     "ultima_actualizacion": "07/05/2026 04:52"
   },
   "Julien Deniau aka Unavista": {
-    "total": 13440.0,
-    "obras_vendidas": 23,
-    "obras_con_precio": 23,
+    "total": 13550.0,
+    "obras_vendidas": 24,
+    "obras_con_precio": 24,
     "detalle": [
       {
         "titulo": "Julien Deniau aka Unavista – Japanese fish",
@@ -6109,9 +6114,14 @@
         "titulo": "Julien Deniau aka Unavista – Gorion",
         "precio_num": 250.0,
         "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-gorion/"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Ojo rojo",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-ojo-rojo/"
       }
     ],
-    "ultima_actualizacion": "29/06/2026 18:20"
+    "ultima_actualizacion": "21/07/2026 19:52"
   },
   "Konair": {
     "total": 47046.0,
@@ -14859,9 +14869,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 80686.0,
-    "obras_vendidas": 140,
-    "obras_con_precio": 140,
+    "total": 81786.0,
+    "obras_vendidas": 141,
+    "obras_con_precio": 141,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -15562,9 +15572,14 @@
         "titulo": "White Rabbit – Zulu boy Pink and Black",
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/"
+      },
+      {
+        "titulo": "White Rabbit –  Bunny A.R.M.Y – 23 – 1",
+        "precio_num": 1100.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/"
       }
     ],
-    "ultima_actualizacion": "26/06/2026 15:23"
+    "ultima_actualizacion": "21/07/2026 19:52"
   },
   "Xavi Mira": {
     "total": 125580.0,
