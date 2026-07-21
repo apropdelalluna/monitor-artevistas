@@ -1059,6 +1059,56 @@ def recuperar_precios_pajares_pendientes() -> None:
         logging.info("Sin novedades — ninguna de las 2 obras tiene precio disponible todavía.")
 
 
+def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
+    """Cuando un artista se ve por primera vez (nuevo o que reaparece tras
+    desaparecer), sus obras ya vendidas en ese primer inventario se suman
+    SOLO al total histórico (ventas_totales.json). NO se cuentan en el mes
+    en curso (ventas_mensuales.json) ni en el histórico de eventos
+    (historial_cambios.json), porque no se puede saber con certeza cuándo
+    se vendieron realmente. No toca ningún otro artista."""
+    vendidas = {url: o for url, o in obras_nuevas.items() if o.get("estado") == "vendido"}
+    if not vendidas:
+        return
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.info("[%s] Obras ya vendidas detectadas, pero ventas_totales.json no existe todavía; se omite.", nombre)
+        return
+
+    with open("ventas_totales.json", "r", encoding="utf-8") as f:
+        resultado = json.load(f)
+
+    if nombre not in resultado:
+        resultado[nombre] = {"total": 0.0, "obras_vendidas": 0, "obras_con_precio": 0, "detalle": [], "ultima_actualizacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+
+    urls_actuales = {o.get("url") for o in resultado[nombre].get("detalle", []) if o.get("url")}
+    añadidas = 0
+
+    for url, o in vendidas.items():
+        if url in urls_actuales:
+            continue
+
+        titulo = o.get("titulo", url)
+        precio_num = o.get("precio_num", 0.0)
+        if precio_num <= 0:
+            _, precio_num = obtener_precio_desde_producto(url)
+            time.sleep(1)
+
+        resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+        resultado[nombre]["obras_vendidas"] += 1
+        if precio_num > 0:
+            resultado[nombre]["total"] += precio_num
+            resultado[nombre]["obras_con_precio"] += 1
+        añadidas += 1
+        logging.info("  💰 [%s] %s añadida al total histórico (no al mes en curso): %s€",
+                     nombre, titulo, f"{precio_num:.0f}" if precio_num > 0 else "sin precio")
+
+    if añadidas > 0:
+        resultado[nombre]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+        with open("ventas_totales.json", "w", encoding="utf-8") as f:
+            json.dump(resultado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo("ventas_totales.json")
+
+
 def rellenar_precios_faltantes() -> None:
     """Visita solo las obras sin precio en ventas_totales.json y completa los datos.
     Compara por URL (identificador único real), no por título, para evitar
@@ -1393,6 +1443,7 @@ def comprobar_todos() -> None:
                 "obras": obras_nuevas,
             }
             logging.info("[%s] Estado inicial guardado (%d obras).", nombre, len(obras_nuevas))
+            agregar_ventas_iniciales_al_total(nombre, obras_nuevas)
             continue
 
         if hash_nuevo == estado[nombre]["hash"]:
