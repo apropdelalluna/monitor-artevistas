@@ -981,9 +981,9 @@
     "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Alberto Blanchart": {
-    "total": 27100.0,
-    "obras_vendidas": 32,
-    "obras_con_precio": 32,
+    "total": 28800.0,
+    "obras_vendidas": 34,
+    "obras_con_precio": 34,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1144,9 +1144,19 @@
         "titulo": "Alberto Blanchart – Orange Trooper",
         "precio_num": 950.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-orange-trooper/"
+      },
+      {
+        "titulo": "Alberto Blanchart – X Win Master",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win-master/"
+      },
+      {
+        "titulo": "Alberto Blanchart – Larp",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:27"
+    "ultima_actualizacion": "22/07/2026 11:01"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 19650.0,
