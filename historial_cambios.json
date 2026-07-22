@@ -3212,5 +3212,23 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/bran-solo-stolen-heart/"
+  },
+  {
+    "fecha": "22/07/2026 21:04",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Naturaleza viva",
+    "tipo": "nueva",
+    "precio": "1.200,00€",
+    "precio_num": 1200.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-naturaleza-viva/"
+  },
+  {
+    "fecha": "22/07/2026 21:04",
+    "artista": "Sergi Muñoz Lozano",
+    "obra": "Sergi Muñoz – Aixiplug",
+    "tipo": "nueva",
+    "precio": "2.300,00€",
+    "precio_num": 2300.0,
+    "url": "https://www.artevistas.eu/product/sergi-munoz-aixiplug/"
   }
 ]
