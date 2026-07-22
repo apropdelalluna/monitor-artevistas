@@ -3176,5 +3176,41 @@
     "precio": "1.100,00€",
     "precio_num": 1100.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/"
+  },
+  {
+    "fecha": "22/07/2026 11:01",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – X Win Master",
+    "tipo": "vendida",
+    "precio": "950,00€",
+    "precio_num": 950.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win-master/"
+  },
+  {
+    "fecha": "22/07/2026 11:01",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Larp",
+    "tipo": "vendida",
+    "precio": "750,00€",
+    "precio_num": 750.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/"
+  },
+  {
+    "fecha": "22/07/2026 11:01",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Bran Sólo – El dibujo del dibujo",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/bran-solo-el-dibujo-del-dibujo/"
+  },
+  {
+    "fecha": "22/07/2026 11:01",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Bran Sólo – Stolen Heart",
+    "tipo": "nueva",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/bran-solo-stolen-heart/"
   }
 ]
