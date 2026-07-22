@@ -1560,6 +1560,22 @@
       "precio": "1.100,00€",
       "precio_num": 1100.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "22/07/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – X Win Master",
+      "precio": "950,00€",
+      "precio_num": 950.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/07/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Larp",
+      "precio": "750,00€",
+      "precio_num": 750.0,
+      "tipo": "vendida"
     }
   ]
 }
