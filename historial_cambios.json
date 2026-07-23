@@ -3230,5 +3230,32 @@
     "precio": "2.300,00€",
     "precio_num": 2300.0,
     "url": "https://www.artevistas.eu/product/sergi-munoz-aixiplug/"
+  },
+  {
+    "fecha": "23/07/2026 20:38",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Mini lata amarillo",
+    "tipo": "nueva",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/me-lata-mini-lata-amarillo/"
+  },
+  {
+    "fecha": "23/07/2026 20:38",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Carpe diem",
+    "tipo": "nueva",
+    "precio": "380,00€",
+    "precio_num": 380.0,
+    "url": "https://www.artevistas.eu/product/me-lata-carpe-diem-4/"
+  },
+  {
+    "fecha": "23/07/2026 20:38",
+    "artista": "Yoshbott",
+    "obra": "Yoshbott – Taxonomy 130 (Leopardo)",
+    "tipo": "nueva",
+    "precio": "3.150,00€",
+    "precio_num": 3150.0,
+    "url": "https://www.artevistas.eu/product/yoshbott-taxonomy-130-leopardo/"
   }
 ]
