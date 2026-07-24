@@ -3257,5 +3257,23 @@
     "precio": "3.150,00€",
     "precio_num": 3150.0,
     "url": "https://www.artevistas.eu/product/yoshbott-taxonomy-130-leopardo/"
+  },
+  {
+    "fecha": "24/07/2026 19:08",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – The Funko Mandalorian and Grogu",
+    "tipo": "nueva",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-the-funko-mandalorian-and-grogu/"
+  },
+  {
+    "fecha": "24/07/2026 19:08",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Zulu boy Black and Gold",
+    "tipo": "vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/"
   }
 ]
