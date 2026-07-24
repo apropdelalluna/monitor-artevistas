@@ -14879,9 +14879,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 81786.0,
-    "obras_vendidas": 141,
-    "obras_con_precio": 141,
+    "total": 81846.0,
+    "obras_vendidas": 142,
+    "obras_con_precio": 142,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -15587,9 +15587,14 @@
         "titulo": "White Rabbit –  Bunny A.R.M.Y – 23 – 1",
         "precio_num": 1100.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/"
+      },
+      {
+        "titulo": "White Rabbit – Zulu boy Black and Gold",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/"
       }
     ],
-    "ultima_actualizacion": "21/07/2026 19:52"
+    "ultima_actualizacion": "24/07/2026 19:08"
   },
   "Xavi Mira": {
     "total": 125580.0,
