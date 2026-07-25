@@ -3311,5 +3311,68 @@
     "precio": "600,00€",
     "precio_num": 600.0,
     "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-3/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Burro de troya",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-burro-de-troya/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Reloj que marca las horas",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-reloj-que-marca-las-horas/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Un perro extraño",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-un-perro-extrano/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – F.A corazón",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-f-a-corazon/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox\tARTonaut #20",
+    "tipo": "nueva",
+    "precio": "50.000,00€",
+    "precio_num": 50000.0,
+    "url": "https://www.artevistas.eu/product/mark-roxartonaut-20/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #19",
+    "tipo": "nueva",
+    "precio": "50.000,00€",
+    "precio_num": 50000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-19/"
+  },
+  {
+    "fecha": "25/07/2026 20:48",
+    "artista": "Tim Marsh",
+    "obra": "Tim Marsh – The Manta Ray",
+    "tipo": "nueva",
+    "precio": "6.500,00€",
+    "precio_num": 6500.0,
+    "url": "https://www.artevistas.eu/product/tim-marsh-the-manta-ray/"
   }
 ]
