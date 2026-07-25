@@ -7172,9 +7172,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 156732.0,
-    "obras_vendidas": 566,
-    "obras_con_precio": 566,
+    "total": 157012.0,
+    "obras_vendidas": 567,
+    "obras_con_precio": 567,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -10004,9 +10004,14 @@
         "titulo": "Me Lata – One Love",
         "precio_num": 350.0,
         "url": "https://www.artevistas.eu/product/me-lata-one-love-8/"
+      },
+      {
+        "titulo": "Me Lata – We are one",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-one-2/"
       }
     ],
-    "ultima_actualizacion": "21/07/2026 18:08"
+    "ultima_actualizacion": "25/07/2026 14:08"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
