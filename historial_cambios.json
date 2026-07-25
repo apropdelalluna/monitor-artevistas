@@ -3275,5 +3275,41 @@
     "precio": "60,00€",
     "precio_num": 60.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/"
+  },
+  {
+    "fecha": "25/07/2026 14:08",
+    "artista": "Me Lata",
+    "obra": "Me Lata – We are one",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/me-lata-we-are-one-2/"
+  },
+  {
+    "fecha": "25/07/2026 14:08",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 1",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-1/"
+  },
+  {
+    "fecha": "25/07/2026 14:08",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 2",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-2/"
+  },
+  {
+    "fecha": "25/07/2026 14:08",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 3",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-3/"
   }
 ]
