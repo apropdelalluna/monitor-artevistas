@@ -1592,6 +1592,14 @@
       "precio": "280,00€",
       "precio_num": 280.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "26/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Fix you (RESERVED)",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
     }
   ]
 }
