@@ -3392,5 +3392,14 @@
     "precio": "1.700,00€",
     "precio_num": 1700.0,
     "url": "https://www.artevistas.eu/product/juan-manuel-pajares-genius/"
+  },
+  {
+    "fecha": "26/07/2026 18:16",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Fix you (RESERVED)",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-fix-you-4/"
   }
 ]
