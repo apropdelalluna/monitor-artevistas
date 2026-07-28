@@ -3401,5 +3401,14 @@
     "precio": "90,00€",
     "precio_num": 90.0,
     "url": "https://www.artevistas.eu/product/me-lata-fix-you-4/"
+  },
+  {
+    "fecha": "28/07/2026 18:48",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Graffiti Rhino",
+    "tipo": "nueva",
+    "precio": "9.500,00€",
+    "precio_num": 9500.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-graffiti-rhino/"
   }
 ]
