@@ -3410,5 +3410,14 @@
     "precio": "9.500,00€",
     "precio_num": 9500.0,
     "url": "https://www.artevistas.eu/product/mark-rox-graffiti-rhino/"
+  },
+  {
+    "fecha": "29/07/2026 09:43",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Ruines",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
   }
 ]
