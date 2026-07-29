@@ -1608,6 +1608,22 @@
       "precio": "40,00€",
       "precio_num": 40.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "29/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – You are always on my mind",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "29/07/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Mini lata verde",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
     }
   ]
 }
