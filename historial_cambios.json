@@ -3419,5 +3419,23 @@
     "precio": "40,00€",
     "precio_num": 40.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
+  },
+  {
+    "fecha": "29/07/2026 18:39",
+    "artista": "Me Lata",
+    "obra": "Me Lata – You are always on my mind",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-you-are-always-on-my-mind-2/"
+  },
+  {
+    "fecha": "29/07/2026 18:39",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Mini lata verde",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/me-lata-mini-lata-verde/"
   }
 ]
