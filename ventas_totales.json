@@ -12951,9 +12951,9 @@
     "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 650.0,
-    "obras_vendidas": 16,
-    "obras_con_precio": 16,
+    "total": 690.0,
+    "obras_vendidas": 17,
+    "obras_con_precio": 17,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -13034,9 +13034,14 @@
         "titulo": "Rémi Boudeperche – La vague",
         "precio_num": 40.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Ruines",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
       }
     ],
-    "ultima_actualizacion": "28/06/2026 18:47"
+    "ultima_actualizacion": "29/07/2026 09:43"
   },
   "Sandra Partera": {
     "total": 49722.0,
