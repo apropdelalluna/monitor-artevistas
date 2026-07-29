@@ -1600,6 +1600,14 @@
       "precio": "90,00€",
       "precio_num": 90.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "29/07/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Ruines",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "vendida"
     }
   ]
 }
