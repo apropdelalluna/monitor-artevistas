@@ -373,8 +373,11 @@
                   const titulo = obra.url
                     ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
                     : obra.titulo;
+                  const fechaHtml = obra.fecha_deteccion
+                    ? `<span style="color:var(--text-dim);font-size:11px;margin-left:8px;">${obra.fecha_deteccion}</span>`
+                    : '';
                   html += `<div class="obra-row" style="padding-left:16px;">
-                    <span class="obra-titulo">${titulo}</span>
+                    <span class="obra-titulo">${titulo}${fechaHtml}</span>
                     <span class="obra-precio">${obra.precio_num > 0 ? formatNum(obra.precio_num) : '—'}</span>
                   </div>`;
                 });
@@ -399,8 +402,11 @@
                 const titulo = obra.url
                   ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
                   : obra.titulo;
+                const fechaHtml = obra.fecha_deteccion
+                  ? `<span style="color:var(--text-dim);font-size:11px;margin-left:8px;">${obra.fecha_deteccion}</span>`
+                  : '';
                 html += `<div class="obra-row">
-                  <span class="obra-titulo">${titulo}</span>
+                  <span class="obra-titulo">${titulo}${fechaHtml}</span>
                   <span class="obra-precio">${formatNum(obra.precio_num)}</span>
                 </div>`;
               });

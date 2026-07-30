@@ -582,17 +582,20 @@
       {
         "titulo": "180 Hilos – Las abejas by Carmen García Gordillo",
         "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/las-abejas-by-carmen-garcia-gordillo/"
+        "url": "https://www.artevistas.eu/product/las-abejas-by-carmen-garcia-gordillo/",
+        "fecha_deteccion": "14/06/2026"
       },
       {
         "titulo": "180 hilos – Nature sauvage by Ana Jarén",
         "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/"
+        "url": "https://www.artevistas.eu/product/nature-sauvage-by-ana-jaren/",
+        "fecha_deteccion": "14/06/2026"
       },
       {
         "titulo": "180 Hilos – Nature sauvage girafe by Ana Jarén",
         "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/nature-sauvage-girafe-by-ana-jaren/"
+        "url": "https://www.artevistas.eu/product/nature-sauvage-girafe-by-ana-jaren/",
+        "fecha_deteccion": "19/06/2026"
       }
     ],
     "ultima_actualizacion": "19/06/2026 20:25"
@@ -975,7 +978,8 @@
       {
         "titulo": "Akore – Street tribe",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/street-tribe/"
+        "url": "https://www.artevistas.eu/product/street-tribe/",
+        "fecha_deteccion": "28/06/2026"
       }
     ],
     "ultima_actualizacion": "28/06/2026 18:47"
@@ -1148,12 +1152,14 @@
       {
         "titulo": "Alberto Blanchart – X Win Master",
         "precio_num": 950.0,
-        "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win-master/"
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win-master/",
+        "fecha_deteccion": "22/07/2026"
       },
       {
         "titulo": "Alberto Blanchart – Larp",
         "precio_num": 750.0,
-        "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/"
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/",
+        "fecha_deteccion": "22/07/2026"
       }
     ],
     "ultima_actualizacion": "22/07/2026 11:01"
@@ -1340,17 +1346,20 @@
       {
         "titulo": "Álvaro Gómez-Pantoja – Chico sentado junto a planta de interior",
         "precio_num": 600.0,
-        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/"
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/",
+        "fecha_deteccion": "15/06/2026"
       },
       {
         "titulo": "Álvaro Gómez-Pantoja – Hombres de invierno",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombres-de-invierno/"
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombres-de-invierno/",
+        "fecha_deteccion": "21/06/2026"
       },
       {
         "titulo": "Álvaro Gómez-Pantoja – Chica tumbada en sófa con estampado floral",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/"
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/",
+        "fecha_deteccion": "01/07/2026"
       }
     ],
     "ultima_actualizacion": "01/07/2026 18:20"
@@ -1673,37 +1682,44 @@
       {
         "titulo": "Andrzej Farfulowski – Autoportrait without glasses paper",
         "precio_num": 80.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoportrait-without-glasses-2/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoportrait-without-glasses-2/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – Autoretrato con gallo muerto paper",
         "precio_num": 80.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoretrato-con-gallo-muerto/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-autoretrato-con-gallo-muerto/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – 3",
         "precio_num": 520.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-3/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-3/",
+        "fecha_deteccion": "13/06/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – 9",
         "precio_num": 520.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-9/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-9/",
+        "fecha_deteccion": "21/06/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – 12",
         "precio_num": 520.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-12/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-12/",
+        "fecha_deteccion": "21/06/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – Victoria",
         "precio_num": 1500.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-victoria/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-victoria/",
+        "fecha_deteccion": "05/07/2026"
       },
       {
         "titulo": "Andrzej Farfulowski – Ana (green)",
         "precio_num": 2100.0,
-        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-ana-green/"
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-ana-green/",
+        "fecha_deteccion": "21/07/2026"
       }
     ],
     "ultima_actualizacion": "21/07/2026 18:08"
@@ -1986,7 +2002,8 @@
       {
         "titulo": "António Azevedo – Era uma vez… (365º Acto)",
         "precio_num": 245.0,
-        "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-365o-acto/"
+        "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-365o-acto/",
+        "fecha_deteccion": "08/06/2026"
       }
     ],
     "ultima_actualizacion": "08/06/2026 11:49"
@@ -2424,62 +2441,74 @@
       {
         "titulo": "Art is Trash – Arquero (RESERVED)",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-arquero/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-arquero/",
+        "fecha_deteccion": "24/05/2026"
       },
       {
         "titulo": "Art is Trash – Caballo 8",
         "precio_num": 750.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-caballo-8/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-caballo-8/",
+        "fecha_deteccion": "26/05/2026"
       },
       {
         "titulo": "Art is Trash – Autocensura",
         "precio_num": 2100.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-autocensura/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-autocensura/",
+        "fecha_deteccion": "28/05/2026"
       },
       {
         "titulo": "Art is Trash – Majestad",
         "precio_num": 2420.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-majestad/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-majestad/",
+        "fecha_deteccion": "31/05/2026"
       },
       {
         "titulo": "Art is Trash – Fin de la relación",
         "precio_num": 1700.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-fin-de-la-relacion/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-fin-de-la-relacion/",
+        "fecha_deteccion": "03/06/2026"
       },
       {
         "titulo": "Art is Trash – Atardecer",
         "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-atardecer/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-atardecer/",
+        "fecha_deteccion": "06/06/2026"
       },
       {
         "titulo": "Art is Trash – Circunferencia (RESERVED)",
         "precio_num": 2662.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-circunferencia/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-circunferencia/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Art is Trash – El artista errante (Reserved)",
         "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-el-artista-errante/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-artista-errante/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Art is Trash – El profesional (RESERVED)",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-el-profesional/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-profesional/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Art is Trash – La basura y tú",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-la-basura-y-tu/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-la-basura-y-tu/",
+        "fecha_deteccion": "13/06/2026"
       },
       {
         "titulo": "Art is Trash – Guerrero",
         "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-guerrero/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-guerrero/",
+        "fecha_deteccion": "04/07/2026"
       },
       {
         "titulo": "Art is Trash – El desierto empieza aquí",
         "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/"
+        "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/",
+        "fecha_deteccion": "04/07/2026"
       }
     ],
     "ultima_actualizacion": "04/07/2026 17:36"
@@ -2582,7 +2611,8 @@
       {
         "titulo": "Ashwan – Can’t stop, won’t stop Blue I",
         "precio_num": 180.0,
-        "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/"
+        "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/",
+        "fecha_deteccion": "30/05/2026"
       }
     ],
     "ultima_actualizacion": "30/05/2026 18:41"
@@ -3063,7 +3093,8 @@
       {
         "titulo": "BL2A – Ukulele planta cara (concert ukulele)",
         "precio_num": 2200.0,
-        "url": "https://www.artevistas.eu/product/ukelele-planta-cara-ukelele-concierto/"
+        "url": "https://www.artevistas.eu/product/ukelele-planta-cara-ukelele-concierto/",
+        "fecha_deteccion": "13/07/2026"
       }
     ],
     "ultima_actualizacion": "13/07/2026 10:37"
@@ -4120,7 +4151,8 @@
       {
         "titulo": "Charlax – L’illusion",
         "precio_num": 250.0,
-        "url": "https://www.artevistas.eu/product/charlax-lillusion/"
+        "url": "https://www.artevistas.eu/product/charlax-lillusion/",
+        "fecha_deteccion": "28/06/2026"
       }
     ],
     "ultima_actualizacion": "28/06/2026 18:47"
@@ -4495,7 +4527,8 @@
       {
         "titulo": "El Xupet Negre – Noir Art",
         "precio_num": 700.0,
-        "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/"
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/",
+        "fecha_deteccion": "14/06/2026"
       }
     ],
     "ultima_actualizacion": "14/06/2026 11:38"
@@ -4854,17 +4887,20 @@
       {
         "titulo": "Filthy Freak – Shark Skate #3",
         "precio_num": 180.0,
-        "url": "https://www.artevistas.eu/product/filthy-freak-shark-skate-2/"
+        "url": "https://www.artevistas.eu/product/filthy-freak-shark-skate-2/",
+        "fecha_deteccion": "17/05/2026"
       },
       {
         "titulo": "Filthy Freak – Untitled II",
         "precio_num": 75.0,
-        "url": "https://www.artevistas.eu/product/filthy-freak-untitled-ii/"
+        "url": "https://www.artevistas.eu/product/filthy-freak-untitled-ii/",
+        "fecha_deteccion": "06/07/2026"
       },
       {
         "titulo": "Filthy Freak – Untitled I",
         "precio_num": 75.0,
-        "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/"
+        "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/",
+        "fecha_deteccion": "06/07/2026"
       }
     ],
     "ultima_actualizacion": "06/07/2026 11:11"
@@ -5097,27 +5133,32 @@
       {
         "titulo": "Frank Diamond – The false sky",
         "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/the-false-sky/"
+        "url": "https://www.artevistas.eu/product/the-false-sky/",
+        "fecha_deteccion": "12/05/2026"
       },
       {
         "titulo": "Frank Diamond – Veins II (RESERVED)",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/veins-ii/"
+        "url": "https://www.artevistas.eu/product/veins-ii/",
+        "fecha_deteccion": "24/05/2026"
       },
       {
         "titulo": "Frank Diamond – Fragmentos",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/"
+        "url": "https://www.artevistas.eu/product/frank-diamond-fragmentos/",
+        "fecha_deteccion": "28/05/2026"
       },
       {
         "titulo": "Frank Diamond – Dancing in the mist",
         "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/dancing-in-the-mist/"
+        "url": "https://www.artevistas.eu/product/dancing-in-the-mist/",
+        "fecha_deteccion": "06/06/2026"
       },
       {
         "titulo": "Frank Diamond – The butterflies",
         "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/the-butterflies/"
+        "url": "https://www.artevistas.eu/product/the-butterflies/",
+        "fecha_deteccion": "10/06/2026"
       }
     ],
     "ultima_actualizacion": "10/06/2026 12:06"
@@ -5385,7 +5426,8 @@
       {
         "titulo": "Gil Gelpi – Dreaming mountain",
         "precio_num": 2800.0,
-        "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/"
+        "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/",
+        "fecha_deteccion": "05/06/2026"
       }
     ],
     "ultima_actualizacion": "05/06/2026 18:56"
@@ -5706,7 +5748,8 @@
       {
         "titulo": "James Ormiston – Žofie IV",
         "precio_num": 1300.0,
-        "url": "https://www.artevistas.eu/product/james-ormiston-zofie-iv/"
+        "url": "https://www.artevistas.eu/product/james-ormiston-zofie-iv/",
+        "fecha_deteccion": "21/07/2026"
       }
     ],
     "ultima_actualizacion": "21/07/2026 19:52"
@@ -6123,12 +6166,14 @@
       {
         "titulo": "Julien Deniau aka Unavista – Gorion",
         "precio_num": 250.0,
-        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-gorion/"
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-gorion/",
+        "fecha_deteccion": "29/06/2026"
       },
       {
         "titulo": "Julien Deniau aka Unavista – Ojo rojo",
         "precio_num": 110.0,
-        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-ojo-rojo/"
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-ojo-rojo/",
+        "fecha_deteccion": "21/07/2026"
       }
     ],
     "ultima_actualizacion": "21/07/2026 19:52"
@@ -6536,7 +6581,8 @@
       {
         "titulo": "Konair – Pink Tower",
         "precio_num": 220.0,
-        "url": "https://www.artevistas.eu/product/konair-pink-tower/"
+        "url": "https://www.artevistas.eu/product/konair-pink-tower/",
+        "fecha_deteccion": "13/06/2026"
       }
     ],
     "ultima_actualizacion": "13/06/2026 18:50"
@@ -6667,7 +6713,8 @@
       {
         "titulo": "María Cuéllar – Percepciones adulteradas; I Dream about Blue Phtalo Cheeseburger (RESERVED)",
         "precio_num": 700.0,
-        "url": "https://www.artevistas.eu/product/maria-cuellar-percepciones-adulteradas-i-dream-about-blue-phtalo-cheeseburger/"
+        "url": "https://www.artevistas.eu/product/maria-cuellar-percepciones-adulteradas-i-dream-about-blue-phtalo-cheeseburger/",
+        "fecha_deteccion": "11/06/2026"
       }
     ],
     "ultima_actualizacion": "11/06/2026 18:15"
@@ -6740,32 +6787,38 @@
       {
         "titulo": "Mark Rox – Graffiti Camel",
         "precio_num": 12500.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-camel/"
+        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-camel/",
+        "fecha_deteccion": "24/05/2026"
       },
       {
         "titulo": "Mark Rox – Graffiti Giraffe",
         "precio_num": 15000.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-giraffe/"
+        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-giraffe/",
+        "fecha_deteccion": "25/05/2026"
       },
       {
         "titulo": "Mark Rox – ARTonaut #10 (Reserved)",
         "precio_num": 8500.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/"
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-10/",
+        "fecha_deteccion": "25/05/2026"
       },
       {
         "titulo": "Mark Rox – ARTonaut #15",
         "precio_num": 25000.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-17-2/"
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-17-2/",
+        "fecha_deteccion": "28/05/2026"
       },
       {
         "titulo": "Mark Rox – Tortoises",
         "precio_num": 7000.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-tortoises/"
+        "url": "https://www.artevistas.eu/product/mark-rox-tortoises/",
+        "fecha_deteccion": "06/07/2026"
       },
       {
         "titulo": "Mark Rox – ARTonaut #Lazy genius",
         "precio_num": 2800.0,
-        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-lazy-genius/"
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-lazy-genius/",
+        "fecha_deteccion": "18/07/2026"
       }
     ],
     "ultima_actualizacion": "18/07/2026 10:11"
@@ -7161,12 +7214,14 @@
       {
         "titulo": "Matthieu Kowad – Let’s stay together M",
         "precio_num": 1700.0,
-        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-m/"
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-m/",
+        "fecha_deteccion": "28/05/2026"
       },
       {
         "titulo": "Matthieu Kowad – Let’s stay together S",
         "precio_num": 1250.0,
-        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-s/"
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-lets-stay-together-s/",
+        "fecha_deteccion": "28/05/2026"
       }
     ],
     "ultima_actualizacion": "28/05/2026 13:35"
@@ -7179,7 +7234,8 @@
       {
         "titulo": "Me Lata – Amour",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
+        "url": "https://www.artevistas.eu/product/me-lata-amour-7/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "Me Lata – Now is the moment",
@@ -7214,7 +7270,8 @@
       {
         "titulo": "Me Lata – Peace",
         "precio_num": 110.0,
-        "url": "https://www.artevistas.eu/product/me-lata-peace-7/"
+        "url": "https://www.artevistas.eu/product/me-lata-peace-7/",
+        "fecha_deteccion": "17/05/2026"
       },
       {
         "titulo": "Me Lata – Fighters",
@@ -7279,7 +7336,8 @@
       {
         "titulo": "Me Lata – Love of my life",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "Me Lata – Happy",
@@ -7439,7 +7497,8 @@
       {
         "titulo": "Me Lata – In your arms",
         "precio_num": 320.0,
-        "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/"
+        "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/",
+        "fecha_deteccion": "05/06/2026"
       },
       {
         "titulo": "Me Lata – All you need is love",
@@ -9849,12 +9908,14 @@
       {
         "titulo": "Me Lata – Amour",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/me-lata-amour-7/"
+        "url": "https://www.artevistas.eu/product/me-lata-amour-7/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "Me Lata – Love of my life",
         "precio_num": 320.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-11/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "Me Lata – Wild (Reserved)",
@@ -9864,17 +9925,20 @@
       {
         "titulo": "Me Lata – Peace",
         "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/me-lata-peace-7/"
+        "url": "https://www.artevistas.eu/product/me-lata-peace-7/",
+        "fecha_deteccion": "17/05/2026"
       },
       {
         "titulo": "Me Lata – Si me das a elegir me quedo contigo",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/me-lata-si-me-das-a-elegir-me-quedo-contigo/"
+        "url": "https://www.artevistas.eu/product/me-lata-si-me-das-a-elegir-me-quedo-contigo/",
+        "fecha_deteccion": "17/05/2026"
       },
       {
         "titulo": "Me Lata – Gracias corazón por cada latido",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/"
+        "url": "https://www.artevistas.eu/product/me-lata-gracias-corazon-por-cada-latido/",
+        "fecha_deteccion": "17/05/2026"
       },
       {
         "titulo": "Me Lata – Love of my life",
@@ -9883,147 +9947,176 @@
       {
         "titulo": "Me Lata – Love is the drug",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-24/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-24/",
+        "fecha_deteccion": "24/05/2026"
       },
       {
         "titulo": "Me Lata – Fighters",
         "precio_num": 350.0,
-        "url": "https://www.artevistas.eu/product/me-lata-fighters-5/"
+        "url": "https://www.artevistas.eu/product/me-lata-fighters-5/",
+        "fecha_deteccion": "29/05/2026"
       },
       {
         "titulo": "Me Lata – Soul",
         "precio_num": 95.0,
-        "url": "https://www.artevistas.eu/product/me-lata-soul/"
+        "url": "https://www.artevistas.eu/product/me-lata-soul/",
+        "fecha_deteccion": "03/06/2026"
       },
       {
         "titulo": "Me Lata – In your arms",
         "precio_num": 350.0,
-        "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/"
+        "url": "https://www.artevistas.eu/product/me-lata-in-youe-arms/",
+        "fecha_deteccion": "05/06/2026"
       },
       {
         "titulo": "Me Lata – In love with life",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-4/"
+        "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-4/",
+        "fecha_deteccion": "10/06/2026"
       },
       {
         "titulo": "Me Lata – T’estimo (RESERVED)",
         "precio_num": 220.0,
-        "url": "https://www.artevistas.eu/product/me-lata-testimo-25/"
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-25/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "Me Lata – Spray Smiley",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/",
+        "fecha_deteccion": "08/07/2026"
       },
       {
         "titulo": "Me Lata – Spray Smiley",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-4/"
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-4/",
+        "fecha_deteccion": "14/06/2026"
       },
       {
         "titulo": "Me Lata – It’s not easy but you can do it",
         "precio_num": 450.0,
-        "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/"
+        "url": "https://www.artevistas.eu/product/me-lata-its-not-easy-but-you-can-do-it/",
+        "fecha_deteccion": "14/06/2026"
       },
       {
         "titulo": "Me Lata – Wild",
         "precio_num": 95.0,
-        "url": "https://www.artevistas.eu/product/me-lata-wild/"
+        "url": "https://www.artevistas.eu/product/me-lata-wild/",
+        "fecha_deteccion": "21/06/2026"
       },
       {
         "titulo": "Me Lata – Shine",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/me-lata-shine-2/"
+        "url": "https://www.artevistas.eu/product/me-lata-shine-2/",
+        "fecha_deteccion": "23/06/2026"
       },
       {
         "titulo": "Me Lata – We are crazy people in love with life",
         "precio_num": 1300.0,
-        "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/"
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-15/",
+        "fecha_deteccion": "29/06/2026"
       },
       {
         "titulo": "Me Lata – Big Hug",
         "precio_num": 220.0,
-        "url": "https://www.artevistas.eu/product/me-lata-big-hug/"
+        "url": "https://www.artevistas.eu/product/me-lata-big-hug/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Me Lata – Mini lata amarillo",
         "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/me-lata-mini-lata-amarillo/"
+        "url": "https://www.artevistas.eu/product/me-lata-mini-lata-amarillo/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Me Lata – Big dreams forever and ever",
         "precio_num": 700.0,
-        "url": "https://www.artevistas.eu/product/me-lata-big-dreams-forever-and-ever/"
+        "url": "https://www.artevistas.eu/product/me-lata-big-dreams-forever-and-ever/",
+        "fecha_deteccion": "04/07/2026"
       },
       {
         "titulo": "Me Lata – Spray Smiley",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/"
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-6/",
+        "fecha_deteccion": "08/07/2026"
       },
       {
         "titulo": "Me Lata – Formidable",
         "precio_num": 250.0,
-        "url": "https://www.artevistas.eu/product/me-lata-formidable/"
+        "url": "https://www.artevistas.eu/product/me-lata-formidable/",
+        "fecha_deteccion": "10/07/2026"
       },
       {
         "titulo": "Me Lata – Love (RESERVED)",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-22/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-22/",
+        "fecha_deteccion": "12/07/2026"
       },
       {
         "titulo": "Me Lata – Love",
         "precio_num": 95.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-30/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-30/",
+        "fecha_deteccion": "15/07/2026"
       },
       {
         "titulo": "Me Lata – Love",
         "precio_num": 200.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-29/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-29/",
+        "fecha_deteccion": "16/07/2026"
       },
       {
         "titulo": "Me Lata – Art",
         "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/me-lata-art/"
+        "url": "https://www.artevistas.eu/product/me-lata-art/",
+        "fecha_deteccion": "16/07/2026"
       },
       {
         "titulo": "Me Lata – One & only we love you (RESERVED)",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-one-only-we-love-you/"
+        "url": "https://www.artevistas.eu/product/me-lata-one-only-we-love-you/",
+        "fecha_deteccion": "17/07/2026"
       },
       {
         "titulo": "Me Lata – Love is the drug (RESERVED)",
         "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-13/"
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-13/",
+        "fecha_deteccion": "17/07/2026"
       },
       {
         "titulo": "Me Lata – I Can see you in my dream",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/me-lata-i-can-see-you-in-my-dream/"
+        "url": "https://www.artevistas.eu/product/me-lata-i-can-see-you-in-my-dream/",
+        "fecha_deteccion": "18/07/2026"
       },
       {
         "titulo": "Me Lata – One Love",
         "precio_num": 350.0,
-        "url": "https://www.artevistas.eu/product/me-lata-one-love-8/"
+        "url": "https://www.artevistas.eu/product/me-lata-one-love-8/",
+        "fecha_deteccion": "21/07/2026"
       },
       {
         "titulo": "Me Lata – We are one",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/me-lata-we-are-one-2/"
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-one-2/",
+        "fecha_deteccion": "25/07/2026"
       },
       {
         "titulo": "Me Lata – Fix you (RESERVED)",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-fix-you-4/"
+        "url": "https://www.artevistas.eu/product/me-lata-fix-you-4/",
+        "fecha_deteccion": "26/07/2026"
       },
       {
         "titulo": "Me Lata – You are always on my mind",
         "precio_num": 90.0,
-        "url": "https://www.artevistas.eu/product/me-lata-you-are-always-on-my-mind-2/"
+        "url": "https://www.artevistas.eu/product/me-lata-you-are-always-on-my-mind-2/",
+        "fecha_deteccion": "29/07/2026"
       },
       {
         "titulo": "Me Lata – Mini lata verde",
         "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/me-lata-mini-lata-verde/"
+        "url": "https://www.artevistas.eu/product/me-lata-mini-lata-verde/",
+        "fecha_deteccion": "29/07/2026"
       }
     ],
     "ultima_actualizacion": "29/07/2026 18:39"
@@ -10171,17 +10264,20 @@
       {
         "titulo": "Miquel Serratosa – S-96 – Topografía de l’incert",
         "precio_num": 2400.0,
-        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-96-topografia-de-lincert/"
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-96-topografia-de-lincert/",
+        "fecha_deteccion": "31/05/2026"
       },
       {
         "titulo": "Miquel Serratosa – RM – 02",
         "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/rm-02/"
+        "url": "https://www.artevistas.eu/product/rm-02/",
+        "fecha_deteccion": "31/05/2026"
       },
       {
         "titulo": "Miquel Serratosa – S-83 – Travessía pictórica",
         "precio_num": 2200.0,
-        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-83-travessia-pictorica/"
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-83-travessia-pictorica/",
+        "fecha_deteccion": "07/06/2026"
       }
     ],
     "ultima_actualizacion": "07/06/2026 11:49"
@@ -10369,12 +10465,14 @@
       {
         "titulo": "Mireia Cifuentes – Collage Rx",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/mireia-cifuentes-collage-rx/"
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-collage-rx/",
+        "fecha_deteccion": "31/05/2026"
       },
       {
         "titulo": "Mireia Cifuentes – Flores IV",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/mireia-cifuentes-flores-iv/"
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-flores-iv/",
+        "fecha_deteccion": "19/06/2026"
       }
     ],
     "ultima_actualizacion": "19/06/2026 16:35"
@@ -10735,7 +10833,8 @@
       {
         "titulo": "Mowcka – Sin título 3",
         "precio_num": 70.0,
-        "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-3/"
+        "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-3/",
+        "fecha_deteccion": "19/06/2026"
       }
     ],
     "ultima_actualizacion": "19/06/2026 20:25"
@@ -11158,7 +11257,8 @@
       {
         "titulo": "Neon Sandwich – Skywise Baby Buddha",
         "precio_num": 150.0,
-        "url": "https://www.artevistas.eu/product/neon-sandwich-skywise-baby-buddha/"
+        "url": "https://www.artevistas.eu/product/neon-sandwich-skywise-baby-buddha/",
+        "fecha_deteccion": "04/06/2026"
       }
     ],
     "ultima_actualizacion": "04/06/2026 18:15"
@@ -11316,7 +11416,8 @@
       {
         "titulo": "Orson Buch – Pez Crespo",
         "precio_num": 160.0,
-        "url": "https://www.artevistas.eu/product/orson-buch-pez-crespo/"
+        "url": "https://www.artevistas.eu/product/orson-buch-pez-crespo/",
+        "fecha_deteccion": "12/05/2026"
       }
     ],
     "ultima_actualizacion": "12/05/2026 21:35"
@@ -12195,7 +12296,8 @@
       {
         "titulo": "Pepe Pujol Carabantes – Reflejo Urbano I",
         "precio_num": 7800.0,
-        "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-reflejo-urbano-i/"
+        "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-reflejo-urbano-i/",
+        "fecha_deteccion": "20/06/2026"
       }
     ],
     "ultima_actualizacion": "20/06/2026 12:22"
@@ -12338,32 +12440,38 @@
       {
         "titulo": "Peta Rodríguez – Totemismo 7",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-7/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-7/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Peta Rodríguez – Totemismo 6",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-6/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-6/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Peta Rodríguez – Totemismo 9",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-5/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-5/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Peta Rodríguez – Totemismo 2",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-3/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-3/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Peta Rodríguez – Totemismo 1",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-2/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-2/",
+        "fecha_deteccion": "02/07/2026"
       },
       {
         "titulo": "Peta Rodríguez – Totemismo 4",
         "precio_num": 280.0,
-        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-1/"
+        "url": "https://www.artevistas.eu/product/peta-rodriguez-totemismo-1/",
+        "fecha_deteccion": "02/07/2026"
       }
     ],
     "ultima_actualizacion": "02/07/2026 22:11"
@@ -12474,17 +12582,20 @@
       {
         "titulo": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/"
+        "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/",
+        "fecha_deteccion": "11/05/2026"
       },
       {
         "titulo": "Pol Ballonga – Ashes mini ocre – éd. 1/8",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/"
+        "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-ocre/",
+        "fecha_deteccion": "11/05/2026"
       },
       {
         "titulo": "Pol Ballonga – Immerse",
         "precio_num": 3000.0,
-        "url": "https://www.artevistas.eu/product/pol-ballonga-immerse/"
+        "url": "https://www.artevistas.eu/product/pol-ballonga-immerse/",
+        "fecha_deteccion": "16/05/2026"
       }
     ],
     "ultima_actualizacion": "16/05/2026 17:53"
@@ -12877,12 +12988,14 @@
       {
         "titulo": "Ramón Pons – Individuo Verde 3",
         "precio_num": 100.0,
-        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-verde-3/"
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-verde-3/",
+        "fecha_deteccion": "19/06/2026"
       },
       {
         "titulo": "Ramón Pons – Abrazo",
         "precio_num": 125.0,
-        "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/"
+        "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/",
+        "fecha_deteccion": "16/07/2026"
       }
     ],
     "ultima_actualizacion": "16/07/2026 16:08"
@@ -12935,27 +13048,32 @@
       {
         "titulo": "Reb.MWC – Pffft Peach",
         "precio_num": 160.0,
-        "url": "https://www.artevistas.eu/product/reb-mwc-pffft-peach/"
+        "url": "https://www.artevistas.eu/product/reb-mwc-pffft-peach/",
+        "fecha_deteccion": "15/05/2026"
       },
       {
         "titulo": "Reb Mwc – Self Portrait",
         "precio_num": 35.0,
-        "url": "https://www.artevistas.eu/product/reb-mwc-self-portrait/"
+        "url": "https://www.artevistas.eu/product/reb-mwc-self-portrait/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Reb Mwc – With the power of a bear",
         "precio_num": 35.0,
-        "url": "https://www.artevistas.eu/product/reb-mwc-with-the-power-of-a-bear/"
+        "url": "https://www.artevistas.eu/product/reb-mwc-with-the-power-of-a-bear/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Reb Mwc – Perros Callejeros",
         "precio_num": 25.0,
-        "url": "https://www.artevistas.eu/product/reb-mwc-perros-callejeros/"
+        "url": "https://www.artevistas.eu/product/reb-mwc-perros-callejeros/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Reb Mwc – Plaza Real",
         "precio_num": 25.0,
-        "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-2/"
+        "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-2/",
+        "fecha_deteccion": "17/06/2026"
       }
     ],
     "ultima_actualizacion": "17/06/2026 21:12"
@@ -12973,82 +13091,98 @@
       {
         "titulo": "Rémi Boudeperche – La vague",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/",
+        "fecha_deteccion": "28/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Epave",
         "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-epave/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-epave/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Arbre, Parc Güell",
         "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-arbre-parc-guell/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-arbre-parc-guell/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Cactus",
         "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-cactus/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-cactus/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Sagrada Familia",
         "precio_num": 50.0,
-        "url": "https://www.artevistas.eu/product/32385/"
+        "url": "https://www.artevistas.eu/product/32385/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Noche en Barcelona",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Barcelona",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Barcelona II",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona-ii/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-barcelona-ii/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Noche en Barcelona",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Caravane",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-caravane/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-caravane/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Sagrada Familia",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Casa Batllo II",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-casa-batllo-ii/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-casa-batllo-ii/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – L’inconnue",
         "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-linconnue/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-linconnue/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Dans ta gueule",
         "precio_num": 20.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-dans-ta-gueule/",
+        "fecha_deteccion": "17/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – La vague",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-la-vague/",
+        "fecha_deteccion": "28/06/2026"
       },
       {
         "titulo": "Rémi Boudeperche – Ruines",
         "precio_num": 40.0,
-        "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/",
+        "fecha_deteccion": "29/07/2026"
       }
     ],
     "ultima_actualizacion": "29/07/2026 09:43"
@@ -13665,12 +13799,14 @@
       {
         "titulo": "Sater – Vagón olvidado",
         "precio_num": 1500.0,
-        "url": "https://www.artevistas.eu/product/sater-vagon-olvidado/"
+        "url": "https://www.artevistas.eu/product/sater-vagon-olvidado/",
+        "fecha_deteccion": "07/06/2026"
       },
       {
         "titulo": "Sater – Renfe",
         "precio_num": 850.0,
-        "url": "https://www.artevistas.eu/product/sater-renfe/"
+        "url": "https://www.artevistas.eu/product/sater-renfe/",
+        "fecha_deteccion": "18/07/2026"
       }
     ],
     "ultima_actualizacion": "18/07/2026 18:45"
@@ -13943,22 +14079,26 @@
       {
         "titulo": "Sergi Muñoz Lozano – Half monster Half human (RESERVED)",
         "precio_num": 500.0,
-        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-half-monster-half-human/"
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-half-monster-half-human/",
+        "fecha_deteccion": "26/05/2026"
       },
       {
         "titulo": "Sergi Muñoz Lozano – Frágil",
         "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/"
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-fragil/",
+        "fecha_deteccion": "31/05/2026"
       },
       {
         "titulo": "Sergi Muñoz Lozano – Lost soul face (RESERVED)",
         "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-lost-soul-face/"
+        "url": "https://www.artevistas.eu/product/sergi-munoz-lozano-lost-soul-face/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Sergi Muñoz Lozano – Comienzos",
         "precio_num": 800.0,
-        "url": "https://www.artevistas.eu/product/comienzos/"
+        "url": "https://www.artevistas.eu/product/comienzos/",
+        "fecha_deteccion": "19/06/2026"
       }
     ],
     "ultima_actualizacion": "19/06/2026 16:35"
@@ -14099,7 +14239,8 @@
       {
         "titulo": "Tempe Hernández – Hablan y no dicen nada II",
         "precio_num": 180.0,
-        "url": "https://www.artevistas.eu/product/hablan-y-no-dicen-nada-ii-2/"
+        "url": "https://www.artevistas.eu/product/hablan-y-no-dicen-nada-ii-2/",
+        "fecha_deteccion": "08/06/2026"
       }
     ],
     "ultima_actualizacion": "08/06/2026 11:49"
@@ -14187,7 +14328,8 @@
       {
         "titulo": "The Catman – You/me",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-you-me/"
+        "url": "https://www.artevistas.eu/product/the-catman-you-me/",
+        "fecha_deteccion": "03/05/2026"
       },
       {
         "titulo": "The Catman – Follow me",
@@ -14657,87 +14799,104 @@
       {
         "titulo": "The Catman – Madame et monsieur",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/madame-et-monsieur/"
+        "url": "https://www.artevistas.eu/product/madame-et-monsieur/",
+        "fecha_deteccion": "06/06/2026"
       },
       {
         "titulo": "The Catman – You person of the year",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/you-person/"
+        "url": "https://www.artevistas.eu/product/you-person/",
+        "fecha_deteccion": "06/06/2026"
       },
       {
         "titulo": "The Catman – I Love You XXXL",
         "precio_num": 65.0,
-        "url": "https://www.artevistas.eu/product/the-catman-i-love-you-xxxl/"
+        "url": "https://www.artevistas.eu/product/the-catman-i-love-you-xxxl/",
+        "fecha_deteccion": "08/06/2026"
       },
       {
         "titulo": "The Catman – Misguided (RESERVED)",
         "precio_num": 1100.0,
-        "url": "https://www.artevistas.eu/product/the-catman-misguided/"
+        "url": "https://www.artevistas.eu/product/the-catman-misguided/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Art Loves You (RESERVED)",
         "precio_num": 550.0,
-        "url": "https://www.artevistas.eu/product/the-catman-art-loves-you-3/"
+        "url": "https://www.artevistas.eu/product/the-catman-art-loves-you-3/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – You art here (Reserved)",
         "precio_num": 77.0,
-        "url": "https://www.artevistas.eu/product/the-catman-you-art-here-2/"
+        "url": "https://www.artevistas.eu/product/the-catman-you-art-here-2/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Outsider (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-outsider/"
+        "url": "https://www.artevistas.eu/product/the-catman-outsider/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Pirate heart (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-pirate-heart-2/"
+        "url": "https://www.artevistas.eu/product/the-catman-pirate-heart-2/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Km 0 (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/30635/"
+        "url": "https://www.artevistas.eu/product/30635/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Dreamer (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/dreamer-2/"
+        "url": "https://www.artevistas.eu/product/dreamer-2/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Do not cross (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/do-not-cross/"
+        "url": "https://www.artevistas.eu/product/do-not-cross/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Woman (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/woman/"
+        "url": "https://www.artevistas.eu/product/woman/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Youniverse (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/youniverse/"
+        "url": "https://www.artevistas.eu/product/youniverse/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – 100% magic (RESERVED)",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
+        "url": "https://www.artevistas.eu/product/the-catman-100-magic/",
+        "fecha_deteccion": "12/06/2026"
       },
       {
         "titulo": "The Catman – Resumiendo",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-resumiendo/"
+        "url": "https://www.artevistas.eu/product/the-catman-resumiendo/",
+        "fecha_deteccion": "27/06/2026"
       },
       {
         "titulo": "The Catman – Tus pasos",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/"
+        "url": "https://www.artevistas.eu/product/the-catman-tus-pasos/",
+        "fecha_deteccion": "27/06/2026"
       },
       {
         "titulo": "The Catman – Passion kisses",
         "precio_num": 48.0,
-        "url": "https://www.artevistas.eu/product/the-catman-passion-kisses/"
+        "url": "https://www.artevistas.eu/product/the-catman-passion-kisses/",
+        "fecha_deteccion": "13/07/2026"
       }
     ],
     "ultima_actualizacion": "13/07/2026 10:37"
@@ -14870,7 +15029,8 @@
       {
         "titulo": "Tim Marsh – The Leopard of Love",
         "precio_num": 7500.0,
-        "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/"
+        "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/",
+        "fecha_deteccion": "31/05/2026"
       }
     ],
     "ultima_actualizacion": "31/05/2026 23:45"
@@ -14893,12 +15053,14 @@
       {
         "titulo": "Toni Riera – 45 RPM 1/25 (RESERVED)",
         "precio_num": 1200.0,
-        "url": "https://www.artevistas.eu/product/toni-riera-45-rpm-1-25/"
+        "url": "https://www.artevistas.eu/product/toni-riera-45-rpm-1-25/",
+        "fecha_deteccion": "11/06/2026"
       },
       {
         "titulo": "Toni Riera – Hotel Montesol – ed. 500 (RESERVED)",
         "precio_num": 320.0,
-        "url": "https://www.artevistas.eu/product/hotel-montesol/"
+        "url": "https://www.artevistas.eu/product/hotel-montesol/",
+        "fecha_deteccion": "11/06/2026"
       }
     ],
     "ultima_actualizacion": "11/06/2026 18:15"
@@ -14916,7 +15078,8 @@
       {
         "titulo": "White Rabbit – Catrina",
         "precio_num": 1300.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-catrina/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-catrina/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "White Rabbit – Katrina Black and Gold",
@@ -15041,7 +15204,8 @@
       {
         "titulo": "White Rabbit – Bunny Revolution – Baroque",
         "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque/",
+        "fecha_deteccion": "08/05/2026"
       },
       {
         "titulo": "White Rabbit – Zulu fashion week coll.6",
@@ -15581,42 +15745,50 @@
       {
         "titulo": "White Rabbit – Catrina",
         "precio_num": 120.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-catrina/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-catrina/",
+        "fecha_deteccion": "13/05/2026"
       },
       {
         "titulo": "White Rabbit – Sound on Black and Gold",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-black-and-gold/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-black-and-gold/",
+        "fecha_deteccion": "16/05/2026"
       },
       {
         "titulo": "White Rabbit – The bunny flying blah blah blue",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/the-bunny-flying-blah-blah-blue/"
+        "url": "https://www.artevistas.eu/product/the-bunny-flying-blah-blah-blue/",
+        "fecha_deteccion": "16/05/2026"
       },
       {
         "titulo": "White Rabbit – Contemporary Masks 22_#2",
         "precio_num": 1750.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-masks-22_2/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-masks-22_2/",
+        "fecha_deteccion": "07/06/2026"
       },
       {
         "titulo": "White Rabbit – Contemporary Mask – Boy 2",
         "precio_num": 1600.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-boy-2/",
+        "fecha_deteccion": "07/06/2026"
       },
       {
         "titulo": "White Rabbit – Zulu boy Pink and Black",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-pink-and-black/",
+        "fecha_deteccion": "26/06/2026"
       },
       {
         "titulo": "White Rabbit –  Bunny A.R.M.Y – 23 – 1",
         "precio_num": 1100.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-1/",
+        "fecha_deteccion": "21/07/2026"
       },
       {
         "titulo": "White Rabbit – Zulu boy Black and Gold",
         "precio_num": 60.0,
-        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/"
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/",
+        "fecha_deteccion": "24/07/2026"
       }
     ],
     "ultima_actualizacion": "24/07/2026 19:08"
@@ -15999,7 +16171,8 @@
       {
         "titulo": "Xavi Mira – Atrapadas en el tiempo",
         "precio_num": 2700.0,
-        "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/"
+        "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/",
+        "fecha_deteccion": "17/07/2026"
       }
     ],
     "ultima_actualizacion": "17/07/2026 17:03"
@@ -16734,32 +16907,38 @@
       {
         "titulo": "Typon noir – Goorden Yannick",
         "precio_num": 98.0,
-        "url": "https://www.artevistas.eu/product/goorden-yannick/"
+        "url": "https://www.artevistas.eu/product/goorden-yannick/",
+        "fecha_deteccion": "28/05/2026"
       },
       {
         "titulo": "Balu – Untitled",
         "precio_num": 3800.0,
-        "url": "https://www.artevistas.eu/product/balu-untitled/"
+        "url": "https://www.artevistas.eu/product/balu-untitled/",
+        "fecha_deteccion": "10/06/2026"
       },
       {
         "titulo": "Marta Ballvé – Soneto",
         "precio_num": 2700.0,
-        "url": "https://www.artevistas.eu/product/soneto/"
+        "url": "https://www.artevistas.eu/product/soneto/",
+        "fecha_deteccion": "01/07/2026"
       },
       {
         "titulo": "Juan Manuel Pajares – Beautiful Chaos",
         "precio_num": 0.0,
-        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/"
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-beautiful-chaos/",
+        "fecha_deteccion": "12/07/2026"
       },
       {
         "titulo": "Juan Manuel Pajares – Old fashion",
         "precio_num": 0.0,
-        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/"
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-old-fashion/",
+        "fecha_deteccion": "13/07/2026"
       },
       {
         "titulo": "Juan Manuel Pajares – Boxe",
         "precio_num": 5570.0,
-        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/"
+        "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/",
+        "fecha_deteccion": "19/07/2026"
       }
     ],
     "ultima_actualizacion": "19/07/2026 19:09"

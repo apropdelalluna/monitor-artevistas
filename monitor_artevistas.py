@@ -1213,6 +1213,7 @@ def actualizar_ventas_totales(cambios: list) -> None:
                         "titulo": c["titulo"],
                         "precio_num": precio_num,
                         "url": c.get("url", ""),
+                        "fecha_deteccion": datetime.now().strftime("%d/%m/%Y"),
                     })
                     resultado[artista]["obras_vendidas"] += 1
                     if precio_num > 0:
