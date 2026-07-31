@@ -3437,5 +3437,14 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/me-lata-mini-lata-verde/"
+  },
+  {
+    "fecha": "31/07/2026 12:46",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love (RESERVED)",
+    "tipo": "nueva",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-32/"
   }
 ]
