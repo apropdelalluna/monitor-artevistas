@@ -3446,5 +3446,32 @@
     "precio": "200,00€",
     "precio_num": 200.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-32/"
+  },
+  {
+    "fecha": "31/07/2026 18:51",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – La batalla I",
+    "tipo": "vendida",
+    "precio": "450,00€",
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-la-batalla-i/"
+  },
+  {
+    "fecha": "31/07/2026 18:51",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Lost in your eyes",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/me-lata-lost-in-your-eyes/"
+  },
+  {
+    "fecha": "31/07/2026 18:51",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Sin Palabras",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/me-lata-sin-palabras-2/"
   }
 ]
