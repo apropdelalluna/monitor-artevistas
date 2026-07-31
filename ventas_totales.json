@@ -2009,9 +2009,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 149230.0,
-    "obras_vendidas": 97,
-    "obras_con_precio": 97,
+    "total": 149680.0,
+    "obras_vendidas": 98,
+    "obras_con_precio": 98,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2509,9 +2509,15 @@
         "precio_num": 850.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-el-desierto-empieza-aqui/",
         "fecha_deteccion": "04/07/2026"
+      },
+      {
+        "titulo": "Art is Trash – La batalla I",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-la-batalla-i/",
+        "fecha_deteccion": "31/07/2026"
       }
     ],
-    "ultima_actualizacion": "04/07/2026 17:36"
+    "ultima_actualizacion": "31/07/2026 18:51"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -7227,9 +7233,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 157212.0,
-    "obras_vendidas": 570,
-    "obras_con_precio": 570,
+    "total": 158412.0,
+    "obras_vendidas": 572,
+    "obras_con_precio": 572,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -10117,9 +10123,21 @@
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/me-lata-mini-lata-verde/",
         "fecha_deteccion": "29/07/2026"
+      },
+      {
+        "titulo": "Me Lata – Lost in your eyes",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/me-lata-lost-in-your-eyes/",
+        "fecha_deteccion": "31/07/2026"
+      },
+      {
+        "titulo": "Me Lata – Sin Palabras",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/me-lata-sin-palabras-2/",
+        "fecha_deteccion": "31/07/2026"
       }
     ],
-    "ultima_actualizacion": "29/07/2026 18:39"
+    "ultima_actualizacion": "31/07/2026 18:51"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
