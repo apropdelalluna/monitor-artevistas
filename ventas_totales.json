@@ -1365,9 +1365,9 @@
     "ultima_actualizacion": "01/07/2026 18:20"
   },
   "Andrzej Farfulowski": {
-    "total": 90450.0,
-    "obras_vendidas": 69,
-    "obras_con_precio": 69,
+    "total": 90970.0,
+    "obras_vendidas": 70,
+    "obras_con_precio": 70,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1720,9 +1720,15 @@
         "precio_num": 2100.0,
         "url": "https://www.artevistas.eu/product/andrzej-farfulowski-ana-green/",
         "fecha_deteccion": "21/07/2026"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – 4",
+        "precio_num": 520.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-4/",
+        "fecha_deteccion": "01/08/2026"
       }
     ],
-    "ultima_actualizacion": "21/07/2026 18:08"
+    "ultima_actualizacion": "01/08/2026 19:07"
   },
   "António Azevedo": {
     "total": 13285.0,
@@ -7233,9 +7239,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 158412.0,
-    "obras_vendidas": 572,
-    "obras_con_precio": 572,
+    "total": 158612.0,
+    "obras_vendidas": 573,
+    "obras_con_precio": 573,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -10135,9 +10141,15 @@
         "precio_num": 600.0,
         "url": "https://www.artevistas.eu/product/me-lata-sin-palabras-2/",
         "fecha_deteccion": "31/07/2026"
+      },
+      {
+        "titulo": "Me Lata – Love (RESERVED)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-32/",
+        "fecha_deteccion": "01/08/2026"
       }
     ],
-    "ultima_actualizacion": "31/07/2026 18:51"
+    "ultima_actualizacion": "01/08/2026 19:07"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -12528,9 +12540,9 @@
     "ultima_actualizacion": "07/05/2026 06:35"
   },
   "Pol Ballonga": {
-    "total": 25400.0,
-    "obras_vendidas": 16,
-    "obras_con_precio": 16,
+    "total": 30000.0,
+    "obras_vendidas": 17,
+    "obras_con_precio": 17,
     "detalle": [
       {
         "titulo": "Pol Ballonga – Atmosphere",
@@ -12614,9 +12626,15 @@
         "precio_num": 3000.0,
         "url": "https://www.artevistas.eu/product/pol-ballonga-immerse/",
         "fecha_deteccion": "16/05/2026"
+      },
+      {
+        "titulo": "Pol Ballonga – Planet Hunter (RESERVED)",
+        "precio_num": 4600.0,
+        "url": "https://www.artevistas.eu/product/pol-ballonga-planet-hunter/",
+        "fecha_deteccion": "01/08/2026"
       }
     ],
-    "ultima_actualizacion": "16/05/2026 17:53"
+    "ultima_actualizacion": "01/08/2026 19:07"
   },
   "Ramón Pons": {
     "total": 13055.0,
