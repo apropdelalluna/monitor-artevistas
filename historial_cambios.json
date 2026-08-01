@@ -3473,5 +3473,50 @@
     "precio": "600,00€",
     "precio_num": 600.0,
     "url": "https://www.artevistas.eu/product/me-lata-sin-palabras-2/"
+  },
+  {
+    "fecha": "01/08/2026 19:07",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – 4",
+    "tipo": "vendida",
+    "precio": "520,00€",
+    "precio_num": 520.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-4/"
+  },
+  {
+    "fecha": "01/08/2026 19:07",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Corrida catalana (Skull)",
+    "tipo": "desaparecida",
+    "precio": "1.800,00€",
+    "precio_num": 1800.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-corrida-catalana-skull/"
+  },
+  {
+    "fecha": "01/08/2026 19:07",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Corrida catalana (Toro)",
+    "tipo": "desaparecida",
+    "precio": "1.800,00€",
+    "precio_num": 1800.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-corrida-catalana-toro/"
+  },
+  {
+    "fecha": "01/08/2026 19:07",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love (RESERVED)",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-32/"
+  },
+  {
+    "fecha": "01/08/2026 19:07",
+    "artista": "Pol Ballonga",
+    "obra": "Pol Ballonga – Planet Hunter (RESERVED)",
+    "tipo": "vendida",
+    "precio": "4.600,00€",
+    "precio_num": 4600.0,
+    "url": "https://www.artevistas.eu/product/pol-ballonga-planet-hunter/"
   }
 ]
