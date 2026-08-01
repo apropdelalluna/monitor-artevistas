@@ -1649,5 +1649,47 @@
       "precio_num": 600.0,
       "tipo": "vendida"
     }
+  ],
+  "2026-08": [
+    {
+      "fecha": "01/08/2026",
+      "artista": "Andrzej Farfulowski",
+      "obra": "Andrzej Farfulowski – 4",
+      "precio": "520,00€",
+      "precio_num": 520.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "01/08/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Corrida catalana (Skull)",
+      "precio": "1.800,00€",
+      "precio_num": 1800.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "01/08/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Corrida catalana (Toro)",
+      "precio": "1.800,00€",
+      "precio_num": 1800.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "01/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love (RESERVED)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "01/08/2026",
+      "artista": "Pol Ballonga",
+      "obra": "Pol Ballonga – Planet Hunter (RESERVED)",
+      "precio": "4.600,00€",
+      "precio_num": 4600.0,
+      "tipo": "vendida"
+    }
   ]
 }
