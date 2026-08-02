@@ -1690,6 +1690,22 @@
       "precio": "4.600,00€",
       "precio_num": 4600.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "02/08/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Abacus Tzompantli VI",
+      "precio": "260,00€",
+      "precio_num": 260.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "02/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Lemons are pink",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
