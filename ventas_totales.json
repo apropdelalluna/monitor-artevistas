@@ -14282,9 +14282,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12083.0,
-    "obras_vendidas": 126,
-    "obras_con_precio": 126,
+    "total": 12131.0,
+    "obras_vendidas": 127,
+    "obras_con_precio": 127,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -14933,9 +14933,15 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-passion-kisses/",
         "fecha_deteccion": "13/07/2026"
+      },
+      {
+        "titulo": "The Catman – Lemons are pink",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-lemons-are-pink/",
+        "fecha_deteccion": "02/08/2026"
       }
     ],
-    "ultima_actualizacion": "13/07/2026 10:37"
+    "ultima_actualizacion": "02/08/2026 19:16"
   },
   "Tim Marsh": {
     "total": 52400.0,
