@@ -3518,5 +3518,23 @@
     "precio": "4.600,00€",
     "precio_num": 4600.0,
     "url": "https://www.artevistas.eu/product/pol-ballonga-planet-hunter/"
+  },
+  {
+    "fecha": "02/08/2026 19:16",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Abacus Tzompantli VI",
+    "tipo": "desaparecida",
+    "precio": "260,00€",
+    "precio_num": 260.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-abacus-tzompantli-vi/"
+  },
+  {
+    "fecha": "02/08/2026 19:16",
+    "artista": "The Catman",
+    "obra": "The Catman – Lemons are pink",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-lemons-are-pink/"
   }
 ]
