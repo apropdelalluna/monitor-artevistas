@@ -1706,6 +1706,22 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "03/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love always wins (RESERVED)",
+      "precio": "400,00€",
+      "precio_num": 400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "03/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – In love with life",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
     }
   ]
 }
