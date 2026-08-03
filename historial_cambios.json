@@ -3536,5 +3536,23 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-lemons-are-pink/"
+  },
+  {
+    "fecha": "03/08/2026 12:54",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love always wins (RESERVED)",
+    "tipo": "vendida",
+    "precio": "400,00€",
+    "precio_num": 400.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-always-wins/"
+  },
+  {
+    "fecha": "03/08/2026 12:54",
+    "artista": "Me Lata",
+    "obra": "Me Lata – In love with life",
+    "tipo": "vendida",
+    "precio": "90,00€",
+    "precio_num": 90.0,
+    "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-5/"
   }
 ]
