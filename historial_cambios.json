@@ -3554,5 +3554,23 @@
     "precio": "90,00€",
     "precio_num": 90.0,
     "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-5/"
+  },
+  {
+    "fecha": "04/08/2026 12:24",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Fall in love",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/me-lata-fall-in-love/"
+  },
+  {
+    "fecha": "04/08/2026 12:24",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Sweet",
+    "tipo": "nueva",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/me-lata-sweet/"
   }
 ]
