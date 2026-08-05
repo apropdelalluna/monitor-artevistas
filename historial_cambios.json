@@ -3761,5 +3761,14 @@
     "precio": "280,00€",
     "precio_num": 280.0,
     "url": "https://www.artevistas.eu/product/me-lata-amore-mio/"
+  },
+  {
+    "fecha": "05/08/2026 21:35",
+    "artista": "Me Lata",
+    "obra": "Me Lata – De colors són els meus somnis",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/me-lata-de-colors-son-els-meus-somnis/"
   }
 ]
