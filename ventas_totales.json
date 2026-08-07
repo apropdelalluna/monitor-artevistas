@@ -7239,9 +7239,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 159102.0,
-    "obras_vendidas": 575,
-    "obras_con_precio": 575,
+    "total": 159522.0,
+    "obras_vendidas": 577,
+    "obras_con_precio": 577,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -10159,9 +10159,21 @@
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-in-love-with-life-5/",
         "fecha_deteccion": "03/08/2026"
+      },
+      {
+        "titulo": "Me Lata – Art of life (RESERVED)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-art-of-life/",
+        "fecha_deteccion": "07/08/2026"
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-27/",
+        "fecha_deteccion": "07/08/2026"
       }
     ],
-    "ultima_actualizacion": "03/08/2026 12:54"
+    "ultima_actualizacion": "07/08/2026 19:22"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -10653,9 +10665,9 @@
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "MOWCKA": {
-    "total": 5474.0,
-    "obras_vendidas": 44,
-    "obras_con_precio": 44,
+    "total": 5574.0,
+    "obras_vendidas": 45,
+    "obras_con_precio": 45,
     "detalle": [
       {
         "titulo": "Mowcka – Sin título 8",
@@ -10877,9 +10889,15 @@
         "precio_num": 70.0,
         "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-3/",
         "fecha_deteccion": "19/06/2026"
+      },
+      {
+        "titulo": "Mowcka – Talking with the sun",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/mowcka-talking-with-the-sun/",
+        "fecha_deteccion": "07/08/2026"
       }
     ],
-    "ultima_actualizacion": "19/06/2026 20:25"
+    "ultima_actualizacion": "07/08/2026 19:22"
   },
   "Neon Sandwich": {
     "total": 7150.0,
@@ -15848,9 +15866,9 @@
     "ultima_actualizacion": "24/07/2026 19:08"
   },
   "Xavi Mira": {
-    "total": 125580.0,
-    "obras_vendidas": 75,
-    "obras_con_precio": 75,
+    "total": 127880.0,
+    "obras_vendidas": 76,
+    "obras_con_precio": 76,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -16227,9 +16245,15 @@
         "precio_num": 2700.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/",
         "fecha_deteccion": "17/07/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El perdón",
+        "precio_num": 2300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-perdon/",
+        "fecha_deteccion": "07/08/2026"
       }
     ],
-    "ultima_actualizacion": "17/07/2026 17:03"
+    "ultima_actualizacion": "07/08/2026 19:22"
   },
   "Xavier Krauel": {
     "total": 2830.0,
