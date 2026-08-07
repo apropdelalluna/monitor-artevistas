@@ -1722,6 +1722,38 @@
       "precio": "90,00€",
       "precio_num": 90.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "07/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Art of life (RESERVED)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – T’estimo",
+      "precio": "220,00€",
+      "precio_num": 220.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/08/2026",
+      "artista": "MOWCKA",
+      "obra": "Mowcka – Talking with the sun",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/08/2026",
+      "artista": "Xavi Mira",
+      "obra": "Xavi Mira – El perdón",
+      "precio": "2.300,00€",
+      "precio_num": 2300.0,
+      "tipo": "vendida"
     }
   ]
 }
