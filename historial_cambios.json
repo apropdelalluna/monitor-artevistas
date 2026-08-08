@@ -3806,5 +3806,14 @@
     "precio": "2.300,00€",
     "precio_num": 2300.0,
     "url": "https://www.artevistas.eu/product/xavi-mira-el-perdon/"
+  },
+  {
+    "fecha": "08/08/2026 18:36",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Manolo S",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-manolo-s/"
   }
 ]
