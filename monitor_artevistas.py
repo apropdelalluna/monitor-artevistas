@@ -1278,6 +1278,30 @@ def guardar_alerta(nombre: str, cambios: int, total: int, porcentaje: float) -> 
         logging.error("No se pudo guardar la alerta: %s", e)
 
 
+def resolver_alerta(nombre: str) -> None:
+    """Marca como resuelta la alerta pendiente de un artista (tras confirmarla
+    manualmente vía CONFIRMAR_ALERTAS), para que deje de mostrarse en el panel."""
+    try:
+        if not os.path.exists("alertas.json"):
+            return
+        with open("alertas.json", "r", encoding="utf-8") as f:
+            alertas = json.load(f)
+
+        cambiado = False
+        for a in alertas:
+            if a["artista"] == nombre and not a["resuelta"]:
+                a["resuelta"] = True
+                a["fecha_resolucion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+                cambiado = True
+
+        if cambiado:
+            with open("alertas.json", "w", encoding="utf-8") as f:
+                json.dump(alertas, f, ensure_ascii=False, indent=2)
+            github_guardar_archivo("alertas.json")
+    except Exception as e:
+        logging.error("No se pudo resolver la alerta: %s", e)
+
+
 def guardar_historial(cambios: list) -> None:
     """Acumula todos los cambios detectados en historial_cambios.json, sin sobreescribir."""
     try:
@@ -1517,7 +1541,26 @@ def comprobar_todos() -> None:
         total_catalogo = len(obras_nuevas) or 1
         proporcion = len(cambios_estado) / total_catalogo
 
+        artistas_confirmados = {
+            a.strip() for a in os.environ.get("CONFIRMAR_ALERTAS", "").split(",") if a.strip()
+        }
+
         if len(cambios_estado) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
+            if nombre in artistas_confirmados:
+                logging.info(
+                    "✅ %s confirmado manualmente vía CONFIRMAR_ALERTAS — procesando "
+                    "%d cambios al total histórico (sin fecha, sin mes en curso).",
+                    nombre, len(cambios_estado),
+                )
+                agregar_ventas_iniciales_al_total(nombre, obras_nuevas)
+                resolver_alerta(nombre)
+                estado[nombre] = {
+                    "hash":  hash_nuevo,
+                    "texto": texto_nuevo,
+                    "obras": obras_nuevas,
+                }
+                continue
+
             logging.error(
                 "🚨 ALERTA: %s — %d de %d obras (%.0f%%) cambiaron de estado en un solo "
                 "escaneo. Esto supera el umbral normal y NO se ha guardado automáticamente "
