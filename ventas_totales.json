@@ -985,9 +985,9 @@
     "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Alberto Blanchart": {
-    "total": 28800.0,
-    "obras_vendidas": 34,
-    "obras_con_precio": 34,
+    "total": 61100.0,
+    "obras_vendidas": 73,
+    "obras_con_precio": 73,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1160,14 +1160,248 @@
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/",
         "fecha_deteccion": "22/07/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Squirtle",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-squirtle/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Guitarra",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-guitarra/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Mix trooper",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-mix-trooper/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Pikachu",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Imperial Box",
+        "precio_num": 900.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-imperial-box/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Batmangraff",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-batmangraff-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Larp",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Storm Trooper 1er Orden Black",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-strom-trooper-1er-orden-black/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Mewtwo",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-mewtwo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Orange Trooper Misteri",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-orange-trooper-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Mix fighter",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-mix-fighter/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart and Mugraff – Style Wars 1",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-and-mugraff-style-wars-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Orange Drips",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-orange-drips/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-4/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Lost Trooper",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-lost-trooper/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – X Win Master",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win-master/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Trooper Gamma (Original Print)",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-trooper-gamma-original-print/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Boba Funko",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-boba-funko/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Trooper Beta (Original Print)",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-trooper-beta-original-print/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Spy Trooper",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-spy-trooper/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Umbreon zona negativa",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-umbreon/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Pikachu zona negativa",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart-Funko Vader 2.0",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-2-0/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Venom Graff",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-venon-graff/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Boba Funko",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-boba-funko-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – X Win",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-x-win/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Stormtrooper 10Ht",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-stormtrooper-10ht/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Supervader USA",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-supervader-usa/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Stromgraff",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-stromgraff/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Dark Phoenix",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-dark-phoenix/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Primera Orden Graff",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-primera-orden-graff/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Pikachu",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Trooper",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-trooper/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Vadergraff",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-vadergraff/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Mandalorian CV",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-mandalorian-cv/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Orange Trooper",
+        "precio_num": 950.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-orange-trooper/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "22/07/2026 11:01"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 19650.0,
-    "obras_vendidas": 38,
-    "obras_con_precio": 38,
+    "total": 39300.0,
+    "obras_vendidas": 76,
+    "obras_con_precio": 76,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1360,9 +1594,237 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/",
         "fecha_deteccion": "01/07/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chica tumbada en sofá con estampado floral",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombres de invierno",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombres-de-invierno/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mujer joven con chandal rosa",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mujer-joven-con-chandal-rosa/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chico sentado junto a planta de interior",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-sentado-junto-a-planta-de-interior/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – El secreto",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-el-secreto/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Edward Gorey con gato",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-edward-gorey-con-gato/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Galgo",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-galgo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Casa en el lago",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-casa-en-el-lago/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombre pelirrojo en fondo azul",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-pelirrojo-en-fondo-azul/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chicos descansando en suelo de azulejos",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chicos-descansando-en-suelo-de-azulejos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Las escaleras del pub",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-las-escaleras-del-pub/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Noche de camping",
+        "precio_num": 550.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-noche-de-camping/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Pareja en el bosque",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-pareja-en-el-bosque/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino con piel verde",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-con-piel-verde/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino con chaqueta de cuero en habitación de azulejos",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-con-chaqueta-de-cuero-en-habitacion-de-azulejosretrato-masculino-con-chaqueta-de-cuero-en-habitacion-de-azulejos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Confidentes",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-confidentes/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mujer en ropa interior sobre suelo de marmol",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mujer-en-ropa-interior-sobre-suelo-de-marmol/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chico con brazo roto",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chico-con-brazo-roto/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Pareja en la piscina",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-pareja-en-la-piscina/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Pareja tumbada en el sofa",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-pareja-tumbada-en-el-sofa/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombre rojo con pared de azulejos",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-rojo-con-pared-de-azulejos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombre verde junto a la ventana",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-verde-junto-a-la-ventana/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Los chicos del muro",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-los-chicos-del-muro/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino apoyado en una silla (Reserved)",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-apoyado-en-una-silla/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Máscara masculina",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mascara-masculina/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Fiesta en la piscina",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-fiesta-en-la-piscina/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mejores amigos",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mejores-amigos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino en fondo malva",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-en-fondo-malva/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Esperando al picnic",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-esperando-al-picnic/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Triángulo amoroso",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-triangulo-amoroso/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino en fondo naranja",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-en-fondo-naranja/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato femenino con piel roja",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-femenino-con-piel-roja/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Chicos cercanos",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chicos-cercanos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mujer en pijama junto a la ventana",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mujer-en-pijama-junto-a-la-ventana/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Busto masculino",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-busto-masculino/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Retrato masculino con barba tenue",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-retrato-masculino-con-barba-tenue/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Joven Lucian Freud",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-joven-lucian-freud/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombre descamisado en habitación roja",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-descamisado-en-habitacion-roja/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "01/07/2026 18:20"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Andrzej Farfulowski": {
     "total": 90970.0,
@@ -3680,9 +4142,9 @@
     "ultima_actualizacion": "07/05/2026 04:41"
   },
   "Carmela Alvarado": {
-    "total": 28960.0,
-    "obras_vendidas": 19,
-    "obras_con_precio": 19,
+    "total": 57920.0,
+    "obras_vendidas": 38,
+    "obras_con_precio": 38,
     "detalle": [
       {
         "titulo": "Carmela Alvarado – La culpa",
@@ -3778,9 +4240,123 @@
         "titulo": "Carmela Alvarado – I am so so sorry",
         "precio_num": 540.0,
         "url": "https://www.artevistas.eu/product/carmela-alvarado-i-am-so-sorry/"
+      },
+      {
+        "titulo": "Carmela Alvarado – La culpa",
+        "precio_num": 3200.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-la-culpa/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Eres como un gusano",
+        "precio_num": 670.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-eres-como-un-gusano/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Non, je ne regrette rien",
+        "precio_num": 2250.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-non-je-ne-regrette-rien/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Mañana, mañana!!!",
+        "precio_num": 1550.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-manana-manana/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Sweet Jane",
+        "precio_num": 2100.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-sweet-jane/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Manía",
+        "precio_num": 2400.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-mania/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Caminar sobre la nieve sin dejar huella",
+        "precio_num": 1850.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-caminar-sobre-la-nieve-sin-dejar-huella/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Hambre de oso",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-hambre-de-oso/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Seven days",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-seven-days/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Muerde, espejito (no mires)",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-muerde-espejito-no-mires/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – She",
+        "precio_num": 1730.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-she/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Pollo frito",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-pollo-frito/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Rara",
+        "precio_num": 1550.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-rara/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Todo mata",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-todo-mata/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – No vengas más",
+        "precio_num": 540.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-no-vengas-mas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Animal feliz",
+        "precio_num": 540.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-animal-feliz/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – My bad",
+        "precio_num": 470.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-my-bad/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – Tríptico del dolor (lo que pasa, lo que siento, lo que hago)",
+        "precio_num": 1470.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-triptico-del-dolor-lo-que-pasa-lo-que-siento-lo-que-hago/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Carmela Alvarado – I am so so sorry",
+        "precio_num": 540.0,
+        "url": "https://www.artevistas.eu/product/carmela-alvarado-i-am-so-sorry/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:41"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Cesar Biojo": {
     "total": 106429.0,
@@ -4412,9 +4988,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "El Xupet Negre": {
-    "total": 30557.0,
-    "obras_vendidas": 25,
-    "obras_con_precio": 25,
+    "total": 61114.0,
+    "obras_vendidas": 50,
+    "obras_con_precio": 50,
     "detalle": [
       {
         "titulo": "El Xupet Negre – Peace now",
@@ -4541,9 +5117,159 @@
         "precio_num": 700.0,
         "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/",
         "fecha_deteccion": "14/06/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Noir Art",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-noir-art/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Peace now",
+        "precio_num": 4200.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-peace-now/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Love graffiti",
+        "precio_num": 4200.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-love-graffiti/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Freedom",
+        "precio_num": 4200.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-freedom/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Art Toy orange",
+        "precio_num": 199.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-art-toy-orange/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – R-Kiem Print",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/r-kiem-print/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Art Toy purple",
+        "precio_num": 199.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-art-toy-purple/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Deep logo",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-deep-logo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Flow 2",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-flow-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Black logo",
+        "precio_num": 1000.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-black-logo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Flow style",
+        "precio_num": 2700.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-flow-style/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Art Toy green",
+        "precio_num": 199.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-art-toy-green/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – WYN317 Blue",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/wyn317-blue/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Orange & Black",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/orange-black/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Untitled",
+        "precio_num": 240.0,
+        "url": "https://www.artevistas.eu/product/untitled-87/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Untitled",
+        "precio_num": 240.0,
+        "url": "https://www.artevistas.eu/product/untitled-85/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – R-A",
+        "precio_num": 2800.0,
+        "url": "https://www.artevistas.eu/product/r-a/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – WYN317 Black",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/wyn317-black/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – LAO",
+        "precio_num": 2400.0,
+        "url": "https://www.artevistas.eu/product/lao/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Untitled",
+        "precio_num": 240.0,
+        "url": "https://www.artevistas.eu/product/untitled-86/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Untitled",
+        "precio_num": 240.0,
+        "url": "https://www.artevistas.eu/product/untitled-83/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Flow 3",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-flow-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre and Konair – Hype Underground 1",
+        "precio_num": 3300.0,
+        "url": "https://www.artevistas.eu/product/hype-underground-9/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – FLOW 1",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-flow-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Sanpaul",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-sanpaul/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "14/06/2026 11:38"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Fèlix Roca": {
     "total": 17300.0,
@@ -4627,9 +5353,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "Filthy Freak": {
-    "total": 12798.0,
-    "obras_vendidas": 56,
-    "obras_con_precio": 56,
+    "total": 25596.0,
+    "obras_vendidas": 112,
+    "obras_con_precio": 112,
     "detalle": [
       {
         "titulo": "Filthy Freak – Skull big 1",
@@ -4913,9 +5639,345 @@
         "precio_num": 75.0,
         "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/",
         "fecha_deteccion": "06/07/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Untitled II",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-untitled-ii/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Untitled I",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Shark Skate #3",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-shark-skate-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull big 1",
+        "precio_num": 470.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skull-big-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco Inferno Amarillo Simple 2/12",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-disco-inferno-amarillo-simple-2-12/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Abacus Tzompantli l",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-abacus-tzompantli-l/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco inferno Rojo 1/9",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-disco-inferno-rojo-1-9/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco Inferno Rojo Simple 1/6",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/disco-inferno-rojo-simple-1-6/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco Inferno Fucsia 1/9",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-disco-inferno-fushia-1-9/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Abacus Tzompantli lll",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-abacus-tzompantli-lll/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco inferno Fucsia Simple 1/6",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-disco-inferno-fushia-simple-1-6/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – porn.dot/her&him/1",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-porn-dot-herhim-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – flouporn.dot/fucktrump / spiderman",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-flouporn-dot-fucktrump-spiderman/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco Inferno – Fucsia Amarillo 4/6",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/disco-inferno-fushia-amarillo-4-6/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Disco inferno Amarillo 6/6",
+        "precio_num": 66.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-disco-inferno-amarillo-6-6/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Calamitá 3",
+        "precio_num": 116.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-calamita-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Calamitá 6",
+        "precio_num": 116.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-calamita-6/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – fucktrump.dot/ spiderman v.s.trump",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-fucktrump-dot-spiderman-v-s-trump/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – porn.dot/older/her&him/2",
+        "precio_num": 140.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-porn-dot-older-herhim-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Untitled III",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-untitled-iii/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Lona paste up #1",
+        "precio_num": 900.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-lona-paste-up-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skulls of colour #1",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skulls-of-colour-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Calamitá 2",
+        "precio_num": 136.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-calamita-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Fast death Black/Red",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-fast-death-black-red/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Matanza Capa 1",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-matanza-capa-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull small 3",
+        "precio_num": 260.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skull-small-3/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Lona paste up #2",
+        "precio_num": 1000.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-lona-paste-up-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Surf or die (Melted summer)",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-surf-or-die-melted-summer/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – porn.dot/7",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-porn-dot-7/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – porn.dot/5",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-porn-dot-5/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull B2",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skull-b2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Le Diable au corps",
+        "precio_num": 980.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-le-diable-au-corps/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Sketching Hell",
+        "precio_num": 850.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-sketching-hell/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – porn.dot/1",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-porn-dot-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – flouporn.dot/2",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-flouporn-dot-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skulls of colour #2",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skulls-of-colour-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skulls of Colour #5",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skulls-of-colour-5/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Broken by teeth",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/broken-by-teeth/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull B1",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/skull-b1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Fast death Blue/Red",
+        "precio_num": 45.0,
+        "url": "https://www.artevistas.eu/product/fast-death-blue-red/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Freaky Freaky",
+        "precio_num": 140.0,
+        "url": "https://www.artevistas.eu/product/freaky-freaky/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Freaky shark 1",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/freaky-shark-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Freaky shark 2",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/freaky-shark-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull X",
+        "precio_num": 340.0,
+        "url": "https://www.artevistas.eu/product/skull-x/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull M1",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/skull-m1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull S4",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/skull-s4/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull S2",
+        "precio_num": 230.0,
+        "url": "https://www.artevistas.eu/product/skull-s2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull with Burning Cigarette",
+        "precio_num": 135.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skull-with-burning-cigarette/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull S5",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/skull-s5/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull M2",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/skull-m2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull S1",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/skull-s1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Untitled",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Holy Gosh",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-holy-gosh/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Fast death Black/Red",
+        "precio_num": 45.0,
+        "url": "https://www.artevistas.eu/product/fast-death-black-red/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Melted skull",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/melted-skull/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skulls of colour #3",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skulls-of-colour-2/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "06/07/2026 11:11"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Frank Diamond": {
     "total": 8880.0,
@@ -13145,9 +14207,9 @@
     "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 690.0,
-    "obras_vendidas": 17,
-    "obras_con_precio": 17,
+    "total": 780.0,
+    "obras_vendidas": 19,
+    "obras_con_precio": 19,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -13249,9 +14311,21 @@
         "precio_num": 40.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/",
         "fecha_deteccion": "29/07/2026"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Ruelle, Barcelone",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-ruelle-barcelone/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Bodega",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-bodega/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "29/07/2026 09:43"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Sandra Partera": {
     "total": 49722.0,
@@ -15866,9 +16940,9 @@
     "ultima_actualizacion": "24/07/2026 19:08"
   },
   "Xavi Mira": {
-    "total": 127880.0,
-    "obras_vendidas": 76,
-    "obras_con_precio": 76,
+    "total": 255760.0,
+    "obras_vendidas": 152,
+    "obras_con_precio": 152,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -16251,9 +17325,465 @@
         "precio_num": 2300.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-el-perdon/",
         "fecha_deteccion": "07/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El perdón",
+        "precio_num": 2300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-perdon/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Atrapadas en el tiempo",
+        "precio_num": 2700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-atrapadas-en-el-tiempo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – 1993",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-1993/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La soledad",
+        "precio_num": 1100.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-soledad/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El Poder de la Mente",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-poder-de-la-mente/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Mireia en Rojo",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-mireia-en-rojo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Bajo la sombra",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-bajo-la-sombra/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Un par de botas",
+        "precio_num": 1100.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-un-par-de-botas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Intocable",
+        "precio_num": 2900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-intocable/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Gvantsa fumando",
+        "precio_num": 2100.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-gvantsa-fumando/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La esperanza",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-esperanza/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Una noche más en vela",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-una-noche-mas-en-vela/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Celia en otoño",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-celia-en-otono/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El bosque de colores",
+        "precio_num": 2700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-bosque-de-colores/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Triángulo amoroso",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-triangulo-amoroso/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira-Sangre salada",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-sangre-salada/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Torito Bravo",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-torito-bravo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Oh Julia",
+        "precio_num": 1350.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-oh-julia/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Des-ilusión",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/des-ilusion/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Turista n°1",
+        "precio_num": 620.0,
+        "url": "https://www.artevistas.eu/product/46077/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Bruno",
+        "precio_num": 650.0,
+        "url": "https://www.artevistas.eu/product/bruno/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Tan solo un recuerdo",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/tan-solo-un-recuerdo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Elefante Azul",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-elefante-azul/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Vida ritual",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-vida-ritual/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Es tu ultima oportunidad",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-es-tu-ultima-oportunidad/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Tereza",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-turista-n2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – A tu lado",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-a-tu-lado/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Dogo",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/dogo-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Momentos de gloria",
+        "precio_num": 2000.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-momentos-de-gloria/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El cabaret de la diosa",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-cabaret-de-la-diosa/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La despedida",
+        "precio_num": 2100.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-despedida/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Alma negra",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-alma-negra/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El Respeto",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-respeto/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Alma Roja (Butoh 1)",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-alma-roja-butoh-1/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Turista n°2",
+        "precio_num": 660.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-turista-n2-2/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El Pallasset",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-pallasset/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Amistades peligrosas",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-amistades-peligrosas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Se va sin ti mi cuerpo",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/se-va-sin-ti-mi-cuerpo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – No me volverás a ver",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-no-me-volveras-a-ver/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El camino elegido",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/el-camino-elegido/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – No estás sola",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-no-estas-sola/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – León",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-leon/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El bufón",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/el-bufon/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El Secreto",
+        "precio_num": 2400.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-secreto/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Esguince de amor",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-esguince-de-amor/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Libertad",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-libertad/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Ilusión perdida",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/ilusion-perdida/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Sola",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-sola/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Galopando por mi huella",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-galopando-por-mi-huella/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Te dejo sin mis dudas",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/te-dejo-sin-mis-dudas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Falsas esperanzas",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-falsas-esperanzas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Tu sueño cambió de dueño",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-tu-suen%cc%83o-cambio-de-duen%cc%83o/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Mira por dónde",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-mira-por-donde/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Las malas influencias",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-las-malas-influencias/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El poder de la inocencia II",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-poder-de-la-inocencia-ii/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Los Protegidos",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/los-protegidos/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La sabiduría",
+        "precio_num": 3000.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-sabiduria/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Solo ante el peligro",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-solo-ante-el-peligro/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El sombrero granate",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/dogo/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Calma estival",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/calma-estival/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Pol fumando",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/pol-fumando/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Noche en vela",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/noche-en-vela/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El abrigo naranja",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/el-abrigo-naranja/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La gabardina granate",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/la-gabardina-granate/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La chaqueta naranja",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/la-chaqueta-naranja/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La adoración de Alina",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/la-adoracion-de-alina/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La espera",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/la-espera/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Desafío",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/desafio/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – No se lo digas a nadie",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/no-se-lo-digas-a-nadie/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El poder de la inocencia",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-poder-de-la-inocencia/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Qué miras!",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-que-miras/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Ódiame fuerte o quiéreme más",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-odiame-fuerte-o-quiereme-mas/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Mireia",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/mireia/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Raquela",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/raquela/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Ariana",
+        "precio_num": 1700.0,
+        "url": "https://www.artevistas.eu/product/ariana/",
+        "fecha_deteccion": "09/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La Ironía",
+        "precio_num": 1300.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-ironia/",
+        "fecha_deteccion": "09/08/2026"
       }
     ],
-    "ultima_actualizacion": "07/08/2026 19:22"
+    "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Xavier Krauel": {
     "total": 2830.0,
