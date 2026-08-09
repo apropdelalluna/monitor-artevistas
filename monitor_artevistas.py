@@ -1231,6 +1231,41 @@ def actualizar_ventas_totales(cambios: list) -> None:
         logging.error("Error actualizando ventas_totales: %s", e)
 
 
+def guardar_alerta(nombre: str, cambios: int, total: int, porcentaje: float) -> None:
+    """Guarda una alerta de cambio sospechoso en alertas.json para que se
+    muestre en el panel web. No se auto-resuelve: hay que editarla a mano
+    (o dejar que el propio sistema la sustituya si vuelve a ocurrir)."""
+    try:
+        alertas = []
+        if os.path.exists("alertas.json"):
+            with open("alertas.json", "r", encoding="utf-8") as f:
+                alertas = json.load(f)
+
+        existente = next((a for a in alertas if a["artista"] == nombre and not a["resuelta"]), None)
+        if existente:
+            existente["fecha"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+            existente["cambios"] = cambios
+            existente["total"] = total
+            existente["porcentaje"] = round(porcentaje * 100, 1)
+            existente["repeticiones"] = existente.get("repeticiones", 1) + 1
+        else:
+            alertas.append({
+                "fecha": datetime.now().strftime("%d/%m/%Y %H:%M"),
+                "artista": nombre,
+                "cambios": cambios,
+                "total": total,
+                "porcentaje": round(porcentaje * 100, 1),
+                "resuelta": False,
+                "repeticiones": 1,
+            })
+
+        with open("alertas.json", "w", encoding="utf-8") as f:
+            json.dump(alertas, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo("alertas.json")
+    except Exception as e:
+        logging.error("No se pudo guardar la alerta: %s", e)
+
+
 def guardar_historial(cambios: list) -> None:
     """Acumula todos los cambios detectados en historial_cambios.json, sin sobreescribir."""
     try:
@@ -1457,6 +1492,31 @@ def comprobar_todos() -> None:
 
         cambios_obras = detectar_cambios_obras(obras_nuevas, obras_viejas)
         diff = generar_diff(texto_viejo, texto_nuevo)
+
+        # ── Red de seguridad: cambio de estado masivo y sospechoso ──
+        # Si muchas obras cambian de "disponible" a "vendido" (o viceversa) de golpe,
+        # es más probable que sea un fallo de lectura del HTML que ventas reales.
+        # Umbral doble (cantidad absoluta Y porcentaje) para no disparar en catálogos
+        # pequeños donde vender varias obras el mismo día es perfectamente normal.
+        UMBRAL_ABSOLUTO = 10
+        UMBRAL_PORCENTAJE = 0.25
+
+        cambios_estado = [c for c in cambios_obras if c["tipo"] in ("vendida", "nueva")]
+        total_catalogo = len(obras_nuevas) or 1
+        proporcion = len(cambios_estado) / total_catalogo
+
+        if len(cambios_estado) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
+            logging.error(
+                "🚨 ALERTA: %s — %d de %d obras (%.0f%%) cambiaron de estado en un solo "
+                "escaneo. Esto supera el umbral normal y NO se ha guardado automáticamente "
+                "en ventas/historial. Revísalo manualmente antes de confirmar.",
+                nombre, len(cambios_estado), total_catalogo, proporcion * 100,
+            )
+            guardar_alerta(nombre, len(cambios_estado), total_catalogo, proporcion)
+            # No actualizamos estado[nombre] a propósito: en el próximo escaneo se
+            # volverá a comparar contra el mismo estado anterior y se repetirá la
+            # alerta hasta que se resuelva manualmente, en vez de perderse en silencio.
+            continue
 
         cambios_del_dia.append({
             "artista":       artista,
