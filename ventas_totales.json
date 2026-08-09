@@ -1190,9 +1190,9 @@
     "ultima_actualizacion": "09/08/2026 21:41"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 19650.0,
-    "obras_vendidas": 38,
-    "obras_con_precio": 38,
+    "total": 19950.0,
+    "obras_vendidas": 39,
+    "obras_con_precio": 39,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1385,9 +1385,14 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-tumbada-en-sofa-con-estampado-floral/",
         "fecha_deteccion": "01/07/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Mujer joven con chandal rosa",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-mujer-joven-con-chandal-rosa/"
       }
     ],
-    "ultima_actualizacion": "09/08/2026 19:12"
+    "ultima_actualizacion": "09/08/2026 21:42"
   },
   "Andrzej Farfulowski": {
     "total": 90970.0,
