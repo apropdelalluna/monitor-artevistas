@@ -985,9 +985,9 @@
     "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Alberto Blanchart": {
-    "total": 28800.0,
-    "obras_vendidas": 34,
-    "obras_con_precio": 34,
+    "total": 32300.0,
+    "obras_vendidas": 39,
+    "obras_con_precio": 39,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1160,9 +1160,34 @@
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-larp/",
         "fecha_deteccion": "22/07/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Pikachu",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-2/"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-4/"
+      },
+      {
+        "titulo": "Alberto Blanchart – Boba Funko",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-boba-funko/"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-2/"
+      },
+      {
+        "titulo": "Alberto Blanchart – Funko Vader",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-3/"
       }
     ],
-    "ultima_actualizacion": "09/08/2026 19:12"
+    "ultima_actualizacion": "09/08/2026 21:41"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 19650.0,
