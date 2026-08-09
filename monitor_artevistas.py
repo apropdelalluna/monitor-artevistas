@@ -13,6 +13,7 @@ Variables de entorno necesarias (configurar en Render):
 """
 
 import hashlib
+import copy
 import time
 import difflib
 import logging
@@ -453,12 +454,23 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
         precio_num = precio_a_numero(precio_str)
 
         # Estado (vendido / disponible)
-        sold = producto.select_one(
+        # Antes de comprobar si está vendido, eliminamos de una COPIA cualquier
+        # contenido anidado de "obras relacionadas" / quick-view / modales —
+        # WooCommerce a veces incrusta ese contenido (con su propio badge SOLD)
+        # DENTRO del bloque HTML de otra obra, contaminando la detección de
+        # texto genérico si no se excluye explícitamente.
+        producto_limpio = copy.copy(producto)
+        for ruido in producto_limpio.select(
+            "[class*='related'], [class*='quick-view'], [class*='quickview'], [class*='modal']"
+        ):
+            ruido.decompose()
+
+        sold = producto_limpio.select_one(
             ".sold_out_badge, .out-of-stock, .soldout, .out-of-stock-label, "
             "[class*='sold'], [class*='vendido'], .ribbon"
         )
-        # También buscar el texto "sold" / "vendido" en el propio bloque
-        texto_producto = producto.get_text(separator=" ", strip=True).lower()
+        # También buscar el texto "sold" / "vendido", pero solo en el bloque ya limpio
+        texto_producto = producto_limpio.get_text(separator=" ", strip=True).lower()
         es_vendido = bool(sold) or any(p in texto_producto for p in PALABRAS_VENTA)
         estado_obra = "vendido" if es_vendido else "disponible"
 
