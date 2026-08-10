@@ -1121,6 +1121,47 @@ def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
         github_guardar_archivo("ventas_totales.json")
 
 
+def reconciliar_backlog() -> None:
+    """Recorre TODOS los artistas del estado ya guardado (sin volver a escanear
+    la web) y rellena en ventas_totales.json cualquier obra marcada 'vendido'
+    que aún no esté registrada. Al total histórico, sin fecha, sin mes en curso
+    — igual que agregar_ventas_iniciales_al_total, pero como pase de reconciliación
+    completo en vez de depender de que el hash de un artista haya cambiado."""
+    logging.info("🔧 Reconciliando backlog completo (estado guardado vs ventas_totales)...")
+
+    if not os.path.exists("ventas_totales.json"):
+        logging.warning("No existe ventas_totales.json todavía.")
+        return
+
+    total_artistas_afectados = 0
+    total_obras_añadidas = 0
+
+    for nombre, datos in estado.items():
+        if nombre == "_meta":
+            continue
+        obras = datos.get("obras", {})
+        antes = 0
+        with open("ventas_totales.json", "r", encoding="utf-8") as f:
+            resultado_actual = json.load(f)
+        if nombre in resultado_actual:
+            antes = len(resultado_actual[nombre].get("detalle", []))
+
+        agregar_ventas_iniciales_al_total(nombre, obras)
+
+        with open("ventas_totales.json", "r", encoding="utf-8") as f:
+            resultado_nuevo = json.load(f)
+        despues = len(resultado_nuevo.get(nombre, {}).get("detalle", []))
+
+        if despues > antes:
+            total_artistas_afectados += 1
+            total_obras_añadidas += (despues - antes)
+
+    logging.info(
+        "✅ Reconciliación de backlog completa: %d obras añadidas en %d artistas.",
+        total_obras_añadidas, total_artistas_afectados,
+    )
+
+
 def rellenar_precios_faltantes() -> None:
     """Visita solo las obras sin precio en ventas_totales.json y completa los datos.
     Compara por URL (identificador único real), no por título, para evitar
@@ -1820,6 +1861,11 @@ def main() -> None:
     # Backfill puntual de ventas perdidas de SM 172 / Marina Salazar, si se activa con RECUPERAR_REAPARECIDOS=1
     if os.environ.get("RECUPERAR_REAPARECIDOS") == "1":
         recuperar_ventas_artistas_reaparecidos()
+
+    # Reconciliación completa del backlog (estado guardado vs ventas_totales),
+    # para todos los artistas de golpe, si se activa con RECONCILIAR_BACKLOG=1
+    if os.environ.get("RECONCILIAR_BACKLOG") == "1":
+        reconciliar_backlog()
 
     # Emails desactivados — usar webapp para ver cambios
     # enviar_resumen_diario()
