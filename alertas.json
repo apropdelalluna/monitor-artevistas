@@ -108,5 +108,14 @@
     "resuelta": true,
     "repeticiones": 1,
     "fecha_resolucion": "10/08/2026 14:24"
+  },
+  {
+    "fecha": "10/08/2026 20:23",
+    "artista": "Cesar Biojo",
+    "cambios": 57,
+    "total": 69,
+    "porcentaje": 82.6,
+    "resuelta": false,
+    "repeticiones": 1
   }
 ]
