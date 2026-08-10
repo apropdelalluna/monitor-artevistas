@@ -6127,7 +6127,7 @@
   },
   "Julien Deniau aka Unavista": {
     "total": 13550.0,
-    "obras_vendidas": 24,
+    "obras_vendidas": 26,
     "obras_con_precio": 24,
     "detalle": [
       {
@@ -6251,9 +6251,19 @@
         "precio_num": 110.0,
         "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-ojo-rojo/",
         "fecha_deteccion": "21/07/2026"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Skull XV",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-skull-xv/"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Frogs world",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-frogs-world/"
       }
     ],
-    "ultima_actualizacion": "21/07/2026 19:52"
+    "ultima_actualizacion": "10/08/2026 14:41"
   },
   "Konair": {
     "total": 47046.0,
