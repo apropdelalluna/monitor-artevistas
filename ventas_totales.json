@@ -5222,7 +5222,7 @@
   },
   "Gil Gelpi": {
     "total": 103310.0,
-    "obras_vendidas": 52,
+    "obras_vendidas": 56,
     "obras_con_precio": 52,
     "detalle": [
       {
@@ -5485,9 +5485,29 @@
         "precio_num": 2800.0,
         "url": "https://www.artevistas.eu/product/gil-gelpi-dreaming-mountain/",
         "fecha_deteccion": "05/06/2026"
+      },
+      {
+        "titulo": "Gil Gelpi – Big blue head",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/gil-gelpi-big-blue-head/"
+      },
+      {
+        "titulo": "Gil Gelpi – Hidden thoughts",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/hidden-thoughts/"
+      },
+      {
+        "titulo": "Gil Gelpi – Crisálida",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/crisalida-2/"
+      },
+      {
+        "titulo": "Gil Gelpi – Sohn",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/sohn/"
       }
     ],
-    "ultima_actualizacion": "05/06/2026 18:56"
+    "ultima_actualizacion": "10/08/2026 14:41"
   },
   "Irene Bou": {
     "total": 78190.0,
