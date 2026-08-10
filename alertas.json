@@ -75,8 +75,9 @@
     "cambios": 25,
     "total": 45,
     "porcentaje": 55.6,
-    "resuelta": false,
-    "repeticiones": 1
+    "resuelta": true,
+    "repeticiones": 1,
+    "fecha_resolucion": "10/08/2026 14:21"
   },
   {
     "fecha": "10/08/2026 11:05",
