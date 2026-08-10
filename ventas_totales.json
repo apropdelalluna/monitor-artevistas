@@ -6675,9 +6675,9 @@
     "ultima_actualizacion": "13/06/2026 18:50"
   },
   "Laura Erviti": {
-    "total": 610.0,
-    "obras_vendidas": 6,
-    "obras_con_precio": 6,
+    "total": 670.0,
+    "obras_vendidas": 8,
+    "obras_con_precio": 8,
     "detalle": [
       {
         "titulo": "Laura Erviti – The Bengal Cat and the Light",
@@ -6708,9 +6708,19 @@
         "titulo": "Laura Erviti – Geisha",
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/laura-erviti-geisha-2/"
+      },
+      {
+        "titulo": "Laura Erviti – The Bengal Cat and the Light",
+        "precio_num": 30.0,
+        "url": "https://www.artevistas.eu/product/laura-erviti-the-bengal-cat-and-the-light-2/"
+      },
+      {
+        "titulo": "Laura Erviti – Geisha",
+        "precio_num": 30.0,
+        "url": "https://www.artevistas.eu/product/laura-erviti-geisha/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:54"
+    "ultima_actualizacion": "10/08/2026 14:41"
   },
   "María Cuéllar": {
     "total": 22290.0,
