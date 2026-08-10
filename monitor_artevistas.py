@@ -1545,22 +1545,25 @@ def comprobar_todos() -> None:
             a.strip() for a in os.environ.get("CONFIRMAR_ALERTAS", "").split(",") if a.strip()
         }
 
-        if len(cambios_estado) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
-            if nombre in artistas_confirmados:
-                logging.info(
-                    "✅ %s confirmado manualmente vía CONFIRMAR_ALERTAS — procesando "
-                    "%d cambios al total histórico (sin fecha, sin mes en curso).",
-                    nombre, len(cambios_estado),
-                )
-                agregar_ventas_iniciales_al_total(nombre, obras_nuevas)
-                resolver_alerta(nombre)
-                estado[nombre] = {
-                    "hash":  hash_nuevo,
-                    "texto": texto_nuevo,
-                    "obras": obras_nuevas,
-                }
-                continue
+        # Si el artista está en CONFIRMAR_ALERTAS, se procesa siempre por esta vía
+        # (total histórico, sin fecha, sin mes en curso) — dispare o no el umbral,
+        # para tratar el backlog acumulado con el mismo criterio en todos los casos.
+        if nombre in artistas_confirmados and cambios_estado:
+            logging.info(
+                "✅ %s confirmado manualmente vía CONFIRMAR_ALERTAS — procesando "
+                "%d cambios al total histórico (sin fecha, sin mes en curso).",
+                nombre, len(cambios_estado),
+            )
+            agregar_ventas_iniciales_al_total(nombre, obras_nuevas)
+            resolver_alerta(nombre)
+            estado[nombre] = {
+                "hash":  hash_nuevo,
+                "texto": texto_nuevo,
+                "obras": obras_nuevas,
+            }
+            continue
 
+        if len(cambios_estado) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
             logging.error(
                 "🚨 ALERTA: %s — %d de %d obras (%.0f%%) cambiaron de estado en un solo "
                 "escaneo. Esto supera el umbral normal y NO se ha guardado automáticamente "
