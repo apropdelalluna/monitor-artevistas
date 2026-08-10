@@ -2045,9 +2045,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 149680.0,
-    "obras_vendidas": 98,
-    "obras_con_precio": 98,
+    "total": 152003.0,
+    "obras_vendidas": 100,
+    "obras_con_precio": 100,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2551,9 +2551,19 @@
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-la-batalla-i/",
         "fecha_deteccion": "31/07/2026"
+      },
+      {
+        "titulo": "Art is Trash – Caballo 6",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-caballo-6/"
+      },
+      {
+        "titulo": "Art is Trash – Caballo",
+        "precio_num": 1573.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-caballo-2/"
       }
     ],
-    "ultima_actualizacion": "31/07/2026 18:51"
+    "ultima_actualizacion": "10/08/2026 14:41"
   },
   "Ashwan": {
     "total": 7515.0,
