@@ -2670,9 +2670,9 @@
     "ultima_actualizacion": "30/05/2026 18:41"
   },
   "Bernard Tartinville": {
-    "total": 1740.0,
-    "obras_vendidas": 6,
-    "obras_con_precio": 6,
+    "total": 1980.0,
+    "obras_vendidas": 7,
+    "obras_con_precio": 7,
     "detalle": [
       {
         "titulo": "Bernard Tartinville – Marie Antoinette 6",
@@ -2703,9 +2703,14 @@
         "titulo": "https://www.artevistas.eu/product/bernard-tartinville-marie-antoinette-4-3/",
         "precio_num": 460.0,
         "url": "https://www.artevistas.eu/product/bernard-tartinville-marie-antoinette-4-3/"
+      },
+      {
+        "titulo": "Bernard Tartinville – Marie Antoinette 4",
+        "precio_num": 240.0,
+        "url": "https://www.artevistas.eu/product/marie-antoinette/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:34"
+    "ultima_actualizacion": "10/08/2026 14:41"
   },
   "BL2A": {
     "total": 86630.0,
