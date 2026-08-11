@@ -1778,6 +1778,38 @@
       "precio": "40,00€",
       "precio_num": 40.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "11/08/2026",
+      "artista": "Martí Roca Balcells",
+      "obra": "Martí Roca Balcells – Ventre",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "11/08/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Iglesia de Santa Anna",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "11/08/2026",
+      "artista": "Rémi Boudeperche",
+      "obra": "Rémi Boudeperche – Sagrada Familia",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "11/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Poetry",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
