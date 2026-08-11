@@ -3833,5 +3833,41 @@
     "precio": "40,00€",
     "precio_num": 40.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-bodega/"
+  },
+  {
+    "fecha": "11/08/2026 18:49",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Ventre",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-ventre/"
+  },
+  {
+    "fecha": "11/08/2026 18:49",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Iglesia de Santa Anna",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-iglesia-de-santa-anna/"
+  },
+  {
+    "fecha": "11/08/2026 18:49",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/32385/"
+  },
+  {
+    "fecha": "11/08/2026 18:49",
+    "artista": "The Catman",
+    "obra": "The Catman – Poetry",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/poetry-2/"
   }
 ]
