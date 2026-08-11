@@ -17263,9 +17263,9 @@
     "ultima_actualizacion": "11/08/2026 08:24"
   },
   "Xavi Mira": {
-    "total": 127880.0,
-    "obras_vendidas": 76,
-    "obras_con_precio": 76,
+    "total": 129880.0,
+    "obras_vendidas": 77,
+    "obras_con_precio": 77,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -17648,9 +17648,14 @@
         "precio_num": 2300.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-el-perdon/",
         "fecha_deteccion": "07/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – La sombra azul",
+        "precio_num": 2000.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-la-sombra-azul/"
       }
     ],
-    "ultima_actualizacion": "09/08/2026 19:12"
+    "ultima_actualizacion": "11/08/2026 18:48"
   },
   "Xavier Krauel": {
     "total": 2830.0,
