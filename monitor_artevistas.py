@@ -1077,7 +1077,14 @@ def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
     SOLO al total histórico (ventas_totales.json). NO se cuentan en el mes
     en curso (ventas_mensuales.json) ni en el histórico de eventos
     (historial_cambios.json), porque no se puede saber con certeza cuándo
-    se vendieron realmente. No toca ningún otro artista."""
+    se vendieron realmente. No toca ningún otro artista.
+
+    Guarda un checkpoint (commit a GitHub) cada CHECKPOINT_CADA obras en vez
+    de esperar al final del lote completo — así, si el proceso se interrumpe
+    a mitad (deploy, caída, lo que sea), el progreso ya hecho no se pierde y
+    la próxima ejecución continúa donde se quedó en vez de repetir desde cero."""
+    CHECKPOINT_CADA = 25
+
     vendidas = {url: o for url, o in obras_nuevas.items() if o.get("estado") == "vendido"}
     if not vendidas:
         return
@@ -1094,6 +1101,13 @@ def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
 
     urls_actuales = {o.get("url") for o in resultado[nombre].get("detalle", []) if o.get("url")}
     añadidas = 0
+    añadidas_desde_checkpoint = 0
+    total_pendientes = sum(1 for url in vendidas if url not in urls_actuales)
+
+    if total_pendientes == 0:
+        return
+
+    logging.info("[%s] %d obras pendientes de reconciliar (checkpoint cada %d).", nombre, total_pendientes, CHECKPOINT_CADA)
 
     for url, o in vendidas.items():
         if url in urls_actuales:
@@ -1111,10 +1125,19 @@ def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
             resultado[nombre]["total"] += precio_num
             resultado[nombre]["obras_con_precio"] += 1
         añadidas += 1
+        añadidas_desde_checkpoint += 1
         logging.info("  💰 [%s] %s añadida al total histórico (no al mes en curso): %s€",
                      nombre, titulo, f"{precio_num:.0f}" if precio_num > 0 else "sin precio")
 
-    if añadidas > 0:
+        if añadidas_desde_checkpoint >= CHECKPOINT_CADA:
+            resultado[nombre]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
+            with open("ventas_totales.json", "w", encoding="utf-8") as f:
+                json.dump(resultado, f, ensure_ascii=False, indent=2)
+            github_guardar_archivo("ventas_totales.json")
+            logging.info("  📍 Checkpoint [%s]: %d/%d guardado.", nombre, añadidas, total_pendientes)
+            añadidas_desde_checkpoint = 0
+
+    if añadidas_desde_checkpoint > 0:
         resultado[nombre]["ultima_actualizacion"] = datetime.now().strftime("%d/%m/%Y %H:%M")
         with open("ventas_totales.json", "w", encoding="utf-8") as f:
             json.dump(resultado, f, ensure_ascii=False, indent=2)
