@@ -15510,9 +15510,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 81846.0,
-    "obras_vendidas": 142,
-    "obras_con_precio": 142,
+    "total": 85066.0,
+    "obras_vendidas": 147,
+    "obras_con_precio": 147,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -16233,9 +16233,34 @@
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-zulu-boy-black-and-gold/",
         "fecha_deteccion": "24/07/2026"
+      },
+      {
+        "titulo": "White Rabbit – The party bunny – Girl",
+        "precio_num": 2800.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-the-party-bunny-girl/"
+      },
+      {
+        "titulo": "White Rabbit – Zulu fashion week (3)",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-fashion-week-3-2/"
+      },
+      {
+        "titulo": "White Rabbit – Catrina",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-catrina-2/"
+      },
+      {
+        "titulo": "White Rabbit – Zulu fashion week (3)",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-zulu-fashion-week-3/"
+      },
+      {
+        "titulo": "White Rabbit – Bunny Revolution – Baroque",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque-2/"
       }
     ],
-    "ultima_actualizacion": "24/07/2026 19:08"
+    "ultima_actualizacion": "11/08/2026 08:24"
   },
   "Xavi Mira": {
     "total": 127880.0,
