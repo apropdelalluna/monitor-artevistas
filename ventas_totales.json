@@ -6287,7 +6287,7 @@
   },
   "Konair": {
     "total": 47046.0,
-    "obras_vendidas": 80,
+    "obras_vendidas": 81,
     "obras_con_precio": 80,
     "detalle": [
       {
@@ -6690,9 +6690,14 @@
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/konair-pink-tower/",
         "fecha_deteccion": "13/06/2026"
+      },
+      {
+        "titulo": "Konair – Polo de madera",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/polo-de-madera/"
       }
     ],
-    "ultima_actualizacion": "13/06/2026 18:50"
+    "ultima_actualizacion": "11/08/2026 08:21"
   },
   "Laura Erviti": {
     "total": 670.0,
