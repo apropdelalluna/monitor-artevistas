@@ -3828,9 +3828,9 @@
     "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Cesar Biojo": {
-    "total": 106429.0,
-    "obras_vendidas": 53,
-    "obras_con_precio": 53,
+    "total": 115579.0,
+    "obras_vendidas": 57,
+    "obras_con_precio": 57,
     "detalle": [
       {
         "titulo": "Cesar Biojo – Arnau 4",
@@ -4096,9 +4096,29 @@
         "titulo": "Cesar Biojo – Nati 2",
         "precio_num": 1030.0,
         "url": "https://www.artevistas.eu/product/nati-2/"
+      },
+      {
+        "titulo": "Cesar Biojo – Estuche 25",
+        "precio_num": 2400.0,
+        "url": "https://www.artevistas.eu/product/estuche-25/"
+      },
+      {
+        "titulo": "Cesar Biojo – Elena",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/elena-2/"
+      },
+      {
+        "titulo": "Cesar Biojo – Las Meninas",
+        "precio_num": 2230.0,
+        "url": "https://www.artevistas.eu/product/cesar-biojo-4/"
+      },
+      {
+        "titulo": "Cesar Biojo – Las Meninas",
+        "precio_num": 2320.0,
+        "url": "https://www.artevistas.eu/product/cesar-biojo-3/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:42"
+    "ultima_actualizacion": "11/08/2026 08:20"
   },
   "Charlax": {
     "total": 6730.0,
