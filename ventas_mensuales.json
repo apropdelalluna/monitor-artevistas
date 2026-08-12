@@ -1810,6 +1810,14 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "12/08/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – El éxtasis de Santa Maria",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
     }
   ]
 }
