@@ -3869,5 +3869,14 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/poetry-2/"
+  },
+  {
+    "fecha": "12/08/2026 19:10",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – El éxtasis de Santa Maria",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-el-extasis-de-santa-maria/"
   }
 ]
