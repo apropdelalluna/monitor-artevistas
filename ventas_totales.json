@@ -7355,9 +7355,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 263354.0,
-    "obras_vendidas": 1027,
-    "obras_con_precio": 1021,
+    "total": 270299.0,
+    "obras_vendidas": 1052,
+    "obras_con_precio": 1046,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -12537,9 +12537,134 @@
         "titulo": "Me lata – Unstoppable",
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/unstopable-2/"
+      },
+      {
+        "titulo": "Me lata – Unbreakable",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/unstopable/"
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/love-33/"
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/amour-7/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 110.0,
+        "url": "https://www.artevistas.eu/product/amor-22/"
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/me-lata-contigo/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-imagine-5/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/love-18/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/love-28/"
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-best-5/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-drug-8/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/imagine-4/"
+      },
+      {
+        "titulo": "Me lata – Bésame",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/be-sa-me/"
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-bcn-5/"
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/we-are-revolution-5/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/amor-6/"
+      },
+      {
+        "titulo": "Me lata – Me lata",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/me-lata-9/"
+      },
+      {
+        "titulo": "Me lata – Haring’s heart",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/harings-heart-2/"
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/one-love-5/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/love-32/"
+      },
+      {
+        "titulo": "Me lata – Street art",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/street-art-3/"
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amour-5/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor-20/"
       }
     ],
-    "ultima_actualizacion": "12/08/2026 14:47"
+    "ultima_actualizacion": "12/08/2026 19:15"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
