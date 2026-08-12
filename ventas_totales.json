@@ -7355,9 +7355,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 270299.0,
-    "obras_vendidas": 1052,
-    "obras_con_precio": 1046,
+    "total": 276189.0,
+    "obras_vendidas": 1077,
+    "obras_con_precio": 1071,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -12662,9 +12662,134 @@
         "titulo": "Me lata – Amor",
         "precio_num": 95.0,
         "url": "https://www.artevistas.eu/product/amor-20/"
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/testimo-14/"
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/love-of-my-life-8/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/love-30/"
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/dont-stop-me-now-4/"
+      },
+      {
+        "titulo": "Me lata – Amor rojo",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor-rojo-3/"
+      },
+      {
+        "titulo": "Me lata – Spray can Love of my life",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/spray-can-love-of-my-life/"
+      },
+      {
+        "titulo": "Me lata – Spray can Me lata",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/spray-can-me-lata-colores/"
+      },
+      {
+        "titulo": "Me lata – Contigo",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/contigo-2/"
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 485.0,
+        "url": "https://www.artevistas.eu/product/we-are-crazy-people-in-love-with-life-2/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-drug-10/"
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/me-lata-el-corazon-colores/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor-19/"
+      },
+      {
+        "titulo": "Me lata – How to tell you I love you again",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/how-to-tell-you-i-love-you/"
+      },
+      {
+        "titulo": "Me lata – I wanna rock you",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/i-wanna-rock-you-3/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/amor-9/"
+      },
+      {
+        "titulo": "Me lata – We are revolution",
+        "precio_num": 650.0,
+        "url": "https://www.artevistas.eu/product/revolucion/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/love-24/"
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/one-love-3/"
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/testimo-7/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor-14/"
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/now-is-the-moment-3/"
+      },
+      {
+        "titulo": "Me lata – One love",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/one-love-4/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/imagine-2/"
+      },
+      {
+        "titulo": "Me lata – Corona",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/corona-2/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/love-26/"
       }
     ],
-    "ultima_actualizacion": "12/08/2026 19:15"
+    "ultima_actualizacion": "12/08/2026 19:19"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
