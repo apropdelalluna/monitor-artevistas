@@ -7355,9 +7355,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 238304.0,
-    "obras_vendidas": 927,
-    "obras_con_precio": 921,
+    "total": 244579.0,
+    "obras_vendidas": 952,
+    "obras_con_precio": 946,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -12037,9 +12037,134 @@
         "titulo": "Me lata – Love of my life",
         "precio_num": 550.0,
         "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-3/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 700.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-the-drug-7/"
+      },
+      {
+        "titulo": "Me lata – ❤BCN",
+        "precio_num": 260.0,
+        "url": "https://www.artevistas.eu/product/me-lata-%e2%9d%a4bcn-6/"
+      },
+      {
+        "titulo": "Me lata – Now is the moment",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/now-is-the-moment-4/"
+      },
+      {
+        "titulo": "Me lata – ❤ Love BCN",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/%e2%9d%a4-love-bcn-2/"
+      },
+      {
+        "titulo": "Me lata – You and me ONE 2",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-you-and-me-one-2-2/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-imagine-6/"
+      },
+      {
+        "titulo": "Me lata – Hope",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/me-lata-hope-2/"
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-6/"
+      },
+      {
+        "titulo": "Me lata – Nothing is gonna change my love for you",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/nothing-is-gonna-change-my-love-for-you-2/"
+      },
+      {
+        "titulo": "Me lata – I am your ninja",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/i-am-your-ninja-4/"
+      },
+      {
+        "titulo": "Me lata – Amour",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amour-3/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/amor-17/"
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/38261/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 360.0,
+        "url": "https://www.artevistas.eu/product/me-lata-imagine-4/"
+      },
+      {
+        "titulo": "Me lata – Smiley XXL",
+        "precio_num": 160.0,
+        "url": "https://www.artevistas.eu/product/me-lata-smiley-xxl-2/"
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/testimo-13/"
+      },
+      {
+        "titulo": "Me lata – Dream big",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/me-lata-dream-big/"
+      },
+      {
+        "titulo": "Me lata – We are crazy people in love with life",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-we-are-crazy-people-in-love-with-life-17/"
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-9/"
+      },
+      {
+        "titulo": "Me lata – Life",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/life/"
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-4/"
+      },
+      {
+        "titulo": "Me Lata – T’estimo",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/me-lata-testimo-3/"
+      },
+      {
+        "titulo": "Me Lata – ❤ Bcn",
+        "precio_num": 260.0,
+        "url": "https://www.artevistas.eu/product/me-lata-%e2%9d%a4-bcn-2/"
+      },
+      {
+        "titulo": "Me lata – You and me",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/you-and-me-6/"
+      },
+      {
+        "titulo": "Me lata – Imagine",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/me-lata-imagine-10/"
       }
     ],
-    "ultima_actualizacion": "12/08/2026 08:22"
+    "ultima_actualizacion": "12/08/2026 12:49"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
