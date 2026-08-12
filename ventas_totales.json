@@ -19486,9 +19486,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 40.0,
-    "obras_vendidas": 2,
-    "obras_con_precio": 2,
+    "total": 75.0,
+    "obras_vendidas": 3,
+    "obras_con_precio": 3,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -19500,8 +19500,14 @@
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-manolo-s/",
         "fecha_deteccion": "08/08/2026"
+      },
+      {
+        "titulo": "Marina Salazar – El éxtasis de Santa Maria",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-el-extasis-de-santa-maria/",
+        "fecha_deteccion": "12/08/2026"
       }
     ],
-    "ultima_actualizacion": "08/08/2026 18:36"
+    "ultima_actualizacion": "12/08/2026 19:10"
   }
 }
