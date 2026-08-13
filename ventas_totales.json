@@ -13761,9 +13761,9 @@
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "MOWCKA": {
-    "total": 5574.0,
-    "obras_vendidas": 45,
-    "obras_con_precio": 45,
+    "total": 5624.0,
+    "obras_vendidas": 46,
+    "obras_con_precio": 46,
     "detalle": [
       {
         "titulo": "Mowcka – Sin título 8",
@@ -13991,9 +13991,14 @@
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/mowcka-talking-with-the-sun/",
         "fecha_deteccion": "07/08/2026"
+      },
+      {
+        "titulo": "Mowcka – Sin título 21",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-21/"
       }
     ],
-    "ultima_actualizacion": "07/08/2026 19:22"
+    "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Neon Sandwich": {
     "total": 7150.0,
