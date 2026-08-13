@@ -14426,7 +14426,7 @@
   },
   "Orson Buch": {
     "total": 6630.0,
-    "obras_vendidas": 30,
+    "obras_vendidas": 31,
     "obras_con_precio": 30,
     "detalle": [
       {
@@ -14579,9 +14579,14 @@
         "precio_num": 160.0,
         "url": "https://www.artevistas.eu/product/orson-buch-pez-crespo/",
         "fecha_deteccion": "12/05/2026"
+      },
+      {
+        "titulo": "Orson Buch – Tucán Olio Olivastre",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/orson-buch-tucan-olio-olivastre/"
       }
     ],
-    "ultima_actualizacion": "12/05/2026 21:35"
+    "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ortaire de Coupigny": {
     "total": 12780.0,
