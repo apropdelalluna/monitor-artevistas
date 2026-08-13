@@ -7355,9 +7355,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 285429.0,
-    "obras_vendidas": 1127,
-    "obras_con_precio": 1121,
+    "total": 290709.0,
+    "obras_vendidas": 1152,
+    "obras_con_precio": 1146,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -13037,9 +13037,134 @@
         "titulo": "Me lata – Love",
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/love-10/"
+      },
+      {
+        "titulo": "Me lata – Sentir como lata",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/sentir-como-lata-2/"
+      },
+      {
+        "titulo": "Me lata – Don’t stop me now",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/dont-stop-me-now-2/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/amor-11/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-11/"
+      },
+      {
+        "titulo": "Me lata – Love is the best",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-best-2/"
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/love-of-my-life-5/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/amor-5/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-6/"
+      },
+      {
+        "titulo": "Me lata – Love rojo",
+        "precio_num": 180.0,
+        "url": "https://www.artevistas.eu/product/love-rojo-3/"
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/me-lata-el-corazon-3/"
+      },
+      {
+        "titulo": "Me lata – Harring’s ❤",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/heart-harring-v-2/"
+      },
+      {
+        "titulo": "Me lata – Harring’s ❤",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/heart-harring-v/"
+      },
+      {
+        "titulo": "Me lata – Love amarillo",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-amarillo/"
+      },
+      {
+        "titulo": "Me lata – Amor rojo",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/amor-rojo-2/"
+      },
+      {
+        "titulo": "Me lata – T’estimo",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/testimo-2/"
+      },
+      {
+        "titulo": "Me lata – Nos lata el corazón",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/nos-lata-el-corazon-4/"
+      },
+      {
+        "titulo": "Me lata – Love rojo",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-rojo-2/"
+      },
+      {
+        "titulo": "Me lata – Sentir como lata",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/sentir-como-lata/"
+      },
+      {
+        "titulo": "Me lata – Unconditional",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/unconditional/"
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/barcelona-3/"
+      },
+      {
+        "titulo": "Me lata – Love of my life",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/love-of-my-life-4/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-4/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/amor-4/"
+      },
+      {
+        "titulo": "Me lata – Amor",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/amor-3/"
+      },
+      {
+        "titulo": "Me lata – You are my angel",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/you-are-my-angel-3/"
       }
     ],
-    "ultima_actualizacion": "12/08/2026 21:30"
+    "ultima_actualizacion": "13/08/2026 11:06"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
