@@ -16399,9 +16399,9 @@
     "ultima_actualizacion": "11/08/2026 18:49"
   },
   "Sandra Partera": {
-    "total": 49722.0,
-    "obras_vendidas": 34,
-    "obras_con_precio": 34,
+    "total": 51922.0,
+    "obras_vendidas": 59,
+    "obras_con_precio": 35,
     "detalle": [
       {
         "titulo": "Sandra Partera – Smallblackboard 6",
@@ -16572,9 +16572,134 @@
         "titulo": "Sandra Partera – Saudade",
         "precio_num": 3796.0,
         "url": "https://www.artevistas.eu/product/saudade/"
+      },
+      {
+        "titulo": "Sandra Partera – Rain and color 2",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/rain-and-color-2/"
+      },
+      {
+        "titulo": "Sandra Partera – Smallblackboard 4",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/smallblackboard-4/"
+      },
+      {
+        "titulo": "Sandra Partera – Peix que es mossega la cua 7 vegades (2)",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/sandra-partera-peix-que-es-mossega-la-cua-7-vegades-2/"
+      },
+      {
+        "titulo": "Sandra Partera – Wounded inner child",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/wounded-inner-child/"
+      },
+      {
+        "titulo": "Sandra Partera – Peix que es mossega la cua 7 vegades (6)",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/sandra-partera-peix-que-es-mossega-la-cua-7-vegades-6/"
+      },
+      {
+        "titulo": "Sandra Partera – Smallblackboard 5",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/smallblackboard-5/"
+      },
+      {
+        "titulo": "Sandra Partera – Tornaràs a volar",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/tornaras-a-volar/"
+      },
+      {
+        "titulo": "Sandra Partera – De les cendres neix la flor",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/de-les-cendres-neix-la-flor/"
+      },
+      {
+        "titulo": "Sandra Partera – Amic imaginari",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/amic-imaginari/"
+      },
+      {
+        "titulo": "Sandra Partera – Amic…? on t’has ficat!",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/amic-on-thas-ficat/"
+      },
+      {
+        "titulo": "Sandra Partera – 1, 2, 3 Te miro y no me ves 3",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/te-miro-y-no-me-ves-3/"
+      },
+      {
+        "titulo": "Sandra Partera – 1, 2, 3 Te miro y no me ves 2",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/te-miro-y-no-me-ves-2/"
+      },
+      {
+        "titulo": "Sandra Partera – Te miro y no me ves 1 + 2 + 3",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/te-miro-y-no-me-ves-1-2-3/"
+      },
+      {
+        "titulo": "Sandra Partera – De la fília a la fóbia, un pas",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/de-la-filia-a-la-fobia-un-pas/"
+      },
+      {
+        "titulo": "Sandra Partera – Bridge of mistakes. Don’t stop.",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/sandra-partera-bridge-of-mistakes/"
+      },
+      {
+        "titulo": "Sandra Partera – 13/01/19 Un pas enrere",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/13-01-19-un-pas-enrere/"
+      },
+      {
+        "titulo": "Sandra Partera – Unconscious",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/unconscious/"
+      },
+      {
+        "titulo": "Sandra Partera – Playing with my inner child 6",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/playing-with-my-inner-child-6/"
+      },
+      {
+        "titulo": "Sandra Partera – Wilson (mi amigo el náufrago)",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/wilson-mi-amigo-el-naufrago/"
+      },
+      {
+        "titulo": "Sandra Partera – Entre el azul y el rojo, una ilusión",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/entre-el-azul-y-el-rojo-una-ilusion/"
+      },
+      {
+        "titulo": "Sandra Partera – Entre el rojo y el azul, una ilusión",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/entre-el-rojo-y-el-azul-una-ilusion/"
+      },
+      {
+        "titulo": "Sandra Partera – An Illusion",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/an-illusion/"
+      },
+      {
+        "titulo": "Sandra Partera – Dance of colours",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/dance-of-colours/"
+      },
+      {
+        "titulo": "Sandra Partera – Free title is the title 4",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/free-title-is-the-title-4/"
+      },
+      {
+        "titulo": "Sandra Partera – Inner child",
+        "precio_num": 2200.0,
+        "url": "https://www.artevistas.eu/product/titulo-libre/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:04"
+    "ultima_actualizacion": "13/08/2026 12:27"
   },
   "Santo": {
     "total": 44580.03,
