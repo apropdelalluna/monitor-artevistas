@@ -17712,9 +17712,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12179.0,
-    "obras_vendidas": 128,
-    "obras_con_precio": 128,
+    "total": 12550.0,
+    "obras_vendidas": 135,
+    "obras_con_precio": 135,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -18375,9 +18375,44 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/poetry-2/",
         "fecha_deteccion": "11/08/2026"
+      },
+      {
+        "titulo": "The Catman – Your smile",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/the-catman-your-smile/"
+      },
+      {
+        "titulo": "The Catman – Ovación",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-aplauso-ovacion/"
+      },
+      {
+        "titulo": "The Catman – If",
+        "precio_num": 77.0,
+        "url": "https://www.artevistas.eu/product/the-catman-if-2/"
+      },
+      {
+        "titulo": "The Catman – Contra corriente",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-contra-corriente/"
+      },
+      {
+        "titulo": "The Catman – Buenas noches",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/the-catman-buenas-noches/"
+      },
+      {
+        "titulo": "The Catman – My pocket is revolutionary",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/the-catman-my-pocket-is-revolutionary/"
+      },
+      {
+        "titulo": "The Catman – Terroir",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-terroir-2/"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 18:49"
+    "ultima_actualizacion": "13/08/2026 14:20"
   },
   "Tim Marsh": {
     "total": 52400.0,
