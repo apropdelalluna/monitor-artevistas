@@ -19851,7 +19851,7 @@
   },
   "Yoshbott": {
     "total": 107440.0,
-    "obras_vendidas": 51,
+    "obras_vendidas": 54,
     "obras_con_precio": 51,
     "detalle": [
       {
@@ -20108,9 +20108,24 @@
         "titulo": "Yoshbott – Immaterial Matter (Basquiat)",
         "precio_num": 1800.0,
         "url": "https://www.artevistas.eu/product/yoshbott-immaterial-matter-basquiat/"
+      },
+      {
+        "titulo": "Yoshbott – Monstrualia 22",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/monstrualia-22/"
+      },
+      {
+        "titulo": "Yoshbott – Absent Empty 51",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/absent-empty-51/"
+      },
+      {
+        "titulo": "Yoshbott – Monstrualia A",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/yoshbott-monstrualia-a/"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 07:23"
+    "ultima_actualizacion": "13/08/2026 14:20"
   },
   "Yoshihito Suzuki": {
     "total": 500.0,
