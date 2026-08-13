@@ -16400,7 +16400,7 @@
   },
   "Sandra Partera": {
     "total": 59948.0,
-    "obras_vendidas": 84,
+    "obras_vendidas": 85,
     "obras_con_precio": 45,
     "detalle": [
       {
@@ -16822,6 +16822,11 @@
         "titulo": "Sandra Partera – Nada es lo que parece ser 2",
         "precio_num": 486.0,
         "url": "https://www.artevistas.eu/product/nada-es-lo-que-parece-ser-2/"
+      },
+      {
+        "titulo": "Sandra Partera – Budi (es un tipo guay)",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/budi-es-un-tipo-guai/"
       }
     ],
     "ultima_actualizacion": "13/08/2026 14:20"
