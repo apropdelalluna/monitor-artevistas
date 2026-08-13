@@ -16399,9 +16399,9 @@
     "ultima_actualizacion": "11/08/2026 18:49"
   },
   "Sandra Partera": {
-    "total": 51922.0,
-    "obras_vendidas": 59,
-    "obras_con_precio": 35,
+    "total": 59948.0,
+    "obras_vendidas": 84,
+    "obras_con_precio": 45,
     "detalle": [
       {
         "titulo": "Sandra Partera – Smallblackboard 6",
@@ -16697,9 +16697,134 @@
         "titulo": "Sandra Partera – Inner child",
         "precio_num": 2200.0,
         "url": "https://www.artevistas.eu/product/titulo-libre/"
+      },
+      {
+        "titulo": "Sandra Partera – Twist and shout",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/twist-and-shout/"
+      },
+      {
+        "titulo": "Sandra Partera – No statement",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/no-statement-2/"
+      },
+      {
+        "titulo": "Sandra Partera – El retorn",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/el-retorn/"
+      },
+      {
+        "titulo": "Sandra Partera – Garabatos",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/garabatos/"
+      },
+      {
+        "titulo": "Sandra Partera – Mamá",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/mama/"
+      },
+      {
+        "titulo": "Sandra Partera – Créixer sense fer-se gran",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/creixer-sense-fer-se-gran/"
+      },
+      {
+        "titulo": "Sandra Partera – L’essència de la veritat",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/lessencia-de-la-veritat/"
+      },
+      {
+        "titulo": "Sandra Partera – Gargots. No som res més",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/gargots-no-som-res-mes/"
+      },
+      {
+        "titulo": "Sandra Partera – Surt de la ratlla",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/surt-de-la-ratlla/"
+      },
+      {
+        "titulo": "Sandra Partera – El principi",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/el-principi/"
+      },
+      {
+        "titulo": "Sandra Partera – Garabatos en la pizarra",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/garabatos-en-la-pizarra/"
+      },
+      {
+        "titulo": "Sandra Partera – Final obert",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/final-obert/"
+      },
+      {
+        "titulo": "Sandra Partera – Nada en realidad",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/nada-en-realidad/"
+      },
+      {
+        "titulo": "Sandra Partera – Res acaba aquí",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/res-acaba-aqui/"
+      },
+      {
+        "titulo": "Sandra Partera – Vermut Miró",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/sandra-partera-vermouth-miro/"
+      },
+      {
+        "titulo": "Sandra Partera – S/T Fucsia",
+        "precio_num": 440.0,
+        "url": "https://www.artevistas.eu/product/s-t-fucsia/"
+      },
+      {
+        "titulo": "Sandra Partera – Mama",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/mama-2/"
+      },
+      {
+        "titulo": "Sandra Partera – Self portrait",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/self-portrait/"
+      },
+      {
+        "titulo": "Sandra Partera – (no) limits",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/no-limits/"
+      },
+      {
+        "titulo": "Sandra Partera – Mi pequeña familia",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/mi-pequena-familia/"
+      },
+      {
+        "titulo": "Sandra Partera – Smallblackboard 1",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/smallblackboard-1/"
+      },
+      {
+        "titulo": "Sandra Partera – Màquina del temps",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/maquina-del-temps/"
+      },
+      {
+        "titulo": "Sandra Partera – Criatura 12",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/criatura-12/"
+      },
+      {
+        "titulo": "Sandra Partera – Nada es lo que parece ser 4",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/nada-es-lo-que-parece-ser-4/"
+      },
+      {
+        "titulo": "Sandra Partera – Nada es lo que parece ser 2",
+        "precio_num": 486.0,
+        "url": "https://www.artevistas.eu/product/nada-es-lo-que-parece-ser-2/"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 12:27"
+    "ultima_actualizacion": "13/08/2026 14:20"
   },
   "Santo": {
     "total": 44580.03,
