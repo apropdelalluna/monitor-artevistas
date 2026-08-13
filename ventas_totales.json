@@ -15676,9 +15676,9 @@
     "ultima_actualizacion": "07/05/2026 06:35"
   },
   "Pol Ballonga": {
-    "total": 30000.0,
-    "obras_vendidas": 17,
-    "obras_con_precio": 17,
+    "total": 34950.0,
+    "obras_vendidas": 20,
+    "obras_con_precio": 20,
     "detalle": [
       {
         "titulo": "Pol Ballonga – Atmosphere",
@@ -15768,9 +15768,24 @@
         "precio_num": 4600.0,
         "url": "https://www.artevistas.eu/product/pol-ballonga-planet-hunter/",
         "fecha_deteccion": "01/08/2026"
+      },
+      {
+        "titulo": "Pol Ballonga – Esfinge",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/pol-ballonga-esfinge/"
+      },
+      {
+        "titulo": "Pol Ballonga – Cracking",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/pol-ballonga-cracking/"
+      },
+      {
+        "titulo": "Pol Ballonga – Esfinge",
+        "precio_num": 2000.0,
+        "url": "https://www.artevistas.eu/product/esfinge/"
       }
     ],
-    "ultima_actualizacion": "01/08/2026 19:07"
+    "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ramón Pons": {
     "total": 13055.0,
