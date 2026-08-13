@@ -7355,9 +7355,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 290709.0,
-    "obras_vendidas": 1152,
-    "obras_con_precio": 1146,
+    "total": 294344.0,
+    "obras_vendidas": 1173,
+    "obras_con_precio": 1167,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -13162,9 +13162,114 @@
         "titulo": "Me lata – You are my angel",
         "precio_num": 80.0,
         "url": "https://www.artevistas.eu/product/you-are-my-angel-3/"
+      },
+      {
+        "titulo": "Me lata – Together we can",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/together-we-can-2/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-drug-4/"
+      },
+      {
+        "titulo": "Me lata – I am your ninja",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/i-am-your-ninja-2/"
+      },
+      {
+        "titulo": "Me lata – You are so cool",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/love-of-my-life-2/"
+      },
+      {
+        "titulo": "Me lata – One Love",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/one-love/"
+      },
+      {
+        "titulo": "Me lata – Me lata el corazón",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/me-lata-el-corazon-2/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 85.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-drug-3/"
+      },
+      {
+        "titulo": "Me lata – I just want to make love to you",
+        "precio_num": 85.0,
+        "url": "https://www.artevistas.eu/product/i-just-want-to-make-love-to-you-2/"
+      },
+      {
+        "titulo": "Me lata – Como decirte otra vez te quiero",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/15079/"
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-4/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/love-is-the-drug-2/"
+      },
+      {
+        "titulo": "Me lata – Love is the drug",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/i-wanna-rock-you-2/"
+      },
+      {
+        "titulo": "Me lata – Crown",
+        "precio_num": 45.0,
+        "url": "https://www.artevistas.eu/product/krown/"
+      },
+      {
+        "titulo": "Me lata – Bésame",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/besame-2/"
+      },
+      {
+        "titulo": "Me lata – Love",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/love-2/"
+      },
+      {
+        "titulo": "Me lata – Love (dirty) Bcn",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/love-dirty-bcn-2/"
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/me-lata-3/"
+      },
+      {
+        "titulo": "Me lata – Me Lata",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/me-lata-2/"
+      },
+      {
+        "titulo": "Me lata – Heart",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/heart-2/"
+      },
+      {
+        "titulo": "Me lata – Barcelona",
+        "precio_num": 440.0,
+        "url": "https://www.artevistas.eu/product/barcelona-2/"
+      },
+      {
+        "titulo": "Me lata – Love Bcn",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/love-bcn-2/"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 11:06"
+    "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
