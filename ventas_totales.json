@@ -18416,7 +18416,7 @@
   },
   "Tim Marsh": {
     "total": 52400.0,
-    "obras_vendidas": 25,
+    "obras_vendidas": 26,
     "obras_con_precio": 25,
     "detalle": [
       {
@@ -18544,9 +18544,14 @@
         "precio_num": 7500.0,
         "url": "https://www.artevistas.eu/product/tim-marsh-the-leopard-of-love/",
         "fecha_deteccion": "31/05/2026"
+      },
+      {
+        "titulo": "Tim Marsh – The Mask",
+        "precio_num": 0.0,
+        "url": "https://www.artevistas.eu/product/the-mask/"
       }
     ],
-    "ultima_actualizacion": "31/05/2026 23:45"
+    "ultima_actualizacion": "13/08/2026 14:20"
   },
   "Toni Riera": {
     "total": 1990.0,
