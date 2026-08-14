@@ -4067,5 +4067,14 @@
     "precio": "95,00€",
     "precio_num": 95.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-santamuerte-renaissance-2/"
+  },
+  {
+    "fecha": "14/08/2026 22:40",
+    "artista": "The Catman",
+    "obra": "The Catman – Be kind",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/the-catman-be-kind/"
   }
 ]
