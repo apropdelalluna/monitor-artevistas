@@ -1818,6 +1818,38 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "14/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Spray smiley",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Art of my life",
+      "precio": "90,00€",
+      "precio_num": 90.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/08/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Bunny Revolution 2024",
+      "precio": "1.800,00€",
+      "precio_num": 1800.0,
+      "tipo": "vendida"
     }
   ]
 }
