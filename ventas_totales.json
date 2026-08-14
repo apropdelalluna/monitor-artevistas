@@ -18404,9 +18404,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12550.0,
-    "obras_vendidas": 135,
-    "obras_con_precio": 135,
+    "total": 12600.0,
+    "obras_vendidas": 136,
+    "obras_con_precio": 136,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19109,9 +19109,15 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-terroir-2/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "The Catman – Be kind",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/the-catman-be-kind/",
+        "fecha_deteccion": "14/08/2026"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 14:20"
+    "ultima_actualizacion": "14/08/2026 22:40"
   },
   "Tim Marsh": {
     "total": 52400.0,
