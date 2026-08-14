@@ -1850,6 +1850,14 @@
       "precio": "1.800,00€",
       "precio_num": 1800.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "14/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Be kind",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
     }
   ]
 }
