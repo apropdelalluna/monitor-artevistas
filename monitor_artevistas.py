@@ -989,7 +989,7 @@ def recuperar_ventas_artistas_reaparecidos() -> None:
                 _, precio_num = obtener_precio_desde_producto(url)
                 time.sleep(1)
 
-            resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+            resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url, "fecha_recuperacion": datetime.now().strftime("%d/%m/%Y")})
             resultado[nombre]["obras_vendidas"] += 1
             if precio_num > 0:
                 resultado[nombre]["total"] += precio_num
@@ -1119,7 +1119,7 @@ def agregar_ventas_iniciales_al_total(nombre: str, obras_nuevas: dict) -> None:
             _, precio_num = obtener_precio_desde_producto(url)
             time.sleep(1)
 
-        resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url})
+        resultado[nombre]["detalle"].append({"titulo": titulo, "precio_num": precio_num, "url": url, "fecha_recuperacion": datetime.now().strftime("%d/%m/%Y")})
         resultado[nombre]["obras_vendidas"] += 1
         if precio_num > 0:
             resultado[nombre]["total"] += precio_num

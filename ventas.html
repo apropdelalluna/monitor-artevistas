@@ -375,6 +375,8 @@
                     : obra.titulo;
                   const fechaHtml = obra.fecha_deteccion
                     ? `<span style="color:var(--accent);font-size:11px;margin-left:8px;font-weight:600;">${obra.fecha_deteccion}</span>`
+                    : obra.fecha_recuperacion
+                    ? `<span style="color:var(--text-dim);font-size:11px;margin-left:8px;font-style:italic;" title="Fecha de venta desconocida; recuperada del backlog el ${obra.fecha_recuperacion}">recuperada ${obra.fecha_recuperacion}</span>`
                     : '';
                   html += `<div class="obra-row" style="padding-left:16px;">
                     <span class="obra-titulo">${titulo}${fechaHtml}</span>
@@ -404,6 +406,8 @@
                   : obra.titulo;
                 const fechaHtml = obra.fecha_deteccion
                   ? `<span style="color:var(--accent);font-size:11px;margin-left:8px;font-weight:600;">${obra.fecha_deteccion}</span>`
+                  : obra.fecha_recuperacion
+                  ? `<span style="color:var(--text-dim);font-size:11px;margin-left:8px;font-style:italic;" title="Fecha de venta desconocida; recuperada del backlog el ${obra.fecha_recuperacion}">recuperada ${obra.fecha_recuperacion}</span>`
                   : '';
                 html += `<div class="obra-row">
                   <span class="obra-titulo">${titulo}${fechaHtml}</span>
