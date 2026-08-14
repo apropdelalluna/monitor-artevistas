@@ -7377,9 +7377,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 294344.0,
-    "obras_vendidas": 1173,
-    "obras_con_precio": 1167,
+    "total": 294724.0,
+    "obras_vendidas": 1176,
+    "obras_con_precio": 1170,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -13885,9 +13885,27 @@
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/love-bcn-2/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Me Lata – Love",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-31/",
+        "fecha_deteccion": "14/08/2026"
+      },
+      {
+        "titulo": "Me Lata – Spray smiley",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-spray-smiley-8/",
+        "fecha_deteccion": "14/08/2026"
+      },
+      {
+        "titulo": "Me Lata – Art of my life",
+        "precio_num": 90.0,
+        "url": "https://www.artevistas.eu/product/me-lata-art-of-my-life-11/",
+        "fecha_deteccion": "14/08/2026"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 11:10"
+    "ultima_actualizacion": "14/08/2026 18:08"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -19266,9 +19284,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 85066.0,
-    "obras_vendidas": 147,
-    "obras_con_precio": 147,
+    "total": 86866.0,
+    "obras_vendidas": 148,
+    "obras_con_precio": 148,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -20019,9 +20037,15 @@
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-baroque-2/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "White Rabbit – Bunny Revolution 2024",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-2024/",
+        "fecha_deteccion": "14/08/2026"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 08:24"
+    "ultima_actualizacion": "14/08/2026 18:08"
   },
   "Xavi Mira": {
     "total": 129880.0,
