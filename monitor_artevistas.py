@@ -1377,7 +1377,8 @@ def guardar_historial(cambios: list) -> None:
 
         fecha_hora = datetime.now().strftime("%d/%m/%Y %H:%M")
         for cambio in cambios:
-            for c in cambio.get("cambios_obras", []):
+            cambios_obras = cambio.get("cambios_obras", [])
+            for c in cambios_obras:
                 historial.append({
                     "fecha":      fecha_hora,
                     "artista":    cambio["artista"]["nombre"],
@@ -1386,6 +1387,24 @@ def guardar_historial(cambios: list) -> None:
                     "precio":     c.get("precio", ""),
                     "precio_num": c.get("precio_num", 0.0),
                     "url":        c.get("url", ""),
+                })
+
+            # Si el hash cambió pero ninguna obra cambió de estado, el cambio
+            # es de otro tipo (texto/etiquetas de la página, no ventas) — se
+            # guarda igualmente, con un resumen del diff, para que quede
+            # visible en vez de perderse en silencio.
+            diff_texto = cambio.get("diff", "")
+            if not cambios_obras and diff_texto and diff_texto != "(sin diferencias)":
+                resumen = "\n".join(diff_texto.splitlines()[:10])
+                historial.append({
+                    "fecha":   fecha_hora,
+                    "artista": cambio["artista"]["nombre"],
+                    "obra":    "(cambio de página, sin obras afectadas)",
+                    "tipo":    "cambio_texto",
+                    "precio":     "",
+                    "precio_num": 0.0,
+                    "url":        "",
+                    "detalle": resumen,
                 })
 
         with open(ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
