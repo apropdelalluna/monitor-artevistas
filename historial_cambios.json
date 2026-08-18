@@ -4076,5 +4076,23 @@
     "precio": "50,00€",
     "precio_num": 50.0,
     "url": "https://www.artevistas.eu/product/the-catman-be-kind/"
+  },
+  {
+    "fecha": "18/08/2026 16:32",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Romaní",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-romani/"
+  },
+  {
+    "fecha": "18/08/2026 16:32",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Virile",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-virile/"
   }
 ]
