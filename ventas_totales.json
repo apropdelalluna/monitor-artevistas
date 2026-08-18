@@ -6968,9 +6968,9 @@
     "ultima_actualizacion": "18/07/2026 10:11"
   },
   "Martí Roca Balcells": {
-    "total": 62350.0,
-    "obras_vendidas": 69,
-    "obras_con_precio": 69,
+    "total": 63350.0,
+    "obras_vendidas": 71,
+    "obras_con_precio": 71,
     "detalle": [
       {
         "titulo": "Martí Roca Balcells – Pau",
@@ -7317,9 +7317,21 @@
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/marti-roca-balcells-ventre/",
         "fecha_deteccion": "11/08/2026"
+      },
+      {
+        "titulo": "Martí Roca Balcells – Romaní",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/marti-roca-balcells-romani/",
+        "fecha_deteccion": "18/08/2026"
+      },
+      {
+        "titulo": "Martí Roca Balcells – Virile",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/marti-roca-balcells-virile/",
+        "fecha_deteccion": "18/08/2026"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 18:49"
+    "ultima_actualizacion": "18/08/2026 16:32"
   },
   "Matthieu Kowad": {
     "total": 10600.0,
