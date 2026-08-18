@@ -1858,6 +1858,22 @@
       "precio": "50,00€",
       "precio_num": 50.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "18/08/2026",
+      "artista": "Martí Roca Balcells",
+      "obra": "Martí Roca Balcells – Romaní",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "18/08/2026",
+      "artista": "Martí Roca Balcells",
+      "obra": "Martí Roca Balcells – Virile",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
     }
   ]
 }
