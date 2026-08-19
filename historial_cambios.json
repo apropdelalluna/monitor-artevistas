@@ -4094,5 +4094,34 @@
     "precio": "500,00€",
     "precio_num": 500.0,
     "url": "https://www.artevistas.eu/product/marti-roca-balcells-virile/"
+  },
+  {
+    "fecha": "19/08/2026 18:17",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Conejo Azul",
+    "tipo": "vendida",
+    "precio": "120,00€",
+    "precio_num": 120.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-conejo-azul/"
+  },
+  {
+    "fecha": "19/08/2026 18:17",
+    "artista": "White Rabbit",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -354,5 +354,5 @@\n €\n Quick View\n-Gotic Gallery, Painting\n+Born Gallery, Painting\n Bunny revolution – Gold renaissance\n 95,00"
+  },
+  {
+    "fecha": "19/08/2026 18:17",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -62,9 +62,4 @@\n €\n Quick View\n-Sold\n-Gotic Gallery, Print\n-Marina Salazar – El éxtasis de Santa Maria\n-SOLD\n-Quick View"
   }
 ]
