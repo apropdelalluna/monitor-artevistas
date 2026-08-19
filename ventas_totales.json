@@ -16441,9 +16441,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ramón Pons": {
-    "total": 13055.0,
-    "obras_vendidas": 78,
-    "obras_con_precio": 78,
+    "total": 13175.0,
+    "obras_vendidas": 79,
+    "obras_con_precio": 79,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -16836,9 +16836,15 @@
         "precio_num": 125.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-abrazo/",
         "fecha_deteccion": "16/07/2026"
+      },
+      {
+        "titulo": "Ramón Pons – Conejo Azul",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-conejo-azul/",
+        "fecha_deteccion": "19/08/2026"
       }
     ],
-    "ultima_actualizacion": "16/07/2026 16:08"
+    "ultima_actualizacion": "19/08/2026 18:17"
   },
   "Reb.MWC": {
     "total": 360.0,
