@@ -1874,6 +1874,14 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "19/08/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Conejo Azul",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
     }
   ]
 }
