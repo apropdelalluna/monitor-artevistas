@@ -4123,5 +4123,15 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -62,9 +62,4 @@\n €\n Quick View\n-Sold\n-Gotic Gallery, Print\n-Marina Salazar – El éxtasis de Santa Maria\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "20/08/2026 14:42",
+    "artista": "Sater",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -334,5 +334,5 @@\n SOLD\n Quick View\n-Born Gallery, Gotic Gallery, Print\n+Born Gallery, Print\n Sater – Rusty subways – Madrid\n 20,00"
   }
 ]
