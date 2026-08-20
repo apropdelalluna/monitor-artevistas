@@ -4133,5 +4133,50 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -334,5 +334,5 @@\n SOLD\n Quick View\n-Born Gallery, Gotic Gallery, Print\n+Born Gallery, Print\n Sater – Rusty subways – Madrid\n 20,00"
+  },
+  {
+    "fecha": "20/08/2026 21:26",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo fluo 5",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-5/"
+  },
+  {
+    "fecha": "20/08/2026 21:26",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo fluo 4",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-4/"
+  },
+  {
+    "fecha": "20/08/2026 21:26",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo fluo 3",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-3/"
+  },
+  {
+    "fecha": "20/08/2026 21:26",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo fluo 2",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-2/"
+  },
+  {
+    "fecha": "20/08/2026 21:26",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo fluo 1",
+    "tipo": "nueva",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-1/"
   }
 ]
