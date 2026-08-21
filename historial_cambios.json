@@ -4178,5 +4178,24 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-individuo-fluo-1/"
+  },
+  {
+    "fecha": "21/08/2026 21:20",
+    "artista": "Me Lata",
+    "obra": "Me Lata – I’m still in love with you",
+    "tipo": "vendida",
+    "precio": "550,00€",
+    "precio_num": 550.0,
+    "url": "https://www.artevistas.eu/product/me-lata-im-still-in-love-with-you/"
+  },
+  {
+    "fecha": "21/08/2026 21:20",
+    "artista": "White Rabbit",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -139,9 +139,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Painting\n-White Rabbit – Bunny Revolution 2024\n-SOLD\n-Quick View"
   }
 ]
