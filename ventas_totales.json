@@ -7389,9 +7389,9 @@
     "ultima_actualizacion": "28/05/2026 13:35"
   },
   "Me Lata": {
-    "total": 294724.0,
-    "obras_vendidas": 1176,
-    "obras_con_precio": 1170,
+    "total": 295274.0,
+    "obras_vendidas": 1177,
+    "obras_con_precio": 1171,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -13915,9 +13915,15 @@
         "precio_num": 90.0,
         "url": "https://www.artevistas.eu/product/me-lata-art-of-my-life-11/",
         "fecha_deteccion": "14/08/2026"
+      },
+      {
+        "titulo": "Me Lata – I’m still in love with you",
+        "precio_num": 550.0,
+        "url": "https://www.artevistas.eu/product/me-lata-im-still-in-love-with-you/",
+        "fecha_deteccion": "21/08/2026"
       }
     ],
-    "ultima_actualizacion": "14/08/2026 18:08"
+    "ultima_actualizacion": "21/08/2026 21:20"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
