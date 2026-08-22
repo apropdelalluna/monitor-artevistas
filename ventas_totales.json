@@ -5937,9 +5937,9 @@
     "ultima_actualizacion": "07/05/2026 04:51"
   },
   "Jean-Marc Hild": {
-    "total": 33360.0,
-    "obras_vendidas": 25,
-    "obras_con_precio": 25,
+    "total": 33960.0,
+    "obras_vendidas": 26,
+    "obras_con_precio": 26,
     "detalle": [
       {
         "titulo": "Jean-Marc Hild – Hundun espace ondulatoire X",
@@ -6065,9 +6065,15 @@
         "titulo": "https://www.artevistas.eu/product/renouveau-iv-2/",
         "precio_num": 1600.0,
         "url": "https://www.artevistas.eu/product/renouveau-iv-2/"
+      },
+      {
+        "titulo": "Jean-Marc Hild – Gravitation XIX",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/jean-marc-hild-gravitation-xxiv/",
+        "fecha_deteccion": "22/08/2026"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:51"
+    "ultima_actualizacion": "22/08/2026 13:51"
   },
   "Juan Carlos Valdiviezo": {
     "total": 8890.0,
@@ -16447,9 +16453,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ramón Pons": {
-    "total": 13175.0,
-    "obras_vendidas": 79,
-    "obras_con_precio": 79,
+    "total": 13475.0,
+    "obras_vendidas": 82,
+    "obras_con_precio": 82,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -16848,9 +16854,27 @@
         "precio_num": 120.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-conejo-azul/",
         "fecha_deteccion": "19/08/2026"
+      },
+      {
+        "titulo": "Ramón Pons – Individuo negro y dorado",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-negro-y-dorado/",
+        "fecha_deteccion": "22/08/2026"
+      },
+      {
+        "titulo": "Ramón Pons – Individuo cabeza roja",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-cabeza-roja/",
+        "fecha_deteccion": "22/08/2026"
+      },
+      {
+        "titulo": "Ramon Pons – Individuo Turquesa 4",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-turquesa-4/",
+        "fecha_deteccion": "22/08/2026"
       }
     ],
-    "ultima_actualizacion": "19/08/2026 18:17"
+    "ultima_actualizacion": "22/08/2026 13:51"
   },
   "Reb.MWC": {
     "total": 360.0,
