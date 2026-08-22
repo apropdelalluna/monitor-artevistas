@@ -1890,6 +1890,38 @@
       "precio": "550,00€",
       "precio_num": 550.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "22/08/2026",
+      "artista": "Jean-Marc Hild",
+      "obra": "Jean-Marc Hild – Gravitation XIX",
+      "precio": "600,00€",
+      "precio_num": 600.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/08/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Individuo negro y dorado",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/08/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Individuo cabeza roja",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/08/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramon Pons – Individuo Turquesa 4",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
