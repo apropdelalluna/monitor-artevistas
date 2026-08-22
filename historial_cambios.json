@@ -4197,5 +4197,41 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -139,9 +139,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Painting\n-White Rabbit – Bunny Revolution 2024\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "22/08/2026 13:51",
+    "artista": "Jean-Marc Hild",
+    "obra": "Jean-Marc Hild – Gravitation XIX",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/jean-marc-hild-gravitation-xxiv/"
+  },
+  {
+    "fecha": "22/08/2026 13:51",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo negro y dorado",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-negro-y-dorado/"
+  },
+  {
+    "fecha": "22/08/2026 13:51",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo cabeza roja",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-cabeza-roja/"
+  },
+  {
+    "fecha": "22/08/2026 13:51",
+    "artista": "Ramón Pons",
+    "obra": "Ramon Pons – Individuo Turquesa 4",
+    "tipo": "nueva_vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-turquesa-4/"
   }
 ]
