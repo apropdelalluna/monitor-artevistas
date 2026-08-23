@@ -559,10 +559,12 @@
         const ventasReales = ventasMes.filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
+        const sinPrecioMes = ventasReales.filter(v => !v.precio_num || v.precio_num === 0).length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
         document.getElementById('obrasMes').innerHTML = `
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
+          ${sinPrecioMes > 0 ? `<span style="color:var(--text-dim);">· ${sinPrecioMes} sin precio registrado</span>` : ''}
         `;
 
         // Tarjeta "En reserva"
@@ -601,6 +603,7 @@
         function buildMesHTML(mes, idx) {
           const vs = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
+          const sinPrecioMesHist = vs.filter(v => !v.precio_num || v.precio_num === 0).length;
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
 
@@ -651,7 +654,7 @@
               <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
                 <div>
                   <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--new)">${nombreMes} ·</span>
-                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}${sinPrecioMesHist > 0 ? ` · ${sinPrecioMesHist} sin precio` : ''}</span>
                 </div>
                 <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
               </div>
@@ -667,7 +670,7 @@
               <div onclick="toggleMes(${idx})" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;cursor:pointer;background:var(--surface);">
                 <div>
                   <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;">${nombreMes}</span>
-                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}${sinPrecioMesHist > 0 ? ` · ${sinPrecioMesHist} sin precio` : ''}</span>
                 </div>
                 <div style="display:flex;align-items:center;gap:12px;">
                   <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
