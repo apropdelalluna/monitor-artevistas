@@ -18452,9 +18452,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12600.0,
-    "obras_vendidas": 136,
-    "obras_con_precio": 136,
+    "total": 12648.0,
+    "obras_vendidas": 137,
+    "obras_con_precio": 137,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19163,9 +19163,15 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/the-catman-be-kind/",
         "fecha_deteccion": "14/08/2026"
+      },
+      {
+        "titulo": "The Catman – Facto arte",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-facto-arte/",
+        "fecha_deteccion": "23/08/2026"
       }
     ],
-    "ultima_actualizacion": "14/08/2026 22:40"
+    "ultima_actualizacion": "23/08/2026 14:59"
   },
   "Tim Marsh": {
     "total": 52400.0,
@@ -21320,9 +21326,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 75.0,
-    "obras_vendidas": 3,
-    "obras_con_precio": 3,
+    "total": 95.0,
+    "obras_vendidas": 4,
+    "obras_con_precio": 4,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21340,8 +21346,14 @@
         "precio_num": 35.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-el-extasis-de-santa-maria/",
         "fecha_deteccion": "12/08/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Cuando Eva se comió Adán",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-cuando-eva-se-comio-adan/",
+        "fecha_deteccion": "23/08/2026"
       }
     ],
-    "ultima_actualizacion": "12/08/2026 19:10"
+    "ultima_actualizacion": "23/08/2026 14:59"
   }
 }
