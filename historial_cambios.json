@@ -4233,5 +4233,133 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-individuo-turquesa-4/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "Me Lata",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -220,9 +220,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Upcycle\n-Me Lata – I’m still in love with you\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Facto arte",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-facto-arte/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – PINK",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-pink/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Curriculum vitae",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-curriculum-vitae-2/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Mensajes de la distancia",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-mensajes-de-la-distancia/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – You my cake",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-you-my-cake/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Matemática básica",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-matematica-basica/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Go go go",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-go-go-go/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Iluminas la noche",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-iluminas-la-noche/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Contra corriente",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-contra-corriente/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – Play station",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-play-station/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "The Catman",
+    "obra": "The Catman – 100% magic",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-100-magic/"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "Xavi Mira",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -35,5 +35,5 @@\n €\n Quick View\n-Gotic Gallery, Painting\n+Born Gallery, Painting\n Xavi Mira – Senem en azul\n 1.500,00"
+  },
+  {
+    "fecha": "23/08/2026 14:59",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Cuando Eva se comió Adán",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-cuando-eva-se-comio-adan/"
   }
 ]
