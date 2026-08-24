@@ -4361,5 +4361,32 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-cuando-eva-se-comio-adan/"
+  },
+  {
+    "fecha": "24/08/2026 14:05",
+    "artista": "The Catman",
+    "obra": "The-Catman – Your smile",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-your-smile-2/"
+  },
+  {
+    "fecha": "24/08/2026 14:05",
+    "artista": "The Catman",
+    "obra": "The-Catman – Los cambios",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-los-cambios/"
+  },
+  {
+    "fecha": "24/08/2026 14:05",
+    "artista": "The Catman",
+    "obra": "The Catman – Rebelution",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-rebelution/"
   }
 ]
