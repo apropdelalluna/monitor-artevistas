@@ -4388,5 +4388,24 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-rebelution/"
+  },
+  {
+    "fecha": "25/08/2026 18:31",
+    "artista": "Martí Roca Balcells",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -69,201 +69,201 @@\n Quick View\n Gotic Gallery, Painting\n+Martí Roca Balcells – Set vides, vuit ulls\n+200,00\n+€\n+Quick View\n+Gotic Gallery, Painting"
+  },
+  {
+    "fecha": "25/08/2026 18:31",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – The bunny revolution",
+    "tipo": "desaparecida",
+    "precio": "3.600,00€",
+    "precio_num": 3600.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-the-bunny-revolution/"
   }
 ]
