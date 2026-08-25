@@ -1938,6 +1938,14 @@
       "precio": "20,00€",
       "precio_num": 20.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "25/08/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – The bunny revolution",
+      "precio": "3.600,00€",
+      "precio_num": 3600.0,
+      "tipo": "desaparecida"
     }
   ]
 }
