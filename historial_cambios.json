@@ -4525,5 +4525,79 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-jadore-hardcore/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -213,9 +213,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Painting\n-Art is Trash – Caballo 7\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – You person of the year",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-you-person-of-the-year/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – Dream",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-dream/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – Bravo",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-bravo/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – Picador",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-picador/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – Semilla",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-semilla/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "The Catman",
+    "obra": "The Catman – I love you XXL",
+    "tipo": "nueva_vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-love-xxl/"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "ZZZ – Various Artists",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -1,19 +1,4 @@\n ZZ Various artists\n Related artwork\n-Quick View\n-Sold\n-Born Gallery, Painting\n-Sonja Surbatovic – Gummy Gummy 1\n-SOLD"
   }
 ]
