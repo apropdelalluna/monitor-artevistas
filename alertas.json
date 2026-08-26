@@ -158,5 +158,14 @@
     "resuelta": true,
     "repeticiones": 2,
     "fecha_resolucion": "11/08/2026 08:24"
+  },
+  {
+    "fecha": "26/08/2026 22:04",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "cambios": 22,
+    "total": 48,
+    "porcentaje": 45.8,
+    "resuelta": false,
+    "repeticiones": 1
   }
 ]
