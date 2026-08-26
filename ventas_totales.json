@@ -18464,9 +18464,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12696.0,
-    "obras_vendidas": 138,
-    "obras_con_precio": 138,
+    "total": 12840.0,
+    "obras_vendidas": 141,
+    "obras_con_precio": 141,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19187,9 +19187,27 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-please-disturb/",
         "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "The Catman – You person of the year",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-you-person-of-the-year/",
+        "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "The Catman – Dream",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-dream/",
+        "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "The Catman – I love you XXL",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-love-xxl/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "26/08/2026 11:06"
+    "ultima_actualizacion": "26/08/2026 22:04"
   },
   "Tim Marsh": {
     "total": 52400.0,
