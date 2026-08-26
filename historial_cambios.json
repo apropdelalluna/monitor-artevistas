@@ -4407,5 +4407,123 @@
     "precio": "3.600,00€",
     "precio_num": 3600.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-the-bunny-revolution/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -8,5 +8,5 @@\n Quick View\n Born Gallery, Painting\n-Álvaro Gómez-Pantoja – Desayuno\n+Álvaro Gómez-Pantoja – Desayuno (RESERVED)\n 850,00\n €"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Caballo 7",
+    "tipo": "vendida",
+    "precio": "750,00€",
+    "precio_num": 750.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-caballo-7/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "Sater",
+    "obra": "Sater – Rusty subways – Barcelona",
+    "tipo": "vendida",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "The Catman",
+    "obra": "The Catman – Please disturb",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-please-disturb/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "The Catman",
+    "obra": "The Catman – Nobody in but you",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-nobody-in-but-you/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "The Catman",
+    "obra": "The Catman – Truth is over",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-truth-is-over/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "The Catman",
+    "obra": "The Catman – El significado de todo",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-el-significado-de-todo/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "The Catman",
+    "obra": "The Catman – Yes",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-yes/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 1",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-1/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 2",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-2/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Sonja Surbatovic – Gummy Gummy 3",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-3/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Amén",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-amen/"
+  },
+  {
+    "fecha": "26/08/2026 11:06",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – J’adore Hardcore",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-jadore-hardcore/"
   }
 ]
