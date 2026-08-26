@@ -2010,6 +2010,30 @@
       "precio": "20,00€",
       "precio_num": 20.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "26/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – You person of the year",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "26/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Dream",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "26/08/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – I love you XXL",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "nueva_vendida"
     }
   ]
 }
