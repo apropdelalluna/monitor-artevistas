@@ -2051,9 +2051,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 152003.0,
-    "obras_vendidas": 100,
-    "obras_con_precio": 100,
+    "total": 152753.0,
+    "obras_vendidas": 101,
+    "obras_con_precio": 101,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2569,9 +2569,15 @@
         "precio_num": 1573.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-caballo-2/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Art is Trash – Caballo 7",
+        "precio_num": 750.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-caballo-7/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "10/08/2026 14:41"
+    "ultima_actualizacion": "26/08/2026 11:06"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -17783,9 +17789,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 12140.0,
-    "obras_vendidas": 45,
-    "obras_con_precio": 45,
+    "total": 12170.0,
+    "obras_vendidas": 46,
+    "obras_con_precio": 46,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -18013,9 +18019,15 @@
         "precio_num": 850.0,
         "url": "https://www.artevistas.eu/product/sater-renfe/",
         "fecha_deteccion": "18/07/2026"
+      },
+      {
+        "titulo": "Sater – Rusty subways – Barcelona",
+        "precio_num": 30.0,
+        "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "18/07/2026 18:45"
+    "ultima_actualizacion": "26/08/2026 11:06"
   },
   "Sergi Muñoz Lozano": {
     "total": 70410.0,
@@ -18452,9 +18464,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 12648.0,
-    "obras_vendidas": 137,
-    "obras_con_precio": 137,
+    "total": 12696.0,
+    "obras_vendidas": 138,
+    "obras_con_precio": 138,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19169,9 +19181,15 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-facto-arte/",
         "fecha_deteccion": "23/08/2026"
+      },
+      {
+        "titulo": "The Catman – Please disturb",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-please-disturb/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "23/08/2026 14:59"
+    "ultima_actualizacion": "26/08/2026 11:06"
   },
   "Tim Marsh": {
     "total": 52400.0,
@@ -21079,9 +21097,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 58044.0,
-    "obras_vendidas": 39,
-    "obras_con_precio": 37,
+    "total": 59844.0,
+    "obras_vendidas": 42,
+    "obras_con_precio": 40,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -21283,9 +21301,27 @@
         "precio_num": 5570.0,
         "url": "https://www.artevistas.eu/product/juan-manuel-pajares-boxe/",
         "fecha_deteccion": "19/07/2026"
+      },
+      {
+        "titulo": "Sonja Surbatovic – Gummy Gummy 1",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-1/",
+        "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Sonja Surbatovic – Gummy Gummy 2",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-2/",
+        "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Sonja Surbatovic – Gummy Gummy 3",
+        "precio_num": 600.0,
+        "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-3/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "19/07/2026 19:09"
+    "ultima_actualizacion": "26/08/2026 11:06"
   },
   "SM 172": {
     "total": 13700.0,
@@ -21326,9 +21362,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 95.0,
-    "obras_vendidas": 4,
-    "obras_con_precio": 4,
+    "total": 150.0,
+    "obras_vendidas": 6,
+    "obras_con_precio": 6,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21352,8 +21388,20 @@
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-cuando-eva-se-comio-adan/",
         "fecha_deteccion": "23/08/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Amén",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-amen/",
+        "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Marina Salazar – J’adore Hardcore",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-jadore-hardcore/",
+        "fecha_deteccion": "26/08/2026"
       }
     ],
-    "ultima_actualizacion": "23/08/2026 14:59"
+    "ultima_actualizacion": "26/08/2026 11:06"
   }
 }
