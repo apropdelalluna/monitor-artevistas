@@ -2034,6 +2034,14 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "29/08/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – Dibujo 1",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "desaparecida"
     }
   ]
 }
