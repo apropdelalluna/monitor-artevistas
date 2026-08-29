@@ -4609,5 +4609,24 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -55,24 +55,4 @@\n €\n Quick View\n-Born Gallery, Sculpture, Upcycle\n-Me Lata – Spray smiley\n-90,00\n-€\n-Quick View"
+  },
+  {
+    "fecha": "29/08/2026 01:06",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Dibujo 1",
+    "tipo": "desaparecida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-dibujo-1/"
+  },
+  {
+    "fecha": "29/08/2026 01:06",
+    "artista": "Me Lata",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -200,4 +200,9 @@\n €\n Quick View\n+Born Gallery, Sculpture, Upcycle\n+Me Lata – Amor\n+200,00\n+€\n+Quick View"
   }
 ]
