@@ -2042,6 +2042,14 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "30/08/2026",
+      "artista": "Álvaro Gómez-Pantoja",
+      "obra": "Álvaro Gómez-Pantoja – Desayuno (RESERVED)",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
     }
   ]
 }
