@@ -4638,5 +4638,63 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -40,5 +40,5 @@\n €\n Quick View\n-Gotic Gallery, Other, Sculpture\n+Born Gallery, Other, Sculpture\n António Azevedo – Era uma vez… (288º Acto)\n 245,00"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Desayuno (RESERVED)",
+    "tipo": "vendida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-desayuno/"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "Andrzej Farfulowski",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -142,9 +142,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Painting\n-Andrzej Farfulowski – Ana (green)\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -455,5 +455,5 @@\n Born Gallery, Gotic Gallery, Other\n Art is trash – Book\n-50,00\n+120,00\n €\n Quick View"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "Ashwan",
+    "obra": "Ashwan – Graffiti Crown",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/ashwan-graffiti-crown/"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "BL2A",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -20,9 +20,4 @@\n €\n Quick View\n-Sold\n-Born Gallery, Painting, Sculpture\n-BL2A – Ukulele planta cara (concert ukulele)\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "30/08/2026 13:59",
+    "artista": "Charlax",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -110,9 +110,4 @@\n €\n Quick View\n-Sold\n-Screen printing / Litography\n-Charlax – L’illusion\n-SOLD\n-Quick View"
   }
 ]
