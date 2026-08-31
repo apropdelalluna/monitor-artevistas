@@ -2050,6 +2050,14 @@
       "precio": "850,00€",
       "precio_num": 850.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "31/08/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Happy",
+      "precio": "250,00€",
+      "precio_num": 250.0,
+      "tipo": "vendida"
     }
   ]
 }
