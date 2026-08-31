@@ -4696,5 +4696,14 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -110,9 +110,4 @@\n €\n Quick View\n-Sold\n-Screen printing / Litography\n-Charlax – L’illusion\n-SOLD\n-Quick View"
+  },
+  {
+    "fecha": "31/08/2026 13:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Happy",
+    "tipo": "vendida",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/me-lata-happy-6/"
   }
 ]
