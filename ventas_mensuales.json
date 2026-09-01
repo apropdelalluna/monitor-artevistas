@@ -2059,5 +2059,15 @@
       "precio_num": 250.0,
       "tipo": "vendida"
     }
+  ],
+  "2026-09": [
+    {
+      "fecha": "01/09/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Virgen Choni & Choni (RESERVED)",
+      "precio": "750,00€",
+      "precio_num": 750.0,
+      "tipo": "vendida"
+    }
   ]
 }
