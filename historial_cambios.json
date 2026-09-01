@@ -4705,5 +4705,14 @@
     "precio": "250,00€",
     "precio_num": 250.0,
     "url": "https://www.artevistas.eu/product/me-lata-happy-6/"
+  },
+  {
+    "fecha": "01/09/2026 18:24",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Virgen Choni & Choni (RESERVED)",
+    "tipo": "vendida",
+    "precio": "750,00€",
+    "precio_num": 750.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-virgen-choni-choni/"
   }
 ]
