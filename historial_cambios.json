@@ -4714,5 +4714,24 @@
     "precio": "750,00€",
     "precio_num": 750.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-virgen-choni-choni/"
+  },
+  {
+    "fecha": "02/09/2026 13:50",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau aka Unavista – Purple hand",
+    "tipo": "vendida",
+    "precio": "150,00€",
+    "precio_num": 150.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-purple-hand/"
+  },
+  {
+    "fecha": "02/09/2026 13:50",
+    "artista": "Me Lata",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -365,9 +365,4 @@\n €\n Quick View\n-Sculpture, Upcycle\n-Me Lata – You are art\n-900,00\n-€\n-Quick View"
   }
 ]
