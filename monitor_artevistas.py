@@ -518,7 +518,48 @@ def obtener_contenido(artista: dict) -> dict | None:
 
             # Zona principal
             zona = soup.select_one(".products") or soup.select_one("main") or soup.body
-            textos.append(zona.get_text(separator="\n", strip=True))
+
+            # Para el texto usado en el hash, limpiamos cada tarjeta de obra
+            # POR SEPARADO (igual que ya hace extraer_obras() para decidir si
+            # está vendida) — nunca la zona entera de golpe. En esta web, cada
+            # tarjeta real lleva "relatedproducts" en su PROPIA clase CSS, así
+            # que limpiar la zona entera con ese mismo selector borraría
+            # tarjetas reales completas, no solo el contenido anidado de
+            # "vista rápida" que sí queremos quitar.
+            SELECTORES_PRODUCTO_HASH = [
+                "li.product", "ul.products li", "article.product",
+                ".wc-block-grid__product", ".product-item", "[class*='product']",
+            ]
+            productos_zona = []
+            for sel in SELECTORES_PRODUCTO_HASH:
+                candidatos = zona.select(sel)
+                if candidatos:
+                    # Descartar los que están anidados DENTRO de otro candidato
+                    # ya seleccionado (ej. un widget de "relacionados" cuya
+                    # propia clase también coincide con el selector) — solo
+                    # nos interesan las tarjetas de nivel superior.
+                    productos_zona = [
+                        p for p in candidatos
+                        if not any(otro is not p and otro in p.parents for otro in candidatos)
+                    ]
+                    if productos_zona:
+                        break
+
+            if productos_zona:
+                partes = []
+                for prod in productos_zona:
+                    prod_limpio = copy.copy(prod)
+                    for ruido in prod_limpio.select(
+                        "[class*='related'], [class*='quick-view'], [class*='quickview'], [class*='modal']"
+                    ):
+                        ruido.decompose()
+                    partes.append(prod_limpio.get_text(separator="\n", strip=True))
+                textos.append("\n".join(partes))
+            else:
+                # Sin selector conocido: nos quedamos con el texto tal cual,
+                # sin limpiar (mejor un falso "cambio detectado" ocasional
+                # que arriesgarse a borrar contenido real sin saber su forma).
+                textos.append(zona.get_text(separator="\n", strip=True))
 
             # Extraer obras de esta página
             obras_pagina = extraer_obras(soup)
