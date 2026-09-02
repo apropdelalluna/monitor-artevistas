@@ -6181,9 +6181,9 @@
     "ultima_actualizacion": "07/05/2026 04:52"
   },
   "Julien Deniau aka Unavista": {
-    "total": 13550.0,
-    "obras_vendidas": 26,
-    "obras_con_precio": 24,
+    "total": 13700.0,
+    "obras_vendidas": 27,
+    "obras_con_precio": 25,
     "detalle": [
       {
         "titulo": "Julien Deniau aka Unavista – Japanese fish",
@@ -6318,9 +6318,15 @@
         "precio_num": 0.0,
         "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-frogs-world/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Purple hand",
+        "precio_num": 150.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-purple-hand/",
+        "fecha_deteccion": "02/09/2026"
       }
     ],
-    "ultima_actualizacion": "10/08/2026 14:41"
+    "ultima_actualizacion": "02/09/2026 13:50"
   },
   "Konair": {
     "total": 47046.0,
