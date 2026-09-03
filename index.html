@@ -238,7 +238,6 @@
     .cambio-item.nueva { border-left-color: var(--new); }
     .cambio-item.reserved { border-left-color: var(--reserved); }
     .cambio-item.desaparecida { border-left-color: var(--disappeared); }
-    .cambio-item.cambio_texto { border-left-color: var(--text-dim); }
 
     .cambio-header {
       display: flex;
@@ -278,7 +277,6 @@
     .badge.nueva { background: rgba(82,168,112,0.15); color: var(--new); }
     .badge.reserved { background: rgba(224,147,82,0.15); color: var(--reserved); }
     .badge.desaparecida { background: rgba(224,147,82,0.15); color: var(--disappeared); }
-    .badge.cambio_texto { background: rgba(136,136,136,0.15); color: var(--text-dim); }
 
     .cambio-precio {
       font-size: 13px;
@@ -429,12 +427,9 @@
         const c = _historialInvertido[i];
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
-        const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida','cambio_texto':'📝 Cambio de página'}[tipo] || tipo;
+        const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
         const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
-        const detalleHtml = c.detalle
-          ? `<pre style="margin:6px 0 0;padding:8px;background:rgba(0,0,0,0.2);font-size:11px;color:var(--text-dim);overflow-x:auto;white-space:pre-wrap;">${c.detalle.replace(/</g,'&lt;')}</pre>`
-          : '';
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
             <div class="cambio-artista">${c.artista}</div>
@@ -445,7 +440,6 @@
             ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
           </div>
           ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
-          ${detalleHtml}
         </div>`;
       }
       _cambiosMostrados = ultimoIndice;
