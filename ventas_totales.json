@@ -1407,9 +1407,9 @@
     "ultima_actualizacion": "30/08/2026 13:59"
   },
   "Andrzej Farfulowski": {
-    "total": 90970.0,
-    "obras_vendidas": 70,
-    "obras_con_precio": 70,
+    "total": 91490.0,
+    "obras_vendidas": 71,
+    "obras_con_precio": 71,
     "detalle": [
       {
         "titulo": "Andrzej Farfulowski – Julia",
@@ -1768,9 +1768,15 @@
         "precio_num": 520.0,
         "url": "https://www.artevistas.eu/product/andrzej-farfulowski-4/",
         "fecha_deteccion": "01/08/2026"
+      },
+      {
+        "titulo": "Andrzej Farfulowski – 2",
+        "precio_num": 520.0,
+        "url": "https://www.artevistas.eu/product/andrzej-farfulowski-2/",
+        "fecha_deteccion": "03/09/2026"
       }
     ],
-    "ultima_actualizacion": "01/08/2026 19:07"
+    "ultima_actualizacion": "03/09/2026 21:40"
   },
   "António Azevedo": {
     "total": 13285.0,
