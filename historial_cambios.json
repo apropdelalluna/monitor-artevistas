@@ -4733,5 +4733,54 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -365,9 +365,4 @@\n €\n Quick View\n-Sculpture, Upcycle\n-Me Lata – You are art\n-900,00\n-€\n-Quick View"
+  },
+  {
+    "fecha": "03/09/2026 21:40",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – 2",
+    "tipo": "vendida",
+    "precio": "520,00€",
+    "precio_num": 520.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-2/"
+  },
+  {
+    "fecha": "03/09/2026 21:40",
+    "artista": "Me Lata",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -365,9 +365,4 @@\n €\n Quick View\n-Born Gallery, Painting, Sculpture, Upcycle\n-Me Lata – Barcelona\n-700,00\n-€\n-Quick View"
+  },
+  {
+    "fecha": "03/09/2026 21:40",
+    "artista": "Ninon Réo",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -72,5 +72,5 @@\n Quick View\n Born Gallery, Sculpture\n-Ninon Réo – Lianes III\n+Ninon Réo – Lianes III (RESERVED)\n 700,00\n €"
+  },
+  {
+    "fecha": "03/09/2026 21:40",
+    "artista": "Xavi Mira",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -12,150 +12,150 @@\n Born Gallery, Painting\n Xavi Mira – Amor Rojo\n+2.330,00\n+€\n+Quick View\n+Painting\n+Xavi Mira – Decídete"
+  },
+  {
+    "fecha": "03/09/2026 21:40",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "(cambio de página, sin obras afectadas)",
+    "tipo": "cambio_texto",
+    "precio": "",
+    "precio_num": 0.0,
+    "url": "",
+    "detalle": "--- \n+++ \n@@ -38,5 +38,5 @@\n Quick View\n Born Gallery, Sculpture\n-Marina Salazar – Mulan v.s. Darthvader\n+Marina Salazar – Mulan v.s. Darth Vader\n 800,00\n €"
   }
 ]
