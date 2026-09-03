@@ -13,6 +13,13 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-  // Passthrough puro: deja pasar todas las peticiones tal cual, sin cachear.
+  // Solo intervenir en peticiones hacia la propia web — cualquier petición
+  // a otro dominio (GitHub, Render, fuentes, etc.) se deja pasar sin tocar,
+  // exactamente como si no hubiera service worker de por medio. Interceptar
+  // peticiones cruzadas (sobre todo las especiales tipo 'no-cors', como la
+  // del botón de "Despertar servicio") puede romperlas silenciosamente.
+  if (new URL(event.request.url).origin !== self.location.origin) {
+    return;
+  }
   event.respondWith(fetch(event.request));
 });
