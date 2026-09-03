@@ -6,10 +6,6 @@
   <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor Artevistas</title>
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#0e0e0e">
-  <link rel="icon" href="icon-192.png">
-  <link rel="apple-touch-icon" href="icon-192.png">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -785,17 +781,6 @@
     });
 
     cargarDatos();
-  </script>
-
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('service-worker.js').catch(() => {
-          // Si falla el registro, la web sigue funcionando igual, solo
-          // sin la opción de instalarse como app.
-        });
-      });
-    }
   </script>
 </body>
 </html>
