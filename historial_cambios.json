@@ -4800,5 +4800,32 @@
     "precio": "2.800,00€",
     "precio_num": 2800.0,
     "url": "https://www.artevistas.eu/product/gil-gelpi-blue-bubbles/"
+  },
+  {
+    "fecha": "04/09/2026 18:29",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Atlas",
+    "tipo": "nueva",
+    "precio": "1.950,00€",
+    "precio_num": 1950.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-atlas-2/"
+  },
+  {
+    "fecha": "04/09/2026 18:29",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Parténope",
+    "tipo": "nueva",
+    "precio": "1.950,00€",
+    "precio_num": 1950.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-partenope/"
+  },
+  {
+    "fecha": "04/09/2026 18:29",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Isotropic little red thought",
+    "tipo": "nueva",
+    "precio": "950,00€",
+    "precio_num": 950.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-little-red-thought/"
   }
 ]
