@@ -4782,5 +4782,23 @@
     "precio_num": 0.0,
     "url": "",
     "detalle": "--- \n+++ \n@@ -38,5 +38,5 @@\n Quick View\n Born Gallery, Sculpture\n-Marina Salazar – Mulan v.s. Darthvader\n+Marina Salazar – Mulan v.s. Darth Vader\n 800,00\n €"
+  },
+  {
+    "fecha": "04/09/2026 10:19",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Little cosmos",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-little-cosmos/"
+  },
+  {
+    "fecha": "04/09/2026 10:19",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Blue Bubbles",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-blue-bubbles/"
   }
 ]
