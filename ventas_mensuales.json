@@ -2084,6 +2084,62 @@
       "precio": "520,00€",
       "precio_num": 520.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Us and them B",
+      "precio": "1.950,00€",
+      "precio_num": 1950.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Maybe tomorrow B",
+      "precio": "1.950,00€",
+      "precio_num": 1950.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Maybe tomorrow S",
+      "precio": "1.250,00€",
+      "precio_num": 1250.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Don’t panic S",
+      "precio": "1.250,00€",
+      "precio_num": 1250.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Mad about you S",
+      "precio": "1.250,00€",
+      "precio_num": 1250.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Imagine I (RESERVED)",
+      "precio": "800,00€",
+      "precio_num": 800.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "05/09/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Utopia is truthful and necessary",
+      "precio": "98,00€",
+      "precio_num": 98.0,
+      "tipo": "vendida"
     }
   ]
 }
