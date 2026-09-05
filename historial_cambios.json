@@ -4827,5 +4827,68 @@
     "precio": "950,00€",
     "precio_num": 950.0,
     "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-little-red-thought/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Us and them B",
+    "tipo": "desaparecida",
+    "precio": "1.950,00€",
+    "precio_num": 1950.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-us-and-them-b/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Maybe tomorrow B",
+    "tipo": "desaparecida",
+    "precio": "1.950,00€",
+    "precio_num": 1950.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-b/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Maybe tomorrow S",
+    "tipo": "desaparecida",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-s/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Don’t panic S",
+    "tipo": "desaparecida",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-dont-panic-s/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Mad about you S",
+    "tipo": "desaparecida",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-mad-about-you-s/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Imagine I (RESERVED)",
+    "tipo": "vendida",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-imagine-i/"
+  },
+  {
+    "fecha": "05/09/2026 16:18",
+    "artista": "The Catman",
+    "obra": "The Catman – Utopia is truthful and necessary",
+    "tipo": "vendida",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-utopia-is-truthful-and-necessary-2/"
   }
 ]
