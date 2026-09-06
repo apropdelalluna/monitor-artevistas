@@ -4890,5 +4890,23 @@
     "precio": "98,00€",
     "precio_num": 98.0,
     "url": "https://www.artevistas.eu/product/the-catman-utopia-is-truthful-and-necessary-2/"
+  },
+  {
+    "fecha": "06/09/2026 05:05",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Tuning Ukulele",
+    "tipo": "vendida",
+    "precio": "650,00€",
+    "precio_num": 650.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-tuning-ukulele/"
+  },
+  {
+    "fecha": "06/09/2026 05:05",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Goldorak (RESERVED)",
+    "tipo": "vendida",
+    "precio": "1.200,00€",
+    "precio_num": 1200.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-goldorak/"
   }
 ]
