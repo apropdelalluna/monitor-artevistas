@@ -17003,9 +17003,9 @@
     "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 880.0,
-    "obras_vendidas": 21,
-    "obras_con_precio": 21,
+    "total": 920.0,
+    "obras_vendidas": 22,
+    "obras_con_precio": 22,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -17131,9 +17131,15 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/32385/",
         "fecha_deteccion": "11/08/2026"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Sagrada Familia II",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia-2/",
+        "fecha_deteccion": "06/09/2026"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 18:49"
+    "ultima_actualizacion": "06/09/2026 19:47"
   },
   "Sandra Partera": {
     "total": 59948.0,
