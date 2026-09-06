@@ -985,9 +985,9 @@
     "ultima_actualizacion": "28/06/2026 18:47"
   },
   "Alberto Blanchart": {
-    "total": 32300.0,
-    "obras_vendidas": 39,
-    "obras_con_precio": 39,
+    "total": 34150.0,
+    "obras_vendidas": 41,
+    "obras_con_precio": 41,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1190,9 +1190,21 @@
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-funko-vader-3/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Tuning Ukulele",
+        "precio_num": 650.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-tuning-ukulele/",
+        "fecha_deteccion": "06/09/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Goldorak (RESERVED)",
+        "precio_num": 1200.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-goldorak/",
+        "fecha_deteccion": "06/09/2026"
       }
     ],
-    "ultima_actualizacion": "09/08/2026 21:41"
+    "ultima_actualizacion": "06/09/2026 05:05"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 20800.0,
