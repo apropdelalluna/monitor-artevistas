@@ -2140,6 +2140,22 @@
       "precio": "98,00€",
       "precio_num": 98.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "06/09/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Tuning Ukulele",
+      "precio": "650,00€",
+      "precio_num": 650.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/09/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Goldorak (RESERVED)",
+      "precio": "1.200,00€",
+      "precio_num": 1200.0,
+      "tipo": "vendida"
     }
   ]
 }
