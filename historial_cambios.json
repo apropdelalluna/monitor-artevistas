@@ -4989,5 +4989,23 @@
     "precio": "40,00€",
     "precio_num": 40.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia-2/"
+  },
+  {
+    "fecha": "09/09/2026 11:54",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Pikachu",
+    "tipo": "vendida",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-4/"
+  },
+  {
+    "fecha": "09/09/2026 11:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Eat life",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/eat-life/"
   }
 ]
