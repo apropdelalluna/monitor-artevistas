@@ -2164,6 +2164,22 @@
       "precio": "40,00€",
       "precio_num": 40.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "09/09/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Pikachu",
+      "precio": "680,00€",
+      "precio_num": 680.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "09/09/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Eat life",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
