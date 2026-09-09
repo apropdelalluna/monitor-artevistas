@@ -5007,5 +5007,77 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/eat-life/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "BL2A",
+    "obra": "BL2A – Solo sin café",
+    "tipo": "vendida",
+    "precio": "900,00€",
+    "precio_num": 900.0,
+    "url": "https://www.artevistas.eu/product/bl2a-solo-sin-cafe/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "James Ormiston",
+    "obra": "James Ormiston – Where the light breaks",
+    "tipo": "nueva",
+    "precio": "770,00€",
+    "precio_num": 770.0,
+    "url": "https://www.artevistas.eu/product/james-ormiston-where-the-light-breaks/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "James Ormiston",
+    "obra": "James Ormiston – Afterimage",
+    "tipo": "nueva",
+    "precio": "770,00€",
+    "precio_num": 770.0,
+    "url": "https://www.artevistas.eu/product/james-ormiston-afterimage/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "James Ormiston",
+    "obra": "James Ormiston – Alex",
+    "tipo": "nueva",
+    "precio": "770,00€",
+    "precio_num": 770.0,
+    "url": "https://www.artevistas.eu/product/james-ormiston-alex/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Ruelle, Barcelone",
+    "tipo": "nueva",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-ruelle-barcelone/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia II",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia-2/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Bodega",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-bodega/"
+  },
+  {
+    "fecha": "09/09/2026 18:33",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Ruines",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
   }
 ]
