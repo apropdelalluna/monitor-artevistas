@@ -2180,6 +2180,14 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "09/09/2026",
+      "artista": "BL2A",
+      "obra": "BL2A – Solo sin café",
+      "precio": "900,00€",
+      "precio_num": 900.0,
+      "tipo": "vendida"
     }
   ]
 }
