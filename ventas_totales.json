@@ -14728,9 +14728,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Neon Sandwich": {
-    "total": 7150.0,
-    "obras_vendidas": 83,
-    "obras_con_precio": 83,
+    "total": 7200.0,
+    "obras_vendidas": 84,
+    "obras_con_precio": 84,
     "detalle": [
       {
         "titulo": "Neon Sandwich – Powdered Water II",
@@ -15147,9 +15147,15 @@
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/neon-sandwich-skywise-baby-buddha/",
         "fecha_deteccion": "04/06/2026"
+      },
+      {
+        "titulo": "Neon Sandwich – Rasputin Lotus",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/neon-sandwich-rasputin-lotus/",
+        "fecha_deteccion": "10/09/2026"
       }
     ],
-    "ultima_actualizacion": "04/06/2026 18:15"
+    "ultima_actualizacion": "10/09/2026 18:19"
   },
   "Orson Buch": {
     "total": 6630.0,
