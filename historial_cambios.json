@@ -5106,5 +5106,14 @@
     "precio": "1.000,00€",
     "precio_num": 1000.0,
     "url": "https://www.artevistas.eu/product/peta-rodriguez-rueda/"
+  },
+  {
+    "fecha": "10/09/2026 18:19",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Rasputin Lotus",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-rasputin-lotus/"
   }
 ]
