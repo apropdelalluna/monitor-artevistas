@@ -5079,5 +5079,32 @@
     "precio": "40,00€",
     "precio_num": 40.0,
     "url": "https://www.artevistas.eu/product/remi-boudeperche-ruines/"
+  },
+  {
+    "fecha": "10/09/2026 12:25",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Tanker Trooper",
+    "tipo": "vendida",
+    "precio": "950,00€",
+    "precio_num": 950.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-tanker-trooper/"
+  },
+  {
+    "fecha": "10/09/2026 12:25",
+    "artista": "Ninon Réo",
+    "obra": "Ninon Réo – Lianes III (RESERVED)",
+    "tipo": "vendida",
+    "precio": "700,00€",
+    "precio_num": 700.0,
+    "url": "https://www.artevistas.eu/product/ninon-reo-liane-iii/"
+  },
+  {
+    "fecha": "10/09/2026 12:25",
+    "artista": "Peta Rodríguez",
+    "obra": "Peta Rodríguez – Rueda",
+    "tipo": "vendida",
+    "precio": "1.000,00€",
+    "precio_num": 1000.0,
+    "url": "https://www.artevistas.eu/product/peta-rodriguez-rueda/"
   }
 ]
