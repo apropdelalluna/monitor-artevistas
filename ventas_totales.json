@@ -2087,9 +2087,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "Art is Trash – F. de Pájaro": {
-    "total": 152753.0,
-    "obras_vendidas": 101,
-    "obras_con_precio": 101,
+    "total": 153253.0,
+    "obras_vendidas": 102,
+    "obras_con_precio": 102,
     "detalle": [
       {
         "titulo": "Art is Trash – Caballo",
@@ -2611,9 +2611,15 @@
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/art-is-trash-caballo-7/",
         "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Art is Trash- Dibujo 10",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/art-is-trash-dibujo-10/",
+        "fecha_deteccion": "11/09/2026"
       }
     ],
-    "ultima_actualizacion": "26/08/2026 11:06"
+    "ultima_actualizacion": "11/09/2026 22:36"
   },
   "Ashwan": {
     "total": 7515.0,
@@ -21205,9 +21211,9 @@
     "ultima_actualizacion": "07/05/2026 07:24"
   },
   "ZZZ – Various Artists": {
-    "total": 59844.0,
-    "obras_vendidas": 42,
-    "obras_con_precio": 40,
+    "total": 59864.0,
+    "obras_vendidas": 43,
+    "obras_con_precio": 41,
     "detalle": [
       {
         "titulo": "Nolvenn Le Goff – Aile noire",
@@ -21427,9 +21433,15 @@
         "precio_num": 600.0,
         "url": "https://www.artevistas.eu/product/sonja-surbatovic-gummy-gummy-3/",
         "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Bran Sólo – Stolen Heart",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/bran-solo-stolen-heart/",
+        "fecha_deteccion": "11/09/2026"
       }
     ],
-    "ultima_actualizacion": "26/08/2026 11:06"
+    "ultima_actualizacion": "11/09/2026 22:36"
   },
   "SM 172": {
     "total": 13700.0,
