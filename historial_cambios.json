@@ -5115,5 +5115,32 @@
     "precio": "50,00€",
     "precio_num": 50.0,
     "url": "https://www.artevistas.eu/product/neon-sandwich-rasputin-lotus/"
+  },
+  {
+    "fecha": "11/09/2026 22:36",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash- Dibujo 10",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-dibujo-10/"
+  },
+  {
+    "fecha": "11/09/2026 22:36",
+    "artista": "James Ormiston",
+    "obra": "James Ormiston – Mint in bloom",
+    "tipo": "nueva",
+    "precio": "970,00€",
+    "precio_num": 970.0,
+    "url": "https://www.artevistas.eu/product/james-ormiston-mint-in-bloom/"
+  },
+  {
+    "fecha": "11/09/2026 22:36",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Bran Sólo – Stolen Heart",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/bran-solo-stolen-heart/"
   }
 ]
