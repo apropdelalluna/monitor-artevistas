@@ -5142,5 +5142,32 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/bran-solo-stolen-heart/"
+  },
+  {
+    "fecha": "12/09/2026 13:27",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – F.A corazón",
+    "tipo": "vendida",
+    "precio": "850,00€",
+    "precio_num": 850.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-f-a-corazon/"
+  },
+  {
+    "fecha": "12/09/2026 13:27",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Under Pressure Baby Buddha Spiderman pg. 33",
+    "tipo": "vendida",
+    "precio": "130,00€",
+    "precio_num": 130.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-under-pressure-baby-buddha-spiderman-pg-33/"
+  },
+  {
+    "fecha": "12/09/2026 13:27",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Gris oscuro",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-gris-oscuro/"
   }
 ]
