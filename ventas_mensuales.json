@@ -2236,6 +2236,30 @@
       "precio": "20,00€",
       "precio_num": 20.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "12/09/2026",
+      "artista": "Art is Trash – F. de Pájaro",
+      "obra": "Art is Trash – F.A corazón",
+      "precio": "850,00€",
+      "precio_num": 850.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "12/09/2026",
+      "artista": "Neon Sandwich",
+      "obra": "Neon Sandwich – Under Pressure Baby Buddha Spiderman pg. 33",
+      "precio": "130,00€",
+      "precio_num": 130.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "12/09/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Gris oscuro",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
     }
   ]
 }
