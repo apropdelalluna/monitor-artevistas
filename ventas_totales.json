@@ -5314,9 +5314,9 @@
     "ultima_actualizacion": "10/06/2026 12:06"
   },
   "Gil Gelpi": {
-    "total": 103310.0,
-    "obras_vendidas": 56,
-    "obras_con_precio": 52,
+    "total": 104710.0,
+    "obras_vendidas": 57,
+    "obras_con_precio": 53,
     "detalle": [
       {
         "titulo": "Gil Gelpi – Sin título XI",
@@ -5602,9 +5602,15 @@
         "precio_num": 0.0,
         "url": "https://www.artevistas.eu/product/sohn/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Gil Gelpi – Isotropic golden thought with three faces",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-golden-thought-with-three-faces/",
+        "fecha_deteccion": "13/09/2026"
       }
     ],
-    "ultima_actualizacion": "10/08/2026 14:41"
+    "ultima_actualizacion": "13/09/2026 14:54"
   },
   "Irene Bou": {
     "total": 78190.0,
@@ -7467,9 +7473,9 @@
     "ultima_actualizacion": "05/09/2026 16:18"
   },
   "Me Lata": {
-    "total": 295524.0,
-    "obras_vendidas": 1178,
-    "obras_con_precio": 1172,
+    "total": 295724.0,
+    "obras_vendidas": 1179,
+    "obras_con_precio": 1173,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14005,9 +14011,15 @@
         "precio_num": 250.0,
         "url": "https://www.artevistas.eu/product/me-lata-happy-6/",
         "fecha_deteccion": "31/08/2026"
+      },
+      {
+        "titulo": "Me Lata – Amor",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-amor-34/",
+        "fecha_deteccion": "13/09/2026"
       }
     ],
-    "ultima_actualizacion": "31/08/2026 13:23"
+    "ultima_actualizacion": "13/09/2026 14:54"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
