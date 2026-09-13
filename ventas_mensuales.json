@@ -2260,6 +2260,46 @@
       "precio": "100,00€",
       "precio_num": 100.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/09/2026",
+      "artista": "Gil Gelpi",
+      "obra": "Gil Gelpi – Isotropic golden thought with three faces",
+      "precio": "1.400,00€",
+      "precio_num": 1400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Dream On",
+      "precio": "800,00€",
+      "precio_num": 800.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "13/09/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Amor",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/09/2026",
+      "artista": "Ninon Réo",
+      "obra": "Ninon Réo – Eyes I",
+      "precio": "900,00€",
+      "precio_num": 900.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "13/09/2026",
+      "artista": "Ninon Réo",
+      "obra": "Ninon Réo – Printemps IV",
+      "precio": "900,00€",
+      "precio_num": 900.0,
+      "tipo": "desaparecida"
     }
   ]
 }
