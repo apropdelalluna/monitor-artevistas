@@ -16667,8 +16667,8 @@
     }
   },
   "Matthieu Kowad": {
-    "hash": "d2d3edfa30581d68ab381c97ea2a670f",
-    "texto": "Matthieu Kowad\nMatthieu Kowad (1985, France)\nHe moved to Catalonia in 2015 and now lives on the Costa Brava.\nHis work, focused mainly on sculpture and sculptural paintings, is developed from everyday objects that he transforms and stages to create poetic and original pieces, situated on the border between reality and imagination. Through his creative process, he enjoys exploring human behavior.\nHe has also taken part in numerous festivals, where he has presented installations and scenographic works that invite viewers to reflection and introspection.\nRelated artwork\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Rocket man\n3.200,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Rocket boy\n2.500,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Mad about you M\n1.700,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Telling stories I\n950,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Fire meet gasoline\n950,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – The Tree of Life\n800,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them\n800,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them II\n800,00\n€\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Imagine I\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Let’s stay together M\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them S\nSOLD\nQuick View\nSold\nGotic Gallery\nMatthieu Kowad – Let’s stay together S\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Don’t panic M\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Imagine II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Telling stories II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – School I\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – School II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – The Clash\nSOLD",
+    "hash": "cd71381d61a444ecc5a5b3eb49d70e4a",
+    "texto": "Matthieu Kowad\nMatthieu Kowad (1985, France)\nHe moved to Catalonia in 2015 and now lives on the Costa Brava.\nHis work, focused mainly on sculpture and sculptural paintings, is developed from everyday objects that he transforms and stages to create poetic and original pieces, situated on the border between reality and imagination. Through his creative process, he enjoys exploring human behavior.\nHe has also taken part in numerous festivals, where he has presented installations and scenographic works that invite viewers to reflection and introspection.\nRelated artwork\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Rocket man\n3.200,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Rocket boy\n2.500,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Us and them B\n1.950,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Maybe tomorrow B\n1.950,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Maybe tomorrow S\n1.250,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Don’t panic S\n1.250,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Mad about you S\n1.250,00\n€\nQuick View\nBorn Gallery, Sculpture\nMatthieu Kowad – Mad about you M\n1.700,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Telling stories I\n950,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Fire meet gasoline\n950,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – The Tree of Life\n800,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them\n800,00\n€\nQuick View\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them II\n800,00\n€\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Imagine I\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Let’s stay together M\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Us and them S\nSOLD\nQuick View\nSold\nGotic Gallery\nMatthieu Kowad – Let’s stay together S\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Don’t panic M\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Imagine II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – Telling stories II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – School I\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – School II\nSOLD\nQuick View\nSold\nGotic Gallery, Sculpture\nMatthieu Kowad – The Clash\nSOLD",
     "obras": {
       "https://www.artevistas.eu/product/matthieu-kowad-rocket-man/": {
         "titulo": "Matthieu Kowad – Rocket man",
@@ -16683,6 +16683,41 @@
         "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.artevistas.eu/product/matthieu-kowad-rocket-boy/"
+      },
+      "https://www.artevistas.eu/product/matthieu-kowad-us-and-them-b/": {
+        "titulo": "Matthieu Kowad – Us and them B",
+        "precio": "1.950,00€",
+        "precio_num": 1950.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-us-and-them-b/"
+      },
+      "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-b/": {
+        "titulo": "Matthieu Kowad – Maybe tomorrow B",
+        "precio": "1.950,00€",
+        "precio_num": 1950.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-b/"
+      },
+      "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-s/": {
+        "titulo": "Matthieu Kowad – Maybe tomorrow S",
+        "precio": "1.250,00€",
+        "precio_num": 1250.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-maybe-tomorrow-s/"
+      },
+      "https://www.artevistas.eu/product/matthieu-kowad-dont-panic-s/": {
+        "titulo": "Matthieu Kowad – Don’t panic S",
+        "precio": "1.250,00€",
+        "precio_num": 1250.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-dont-panic-s/"
+      },
+      "https://www.artevistas.eu/product/matthieu-kowad-mad-about-you-s/": {
+        "titulo": "Matthieu Kowad – Mad about you S",
+        "precio": "1.250,00€",
+        "precio_num": 1250.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-mad-about-you-s/"
       },
       "https://www.artevistas.eu/product/matthieu-kowad-mad-about-you-m/": {
         "titulo": "Matthieu Kowad – Mad about you M",
