@@ -2300,6 +2300,30 @@
       "precio": "900,00€",
       "precio_num": 900.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "16/09/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Untitled IV",
+      "precio": "75,00€",
+      "precio_num": 75.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "16/09/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Amor (RESERVED)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "16/09/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Individuo Naranja",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
     }
   ]
 }
