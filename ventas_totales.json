@@ -4765,9 +4765,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "Filthy Freak": {
-    "total": 12798.0,
-    "obras_vendidas": 56,
-    "obras_con_precio": 56,
+    "total": 12873.0,
+    "obras_vendidas": 57,
+    "obras_con_precio": 57,
     "detalle": [
       {
         "titulo": "Filthy Freak – Skull big 1",
@@ -5051,9 +5051,15 @@
         "precio_num": 75.0,
         "url": "https://www.artevistas.eu/product/filthy-freak-sin-titulo/",
         "fecha_deteccion": "06/07/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Untitled IV",
+        "precio_num": 75.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-untitled-iv/",
+        "fecha_deteccion": "16/09/2026"
       }
     ],
-    "ultima_actualizacion": "09/08/2026 19:12"
+    "ultima_actualizacion": "16/09/2026 16:56"
   },
   "Frank Diamond": {
     "total": 8880.0,
@@ -7473,9 +7479,9 @@
     "ultima_actualizacion": "05/09/2026 16:18"
   },
   "Me Lata": {
-    "total": 295724.0,
-    "obras_vendidas": 1179,
-    "obras_con_precio": 1173,
+    "total": 295924.0,
+    "obras_vendidas": 1180,
+    "obras_con_precio": 1174,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14017,9 +14023,15 @@
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/me-lata-amor-34/",
         "fecha_deteccion": "13/09/2026"
+      },
+      {
+        "titulo": "Me Lata – Amor (RESERVED)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-amor-36/",
+        "fecha_deteccion": "16/09/2026"
       }
     ],
-    "ultima_actualizacion": "13/09/2026 14:54"
+    "ultima_actualizacion": "16/09/2026 16:56"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -16561,9 +16573,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ramón Pons": {
-    "total": 13575.0,
-    "obras_vendidas": 83,
-    "obras_con_precio": 83,
+    "total": 13675.0,
+    "obras_vendidas": 84,
+    "obras_con_precio": 84,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -16986,9 +16998,15 @@
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-individuo-gris-oscuro/",
         "fecha_deteccion": "12/09/2026"
+      },
+      {
+        "titulo": "Ramón Pons – Individuo Naranja",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-naranja/",
+        "fecha_deteccion": "16/09/2026"
       }
     ],
-    "ultima_actualizacion": "12/09/2026 13:28"
+    "ultima_actualizacion": "16/09/2026 16:56"
   },
   "Reb.MWC": {
     "total": 360.0,
