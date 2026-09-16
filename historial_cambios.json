@@ -5259,5 +5259,32 @@
     "precio": "1.250,00€",
     "precio_num": 1250.0,
     "url": "https://www.artevistas.eu/product/matthieu-kowad-mad-about-you-s/"
+  },
+  {
+    "fecha": "16/09/2026 16:56",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Untitled IV",
+    "tipo": "vendida",
+    "precio": "75,00€",
+    "precio_num": 75.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-untitled-iv/"
+  },
+  {
+    "fecha": "16/09/2026 16:56",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amor (RESERVED)",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amor-36/"
+  },
+  {
+    "fecha": "16/09/2026 16:56",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo Naranja",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-naranja/"
   }
 ]
