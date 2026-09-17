@@ -5286,5 +5286,41 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-individuo-naranja/"
+  },
+  {
+    "fecha": "17/09/2026 12:51",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero",
+    "tipo": "nuevo_artista",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "17/09/2026 12:51",
+    "artista": "Juan Carlos Valdiviezo",
+    "obra": "Juan Carlos Valdiviezo Ramírez – Murs morts 2021 Oro",
+    "tipo": "nueva",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/juan-carlos-valdiviezo-ramirez-murs-morts-2021-oro/"
+  },
+  {
+    "fecha": "17/09/2026 12:51",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Peace and love",
+    "tipo": "nueva",
+    "precio": "300,00€",
+    "precio_num": 300.0,
+    "url": "https://www.artevistas.eu/product/me-lata-peace-and-love-2/"
+  },
+  {
+    "fecha": "17/09/2026 12:51",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love grows here",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-grows-here-2/"
   }
 ]
