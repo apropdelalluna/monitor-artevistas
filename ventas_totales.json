@@ -21611,9 +21611,9 @@
     "ultima_actualizacion": "10/09/2026 12:26"
   },
   "Victor Otero": {
-    "total": 4550.0,
-    "obras_vendidas": 25,
-    "obras_con_precio": 25,
+    "total": 4890.0,
+    "obras_vendidas": 27,
+    "obras_con_precio": 27,
     "detalle": [
       {
         "titulo": "Victor Otero – Autorretrato con camiseta fantasma",
@@ -21763,6 +21763,18 @@
         "titulo": "Victor Otero – Autorretrato sentado",
         "precio_num": 300.0,
         "url": "https://www.artevistas.eu/product/autorretrato-sentado/",
+        "fecha_recuperacion": "17/09/2026"
+      },
+      {
+        "titulo": "Victor Otero – Autorretrato con sombra n°3",
+        "precio_num": 170.0,
+        "url": "https://www.artevistas.eu/product/autorretrato-con-sombra-n3/",
+        "fecha_recuperacion": "17/09/2026"
+      },
+      {
+        "titulo": "Victor Otero – Autorretrato con sombra n°2",
+        "precio_num": 170.0,
+        "url": "https://www.artevistas.eu/product/autorretrato-con-sombra-n2/",
         "fecha_recuperacion": "17/09/2026"
       }
     ],
