@@ -2340,6 +2340,22 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "18/09/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – PINK",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "18/09/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Youniverse",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
