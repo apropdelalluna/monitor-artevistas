@@ -5340,5 +5340,23 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-diseno-sin-titulo-1/"
+  },
+  {
+    "fecha": "18/09/2026 20:50",
+    "artista": "The Catman",
+    "obra": "The Catman – PINK",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-pink/"
+  },
+  {
+    "fecha": "18/09/2026 20:50",
+    "artista": "The Catman",
+    "obra": "The Catman – Youniverse",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-youniverse/"
   }
 ]
