@@ -7479,9 +7479,9 @@
     "ultima_actualizacion": "05/09/2026 16:18"
   },
   "Me Lata": {
-    "total": 295924.0,
-    "obras_vendidas": 1180,
-    "obras_con_precio": 1174,
+    "total": 296374.0,
+    "obras_vendidas": 1181,
+    "obras_con_precio": 1175,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14029,9 +14029,15 @@
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/me-lata-amor-36/",
         "fecha_deteccion": "16/09/2026"
+      },
+      {
+        "titulo": "Me Lata – Don’t stop me now",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/me-lata-dont-stop-me-now-9/",
+        "fecha_deteccion": "18/09/2026"
       }
     ],
-    "ultima_actualizacion": "16/09/2026 16:56"
+    "ultima_actualizacion": "18/09/2026 13:27"
   },
   "Miquel Serratosa": {
     "total": 51700.0,
@@ -21530,9 +21536,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 1620.0,
-    "obras_vendidas": 10,
-    "obras_con_precio": 10,
+    "total": 1655.0,
+    "obras_vendidas": 11,
+    "obras_con_precio": 11,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21592,9 +21598,15 @@
         "precio_num": 750.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-virgen-choni-choni/",
         "fecha_deteccion": "01/09/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Cupido cabrón apunta bien",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-diseno-sin-titulo-1/",
+        "fecha_deteccion": "18/09/2026"
       }
     ],
-    "ultima_actualizacion": "01/09/2026 18:24"
+    "ultima_actualizacion": "18/09/2026 13:27"
   },
   "Ninon Réo": {
     "total": 700.0,
