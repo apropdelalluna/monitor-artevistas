@@ -17093,9 +17093,9 @@
     "ultima_actualizacion": "17/06/2026 21:12"
   },
   "Rémi Boudeperche": {
-    "total": 920.0,
-    "obras_vendidas": 22,
-    "obras_con_precio": 22,
+    "total": 960.0,
+    "obras_vendidas": 23,
+    "obras_con_precio": 23,
     "detalle": [
       {
         "titulo": "Rémi Boudeperche – A l’abandon",
@@ -17227,9 +17227,15 @@
         "precio_num": 40.0,
         "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia-2/",
         "fecha_deteccion": "06/09/2026"
+      },
+      {
+        "titulo": "Rémi Boudeperche – Noche en Barcelona",
+        "precio_num": 40.0,
+        "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/",
+        "fecha_deteccion": "19/09/2026"
       }
     ],
-    "ultima_actualizacion": "06/09/2026 19:47"
+    "ultima_actualizacion": "19/09/2026 14:57"
   },
   "Sandra Partera": {
     "total": 59948.0,
@@ -18602,9 +18608,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13082.0,
-    "obras_vendidas": 145,
-    "obras_con_precio": 145,
+    "total": 13226.0,
+    "obras_vendidas": 148,
+    "obras_con_precio": 148,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19367,9 +19373,27 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-youniverse/",
         "fecha_deteccion": "18/09/2026"
+      },
+      {
+        "titulo": "The Catman – Message",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-message/",
+        "fecha_deteccion": "19/09/2026"
+      },
+      {
+        "titulo": "The Catman – Un dinosaurio escudriña un ciclo",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-un-dinosaurio-escudrina-un-ciclo/",
+        "fecha_deteccion": "19/09/2026"
+      },
+      {
+        "titulo": "The Catman – One two three",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-one-two-three/",
+        "fecha_deteccion": "19/09/2026"
       }
     ],
-    "ultima_actualizacion": "18/09/2026 20:50"
+    "ultima_actualizacion": "19/09/2026 14:57"
   },
   "Tim Marsh": {
     "total": 52400.0,
