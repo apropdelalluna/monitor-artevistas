@@ -5358,5 +5358,50 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-youniverse/"
+  },
+  {
+    "fecha": "19/09/2026 14:57",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Hug your whole life",
+    "tipo": "nueva",
+    "precio": "550,00€",
+    "precio_num": 550.0,
+    "url": "https://www.artevistas.eu/product/me-lata-hug-your-whole-life/"
+  },
+  {
+    "fecha": "19/09/2026 14:57",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Noche en Barcelona",
+    "tipo": "vendida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-noche-en-barcelona-2/"
+  },
+  {
+    "fecha": "19/09/2026 14:57",
+    "artista": "The Catman",
+    "obra": "The Catman – Message",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-message/"
+  },
+  {
+    "fecha": "19/09/2026 14:57",
+    "artista": "The Catman",
+    "obra": "The Catman – Un dinosaurio escudriña un ciclo",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-un-dinosaurio-escudrina-un-ciclo/"
+  },
+  {
+    "fecha": "19/09/2026 14:57",
+    "artista": "The Catman",
+    "obra": "The Catman – One two three",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-one-two-three/"
   }
 ]
