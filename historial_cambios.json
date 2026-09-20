@@ -5403,5 +5403,68 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-one-two-three/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Lluna",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-lluna/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Galta",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-galta/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Martí Roca Balcells",
+    "obra": "Martí Roca Balcells – Rosella",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/marti-roca-balcells-rosella/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Rémi Boudeperche",
+    "obra": "Rémi Boudeperche – Sagrada Familia",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/remi-boudeperche-sagrada-familia/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "The Catman",
+    "obra": "The Catman – Eat life",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/eat-life/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Pareja 2",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/pareja-2/"
+  },
+  {
+    "fecha": "20/09/2026 11:21",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Pareja 1",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/pareja-1/"
   }
 ]
