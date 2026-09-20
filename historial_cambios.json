@@ -5466,5 +5466,158 @@
     "precio": "25,00€",
     "precio_num": 25.0,
     "url": "https://www.artevistas.eu/product/pareja-1/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Josep Maria Carbó",
+    "obra": "Josep Maria Carbó",
+    "tipo": "nuevo_artista",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Laura Erviti",
+    "obra": "Laura Erviti – The Half Virgin Balance",
+    "tipo": "vendida",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/laura-erviti-the-half-virgin-balance-heart/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Pareja 2",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/pareja-2/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Pareja 1",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/pareja-1/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Autorretrato con camiseta fantasma",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/autorretrato-con-camiseta-fantasma/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Retrato amarillo",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/retrato-amarillo/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Chica",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/chica/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – La friolera",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/la-friolera/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Untitled",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/untitled-8/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Autorretrato tumbado",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/autorretrato-tumbado/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – La mirona",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/la-mirona/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – La vergonzosa",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/la-vergonzosa/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Alumno",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/alumno/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Mujer con moño",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/mujer-con-mono/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Soledad",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/soledad/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Reflexión",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/reflexion/"
+  },
+  {
+    "fecha": "20/09/2026 19:38",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero – Autorretrato con sombra n°2",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/autorretrato-con-sombra-n2/"
   }
 ]
