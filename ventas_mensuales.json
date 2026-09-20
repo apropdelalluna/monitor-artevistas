@@ -2428,6 +2428,134 @@
       "precio": "25,00€",
       "precio_num": 25.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Laura Erviti",
+      "obra": "Laura Erviti – The Half Virgin Balance",
+      "precio": "30,00€",
+      "precio_num": 30.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Pareja 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Pareja 1",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Autorretrato con camiseta fantasma",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Retrato amarillo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Chica",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – La friolera",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Untitled",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Autorretrato tumbado",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – La mirona",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – La vergonzosa",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Alumno",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Mujer con moño",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Soledad",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Reflexión",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "20/09/2026",
+      "artista": "Victor Otero",
+      "obra": "Victor Otero – Autorretrato con sombra n°2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
     }
   ]
 }
