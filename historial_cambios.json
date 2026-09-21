@@ -5619,5 +5619,14 @@
     "precio": "SOLD",
     "precio_num": 0.0,
     "url": "https://www.artevistas.eu/product/autorretrato-con-sombra-n2/"
+  },
+  {
+    "fecha": "21/09/2026 18:19",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Mac Virgen",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-mac-virgen/"
   }
 ]
