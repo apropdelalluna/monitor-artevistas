@@ -442,11 +442,23 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
         if not titulo or titulo == "Sin título":
             continue  # saltar elementos vacíos / falsos positivos
 
-        # Precio
+        # Antes de leer precio o estado, eliminamos de una COPIA cualquier
+        # contenido anidado de "obras relacionadas" / quick-view / modales —
+        # WooCommerce a veces incrusta ese contenido (con su propio precio y
+        # badge SOLD de OTRA obra) DENTRO del bloque HTML de esta, contaminando
+        # tanto el precio como el estado si no se excluye explícitamente.
+        producto_limpio = copy.copy(producto)
+        for ruido in producto_limpio.select(
+            "[class*='related'], [class*='quick-view'], [class*='quickview'], [class*='modal']"
+        ):
+            ruido.decompose()
+
+        # Precio (extraído ya del bloque limpio, para no coger el precio de
+        # una obra vecina anidada en el mismo HTML)
         precio_el = (
-            producto.select_one(".woocommerce-Price-amount")
-            or producto.select_one(".price")
-            or producto.select_one("[class*='price']")
+            producto_limpio.select_one(".woocommerce-Price-amount")
+            or producto_limpio.select_one(".price")
+            or producto_limpio.select_one("[class*='price']")
         )
         precio_str = precio_el.get_text(strip=True) if precio_el else "Precio no disponible"
         # Quedarnos solo con el primer precio si hay rango (ej: "500,00€ – 800,00€")
@@ -454,17 +466,6 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
         precio_num = precio_a_numero(precio_str)
 
         # Estado (vendido / disponible)
-        # Antes de comprobar si está vendido, eliminamos de una COPIA cualquier
-        # contenido anidado de "obras relacionadas" / quick-view / modales —
-        # WooCommerce a veces incrusta ese contenido (con su propio badge SOLD)
-        # DENTRO del bloque HTML de otra obra, contaminando la detección de
-        # texto genérico si no se excluye explícitamente.
-        producto_limpio = copy.copy(producto)
-        for ruido in producto_limpio.select(
-            "[class*='related'], [class*='quick-view'], [class*='quickview'], [class*='modal']"
-        ):
-            ruido.decompose()
-
         sold = producto_limpio.select_one(
             ".sold_out_badge, .out-of-stock, .soldout, .out-of-stock-label, "
             "[class*='sold'], [class*='vendido'], .ribbon"
