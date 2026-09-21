@@ -2556,6 +2556,14 @@
       "precio": "SOLD",
       "precio_num": 0.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "21/09/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Mac Virgen",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
     }
   ]
 }
