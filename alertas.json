@@ -175,7 +175,8 @@
     "cambios": 11,
     "total": 30,
     "porcentaje": 36.7,
-    "resuelta": false,
-    "repeticiones": 2
+    "resuelta": true,
+    "repeticiones": 2,
+    "fecha_resolucion": "21/09/2026 19:30"
   }
 ]
