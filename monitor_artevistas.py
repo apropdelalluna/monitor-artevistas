@@ -1603,8 +1603,21 @@ def comprobar_todos() -> None:
         UMBRAL_PORCENTAJE = 0.25
 
         cambios_estado = [c for c in cambios_obras if c["tipo"] in ("vendida", "nueva")]
+
+        # Para el umbral de la alarma, solo cuentan los cambios de obras YA
+        # CONOCIDAS (una venta real, o una URL que ya existía volviendo a estar
+        # disponible) — las obras genuinamente nuevas (URL nunca vista antes)
+        # no cuentan nunca, sea el catálogo previo grande o esté vacío del
+        # todo (artista recién detectado). Una obra nueva no puede ser síntoma
+        # del mismo fallo de "parpadeo" que sí afecta a obras ya conocidas, así
+        # que tratarla como sospechosa solo generaría alarmas innecesarias
+        # cada vez que a un artista (nuevo o no) le suben mucha obra de golpe.
+        cambios_estado_reales = [
+            c for c in cambios_estado
+            if c["tipo"] == "vendida" or c.get("url") in obras_viejas
+        ]
         total_catalogo = len(obras_nuevas) or 1
-        proporcion = len(cambios_estado) / total_catalogo
+        proporcion = len(cambios_estado_reales) / total_catalogo
 
         artistas_confirmados = {
             a.strip() for a in os.environ.get("CONFIRMAR_ALERTAS", "").split(",") if a.strip()
@@ -1628,14 +1641,14 @@ def comprobar_todos() -> None:
             }
             continue
 
-        if len(cambios_estado) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
+        if len(cambios_estado_reales) > UMBRAL_ABSOLUTO and proporcion > UMBRAL_PORCENTAJE:
             logging.error(
                 "🚨 ALERTA: %s — %d de %d obras (%.0f%%) cambiaron de estado en un solo "
                 "escaneo. Esto supera el umbral normal y NO se ha guardado automáticamente "
                 "en ventas/historial. Revísalo manualmente antes de confirmar.",
-                nombre, len(cambios_estado), total_catalogo, proporcion * 100,
+                nombre, len(cambios_estado_reales), total_catalogo, proporcion * 100,
             )
-            guardar_alerta(nombre, len(cambios_estado), total_catalogo, proporcion)
+            guardar_alerta(nombre, len(cambios_estado_reales), total_catalogo, proporcion)
             # No actualizamos estado[nombre] a propósito: en el próximo escaneo se
             # volverá a comparar contra el mismo estado anterior y se repetirá la
             # alerta hasta que se resuelva manualmente, en vez de perderse en silencio.
