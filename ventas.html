@@ -339,7 +339,7 @@
 
           html += `<div class="artista-item">
             <div class="artista-header" onclick="toggleArtista(${id})">
-              <div class="artista-nombre">${nombre}</div>
+              <div class="artista-nombre"><span style="color:var(--text-dim);font-weight:400;margin-right:8px;">${i + 1}.</span>${nombre}</div>
               <div class="artista-right">
                 <span class="artista-meta">${datos.obras_vendidas} obras</span>
                 <span class="artista-total">${formatNum(datos.total)}</span>
