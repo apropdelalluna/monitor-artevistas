@@ -308,7 +308,18 @@
 
     async function cargarDatos() {
       try {
-        const data = await fetchGitHub('ventas_totales.json');
+        const [data, listaArtistas] = await Promise.all([
+          fetchGitHub('ventas_totales.json'),
+          fetchGitHub('artistas_artevistas.json'),
+        ]);
+
+        // Añadir con 0 ventas a cualquier artista vigilado que no tenga
+        // todavía ninguna entrada en ventas_totales.json
+        (listaArtistas || []).forEach(a => {
+          if (!data[a.nombre]) {
+            data[a.nombre] = { total: 0, obras_vendidas: 0, obras_con_precio: 0, detalle: [] };
+          }
+        });
 
         // Ordenar por total vendido
         const artistas = Object.entries(data)
