@@ -42466,8 +42466,86 @@
     }
   },
   "Josep Maria Carbó": {
-    "hash": "c6c507cb641da7df94d9b2bc68e4ac8a",
-    "texto": "Josep Maria Carbó\nJosep Maria Carbó: An Intimate Look at the Human Figure.\nPremià de Mar, Barcelona, 1972\nJosep Maria Carbó is a self-taught artist who works primarily with figurative drawing and watercolour. His work focuses especially on the human figure, through which he seeks to convey emotions and moods rather than simply depict an image.\nHis artistic language is characterised by a delicate balance between precision and spontaneity. Pencil provides structure and definition, while watercolour introduces transparency, softness and movement. Light and shadow play a fundamental role, creating intimate, serene and, at times, mysterious atmospheres.\nThe absence or simplification of faces in some of his works allows the viewer to complete the story and project their own emotions onto the figures. Freedom, introspection, vulnerability and serenity thus emerge as recurring themes.\nWith an elegant and sensitive aesthetic, Carbó transforms the human body into a vehicle for exploring the individual and their inner world. His works invite us to pause, observe and surrender to a feeling of silence, intimacy and contemplation.",
-    "obras": {}
+    "hash": "c51a23e633be0eb1f62a8df66be0da10",
+    "texto": "Josep Maria Carbó\nJosep Maria Carbó: An Intimate Look at the Human Figure.\nPremià de Mar, Barcelona, 1972\nJosep Maria Carbó is a self-taught artist who works primarily with figurative drawing and watercolour. His work focuses especially on the human figure, through which he seeks to convey emotions and moods rather than simply depict an image.\nHis artistic language is characterised by a delicate balance between precision and spontaneity. Pencil provides structure and definition, while watercolour introduces transparency, softness and movement. Light and shadow play a fundamental role, creating intimate, serene and, at times, mysterious atmospheres.\nThe absence or simplification of faces in some of his works allows the viewer to complete the story and project their own emotions onto the figures. Freedom, introspection, vulnerability and serenity thus emerge as recurring themes.\nWith an elegant and sensitive aesthetic, Carbó transforms the human body into a vehicle for exploring the individual and their inner world. His works invite us to pause, observe and surrender to a feeling of silence, intimacy and contemplation.\nRelated artwork\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Música & café PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Cap Vespre de llibres PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Vent de gregal PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – La mirada I La tassa PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Matí de Diumenge PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Coffee, book & music PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Dansa PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Revox & Records Sweet Jane PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – La Llibreria II PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – La Llibreria PRINT\n150,00\n€\nQuick View\nGotic Gallery, Print\nJosep Maria Carbó – Choosing books PRINT\n150,00\n€",
+    "obras": {
+      "https://www.artevistas.eu/product/josep-maria-carbo-musica-cafe-print/": {
+        "titulo": "Josep Maria Carbó – Música & café PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-musica-cafe-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-cap-vespre-de-llibres-print/": {
+        "titulo": "Josep Maria Carbó – Cap Vespre de llibres PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-cap-vespre-de-llibres-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-vent-de-gregal-print/": {
+        "titulo": "Josep Maria Carbó – Vent de gregal PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-vent-de-gregal-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-la-mirada-i-la-tassa-print/": {
+        "titulo": "Josep Maria Carbó – La mirada I La tassa PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-la-mirada-i-la-tassa-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-mati-de-diumenge-print/": {
+        "titulo": "Josep Maria Carbó – Matí de Diumenge PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-mati-de-diumenge-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-coffe-book-music-print/": {
+        "titulo": "Josep Maria Carbó – Coffee, book & music PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-coffe-book-music-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-dansa-print/": {
+        "titulo": "Josep Maria Carbó – Dansa PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-dansa-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-revox-records-sweet-jane-print/": {
+        "titulo": "Josep Maria Carbó – Revox & Records Sweet Jane PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-revox-records-sweet-jane-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-la-llibreria-ii-print/": {
+        "titulo": "Josep Maria Carbó – La Llibreria II PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-la-llibreria-ii-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-la-llibreria-print/": {
+        "titulo": "Josep Maria Carbó – La Llibreria PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-la-llibreria-print/"
+      },
+      "https://www.artevistas.eu/product/josep-maria-carbo-choosing-books-print/": {
+        "titulo": "Josep Maria Carbó – Choosing books PRINT",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-choosing-books-print/"
+      }
+    }
   }
 }
