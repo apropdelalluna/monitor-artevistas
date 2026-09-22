@@ -178,5 +178,14 @@
     "resuelta": true,
     "repeticiones": 2,
     "fecha_resolucion": "21/09/2026 19:30"
+  },
+  {
+    "fecha": "22/09/2026 18:25",
+    "artista": "Josep Maria Carbó",
+    "cambios": 11,
+    "total": 11,
+    "porcentaje": 100.0,
+    "resuelta": false,
+    "repeticiones": 1
   }
 ]
