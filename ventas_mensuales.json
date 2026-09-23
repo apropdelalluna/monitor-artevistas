@@ -2564,6 +2564,22 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Santamuerte golden totem",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Sound on Gold and Pink",
+      "precio": "60,00€",
+      "precio_num": 60.0,
+      "tipo": "vendida"
     }
   ]
 }
