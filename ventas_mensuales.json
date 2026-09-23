@@ -2580,6 +2580,78 @@
       "precio": "60,00€",
       "precio_num": 60.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Akore",
+      "obra": "Akore – Flow PRINT",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Akore",
+      "obra": "Akore – Afropunk PRINT",
+      "precio": "30,00€",
+      "precio_num": 30.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Trooper Beta",
+      "precio": "30,00€",
+      "precio_num": 30.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart\t– Afro Bear",
+      "precio": "30,00€",
+      "precio_num": 30.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "BL2A",
+      "obra": "BL2A – Commission work",
+      "precio": "1.500,00€",
+      "precio_num": 1500.0,
+      "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Telling stories",
+      "precio": "1.400,00€",
+      "precio_num": 1400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Miquel Serratosa",
+      "obra": "Miquel Serratosa – S-82 – X never ever marks the spot (RESERVED)",
+      "precio": "1.900,00€",
+      "precio_num": 1900.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "Miquel Serratosa",
+      "obra": "Miquel Serratosa – S-53 RESERVED",
+      "precio": "2.350,00€",
+      "precio_num": 2350.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "23/09/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Victor Otero – Autorretrato PRINT",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "desaparecida"
     }
   ]
 }
