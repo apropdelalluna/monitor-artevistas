@@ -601,9 +601,9 @@
     "ultima_actualizacion": "19/06/2026 20:25"
   },
   "Akore": {
-    "total": 68915.0,
-    "obras_vendidas": 75,
-    "obras_con_precio": 75,
+    "total": 68965.0,
+    "obras_vendidas": 77,
+    "obras_con_precio": 77,
     "detalle": [
       {
         "titulo": "Akore – Roots",
@@ -980,9 +980,21 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/street-tribe/",
         "fecha_deteccion": "28/06/2026"
+      },
+      {
+        "titulo": "Akore – Flow PRINT",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/flow-2/",
+        "fecha_deteccion": "23/09/2026"
+      },
+      {
+        "titulo": "Akore – Afropunk PRINT",
+        "precio_num": 30.0,
+        "url": "https://www.artevistas.eu/product/afropunk/",
+        "fecha_deteccion": "23/09/2026"
       }
     ],
-    "ultima_actualizacion": "28/06/2026 18:47"
+    "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Alberto Blanchart": {
     "total": 35780.0,
@@ -2776,9 +2788,9 @@
     "ultima_actualizacion": "10/08/2026 14:41"
   },
   "BL2A": {
-    "total": 87530.0,
-    "obras_vendidas": 88,
-    "obras_con_precio": 88,
+    "total": 89030.0,
+    "obras_vendidas": 89,
+    "obras_con_precio": 89,
     "detalle": [
       {
         "titulo": "BL2A – Comparte tu mente",
@@ -3221,9 +3233,15 @@
         "precio_num": 900.0,
         "url": "https://www.artevistas.eu/product/bl2a-solo-sin-cafe/",
         "fecha_deteccion": "09/09/2026"
+      },
+      {
+        "titulo": "BL2A – Commission work",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/bl2a-commission-work/",
+        "fecha_deteccion": "23/09/2026"
       }
     ],
-    "ultima_actualizacion": "09/09/2026 18:33"
+    "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Bran Sólo": {
     "total": 2610.0,
@@ -7442,9 +7460,9 @@
     "ultima_actualizacion": "20/09/2026 11:21"
   },
   "Matthieu Kowad": {
-    "total": 11400.0,
-    "obras_vendidas": 10,
-    "obras_con_precio": 10,
+    "total": 12800.0,
+    "obras_vendidas": 11,
+    "obras_con_precio": 11,
     "detalle": [
       {
         "titulo": "Matthieu Kowad – Us and them S",
@@ -7498,9 +7516,15 @@
         "precio_num": 800.0,
         "url": "https://www.artevistas.eu/product/matthieu-kowad-imagine-i/",
         "fecha_deteccion": "05/09/2026"
+      },
+      {
+        "titulo": "Matthieu Kowad – Telling stories",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories/",
+        "fecha_deteccion": "23/09/2026"
       }
     ],
-    "ultima_actualizacion": "05/09/2026 16:18"
+    "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Me Lata": {
     "total": 296374.0,
@@ -14064,9 +14088,9 @@
     "ultima_actualizacion": "18/09/2026 13:27"
   },
   "Miquel Serratosa": {
-    "total": 51700.0,
-    "obras_vendidas": 30,
-    "obras_con_precio": 30,
+    "total": 55950.0,
+    "obras_vendidas": 32,
+    "obras_con_precio": 32,
     "detalle": [
       {
         "titulo": "Miquel Serratosa – S-48",
@@ -14220,9 +14244,21 @@
         "precio_num": 2200.0,
         "url": "https://www.artevistas.eu/product/miquel-serratosa-s-83-travessia-pictorica/",
         "fecha_deteccion": "07/06/2026"
+      },
+      {
+        "titulo": "Miquel Serratosa – S-82 – X never ever marks the spot (RESERVED)",
+        "precio_num": 1900.0,
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-82-x-never-ever-marks-the-spot/",
+        "fecha_deteccion": "23/09/2026"
+      },
+      {
+        "titulo": "Miquel Serratosa – S-53 RESERVED",
+        "precio_num": 2350.0,
+        "url": "https://www.artevistas.eu/product/miquel-serratosa-s-53/",
+        "fecha_deteccion": "23/09/2026"
       }
     ],
-    "ultima_actualizacion": "07/06/2026 11:49"
+    "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Mireia Cifuentes": {
     "total": 10623.0,
