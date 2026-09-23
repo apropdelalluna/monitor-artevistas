@@ -5691,5 +5691,167 @@
     "precio": "25,00€",
     "precio_num": 25.0,
     "url": "https://www.artevistas.eu/product/autorretrato/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Akore",
+    "obra": "Akore – Flow PRINT",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/flow-2/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Akore",
+    "obra": "Akore – Afropunk PRINT",
+    "tipo": "vendida",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/afropunk/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Trooper Beta",
+    "tipo": "desaparecida",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-trooper-beta/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart\t– Afro Bear",
+    "tipo": "desaparecida",
+    "precio": "30,00€",
+    "precio_num": 30.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-afro-bear/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "BL2A",
+    "obra": "BL2A – Commission work",
+    "tipo": "nueva_vendida",
+    "precio": "1.500,00€",
+    "precio_num": 1500.0,
+    "url": "https://www.artevistas.eu/product/bl2a-commission-work/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Telling stories",
+    "tipo": "vendida",
+    "precio": "1.400,00€",
+    "precio_num": 1400.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Miquel Serratosa",
+    "obra": "Miquel Serratosa – S-82 – X never ever marks the spot (RESERVED)",
+    "tipo": "vendida",
+    "precio": "1.900,00€",
+    "precio_num": 1900.0,
+    "url": "https://www.artevistas.eu/product/miquel-serratosa-s-82-x-never-ever-marks-the-spot/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Miquel Serratosa",
+    "obra": "Miquel Serratosa – S-53 RESERVED",
+    "tipo": "vendida",
+    "precio": "2.350,00€",
+    "precio_num": 2350.0,
+    "url": "https://www.artevistas.eu/product/miquel-serratosa-s-53/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – El mirador PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-el-mirador/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – BCN23-D2 PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-bcn23-d2-3/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – Terraza estudio Raval PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-terraza-estudio-raval/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – La familia PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-la-familia/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – BCN PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-bcn/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "Oscar Gartín",
+    "obra": "Oscar Gartín – BCN23-D2 PRINT",
+    "tipo": "nueva",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/oscar-gartin-bcn23-d2-2/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Brain Escape Yellow",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-yellow/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Brain Escape Blue",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-blue-2/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Brain Escape Pink",
+    "tipo": "nueva",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-pink-2/"
+  },
+  {
+    "fecha": "23/09/2026 18:26",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Victor Otero – Autorretrato PRINT",
+    "tipo": "desaparecida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/autorretrato/"
   }
 ]
