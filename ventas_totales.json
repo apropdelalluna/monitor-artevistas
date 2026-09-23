@@ -19590,9 +19590,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 86866.0,
-    "obras_vendidas": 148,
-    "obras_con_precio": 148,
+    "total": 87021.0,
+    "obras_vendidas": 150,
+    "obras_con_precio": 150,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -20349,9 +20349,21 @@
         "precio_num": 1800.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-2024/",
         "fecha_deteccion": "14/08/2026"
+      },
+      {
+        "titulo": "White Rabbit – Santamuerte golden totem",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-santamuerte-golden-totem/",
+        "fecha_deteccion": "23/09/2026"
+      },
+      {
+        "titulo": "White Rabbit – Sound on Gold and Pink",
+        "precio_num": 60.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-gold-and-pink/",
+        "fecha_deteccion": "23/09/2026"
       }
     ],
-    "ultima_actualizacion": "14/08/2026 18:08"
+    "ultima_actualizacion": "23/09/2026 12:22"
   },
   "Xavi Mira": {
     "total": 129880.0,
