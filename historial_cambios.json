@@ -5628,5 +5628,68 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-mac-virgen/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "Victor Otero",
+    "obra": "Victor Otero",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Santamuerte golden totem",
+    "tipo": "vendida",
+    "precio": "95,00€",
+    "precio_num": 95.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-santamuerte-golden-totem/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Sound on Gold and Pink",
+    "tipo": "vendida",
+    "precio": "60,00€",
+    "precio_num": 60.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-gold-and-pink/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Victor Otero – El descanso PRINT",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/el-descanso/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Victor Otero – Crisálida PRINT",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/crisalide/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Victor Otero – Desnudo sobre manta PRINT",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/desnudo-sobre-manta/"
+  },
+  {
+    "fecha": "23/09/2026 12:22",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Victor Otero – Autorretrato PRINT",
+    "tipo": "nueva",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/autorretrato/"
   }
 ]
