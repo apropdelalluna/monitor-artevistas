@@ -2652,6 +2652,14 @@
       "precio": "25,00€",
       "precio_num": 25.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "24/09/2026",
+      "artista": "Gil Gelpi",
+      "obra": "Gil Gelpi – Isotropic blue thoughts with three faces (RESERVED)",
+      "precio": "1.400,00€",
+      "precio_num": 1400.0,
+      "tipo": "vendida"
     }
   ]
 }
