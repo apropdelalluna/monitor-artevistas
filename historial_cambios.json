@@ -5853,5 +5853,14 @@
     "precio": "25,00€",
     "precio_num": 25.0,
     "url": "https://www.artevistas.eu/product/autorretrato/"
+  },
+  {
+    "fecha": "24/09/2026 12:49",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Isotropic blue thoughts with three faces (RESERVED)",
+    "tipo": "vendida",
+    "precio": "1.400,00€",
+    "precio_num": 1400.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-blue-thoughts-with-three-faces/"
   }
 ]
