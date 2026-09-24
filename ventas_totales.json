@@ -5338,9 +5338,9 @@
     "ultima_actualizacion": "10/06/2026 12:06"
   },
   "Gil Gelpi": {
-    "total": 104710.0,
-    "obras_vendidas": 57,
-    "obras_con_precio": 53,
+    "total": 106110.0,
+    "obras_vendidas": 58,
+    "obras_con_precio": 54,
     "detalle": [
       {
         "titulo": "Gil Gelpi – Sin título XI",
@@ -5632,9 +5632,15 @@
         "precio_num": 1400.0,
         "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-golden-thought-with-three-faces/",
         "fecha_deteccion": "13/09/2026"
+      },
+      {
+        "titulo": "Gil Gelpi – Isotropic blue thoughts with three faces (RESERVED)",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-blue-thoughts-with-three-faces/",
+        "fecha_deteccion": "24/09/2026"
       }
     ],
-    "ultima_actualizacion": "13/09/2026 14:54"
+    "ultima_actualizacion": "24/09/2026 12:49"
   },
   "Irene Bou": {
     "total": 78190.0,
