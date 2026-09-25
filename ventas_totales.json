@@ -7533,9 +7533,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Me Lata": {
-    "total": 296374.0,
-    "obras_vendidas": 1181,
-    "obras_con_precio": 1175,
+    "total": 296524.0,
+    "obras_vendidas": 1184,
+    "obras_con_precio": 1178,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14089,9 +14089,27 @@
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/me-lata-dont-stop-me-now-9/",
         "fecha_deteccion": "18/09/2026"
+      },
+      {
+        "titulo": "Me Lata – Love is love PRINT",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-is-love-2/",
+        "fecha_deteccion": "25/09/2026"
+      },
+      {
+        "titulo": "Me Lata – We have a dream PRINT",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/me-lata-we-have-a-dream-2/",
+        "fecha_deteccion": "25/09/2026"
+      },
+      {
+        "titulo": "Me Lata – Daydreaming PRINT",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/me-lata-daydreaming-2/",
+        "fecha_deteccion": "25/09/2026"
       }
     ],
-    "ultima_actualizacion": "18/09/2026 13:27"
+    "ultima_actualizacion": "25/09/2026 18:23"
   },
   "Miquel Serratosa": {
     "total": 55950.0,
@@ -17999,9 +18017,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 12170.0,
-    "obras_vendidas": 46,
-    "obras_con_precio": 46,
+    "total": 12190.0,
+    "obras_vendidas": 47,
+    "obras_con_precio": 47,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -18235,9 +18253,15 @@
         "precio_num": 30.0,
         "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona/",
         "fecha_deteccion": "26/08/2026"
+      },
+      {
+        "titulo": "Sater – Rusty subways – Barcelona",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona-2/",
+        "fecha_deteccion": "25/09/2026"
       }
     ],
-    "ultima_actualizacion": "26/08/2026 11:06"
+    "ultima_actualizacion": "25/09/2026 18:23"
   },
   "Sergi Muñoz Lozano": {
     "total": 70410.0,
