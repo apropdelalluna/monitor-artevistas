@@ -5862,5 +5862,50 @@
     "precio": "1.400,00€",
     "precio_num": 1400.0,
     "url": "https://www.artevistas.eu/product/gil-gelpi-isotropic-blue-thoughts-with-three-faces/"
+  },
+  {
+    "fecha": "25/09/2026 18:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love is love PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-is-love-2/"
+  },
+  {
+    "fecha": "25/09/2026 18:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – We have a dream PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/me-lata-we-have-a-dream-2/"
+  },
+  {
+    "fecha": "25/09/2026 18:23",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Daydreaming PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/me-lata-daydreaming-2/"
+  },
+  {
+    "fecha": "25/09/2026 18:23",
+    "artista": "Sater",
+    "obra": "Sater – Rusty subways – Barcelona",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona-2/"
+  },
+  {
+    "fecha": "25/09/2026 18:23",
+    "artista": "The Catman",
+    "obra": "The Catman – Tres dos uno",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-tres-dos-uno/"
   }
 ]
