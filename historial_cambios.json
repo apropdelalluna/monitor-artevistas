@@ -5907,5 +5907,41 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-tres-dos-uno/"
+  },
+  {
+    "fecha": "26/09/2026 15:46",
+    "artista": "Akore",
+    "obra": "Akore – Free under the sun PRINT",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/akore-free-under-the-sun-print/"
+  },
+  {
+    "fecha": "26/09/2026 15:46",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love is love PRINT",
+    "tipo": "nueva",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-is-love-2/"
+  },
+  {
+    "fecha": "26/09/2026 15:46",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Connected Zero Baby Buddha",
+    "tipo": "vendida",
+    "precio": "140,00€",
+    "precio_num": 140.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-connected-zero-baby-buddha/"
+  },
+  {
+    "fecha": "26/09/2026 15:46",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Artemisa self-care",
+    "tipo": "vendida",
+    "precio": "350,00€",
+    "precio_num": 350.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-artemisa-self-care/"
   }
 ]
