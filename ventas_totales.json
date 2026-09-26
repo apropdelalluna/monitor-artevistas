@@ -14854,9 +14854,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Neon Sandwich": {
-    "total": 7330.0,
-    "obras_vendidas": 85,
-    "obras_con_precio": 85,
+    "total": 7470.0,
+    "obras_vendidas": 86,
+    "obras_con_precio": 86,
     "detalle": [
       {
         "titulo": "Neon Sandwich – Powdered Water II",
@@ -15285,9 +15285,15 @@
         "precio_num": 130.0,
         "url": "https://www.artevistas.eu/product/neon-sandwich-under-pressure-baby-buddha-spiderman-pg-33/",
         "fecha_deteccion": "12/09/2026"
+      },
+      {
+        "titulo": "Neon Sandwich – Connected Zero Baby Buddha",
+        "precio_num": 140.0,
+        "url": "https://www.artevistas.eu/product/neon-sandwich-connected-zero-baby-buddha/",
+        "fecha_deteccion": "26/09/2026"
       }
     ],
-    "ultima_actualizacion": "12/09/2026 13:28"
+    "ultima_actualizacion": "26/09/2026 15:46"
   },
   "Orson Buch": {
     "total": 6630.0,
@@ -21674,9 +21680,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 1690.0,
-    "obras_vendidas": 12,
-    "obras_con_precio": 12,
+    "total": 2040.0,
+    "obras_vendidas": 13,
+    "obras_con_precio": 13,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21748,9 +21754,15 @@
         "precio_num": 35.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-mac-virgen/",
         "fecha_deteccion": "21/09/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Artemisa self-care",
+        "precio_num": 350.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-artemisa-self-care/",
+        "fecha_deteccion": "26/09/2026"
       }
     ],
-    "ultima_actualizacion": "21/09/2026 18:20"
+    "ultima_actualizacion": "26/09/2026 15:46"
   },
   "Ninon Réo": {
     "total": 700.0,
