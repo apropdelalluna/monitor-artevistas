@@ -5943,5 +5943,77 @@
     "precio": "350,00€",
     "precio_num": 350.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-artemisa-self-care/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "Akore",
+    "obra": "Akore – Free under the sun PRINT",
+    "tipo": "desaparecida",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/akore-free-under-the-sun-print/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Telling stories I",
+    "tipo": "vendida",
+    "precio": "1.400,00€",
+    "precio_num": 1400.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories-i/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "Matthieu Kowad",
+    "obra": "Matthieu Kowad – Telling stories",
+    "tipo": "nueva",
+    "precio": "1.400,00€",
+    "precio_num": 1400.0,
+    "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Rosalita",
+    "tipo": "nueva",
+    "precio": "3.450,00€",
+    "precio_num": 3450.0,
+    "url": "https://www.artevistas.eu/product/the-catman-rosalita/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Words of silence and hope",
+    "tipo": "nueva",
+    "precio": "3.450,00€",
+    "precio_num": 3450.0,
+    "url": "https://www.artevistas.eu/product/the-catman-words-of-silence-and-hope/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Danger",
+    "tipo": "nueva",
+    "precio": "3.150,00€",
+    "precio_num": 3150.0,
+    "url": "https://www.artevistas.eu/product/the-catman-danger/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Enable options",
+    "tipo": "nueva",
+    "precio": "2.300,00€",
+    "precio_num": 2300.0,
+    "url": "https://www.artevistas.eu/product/the-catman-enable-options/"
+  },
+  {
+    "fecha": "27/09/2026 16:54",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Fresh Buda",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-fresh-buda/"
   }
 ]
