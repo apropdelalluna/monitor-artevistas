@@ -7466,9 +7466,9 @@
     "ultima_actualizacion": "20/09/2026 11:21"
   },
   "Matthieu Kowad": {
-    "total": 12800.0,
-    "obras_vendidas": 11,
-    "obras_con_precio": 11,
+    "total": 14200.0,
+    "obras_vendidas": 12,
+    "obras_con_precio": 12,
     "detalle": [
       {
         "titulo": "Matthieu Kowad – Us and them S",
@@ -7528,9 +7528,15 @@
         "precio_num": 1400.0,
         "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories/",
         "fecha_deteccion": "23/09/2026"
+      },
+      {
+        "titulo": "Matthieu Kowad – Telling stories I",
+        "precio_num": 1400.0,
+        "url": "https://www.artevistas.eu/product/matthieu-kowad-telling-stories-i/",
+        "fecha_deteccion": "27/09/2026"
       }
     ],
-    "ultima_actualizacion": "23/09/2026 18:26"
+    "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Me Lata": {
     "total": 296524.0,
@@ -21680,9 +21686,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 2040.0,
-    "obras_vendidas": 13,
-    "obras_con_precio": 13,
+    "total": 2540.0,
+    "obras_vendidas": 14,
+    "obras_con_precio": 14,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21760,9 +21766,15 @@
         "precio_num": 350.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-artemisa-self-care/",
         "fecha_deteccion": "26/09/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Fresh Buda",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-fresh-buda/",
+        "fecha_deteccion": "27/09/2026"
       }
     ],
-    "ultima_actualizacion": "26/09/2026 15:46"
+    "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Ninon Réo": {
     "total": 700.0,
