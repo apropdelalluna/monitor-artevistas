@@ -2708,6 +2708,30 @@
       "precio": "350,00€",
       "precio_num": 350.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "27/09/2026",
+      "artista": "Akore",
+      "obra": "Akore – Free under the sun PRINT",
+      "precio": "40,00€",
+      "precio_num": 40.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "27/09/2026",
+      "artista": "Matthieu Kowad",
+      "obra": "Matthieu Kowad – Telling stories I",
+      "precio": "1.400,00€",
+      "precio_num": 1400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/09/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Fresh Buda",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
     }
   ]
 }
