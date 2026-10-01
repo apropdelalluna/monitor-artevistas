@@ -6015,5 +6015,14 @@
     "precio": "500,00€",
     "precio_num": 500.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-fresh-buda/"
+  },
+  {
+    "fecha": "01/10/2026 12:51",
+    "artista": "El Xupet Negre",
+    "obra": "El Xupet Negre – Flow",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/el-xupet-negre-flow/"
   }
 ]
