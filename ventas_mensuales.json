@@ -2733,5 +2733,15 @@
       "precio_num": 500.0,
       "tipo": "vendida"
     }
+  ],
+  "2026-10": [
+    {
+      "fecha": "01/10/2026",
+      "artista": "El Xupet Negre",
+      "obra": "El Xupet Negre – Flow",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    }
   ]
 }
