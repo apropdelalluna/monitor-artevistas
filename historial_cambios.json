@@ -6024,5 +6024,32 @@
     "precio": "500,00€",
     "precio_num": 500.0,
     "url": "https://www.artevistas.eu/product/el-xupet-negre-flow/"
+  },
+  {
+    "fecha": "02/10/2026 11:25",
+    "artista": "Akore",
+    "obra": "Akore – Free under the sun PRINT",
+    "tipo": "nueva",
+    "precio": "40,00€",
+    "precio_num": 40.0,
+    "url": "https://www.artevistas.eu/product/akore-free-under-the-sun-print/"
+  },
+  {
+    "fecha": "02/10/2026 11:25",
+    "artista": "Gil Gelpi",
+    "obra": "Gil Gelpi – Parténope",
+    "tipo": "desaparecida",
+    "precio": "1.950,00€",
+    "precio_num": 1950.0,
+    "url": "https://www.artevistas.eu/product/gil-gelpi-partenope/"
+  },
+  {
+    "fecha": "02/10/2026 11:25",
+    "artista": "MOWCKA",
+    "obra": "Mowcka – Fluir",
+    "tipo": "vendida",
+    "precio": "80,00€",
+    "precio_num": 80.0,
+    "url": "https://www.artevistas.eu/product/mowcka-fluir/"
   }
 ]
