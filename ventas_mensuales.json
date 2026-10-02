@@ -2742,6 +2742,22 @@
       "precio": "500,00€",
       "precio_num": 500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "02/10/2026",
+      "artista": "Gil Gelpi",
+      "obra": "Gil Gelpi – Parténope",
+      "precio": "1.950,00€",
+      "precio_num": 1950.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "02/10/2026",
+      "artista": "MOWCKA",
+      "obra": "Mowcka – Fluir",
+      "precio": "80,00€",
+      "precio_num": 80.0,
+      "tipo": "vendida"
     }
   ]
 }
