@@ -14625,9 +14625,9 @@
     "ultima_actualizacion": "07/05/2026 06:24"
   },
   "MOWCKA": {
-    "total": 5624.0,
-    "obras_vendidas": 46,
-    "obras_con_precio": 46,
+    "total": 5704.0,
+    "obras_vendidas": 47,
+    "obras_con_precio": 47,
     "detalle": [
       {
         "titulo": "Mowcka – Sin título 8",
@@ -14861,9 +14861,15 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-21/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Mowcka – Fluir",
+        "precio_num": 80.0,
+        "url": "https://www.artevistas.eu/product/mowcka-fluir/",
+        "fecha_deteccion": "02/10/2026"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 11:10"
+    "ultima_actualizacion": "02/10/2026 11:25"
   },
   "Neon Sandwich": {
     "total": 7470.0,
