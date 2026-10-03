@@ -6051,5 +6051,32 @@
     "precio": "80,00€",
     "precio_num": 80.0,
     "url": "https://www.artevistas.eu/product/mowcka-fluir/"
+  },
+  {
+    "fecha": "03/10/2026 11:55",
+    "artista": "Irene Bou",
+    "obra": "Irene Bou\t– Entretenimiento",
+    "tipo": "nueva",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/irene-bou-entretenimiento/"
+  },
+  {
+    "fecha": "03/10/2026 11:55",
+    "artista": "Irene Bou",
+    "obra": "Irene Bou\t– Ondulados",
+    "tipo": "nueva",
+    "precio": "550,00€",
+    "precio_num": 550.0,
+    "url": "https://www.artevistas.eu/product/irene-bou-ondulados/"
+  },
+  {
+    "fecha": "03/10/2026 11:55",
+    "artista": "Mireia Cifuentes",
+    "obra": "Mireia Cifuentes – Perfil",
+    "tipo": "vendida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/mireia-cifuentes-perfil/"
   }
 ]
