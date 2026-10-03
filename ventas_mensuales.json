@@ -2758,6 +2758,14 @@
       "precio": "80,00€",
       "precio_num": 80.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "03/10/2026",
+      "artista": "Mireia Cifuentes",
+      "obra": "Mireia Cifuentes – Perfil",
+      "precio": "220,00€",
+      "precio_num": 220.0,
+      "tipo": "vendida"
     }
   ]
 }
