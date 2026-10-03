@@ -6078,5 +6078,14 @@
     "precio": "220,00€",
     "precio_num": 220.0,
     "url": "https://www.artevistas.eu/product/mireia-cifuentes-perfil/"
+  },
+  {
+    "fecha": "03/10/2026 19:00",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Hombre de orejas rojas con Dieffenbachia (RESERVED)",
+    "tipo": "vendida",
+    "precio": "450,00€",
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-de-orejas-rojas-con-dieffenbachia/"
   }
 ]
