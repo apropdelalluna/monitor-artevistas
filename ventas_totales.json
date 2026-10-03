@@ -1231,9 +1231,9 @@
     "ultima_actualizacion": "10/09/2026 12:26"
   },
   "Álvaro Gómez-Pantoja": {
-    "total": 20800.0,
-    "obras_vendidas": 40,
-    "obras_con_precio": 40,
+    "total": 21250.0,
+    "obras_vendidas": 41,
+    "obras_con_precio": 41,
     "detalle": [
       {
         "titulo": "Álvaro Gómez-Pantoja – El secreto",
@@ -1438,9 +1438,15 @@
         "precio_num": 850.0,
         "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-desayuno/",
         "fecha_deteccion": "30/08/2026"
+      },
+      {
+        "titulo": "Álvaro Gómez-Pantoja – Hombre de orejas rojas con Dieffenbachia (RESERVED)",
+        "precio_num": 450.0,
+        "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-de-orejas-rojas-con-dieffenbachia/",
+        "fecha_deteccion": "03/10/2026"
       }
     ],
-    "ultima_actualizacion": "30/08/2026 13:59"
+    "ultima_actualizacion": "03/10/2026 19:00"
   },
   "Andrzej Farfulowski": {
     "total": 91490.0,
