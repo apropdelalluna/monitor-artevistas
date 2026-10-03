@@ -14297,9 +14297,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Mireia Cifuentes": {
-    "total": 10623.0,
-    "obras_vendidas": 37,
-    "obras_con_precio": 37,
+    "total": 10843.0,
+    "obras_vendidas": 38,
+    "obras_con_precio": 38,
     "detalle": [
       {
         "titulo": "Mireia Cifuentes – Cráneo",
@@ -14487,9 +14487,15 @@
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/mireia-cifuentes-flores-iv/",
         "fecha_deteccion": "19/06/2026"
+      },
+      {
+        "titulo": "Mireia Cifuentes – Perfil",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-perfil/",
+        "fecha_deteccion": "03/10/2026"
       }
     ],
-    "ultima_actualizacion": "19/06/2026 16:35"
+    "ultima_actualizacion": "03/10/2026 11:55"
   },
   "Miss Cutcut": {
     "total": 8190.0,
