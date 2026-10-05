@@ -6087,5 +6087,14 @@
     "precio": "450,00€",
     "precio_num": 450.0,
     "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-hombre-de-orejas-rojas-con-dieffenbachia/"
+  },
+  {
+    "fecha": "05/10/2026 09:59",
+    "artista": "Sater",
+    "obra": "Sater – Rusty subways – Cercanías",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/sater-rusty-subways-cercanias-3/"
   }
 ]
