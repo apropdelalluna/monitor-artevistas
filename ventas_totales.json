@@ -18053,9 +18053,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 12190.0,
-    "obras_vendidas": 47,
-    "obras_con_precio": 47,
+    "total": 12240.0,
+    "obras_vendidas": 48,
+    "obras_con_precio": 48,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -18295,9 +18295,15 @@
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/sater-rusty-subways-barcelona-2/",
         "fecha_deteccion": "25/09/2026"
+      },
+      {
+        "titulo": "Sater – Rusty subways – Cercanías",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/sater-rusty-subways-cercanias-3/",
+        "fecha_deteccion": "05/10/2026"
       }
     ],
-    "ultima_actualizacion": "25/09/2026 18:23"
+    "ultima_actualizacion": "05/10/2026 09:59"
   },
   "Sergi Muñoz Lozano": {
     "total": 70410.0,
