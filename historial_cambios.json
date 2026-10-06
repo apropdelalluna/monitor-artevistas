@@ -6096,5 +6096,14 @@
     "precio": "50,00€",
     "precio_num": 50.0,
     "url": "https://www.artevistas.eu/product/sater-rusty-subways-cercanias-3/"
+  },
+  {
+    "fecha": "06/10/2026 18:33",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Pikachu II",
+    "tipo": "vendida",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-ii/"
   }
 ]
