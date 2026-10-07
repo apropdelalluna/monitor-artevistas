@@ -2790,6 +2790,118 @@
       "precio": "680,00€",
       "precio_num": 680.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Fèlix Roca",
+      "obra": "Fèlix Roca – Vida adulta",
+      "precio": "3.000,00€",
+      "precio_num": 3000.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Fèlix Roca",
+      "obra": "Fèlix Roca – El Parque",
+      "precio": "3.500,00€",
+      "precio_num": 3500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Fèlix Roca",
+      "obra": "Fèlix Roca – El Timbaler del Bruc",
+      "precio": "3.800,00€",
+      "precio_num": 3800.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Juan Carlos Valdiviezo",
+      "obra": "Juan Carlos Valdiviezo Ramírez – Murs Morts: Morado",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Juan Carlos Valdiviezo",
+      "obra": "Juan Carlos Valdiviezo Ramírez – Murs Morts: Ocre",
+      "precio": "120,00€",
+      "precio_num": 120.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Julien Deniau aka Unavista",
+      "obra": "Julien Deniau aka Unavista – Vinilo 4",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Amour (C)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love of my life",
+      "precio": "400,00€",
+      "precio_num": 400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Sater",
+      "obra": "Sater – Rusty subways – Milano",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Contra corriente",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Power",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Xavi Mira",
+      "obra": "Xavi Mira – Las voces de tu mirada",
+      "precio": "5.000,00€",
+      "precio_num": 5000.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Come to the gold side PRINT",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/10/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Mac Virgen II PRINT",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
     }
   ]
 }
