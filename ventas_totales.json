@@ -4720,9 +4720,9 @@
     "ultima_actualizacion": "01/10/2026 12:51"
   },
   "Fèlix Roca": {
-    "total": 17300.0,
-    "obras_vendidas": 11,
-    "obras_con_precio": 11,
+    "total": 27600.0,
+    "obras_vendidas": 14,
+    "obras_con_precio": 14,
     "detalle": [
       {
         "titulo": "Fèlix Roca – BEEE",
@@ -4778,9 +4778,27 @@
         "titulo": "Fèlix Roca – What a mess",
         "precio_num": 2000.0,
         "url": "https://www.artevistas.eu/product/felix-roca-what-a-mess/"
+      },
+      {
+        "titulo": "Fèlix Roca – Vida adulta",
+        "precio_num": 3000.0,
+        "url": "https://www.artevistas.eu/product/felix-roca-vida-adulta/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Fèlix Roca – El Parque",
+        "precio_num": 3500.0,
+        "url": "https://www.artevistas.eu/product/felix-roca-el-parque/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Fèlix Roca – El Timbaler del Bruc",
+        "precio_num": 3800.0,
+        "url": "https://www.artevistas.eu/product/felix-roca-el-timbaler-del-bruc/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:44"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Filippo Ioco": {
     "total": 1960.0,
@@ -6190,9 +6208,9 @@
     "ultima_actualizacion": "22/08/2026 13:51"
   },
   "Juan Carlos Valdiviezo": {
-    "total": 8890.0,
-    "obras_vendidas": 17,
-    "obras_con_precio": 17,
+    "total": 9130.0,
+    "obras_vendidas": 19,
+    "obras_con_precio": 19,
     "detalle": [
       {
         "titulo": "Juan Carlos Valdiviezo Ramírez – Murs morts 2021 Oro",
@@ -6278,14 +6296,26 @@
         "titulo": "Juan Carlos Valdiviezo Ramírez – Infinito",
         "precio_num": 450.0,
         "url": "https://www.artevistas.eu/product/infinito/"
+      },
+      {
+        "titulo": "Juan Carlos Valdiviezo Ramírez – Murs Morts: Morado",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/murs-morts-violeta/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Juan Carlos Valdiviezo Ramírez – Murs Morts: Ocre",
+        "precio_num": 120.0,
+        "url": "https://www.artevistas.eu/product/murs-morts-ocre/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "07/05/2026 04:52"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Julien Deniau aka Unavista": {
-    "total": 13700.0,
-    "obras_vendidas": 27,
-    "obras_con_precio": 25,
+    "total": 13725.0,
+    "obras_vendidas": 28,
+    "obras_con_precio": 26,
     "detalle": [
       {
         "titulo": "Julien Deniau aka Unavista – Japanese fish",
@@ -6426,9 +6456,15 @@
         "precio_num": 150.0,
         "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-purple-hand/",
         "fecha_deteccion": "02/09/2026"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Vinilo 4",
+        "precio_num": 25.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-vinilo04low/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "02/09/2026 13:50"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Konair": {
     "total": 47046.0,
@@ -7557,9 +7593,9 @@
     "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Me Lata": {
-    "total": 296524.0,
-    "obras_vendidas": 1184,
-    "obras_con_precio": 1178,
+    "total": 297124.0,
+    "obras_vendidas": 1186,
+    "obras_con_precio": 1180,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14131,9 +14167,21 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/me-lata-daydreaming-2/",
         "fecha_deteccion": "25/09/2026"
+      },
+      {
+        "titulo": "Me Lata – Amour (C)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-amour-18/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Me Lata – Love of my life",
+        "precio_num": 400.0,
+        "url": "https://www.artevistas.eu/product/me-lata-love-of-my-life-21/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "25/09/2026 18:23"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Miquel Serratosa": {
     "total": 55950.0,
@@ -18059,9 +18107,9 @@
     "ultima_actualizacion": "07/05/2026 07:04"
   },
   "Sater": {
-    "total": 12240.0,
-    "obras_vendidas": 48,
-    "obras_con_precio": 48,
+    "total": 12260.0,
+    "obras_vendidas": 49,
+    "obras_con_precio": 49,
     "detalle": [
       {
         "titulo": "Sater – Rusty subways – Budapest",
@@ -18307,9 +18355,15 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/sater-rusty-subways-cercanias-3/",
         "fecha_deteccion": "05/10/2026"
+      },
+      {
+        "titulo": "Sater – Rusty subways – Milano",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/sater-rusty-subways-milano/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "05/10/2026 09:59"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Sergi Muñoz Lozano": {
     "total": 70410.0,
@@ -18746,9 +18800,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13226.0,
-    "obras_vendidas": 148,
-    "obras_con_precio": 148,
+    "total": 13322.0,
+    "obras_vendidas": 150,
+    "obras_con_precio": 150,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19529,9 +19583,21 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-one-two-three/",
         "fecha_deteccion": "19/09/2026"
+      },
+      {
+        "titulo": "The Catman – Contra corriente",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-contra-corriente/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "The Catman – Power",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/power/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "19/09/2026 14:57"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Tim Marsh": {
     "total": 52400.0,
@@ -20480,9 +20546,9 @@
     "ultima_actualizacion": "23/09/2026 12:22"
   },
   "Xavi Mira": {
-    "total": 129880.0,
-    "obras_vendidas": 77,
-    "obras_con_precio": 77,
+    "total": 134880.0,
+    "obras_vendidas": 78,
+    "obras_con_precio": 78,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -20871,9 +20937,15 @@
         "precio_num": 2000.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-la-sombra-azul/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Xavi Mira – Las voces de tu mirada",
+        "precio_num": 5000.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-las-voces-de-tu-mirada/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 18:48"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Xavier Krauel": {
     "total": 2830.0,
@@ -21722,9 +21794,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 2540.0,
-    "obras_vendidas": 14,
-    "obras_con_precio": 14,
+    "total": 2610.0,
+    "obras_vendidas": 16,
+    "obras_con_precio": 16,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -21808,9 +21880,21 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-fresh-buda/",
         "fecha_deteccion": "27/09/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Come to the gold side PRINT",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-come-to-the-gold-side/",
+        "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Mac Virgen II PRINT",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-mac-virgen-ii/",
+        "fecha_deteccion": "07/10/2026"
       }
     ],
-    "ultima_actualizacion": "27/09/2026 16:54"
+    "ultima_actualizacion": "07/10/2026 18:44"
   },
   "Ninon Réo": {
     "total": 700.0,
