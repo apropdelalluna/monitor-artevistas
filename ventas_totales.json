@@ -14357,9 +14357,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Mireia Cifuentes": {
-    "total": 10843.0,
-    "obras_vendidas": 38,
-    "obras_con_precio": 38,
+    "total": 10913.0,
+    "obras_vendidas": 40,
+    "obras_con_precio": 40,
     "detalle": [
       {
         "titulo": "Mireia Cifuentes – Cráneo",
@@ -14553,9 +14553,21 @@
         "precio_num": 220.0,
         "url": "https://www.artevistas.eu/product/mireia-cifuentes-perfil/",
         "fecha_deteccion": "03/10/2026"
+      },
+      {
+        "titulo": "Mireia Cifuentes – Caras",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-caras/",
+        "fecha_deteccion": "08/10/2026"
+      },
+      {
+        "titulo": "Mireia Cifuentes – Cráneo II",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/mireia-cifuentes-craneo-ii-3/",
+        "fecha_deteccion": "08/10/2026"
       }
     ],
-    "ultima_actualizacion": "03/10/2026 11:55"
+    "ultima_actualizacion": "08/10/2026 21:06"
   },
   "Miss Cutcut": {
     "total": 8190.0,
@@ -20546,9 +20558,9 @@
     "ultima_actualizacion": "23/09/2026 12:22"
   },
   "Xavi Mira": {
-    "total": 134880.0,
-    "obras_vendidas": 78,
-    "obras_con_precio": 78,
+    "total": 137420.0,
+    "obras_vendidas": 79,
+    "obras_con_precio": 79,
     "detalle": [
       {
         "titulo": "Xavi Mira – 1993",
@@ -20943,9 +20955,15 @@
         "precio_num": 5000.0,
         "url": "https://www.artevistas.eu/product/xavi-mira-las-voces-de-tu-mirada/",
         "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Xavi Mira – El trono del silencio (RESERVED)",
+        "precio_num": 2540.0,
+        "url": "https://www.artevistas.eu/product/xavi-mira-el-trono-de-silencio/",
+        "fecha_deteccion": "08/10/2026"
       }
     ],
-    "ultima_actualizacion": "07/10/2026 18:44"
+    "ultima_actualizacion": "08/10/2026 21:06"
   },
   "Xavier Krauel": {
     "total": 2830.0,
