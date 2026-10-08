@@ -2902,6 +2902,30 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "08/10/2026",
+      "artista": "Mireia Cifuentes",
+      "obra": "Mireia Cifuentes – Caras",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/10/2026",
+      "artista": "Mireia Cifuentes",
+      "obra": "Mireia Cifuentes – Cráneo II",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/10/2026",
+      "artista": "Xavi Mira",
+      "obra": "Xavi Mira – El trono del silencio (RESERVED)",
+      "precio": "2.540,00€",
+      "precio_num": 2540.0,
+      "tipo": "vendida"
     }
   ]
 }
