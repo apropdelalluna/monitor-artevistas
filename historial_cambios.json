@@ -6258,5 +6258,50 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-mac-virgen-ii/"
+  },
+  {
+    "fecha": "08/10/2026 21:06",
+    "artista": "CuellarRabassa",
+    "obra": "CuellarRabassa",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "08/10/2026 21:06",
+    "artista": "María Cuéllar",
+    "obra": "María Cuéllar",
+    "tipo": "artista_desaparecido",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
+  },
+  {
+    "fecha": "08/10/2026 21:06",
+    "artista": "Mireia Cifuentes",
+    "obra": "Mireia Cifuentes – Caras",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/mireia-cifuentes-caras/"
+  },
+  {
+    "fecha": "08/10/2026 21:06",
+    "artista": "Mireia Cifuentes",
+    "obra": "Mireia Cifuentes – Cráneo II",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/mireia-cifuentes-craneo-ii-3/"
+  },
+  {
+    "fecha": "08/10/2026 21:06",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – El trono del silencio (RESERVED)",
+    "tipo": "vendida",
+    "precio": "2.540,00€",
+    "precio_num": 2540.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-el-trono-de-silencio/"
   }
 ]
