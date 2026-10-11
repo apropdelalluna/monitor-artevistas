@@ -6303,5 +6303,32 @@
     "precio": "2.540,00€",
     "precio_num": 2540.0,
     "url": "https://www.artevistas.eu/product/xavi-mira-el-trono-de-silencio/"
+  },
+  {
+    "fecha": "11/10/2026 14:28",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Suspiros de España",
+    "tipo": "vendida",
+    "precio": "3.750,00€",
+    "precio_num": 3750.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-suspiros-de-espana/"
+  },
+  {
+    "fecha": "11/10/2026 14:28",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Skull S3",
+    "tipo": "vendida",
+    "precio": "230,00€",
+    "precio_num": 230.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-skull-s3/"
+  },
+  {
+    "fecha": "11/10/2026 14:28",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Now is the moment",
+    "tipo": "vendida",
+    "precio": "900,00€",
+    "precio_num": 900.0,
+    "url": "https://www.artevistas.eu/product/me-lata-now-is-the-moment-12/"
   }
 ]
