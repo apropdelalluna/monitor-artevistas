@@ -7605,9 +7605,9 @@
     "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Me Lata": {
-    "total": 298024.0,
-    "obras_vendidas": 1187,
-    "obras_con_precio": 1181,
+    "total": 298504.0,
+    "obras_vendidas": 1189,
+    "obras_con_precio": 1183,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14197,9 +14197,21 @@
         "precio_num": 900.0,
         "url": "https://www.artevistas.eu/product/me-lata-now-is-the-moment-12/",
         "fecha_deteccion": "11/10/2026"
+      },
+      {
+        "titulo": "Me Lata – Life (S)",
+        "precio_num": 200.0,
+        "url": "https://www.artevistas.eu/product/me-lata-life-8/",
+        "fecha_deteccion": "11/10/2026"
+      },
+      {
+        "titulo": "Me Lata – Forever",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/me-lata-forever-5/",
+        "fecha_deteccion": "11/10/2026"
       }
     ],
-    "ultima_actualizacion": "11/10/2026 14:28"
+    "ultima_actualizacion": "11/10/2026 21:15"
   },
   "Miquel Serratosa": {
     "total": 55950.0,
