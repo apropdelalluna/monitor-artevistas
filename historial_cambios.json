@@ -6330,5 +6330,23 @@
     "precio": "900,00€",
     "precio_num": 900.0,
     "url": "https://www.artevistas.eu/product/me-lata-now-is-the-moment-12/"
+  },
+  {
+    "fecha": "11/10/2026 21:15",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Life (S)",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-life-8/"
+  },
+  {
+    "fecha": "11/10/2026 21:15",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Forever",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/me-lata-forever-5/"
   }
 ]
