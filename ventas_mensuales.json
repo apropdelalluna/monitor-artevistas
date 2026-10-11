@@ -2950,6 +2950,22 @@
       "precio": "900,00€",
       "precio_num": 900.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "11/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Life (S)",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "11/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Forever",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
     }
   ]
 }
