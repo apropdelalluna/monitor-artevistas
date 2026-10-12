@@ -2966,6 +2966,30 @@
       "precio": "280,00€",
       "precio_num": 280.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "12/10/2026",
+      "artista": "Neon Sandwich",
+      "obra": "Neon Sandwich – Teen Spirit Kurt Cobain PRINT",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "12/10/2026",
+      "artista": "Neon Sandwich",
+      "obra": "Neon Sandwich – Sweet Kiss Jesus Red PRINT",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "12/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Manual básico de vuelo",
+      "precio": "98,00€",
+      "precio_num": 98.0,
+      "tipo": "vendida"
     }
   ]
 }
