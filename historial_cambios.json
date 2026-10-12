@@ -6348,5 +6348,32 @@
     "precio": "280,00€",
     "precio_num": 280.0,
     "url": "https://www.artevistas.eu/product/me-lata-forever-5/"
+  },
+  {
+    "fecha": "12/10/2026 12:00",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Teen Spirit Kurt Cobain PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-teen-spirit-kurt-cobain/"
+  },
+  {
+    "fecha": "12/10/2026 12:00",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Sweet Kiss Jesus Red PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-sweet-kiss-jesus-red/"
+  },
+  {
+    "fecha": "12/10/2026 12:00",
+    "artista": "The Catman",
+    "obra": "The Catman – Manual básico de vuelo",
+    "tipo": "vendida",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-manual-basico-de-vuelo-2/"
   }
 ]
