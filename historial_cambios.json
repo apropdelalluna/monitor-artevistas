@@ -6375,5 +6375,14 @@
     "precio": "98,00€",
     "precio_num": 98.0,
     "url": "https://www.artevistas.eu/product/the-catman-manual-basico-de-vuelo-2/"
+  },
+  {
+    "fecha": "13/10/2026 19:27",
+    "artista": "Álvaro Gómez-Pantoja",
+    "obra": "Álvaro Gómez-Pantoja – Chica de fiesta",
+    "tipo": "vendida",
+    "precio": "600,00€",
+    "precio_num": 600.0,
+    "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-de-fiesta/"
   }
 ]
