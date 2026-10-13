@@ -2990,6 +2990,14 @@
       "precio": "98,00€",
       "precio_num": 98.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/10/2026",
+      "artista": "Álvaro Gómez-Pantoja",
+      "obra": "Álvaro Gómez-Pantoja – Chica de fiesta",
+      "precio": "600,00€",
+      "precio_num": 600.0,
+      "tipo": "vendida"
     }
   ]
 }
