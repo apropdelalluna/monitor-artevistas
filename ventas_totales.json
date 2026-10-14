@@ -3939,9 +3939,9 @@
     "ultima_actualizacion": "09/08/2026 19:12"
   },
   "Cesar Biojo": {
-    "total": 115579.0,
-    "obras_vendidas": 57,
-    "obras_con_precio": 57,
+    "total": 119979.0,
+    "obras_vendidas": 58,
+    "obras_con_precio": 58,
     "detalle": [
       {
         "titulo": "Cesar Biojo – Arnau 4",
@@ -4231,9 +4231,15 @@
         "precio_num": 2320.0,
         "url": "https://www.artevistas.eu/product/cesar-biojo-3/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Cesar Biojo – Susanna vs the people 8",
+        "precio_num": 4400.0,
+        "url": "https://www.artevistas.eu/product/cesar-biojo-susanna-vs-the-people-8/",
+        "fecha_deteccion": "14/10/2026"
       }
     ],
-    "ultima_actualizacion": "11/08/2026 08:20"
+    "ultima_actualizacion": "14/10/2026 11:55"
   },
   "Charlax": {
     "total": 6730.0,
@@ -7050,9 +7056,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "Mark Rox": {
-    "total": 195440.0,
-    "obras_vendidas": 18,
-    "obras_con_precio": 18,
+    "total": 204940.0,
+    "obras_vendidas": 19,
+    "obras_con_precio": 19,
     "detalle": [
       {
         "titulo": "Mark Rox – ARTonaut #18",
@@ -7149,9 +7155,15 @@
         "precio_num": 2800.0,
         "url": "https://www.artevistas.eu/product/mark-rox-artonaut-lazy-genius/",
         "fecha_deteccion": "18/07/2026"
+      },
+      {
+        "titulo": "Mark Rox – Graffiti Rhino",
+        "precio_num": 9500.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-graffiti-rhino/",
+        "fecha_deteccion": "14/10/2026"
       }
     ],
-    "ultima_actualizacion": "18/07/2026 10:11"
+    "ultima_actualizacion": "14/10/2026 11:55"
   },
   "Martí Roca Balcells": {
     "total": 63950.0,
