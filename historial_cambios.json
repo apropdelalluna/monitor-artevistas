@@ -6384,5 +6384,41 @@
     "precio": "600,00€",
     "precio_num": 600.0,
     "url": "https://www.artevistas.eu/product/alvaro-gomez-pantoja-chica-de-fiesta/"
+  },
+  {
+    "fecha": "14/10/2026 11:55",
+    "artista": "Cesar Biojo",
+    "obra": "Cesar Biojo – Susanna vs the people 8",
+    "tipo": "vendida",
+    "precio": "4.400,00€",
+    "precio_num": 4400.0,
+    "url": "https://www.artevistas.eu/product/cesar-biojo-susanna-vs-the-people-8/"
+  },
+  {
+    "fecha": "14/10/2026 11:55",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Graffiti Rhino",
+    "tipo": "vendida",
+    "precio": "9.500,00€",
+    "precio_num": 9500.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-graffiti-rhino/"
+  },
+  {
+    "fecha": "14/10/2026 11:55",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Poetry",
+    "tipo": "nueva",
+    "precio": "260,00€",
+    "precio_num": 260.0,
+    "url": "https://www.artevistas.eu/product/me-lata-poetry/"
+  },
+  {
+    "fecha": "14/10/2026 11:55",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Art makers are sexy",
+    "tipo": "nueva",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/me-lata-art-makers-are-sexy/"
   }
 ]
