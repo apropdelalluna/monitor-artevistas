@@ -2998,6 +2998,22 @@
       "precio": "600,00€",
       "precio_num": 600.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "14/10/2026",
+      "artista": "Cesar Biojo",
+      "obra": "Cesar Biojo – Susanna vs the people 8",
+      "precio": "4.400,00€",
+      "precio_num": 4400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/10/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – Graffiti Rhino",
+      "precio": "9.500,00€",
+      "precio_num": 9500.0,
+      "tipo": "vendida"
     }
   ]
 }
