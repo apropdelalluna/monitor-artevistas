@@ -4598,9 +4598,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "El Xupet Negre": {
-    "total": 31057.0,
-    "obras_vendidas": 26,
-    "obras_con_precio": 26,
+    "total": 31557.0,
+    "obras_vendidas": 27,
+    "obras_con_precio": 27,
     "detalle": [
       {
         "titulo": "El Xupet Negre – Peace now",
@@ -4733,9 +4733,15 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/el-xupet-negre-flow/",
         "fecha_deteccion": "01/10/2026"
+      },
+      {
+        "titulo": "El Xupet Negre – Rebel Style",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/el-xupet-negre-rebel-style/",
+        "fecha_deteccion": "15/10/2026"
       }
     ],
-    "ultima_actualizacion": "01/10/2026 12:51"
+    "ultima_actualizacion": "15/10/2026 12:35"
   },
   "Fèlix Roca": {
     "total": 27600.0,
@@ -6232,9 +6238,9 @@
     "ultima_actualizacion": "22/08/2026 13:51"
   },
   "Juan Carlos Valdiviezo": {
-    "total": 9130.0,
-    "obras_vendidas": 19,
-    "obras_con_precio": 19,
+    "total": 9850.0,
+    "obras_vendidas": 20,
+    "obras_con_precio": 20,
     "detalle": [
       {
         "titulo": "Juan Carlos Valdiviezo Ramírez – Murs morts 2021 Oro",
@@ -6332,9 +6338,15 @@
         "precio_num": 120.0,
         "url": "https://www.artevistas.eu/product/murs-morts-ocre/",
         "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Juan Carlos Valdiviezo Ramírez – Homúnculo (RESERVED)",
+        "precio_num": 720.0,
+        "url": "https://www.artevistas.eu/product/homunculo/",
+        "fecha_deteccion": "15/10/2026"
       }
     ],
-    "ultima_actualizacion": "07/10/2026 18:44"
+    "ultima_actualizacion": "15/10/2026 12:35"
   },
   "Julien Deniau aka Unavista": {
     "total": 13725.0,
@@ -7056,9 +7068,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "Mark Rox": {
-    "total": 204940.0,
-    "obras_vendidas": 19,
-    "obras_con_precio": 19,
+    "total": 228250.0,
+    "obras_vendidas": 21,
+    "obras_con_precio": 21,
     "detalle": [
       {
         "titulo": "Mark Rox – ARTonaut #18",
@@ -7161,9 +7173,21 @@
         "precio_num": 9500.0,
         "url": "https://www.artevistas.eu/product/mark-rox-graffiti-rhino/",
         "fecha_deteccion": "14/10/2026"
+      },
+      {
+        "titulo": "Mark Rox – ARTonaut #22",
+        "precio_num": 10000.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-22/",
+        "fecha_deteccion": "15/10/2026"
+      },
+      {
+        "titulo": "Mark Rox – ARTonaut #21",
+        "precio_num": 13310.0,
+        "url": "https://www.artevistas.eu/product/mark-rox-artonaut-21/",
+        "fecha_deteccion": "15/10/2026"
       }
     ],
-    "ultima_actualizacion": "14/10/2026 11:55"
+    "ultima_actualizacion": "15/10/2026 12:35"
   },
   "Martí Roca Balcells": {
     "total": 63950.0,
@@ -19848,9 +19872,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 87021.0,
-    "obras_vendidas": 150,
-    "obras_con_precio": 150,
+    "total": 89521.0,
+    "obras_vendidas": 151,
+    "obras_con_precio": 151,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -20619,9 +20643,15 @@
         "precio_num": 60.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-gold-and-pink/",
         "fecha_deteccion": "23/09/2026"
+      },
+      {
+        "titulo": "White Rabbit – Eyes Bunny Wide – Donyale",
+        "precio_num": 2500.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-eyes-bunny-wide-donyale/",
+        "fecha_deteccion": "15/10/2026"
       }
     ],
-    "ultima_actualizacion": "23/09/2026 12:22"
+    "ultima_actualizacion": "15/10/2026 12:35"
   },
   "Xavi Mira": {
     "total": 137420.0,
