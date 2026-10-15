@@ -6420,5 +6420,50 @@
     "precio": "500,00€",
     "precio_num": 500.0,
     "url": "https://www.artevistas.eu/product/me-lata-art-makers-are-sexy/"
+  },
+  {
+    "fecha": "15/10/2026 12:35",
+    "artista": "El Xupet Negre",
+    "obra": "El Xupet Negre – Rebel Style",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/el-xupet-negre-rebel-style/"
+  },
+  {
+    "fecha": "15/10/2026 12:35",
+    "artista": "Juan Carlos Valdiviezo",
+    "obra": "Juan Carlos Valdiviezo Ramírez – Homúnculo (RESERVED)",
+    "tipo": "vendida",
+    "precio": "720,00€",
+    "precio_num": 720.0,
+    "url": "https://www.artevistas.eu/product/homunculo/"
+  },
+  {
+    "fecha": "15/10/2026 12:35",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #22",
+    "tipo": "nueva_vendida",
+    "precio": "10.000,00€",
+    "precio_num": 10000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-22/"
+  },
+  {
+    "fecha": "15/10/2026 12:35",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #21",
+    "tipo": "nueva_vendida",
+    "precio": "13.310,00€",
+    "precio_num": 13310.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-21/"
+  },
+  {
+    "fecha": "15/10/2026 12:35",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Eyes Bunny Wide – Donyale",
+    "tipo": "vendida",
+    "precio": "2.500,00€",
+    "precio_num": 2500.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-eyes-bunny-wide-donyale/"
   }
 ]
