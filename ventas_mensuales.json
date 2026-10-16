@@ -3054,6 +3054,14 @@
       "precio": "2.500,00€",
       "precio_num": 2500.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "16/10/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Brain Escape Blue",
+      "precio": "98,00€",
+      "precio_num": 98.0,
+      "tipo": "vendida"
     }
   ]
 }
