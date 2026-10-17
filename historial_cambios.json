@@ -6492,5 +6492,23 @@
     "precio": "98,00€",
     "precio_num": 98.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-blue-2/"
+  },
+  {
+    "fecha": "17/10/2026 20:27",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – Graffiti Monkey",
+    "tipo": "nueva",
+    "precio": "9.000,00€",
+    "precio_num": 9000.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-graffiti-monkey/"
+  },
+  {
+    "fecha": "17/10/2026 20:27",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – McAuto Medieval PRINT",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-mcauto-medieval/"
   }
 ]
