@@ -16849,9 +16849,9 @@
     "ultima_actualizacion": "13/08/2026 11:10"
   },
   "Ramón Pons": {
-    "total": 13675.0,
-    "obras_vendidas": 84,
-    "obras_con_precio": 84,
+    "total": 13775.0,
+    "obras_vendidas": 85,
+    "obras_con_precio": 85,
     "detalle": [
       {
         "titulo": "Ramón Pons – Abrazo Rojo",
@@ -17280,9 +17280,15 @@
         "precio_num": 100.0,
         "url": "https://www.artevistas.eu/product/ramon-pons-individuo-naranja/",
         "fecha_deteccion": "16/09/2026"
+      },
+      {
+        "titulo": "Ramón Pons – Individuo goteo verde",
+        "precio_num": 100.0,
+        "url": "https://www.artevistas.eu/product/ramon-pons-individuo-goteo-verde/",
+        "fecha_deteccion": "18/10/2026"
       }
     ],
-    "ultima_actualizacion": "16/09/2026 16:56"
+    "ultima_actualizacion": "18/10/2026 18:38"
   },
   "Reb.MWC": {
     "total": 360.0,
