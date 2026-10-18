@@ -6510,5 +6510,14 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-mcauto-medieval/"
+  },
+  {
+    "fecha": "18/10/2026 18:38",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Individuo goteo verde",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-individuo-goteo-verde/"
   }
 ]
