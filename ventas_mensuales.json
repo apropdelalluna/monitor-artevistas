@@ -3070,6 +3070,14 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "18/10/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Individuo goteo verde",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
     }
   ]
 }
