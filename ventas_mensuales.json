@@ -3078,6 +3078,30 @@
       "precio": "100,00€",
       "precio_num": 100.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "19/10/2026",
+      "artista": "Pol Ballonga",
+      "obra": "Pol Ballonga – Ashes mini rosa – éd. 1/8",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "19/10/2026",
+      "artista": "Sater",
+      "obra": "Sater – Rusty subways – El Cairo",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "19/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Dream",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
