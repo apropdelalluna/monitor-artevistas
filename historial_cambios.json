@@ -6519,5 +6519,32 @@
     "precio": "100,00€",
     "precio_num": 100.0,
     "url": "https://www.artevistas.eu/product/ramon-pons-individuo-goteo-verde/"
+  },
+  {
+    "fecha": "19/10/2026 16:49",
+    "artista": "Pol Ballonga",
+    "obra": "Pol Ballonga – Ashes mini rosa – éd. 1/8",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-rosa/"
+  },
+  {
+    "fecha": "19/10/2026 16:49",
+    "artista": "Sater",
+    "obra": "Sater – Rusty subways – El Cairo",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/sater-rusty-subways-el-cairo/"
+  },
+  {
+    "fecha": "19/10/2026 16:49",
+    "artista": "The Catman",
+    "obra": "The Catman – Dream",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/dream-moon/"
   }
 ]
