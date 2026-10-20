@@ -6546,5 +6546,41 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/dream-moon/"
+  },
+  {
+    "fecha": "20/10/2026 18:17",
+    "artista": "António Azevedo",
+    "obra": "António Azevedo – Era uma vez… (354º Acto)",
+    "tipo": "vendida",
+    "precio": "245,00€",
+    "precio_num": 245.0,
+    "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-354o-acto/"
+  },
+  {
+    "fecha": "20/10/2026 18:17",
+    "artista": "António Azevedo",
+    "obra": "António Azevedo – Era uma vez… (327º Acto)",
+    "tipo": "vendida",
+    "precio": "245,00€",
+    "precio_num": 245.0,
+    "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-327o-acto/"
+  },
+  {
+    "fecha": "20/10/2026 18:17",
+    "artista": "Orson Buch",
+    "obra": "Orson Buch – Angelina Castaña",
+    "tipo": "vendida",
+    "precio": "220,00€",
+    "precio_num": 220.0,
+    "url": "https://www.artevistas.eu/product/orson-buch-angelina-castana/"
+  },
+  {
+    "fecha": "20/10/2026 18:17",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Mel B Spice PRINT",
+    "tipo": "vendida",
+    "precio": "20,00€",
+    "precio_num": 20.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-mel-b-spice/"
   }
 ]
