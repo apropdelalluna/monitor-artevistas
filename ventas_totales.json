@@ -1833,9 +1833,9 @@
     "ultima_actualizacion": "03/09/2026 21:40"
   },
   "António Azevedo": {
-    "total": 13285.0,
-    "obras_vendidas": 55,
-    "obras_con_precio": 55,
+    "total": 13775.0,
+    "obras_vendidas": 57,
+    "obras_con_precio": 57,
     "detalle": [
       {
         "titulo": "António Azevedo –  Era uma vez… (242° Acto)",
@@ -2112,9 +2112,21 @@
         "precio_num": 245.0,
         "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-365o-acto/",
         "fecha_deteccion": "08/06/2026"
+      },
+      {
+        "titulo": "António Azevedo – Era uma vez… (354º Acto)",
+        "precio_num": 245.0,
+        "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-354o-acto/",
+        "fecha_deteccion": "20/10/2026"
+      },
+      {
+        "titulo": "António Azevedo – Era uma vez… (327º Acto)",
+        "precio_num": 245.0,
+        "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-327o-acto/",
+        "fecha_deteccion": "20/10/2026"
       }
     ],
-    "ultima_actualizacion": "08/06/2026 11:49"
+    "ultima_actualizacion": "20/10/2026 18:17"
   },
   "Art is Trash – F. de Pájaro": {
     "total": 157853.0,
@@ -15476,9 +15488,9 @@
     "ultima_actualizacion": "12/10/2026 12:00"
   },
   "Orson Buch": {
-    "total": 6630.0,
-    "obras_vendidas": 31,
-    "obras_con_precio": 30,
+    "total": 6850.0,
+    "obras_vendidas": 32,
+    "obras_con_precio": 31,
     "detalle": [
       {
         "titulo": "Orson Buch – Daurada Pequeña",
@@ -15636,9 +15648,15 @@
         "precio_num": 0.0,
         "url": "https://www.artevistas.eu/product/orson-buch-tucan-olio-olivastre/",
         "fecha_recuperacion": "09-13/08/2026"
+      },
+      {
+        "titulo": "Orson Buch – Angelina Castaña",
+        "precio_num": 220.0,
+        "url": "https://www.artevistas.eu/product/orson-buch-angelina-castana/",
+        "fecha_deteccion": "20/10/2026"
       }
     ],
-    "ultima_actualizacion": "13/08/2026 11:10"
+    "ultima_actualizacion": "20/10/2026 18:17"
   },
   "Ortaire de Coupigny": {
     "total": 12780.0,
@@ -21938,9 +21956,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 2645.0,
-    "obras_vendidas": 17,
-    "obras_con_precio": 17,
+    "total": 2665.0,
+    "obras_vendidas": 18,
+    "obras_con_precio": 18,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -22042,9 +22060,15 @@
         "precio_num": 35.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-mcauto-medieval/",
         "fecha_deteccion": "17/10/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Mel B Spice PRINT",
+        "precio_num": 20.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-mel-b-spice/",
+        "fecha_deteccion": "20/10/2026"
       }
     ],
-    "ultima_actualizacion": "17/10/2026 20:27"
+    "ultima_actualizacion": "20/10/2026 18:17"
   },
   "Ninon Réo": {
     "total": 700.0,
