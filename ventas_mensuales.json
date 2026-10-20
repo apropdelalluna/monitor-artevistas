@@ -3102,6 +3102,38 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "20/10/2026",
+      "artista": "António Azevedo",
+      "obra": "António Azevedo – Era uma vez… (354º Acto)",
+      "precio": "245,00€",
+      "precio_num": 245.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "20/10/2026",
+      "artista": "António Azevedo",
+      "obra": "António Azevedo – Era uma vez… (327º Acto)",
+      "precio": "245,00€",
+      "precio_num": 245.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "20/10/2026",
+      "artista": "Orson Buch",
+      "obra": "Orson Buch – Angelina Castaña",
+      "precio": "220,00€",
+      "precio_num": 220.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "20/10/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Mel B Spice PRINT",
+      "precio": "20,00€",
+      "precio_num": 20.0,
+      "tipo": "vendida"
     }
   ]
 }
