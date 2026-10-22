@@ -6582,5 +6582,32 @@
     "precio": "20,00€",
     "precio_num": 20.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-mel-b-spice/"
+  },
+  {
+    "fecha": "22/10/2026 21:54",
+    "artista": "The Catman",
+    "obra": "The Catman – Rebelution",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-rebelution/"
+  },
+  {
+    "fecha": "22/10/2026 21:54",
+    "artista": "The Catman",
+    "obra": "The Catman – 50’s oh yeah!",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-50s-oh-yeah/"
+  },
+  {
+    "fecha": "22/10/2026 21:54",
+    "artista": "The Catman",
+    "obra": "The Catman – La resistance",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-la-resistance/"
   }
 ]
