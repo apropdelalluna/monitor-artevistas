@@ -3134,6 +3134,30 @@
       "precio": "20,00€",
       "precio_num": 20.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "22/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Rebelution",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – 50’s oh yeah!",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "22/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – La resistance",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
