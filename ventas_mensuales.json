@@ -3158,6 +3158,30 @@
       "precio": "48,00€",
       "precio_num": 48.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "24/10/2026",
+      "artista": "Andrzej Farfulowski",
+      "obra": "Andrzej Farfulowski – No title 4",
+      "precio": "1.300,00€",
+      "precio_num": 1300.0,
+      "tipo": "desaparecida"
+    },
+    {
+      "fecha": "24/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "24/10/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Hope",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
     }
   ]
 }
