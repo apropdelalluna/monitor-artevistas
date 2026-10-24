@@ -6609,5 +6609,32 @@
     "precio": "48,00€",
     "precio_num": 48.0,
     "url": "https://www.artevistas.eu/product/the-catman-la-resistance/"
+  },
+  {
+    "fecha": "24/10/2026 18:18",
+    "artista": "Andrzej Farfulowski",
+    "obra": "Andrzej Farfulowski – No title 4",
+    "tipo": "desaparecida",
+    "precio": "1.300,00€",
+    "precio_num": 1300.0,
+    "url": "https://www.artevistas.eu/product/andrzej-farfulowski-no-title-4/"
+  },
+  {
+    "fecha": "24/10/2026 18:18",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-34/"
+  },
+  {
+    "fecha": "24/10/2026 18:18",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Hope",
+    "tipo": "vendida",
+    "precio": "95,00€",
+    "precio_num": 95.0,
+    "url": "https://www.artevistas.eu/product/me-lata-hope-22/"
   }
 ]
