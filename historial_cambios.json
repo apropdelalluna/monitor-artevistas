@@ -6636,5 +6636,50 @@
     "precio": "95,00€",
     "precio_num": 95.0,
     "url": "https://www.artevistas.eu/product/me-lata-hope-22/"
+  },
+  {
+    "fecha": "25/10/2026 19:45",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Pikachu Mandela",
+    "tipo": "nueva_vendida",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-mandela/"
+  },
+  {
+    "fecha": "25/10/2026 19:45",
+    "artista": "Filthy Freak",
+    "obra": "Filthy Freak – Skull small 1",
+    "tipo": "vendida",
+    "precio": "260,00€",
+    "precio_num": 260.0,
+    "url": "https://www.artevistas.eu/product/filthy-freak-skull-small-1/"
+  },
+  {
+    "fecha": "25/10/2026 19:45",
+    "artista": "Pol Ballonga",
+    "obra": "Pol Ballonga – Sphinx mini – éd. 1/8",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/pol-ballonga-sphinx-mini/"
+  },
+  {
+    "fecha": "25/10/2026 19:45",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Milk ice cream PRINT",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-milk-ice-cream/"
+  },
+  {
+    "fecha": "25/10/2026 19:45",
+    "artista": "Marina Salazar (No Queda Tinte)",
+    "obra": "Marina Salazar – Crazy night with Artemisa PRINT",
+    "tipo": "vendida",
+    "precio": "35,00€",
+    "precio_num": 35.0,
+    "url": "https://www.artevistas.eu/product/marina-salazar-crazy-night-with-artemisa/"
   }
 ]
