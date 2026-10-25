@@ -22295,5 +22295,19 @@
       }
     ],
     "ultima_actualizacion": "20/09/2026 11:21"
+  },
+  "Josep Maria Carbó": {
+    "total": 1500.0,
+    "obras_vendidas": 1,
+    "obras_con_precio": 1,
+    "detalle": [
+      {
+        "titulo": "Josep Maria Carbó – Met museum – Three figures Lorna Simpson",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-met-museum-three-figures-lorna-simpson/",
+        "fecha_recuperacion": "25/10/2026"
+      }
+    ],
+    "ultima_actualizacion": "25/10/2026 19:45"
   }
 }
