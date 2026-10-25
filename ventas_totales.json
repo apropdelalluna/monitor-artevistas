@@ -997,9 +997,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Alberto Blanchart": {
-    "total": 36460.0,
-    "obras_vendidas": 44,
-    "obras_con_precio": 44,
+    "total": 37140.0,
+    "obras_vendidas": 45,
+    "obras_con_precio": 45,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1232,9 +1232,15 @@
         "precio_num": 680.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-ii/",
         "fecha_deteccion": "06/10/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Pikachu Mandela",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-mandela/",
+        "fecha_deteccion": "25/10/2026"
       }
     ],
-    "ultima_actualizacion": "06/10/2026 18:33"
+    "ultima_actualizacion": "25/10/2026 19:45"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 21850.0,
@@ -4855,9 +4861,9 @@
     "ultima_actualizacion": "07/05/2026 04:44"
   },
   "Filthy Freak": {
-    "total": 13103.0,
-    "obras_vendidas": 58,
-    "obras_con_precio": 58,
+    "total": 13363.0,
+    "obras_vendidas": 59,
+    "obras_con_precio": 59,
     "detalle": [
       {
         "titulo": "Filthy Freak – Skull big 1",
@@ -5153,9 +5159,15 @@
         "precio_num": 230.0,
         "url": "https://www.artevistas.eu/product/filthy-freak-skull-s3/",
         "fecha_deteccion": "11/10/2026"
+      },
+      {
+        "titulo": "Filthy Freak – Skull small 1",
+        "precio_num": 260.0,
+        "url": "https://www.artevistas.eu/product/filthy-freak-skull-small-1/",
+        "fecha_deteccion": "25/10/2026"
       }
     ],
-    "ultima_actualizacion": "11/10/2026 14:28"
+    "ultima_actualizacion": "25/10/2026 19:45"
   },
   "Frank Diamond": {
     "total": 8880.0,
@@ -16764,9 +16776,9 @@
     "ultima_actualizacion": "07/05/2026 06:35"
   },
   "Pol Ballonga": {
-    "total": 35450.0,
-    "obras_vendidas": 21,
-    "obras_con_precio": 21,
+    "total": 35950.0,
+    "obras_vendidas": 22,
+    "obras_con_precio": 22,
     "detalle": [
       {
         "titulo": "Pol Ballonga – Atmosphere",
@@ -16880,9 +16892,15 @@
         "precio_num": 500.0,
         "url": "https://www.artevistas.eu/product/pol-ballonga-ashes-mini-rosa/",
         "fecha_deteccion": "19/10/2026"
+      },
+      {
+        "titulo": "Pol Ballonga – Sphinx mini – éd. 1/8",
+        "precio_num": 500.0,
+        "url": "https://www.artevistas.eu/product/pol-ballonga-sphinx-mini/",
+        "fecha_deteccion": "25/10/2026"
       }
     ],
-    "ultima_actualizacion": "19/10/2026 16:49"
+    "ultima_actualizacion": "25/10/2026 19:45"
   },
   "Ramón Pons": {
     "total": 13775.0,
@@ -21986,9 +22004,9 @@
     "ultima_actualizacion": "21/07/2026 18:35"
   },
   "Marina Salazar (No Queda Tinte)": {
-    "total": 2665.0,
-    "obras_vendidas": 18,
-    "obras_con_precio": 18,
+    "total": 2735.0,
+    "obras_vendidas": 20,
+    "obras_con_precio": 20,
     "detalle": [
       {
         "titulo": "Marina Salazar – Not every boy wants to be a soldier",
@@ -22096,9 +22114,21 @@
         "precio_num": 20.0,
         "url": "https://www.artevistas.eu/product/marina-salazar-mel-b-spice/",
         "fecha_deteccion": "20/10/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Milk ice cream PRINT",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-milk-ice-cream/",
+        "fecha_deteccion": "25/10/2026"
+      },
+      {
+        "titulo": "Marina Salazar – Crazy night with Artemisa PRINT",
+        "precio_num": 35.0,
+        "url": "https://www.artevistas.eu/product/marina-salazar-crazy-night-with-artemisa/",
+        "fecha_deteccion": "25/10/2026"
       }
     ],
-    "ultima_actualizacion": "20/10/2026 18:17"
+    "ultima_actualizacion": "25/10/2026 19:45"
   },
   "Ninon Réo": {
     "total": 700.0,
