@@ -3182,6 +3182,46 @@
       "precio": "95,00€",
       "precio_num": 95.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "25/10/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Pikachu Mandela",
+      "precio": "680,00€",
+      "precio_num": 680.0,
+      "tipo": "nueva_vendida"
+    },
+    {
+      "fecha": "25/10/2026",
+      "artista": "Filthy Freak",
+      "obra": "Filthy Freak – Skull small 1",
+      "precio": "260,00€",
+      "precio_num": 260.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "25/10/2026",
+      "artista": "Pol Ballonga",
+      "obra": "Pol Ballonga – Sphinx mini – éd. 1/8",
+      "precio": "500,00€",
+      "precio_num": 500.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "25/10/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Milk ice cream PRINT",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "25/10/2026",
+      "artista": "Marina Salazar (No Queda Tinte)",
+      "obra": "Marina Salazar – Crazy night with Artemisa PRINT",
+      "precio": "35,00€",
+      "precio_num": 35.0,
+      "tipo": "vendida"
     }
   ]
 }
