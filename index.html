@@ -682,8 +682,10 @@
           document.getElementById('historialContainer').innerHTML = '<div class="empty">Sin datos</div>';
         } else {
           const opciones = meses.map((mes, i) => {
-            const n = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva')).length;
-            return `<option value="${mes}">${formatMes(mes)}${i === 0 ? ' (actual)' : ''} · ${n} obra${n !== 1 ? 's' : ''}</option>`;
+            const vsOpt = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
+            const n = vsOpt.length;
+            const tot = vsOpt.reduce((s, v) => s + (v.precio_num || 0), 0);
+            return `<option value="${mes}">${formatMes(mes)}${i === 0 ? ' (actual)' : ''} · ${n} obra${n !== 1 ? 's' : ''} · ${formatNum(tot)}</option>`;
           }).join('');
           document.getElementById('historialContainer').innerHTML = `
             <select id="mesSelect" onchange="_renderMesSeleccionado(this.value)" style="width:100%;margin-bottom:16px;padding:10px 12px;background:var(--surface);border:1px solid var(--border);color:inherit;font-family:'DM Mono',monospace;font-size:13px;">${opciones}</select>
