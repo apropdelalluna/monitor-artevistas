@@ -3222,6 +3222,22 @@
       "precio": "35,00€",
       "precio_num": 35.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "27/10/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Bulbasaur",
+      "precio": "680,00€",
+      "precio_num": 680.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/10/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Truth is over",
+      "precio": "98,00€",
+      "precio_num": 98.0,
+      "tipo": "vendida"
     }
   ]
 }
