@@ -997,9 +997,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Alberto Blanchart": {
-    "total": 37140.0,
-    "obras_vendidas": 45,
-    "obras_con_precio": 45,
+    "total": 37820.0,
+    "obras_vendidas": 46,
+    "obras_con_precio": 46,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1238,9 +1238,15 @@
         "precio_num": 680.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-pikachu-mandela/",
         "fecha_deteccion": "25/10/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Bulbasaur",
+        "precio_num": 680.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-bulbasaur/",
+        "fecha_deteccion": "27/10/2026"
       }
     ],
-    "ultima_actualizacion": "25/10/2026 19:45"
+    "ultima_actualizacion": "27/10/2026 07:21"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 21850.0,
@@ -18962,9 +18968,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13612.0,
-    "obras_vendidas": 155,
-    "obras_con_precio": 155,
+    "total": 13710.0,
+    "obras_vendidas": 156,
+    "obras_con_precio": 156,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19787,9 +19793,15 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-la-resistance/",
         "fecha_deteccion": "22/10/2026"
+      },
+      {
+        "titulo": "The Catman – Truth is over",
+        "precio_num": 98.0,
+        "url": "https://www.artevistas.eu/product/the-catman-truth-is-over/",
+        "fecha_deteccion": "27/10/2026"
       }
     ],
-    "ultima_actualizacion": "22/10/2026 21:54"
+    "ultima_actualizacion": "27/10/2026 07:21"
   },
   "Tim Marsh": {
     "total": 52400.0,
