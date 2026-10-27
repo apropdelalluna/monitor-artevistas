@@ -6681,5 +6681,23 @@
     "precio": "35,00€",
     "precio_num": 35.0,
     "url": "https://www.artevistas.eu/product/marina-salazar-crazy-night-with-artemisa/"
+  },
+  {
+    "fecha": "27/10/2026 07:21",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Bulbasaur",
+    "tipo": "vendida",
+    "precio": "680,00€",
+    "precio_num": 680.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-bulbasaur/"
+  },
+  {
+    "fecha": "27/10/2026 07:21",
+    "artista": "The Catman",
+    "obra": "The Catman – Truth is over",
+    "tipo": "vendida",
+    "precio": "98,00€",
+    "precio_num": 98.0,
+    "url": "https://www.artevistas.eu/product/the-catman-truth-is-over/"
   }
 ]
