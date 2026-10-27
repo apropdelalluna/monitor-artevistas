@@ -659,30 +659,37 @@
               </div>
             </div>`;
           } else {
-            // Meses anteriores: desplegable
-            return `<div style="margin-bottom:8px;border:1px solid var(--border);">
-              <div onclick="toggleMes(${idx})" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;cursor:pointer;background:var(--surface);">
+            // Mes anterior seleccionado en el desplegable: siempre expandido
+            return `<div style="margin-bottom:8px;">
+              <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
                 <div>
                   <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;">${nombreMes}</span>
                   <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}${sinPrecioMesHist > 0 ? ` · ${sinPrecioMesHist} sin precio` : ''}</span>
                 </div>
-                <div style="display:flex;align-items:center;gap:12px;">
-                  <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
-                  <span id="mes-arrow-${idx}" style="font-size:18px;color:var(--text-dim);">▸</span>
-                </div>
+                <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
               </div>
-              <div id="mes-content-${idx}" style="display:none;">
-                ${obrasHTML}${artistasHTML}
-              </div>
+              ${obrasHTML || '<div class="empty" style="padding:16px 0 8px;">Sin obras vendidas este mes</div>'}${artistasHTML}
             </div>`;
           }
         }
 
-        meses.forEach((mes, idx) => {
-          historialHTML += buildMesHTML(mes, idx);
-        });
+        window._renderMesSeleccionado = function (mes) {
+          const idx = meses.indexOf(mes);
+          document.getElementById('mesContenido').innerHTML = buildMesHTML(mes, idx);
+        };
 
-        document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
+        if (meses.length === 0) {
+          document.getElementById('historialContainer').innerHTML = '<div class="empty">Sin datos</div>';
+        } else {
+          const opciones = meses.map((mes, i) => {
+            const n = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva')).length;
+            return `<option value="${mes}">${formatMes(mes)}${i === 0 ? ' (actual)' : ''} · ${n} obra${n !== 1 ? 's' : ''}</option>`;
+          }).join('');
+          document.getElementById('historialContainer').innerHTML = `
+            <select id="mesSelect" onchange="_renderMesSeleccionado(this.value)" style="width:100%;margin-bottom:16px;padding:10px 12px;background:var(--surface);border:1px solid var(--border);color:inherit;font-family:'DM Mono',monospace;font-size:13px;">${opciones}</select>
+            <div id="mesContenido"></div>`;
+          _renderMesSeleccionado(meses[0]);
+        }
 
         // Últimos cambios
         _historialInvertido = [...historial].reverse();
