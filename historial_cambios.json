@@ -6699,5 +6699,23 @@
     "precio": "98,00€",
     "precio_num": 98.0,
     "url": "https://www.artevistas.eu/product/the-catman-truth-is-over/"
+  },
+  {
+    "fecha": "27/10/2026 19:37",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Life",
+    "tipo": "vendida",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-life-9/"
+  },
+  {
+    "fecha": "27/10/2026 19:37",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Esperança",
+    "tipo": "vendida",
+    "precio": "350,00€",
+    "precio_num": 350.0,
+    "url": "https://www.artevistas.eu/product/me-lata-esperanca/"
   }
 ]
