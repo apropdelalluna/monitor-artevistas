@@ -6717,5 +6717,59 @@
     "precio": "350,00€",
     "precio_num": 350.0,
     "url": "https://www.artevistas.eu/product/me-lata-esperanca/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "MOWCKA",
+    "obra": "Mowcka – Sin título 6",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/mowcka-sin-titulo-6/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "Zach Oreo",
+    "obra": "Zach Oreo – Never without my pá am tomaquét",
+    "tipo": "nueva",
+    "precio": "3.600,00€",
+    "precio_num": 3600.0,
+    "url": "https://www.artevistas.eu/product/zach-oreo-never-without-my-pa-am-tomaquet/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "Zach Oreo",
+    "obra": "Zach Oreo – From Barcelona to infinity…",
+    "tipo": "nueva",
+    "precio": "3.200,00€",
+    "precio_num": 3200.0,
+    "url": "https://www.artevistas.eu/product/zach-oreo-from-barcelona-to-infinity/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "Zach Oreo",
+    "obra": "Zach Oreo – El clásico",
+    "tipo": "nueva",
+    "precio": "3.200,00€",
+    "precio_num": 3200.0,
+    "url": "https://www.artevistas.eu/product/zach-oreo-el-clasico/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "Zach Oreo",
+    "obra": "Zach Oreo – Dream team`92",
+    "tipo": "nueva",
+    "precio": "1.500,00€",
+    "precio_num": 1500.0,
+    "url": "https://www.artevistas.eu/product/zach-oreo-dream-team92/"
+  },
+  {
+    "fecha": "28/10/2026 19:36",
+    "artista": "Zach Oreo",
+    "obra": "Zach Oreo – Do not disturb",
+    "tipo": "nueva",
+    "precio": "1.500,00€",
+    "precio_num": 1500.0,
+    "url": "https://www.artevistas.eu/product/zach-oreo-do-not-disturb/"
   }
 ]
