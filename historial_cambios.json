@@ -6771,5 +6771,32 @@
     "precio": "1.500,00€",
     "precio_num": 1500.0,
     "url": "https://www.artevistas.eu/product/zach-oreo-do-not-disturb/"
+  },
+  {
+    "fecha": "29/10/2026 19:51",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Disco Death Darth Star Lotus PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-disco-death-darth-star-lotus/"
+  },
+  {
+    "fecha": "29/10/2026 19:51",
+    "artista": "Ramón Pons",
+    "obra": "Ramón Pons – Gris y negro",
+    "tipo": "vendida",
+    "precio": "100,00€",
+    "precio_num": 100.0,
+    "url": "https://www.artevistas.eu/product/ramon-pons-gris-y-negro/"
+  },
+  {
+    "fecha": "29/10/2026 19:51",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Brain escape",
+    "tipo": "vendida",
+    "precio": "145,00€",
+    "precio_num": 145.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-3/"
   }
 ]
