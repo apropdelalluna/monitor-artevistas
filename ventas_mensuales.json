@@ -3262,6 +3262,30 @@
       "precio": "50,00€",
       "precio_num": 50.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "29/10/2026",
+      "artista": "Neon Sandwich",
+      "obra": "Neon Sandwich – Disco Death Darth Star Lotus PRINT",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "29/10/2026",
+      "artista": "Ramón Pons",
+      "obra": "Ramón Pons – Gris y negro",
+      "precio": "100,00€",
+      "precio_num": 100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "29/10/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Brain escape",
+      "precio": "145,00€",
+      "precio_num": 145.0,
+      "tipo": "vendida"
     }
   ]
 }
