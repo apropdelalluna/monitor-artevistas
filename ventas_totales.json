@@ -2688,9 +2688,9 @@
     "ultima_actualizacion": "11/10/2026 14:28"
   },
   "Ashwan": {
-    "total": 7515.0,
-    "obras_vendidas": 19,
-    "obras_con_precio": 19,
+    "total": 7765.0,
+    "obras_vendidas": 20,
+    "obras_con_precio": 20,
     "detalle": [
       {
         "titulo": "Ashwan – Can’t stop, won’t stop Blue III",
@@ -2787,9 +2787,15 @@
         "precio_num": 180.0,
         "url": "https://www.artevistas.eu/product/ashwan-can-t-stop-won-t-stop-blue-i/",
         "fecha_deteccion": "30/05/2026"
+      },
+      {
+        "titulo": "Ashwan – Can’t stop, won’t stop Silver II",
+        "precio_num": 250.0,
+        "url": "https://www.artevistas.eu/product/ashwan-cant-stop-wont-stop-silver-iii-2/",
+        "fecha_deteccion": "31/10/2026"
       }
     ],
-    "ultima_actualizacion": "30/05/2026 18:41"
+    "ultima_actualizacion": "31/10/2026 06:18"
   },
   "Bernard Tartinville": {
     "total": 1980.0,
