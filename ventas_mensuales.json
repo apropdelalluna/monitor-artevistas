@@ -3286,6 +3286,14 @@
       "precio": "145,00€",
       "precio_num": 145.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "31/10/2026",
+      "artista": "Ashwan",
+      "obra": "Ashwan – Can’t stop, won’t stop Silver II",
+      "precio": "250,00€",
+      "precio_num": 250.0,
+      "tipo": "vendida"
     }
   ]
 }
