@@ -6798,5 +6798,14 @@
     "precio": "145,00€",
     "precio_num": 145.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-3/"
+  },
+  {
+    "fecha": "31/10/2026 06:18",
+    "artista": "Ashwan",
+    "obra": "Ashwan – Can’t stop, won’t stop Silver II",
+    "tipo": "vendida",
+    "precio": "250,00€",
+    "precio_num": 250.0,
+    "url": "https://www.artevistas.eu/product/ashwan-cant-stop-wont-stop-silver-iii-2/"
   }
 ]
