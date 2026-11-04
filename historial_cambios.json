@@ -6807,5 +6807,41 @@
     "precio": "250,00€",
     "precio_num": 250.0,
     "url": "https://www.artevistas.eu/product/ashwan-cant-stop-wont-stop-silver-iii-2/"
+  },
+  {
+    "fecha": "04/11/2026 19:37",
+    "artista": "Ashwan",
+    "obra": "Ashwan – Palimpsest (RESERVED)",
+    "tipo": "vendida",
+    "precio": "280,00€",
+    "precio_num": 280.0,
+    "url": "https://www.artevistas.eu/product/ashwan-palimpsest/"
+  },
+  {
+    "fecha": "04/11/2026 19:37",
+    "artista": "Jean-Marc Hild",
+    "obra": "Jean-Marc Hild – Vague d’aube II (RESERVED)",
+    "tipo": "vendida",
+    "precio": "1.600,00€",
+    "precio_num": 1600.0,
+    "url": "https://www.artevistas.eu/product/vague-daube-ii/"
+  },
+  {
+    "fecha": "04/11/2026 19:37",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Contemporary Mask – Eye dx",
+    "tipo": "vendida",
+    "precio": "650,00€",
+    "precio_num": 650.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-dx/"
+  },
+  {
+    "fecha": "04/11/2026 19:37",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Contemporary Mask – Eye sx",
+    "tipo": "vendida",
+    "precio": "650,00€",
+    "precio_num": 650.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-sx/"
   }
 ]
