@@ -2688,9 +2688,9 @@
     "ultima_actualizacion": "11/10/2026 14:28"
   },
   "Ashwan": {
-    "total": 7765.0,
-    "obras_vendidas": 20,
-    "obras_con_precio": 20,
+    "total": 8045.0,
+    "obras_vendidas": 21,
+    "obras_con_precio": 21,
     "detalle": [
       {
         "titulo": "Ashwan – Can’t stop, won’t stop Blue III",
@@ -2793,9 +2793,15 @@
         "precio_num": 250.0,
         "url": "https://www.artevistas.eu/product/ashwan-cant-stop-wont-stop-silver-iii-2/",
         "fecha_deteccion": "31/10/2026"
+      },
+      {
+        "titulo": "Ashwan – Palimpsest (RESERVED)",
+        "precio_num": 280.0,
+        "url": "https://www.artevistas.eu/product/ashwan-palimpsest/",
+        "fecha_deteccion": "04/11/2026"
       }
     ],
-    "ultima_actualizacion": "31/10/2026 06:18"
+    "ultima_actualizacion": "04/11/2026 19:37"
   },
   "Bernard Tartinville": {
     "total": 1980.0,
@@ -6135,9 +6141,9 @@
     "ultima_actualizacion": "07/05/2026 04:51"
   },
   "Jean-Marc Hild": {
-    "total": 33960.0,
-    "obras_vendidas": 26,
-    "obras_con_precio": 26,
+    "total": 35560.0,
+    "obras_vendidas": 27,
+    "obras_con_precio": 27,
     "detalle": [
       {
         "titulo": "Jean-Marc Hild – Hundun espace ondulatoire X",
@@ -6269,9 +6275,15 @@
         "precio_num": 600.0,
         "url": "https://www.artevistas.eu/product/jean-marc-hild-gravitation-xxiv/",
         "fecha_deteccion": "22/08/2026"
+      },
+      {
+        "titulo": "Jean-Marc Hild – Vague d’aube II (RESERVED)",
+        "precio_num": 1600.0,
+        "url": "https://www.artevistas.eu/product/vague-daube-ii/",
+        "fecha_deteccion": "04/11/2026"
       }
     ],
-    "ultima_actualizacion": "22/08/2026 13:51"
+    "ultima_actualizacion": "04/11/2026 19:37"
   },
   "Juan Carlos Valdiviezo": {
     "total": 9850.0,
@@ -20010,9 +20022,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 89764.0,
-    "obras_vendidas": 153,
-    "obras_con_precio": 153,
+    "total": 91064.0,
+    "obras_vendidas": 155,
+    "obras_con_precio": 155,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -20799,9 +20811,21 @@
         "precio_num": 145.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-brain-escape-3/",
         "fecha_deteccion": "29/10/2026"
+      },
+      {
+        "titulo": "White Rabbit – Contemporary Mask – Eye dx",
+        "precio_num": 650.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-dx/",
+        "fecha_deteccion": "04/11/2026"
+      },
+      {
+        "titulo": "White Rabbit – Contemporary Mask – Eye sx",
+        "precio_num": 650.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-sx/",
+        "fecha_deteccion": "04/11/2026"
       }
     ],
-    "ultima_actualizacion": "29/10/2026 19:51"
+    "ultima_actualizacion": "04/11/2026 19:37"
   },
   "Xavi Mira": {
     "total": 137420.0,
