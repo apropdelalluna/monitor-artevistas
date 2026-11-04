@@ -3296,5 +3296,38 @@
       "tipo": "vendida"
     }
   ],
-  "2026-11": []
+  "2026-11": [
+    {
+      "fecha": "04/11/2026",
+      "artista": "Ashwan",
+      "obra": "Ashwan – Palimpsest (RESERVED)",
+      "precio": "280,00€",
+      "precio_num": 280.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "04/11/2026",
+      "artista": "Jean-Marc Hild",
+      "obra": "Jean-Marc Hild – Vague d’aube II (RESERVED)",
+      "precio": "1.600,00€",
+      "precio_num": 1600.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "04/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Contemporary Mask – Eye dx",
+      "precio": "650,00€",
+      "precio_num": 650.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "04/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Contemporary Mask – Eye sx",
+      "precio": "650,00€",
+      "precio_num": 650.0,
+      "tipo": "vendida"
+    }
+  ]
 }
