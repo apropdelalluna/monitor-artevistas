@@ -3328,6 +3328,54 @@
       "precio": "650,00€",
       "precio_num": 650.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Que aunque me encuentre lejos me sientes cerca PRINT",
+      "precio": "50,00€",
+      "precio_num": 50.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – Colom PRINT",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "Reb.MWC",
+      "obra": "Reb Mwc – Plaza Real I PRINT",
+      "precio": "25,00€",
+      "precio_num": 25.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit –  Bunny A.R.M.Y – 23 – 2",
+      "precio": "1.100,00€",
+      "precio_num": 1100.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – The bunny army",
+      "precio": "800,00€",
+      "precio_num": 800.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "06/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Bunny revolution red tropicana",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
     }
   ]
 }
