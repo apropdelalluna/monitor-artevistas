@@ -7695,9 +7695,9 @@
     "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Me Lata": {
-    "total": 299349.0,
-    "obras_vendidas": 1193,
-    "obras_con_precio": 1187,
+    "total": 299399.0,
+    "obras_vendidas": 1194,
+    "obras_con_precio": 1188,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14323,9 +14323,15 @@
         "precio_num": 350.0,
         "url": "https://www.artevistas.eu/product/me-lata-esperanca/",
         "fecha_deteccion": "27/10/2026"
+      },
+      {
+        "titulo": "Me Lata – Que aunque me encuentre lejos me sientes cerca PRINT",
+        "precio_num": 50.0,
+        "url": "https://www.artevistas.eu/product/que-aunque-me-encuentre-lejos-me-sientes-cerca/",
+        "fecha_deteccion": "06/11/2026"
       }
     ],
-    "ultima_actualizacion": "27/10/2026 19:37"
+    "ultima_actualizacion": "06/11/2026 22:05"
   },
   "Miquel Serratosa": {
     "total": 55950.0,
@@ -17399,9 +17405,9 @@
     "ultima_actualizacion": "29/10/2026 19:51"
   },
   "Reb.MWC": {
-    "total": 360.0,
-    "obras_vendidas": 13,
-    "obras_con_precio": 13,
+    "total": 410.0,
+    "obras_vendidas": 15,
+    "obras_con_precio": 15,
     "detalle": [
       {
         "titulo": "Reb Mwc – Pg de Colom",
@@ -17472,9 +17478,21 @@
         "precio_num": 25.0,
         "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-2/",
         "fecha_deteccion": "17/06/2026"
+      },
+      {
+        "titulo": "Reb Mwc – Colom PRINT",
+        "precio_num": 25.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-colom-2/",
+        "fecha_deteccion": "06/11/2026"
+      },
+      {
+        "titulo": "Reb Mwc – Plaza Real I PRINT",
+        "precio_num": 25.0,
+        "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-i-2/",
+        "fecha_deteccion": "06/11/2026"
       }
     ],
-    "ultima_actualizacion": "17/06/2026 21:12"
+    "ultima_actualizacion": "06/11/2026 22:05"
   },
   "Rémi Boudeperche": {
     "total": 960.0,
@@ -20022,9 +20040,9 @@
     "ultima_actualizacion": "11/06/2026 18:15"
   },
   "White Rabbit": {
-    "total": 91064.0,
-    "obras_vendidas": 155,
-    "obras_con_precio": 155,
+    "total": 93059.0,
+    "obras_vendidas": 158,
+    "obras_con_precio": 158,
     "detalle": [
       {
         "titulo": "White Rabbit – Zulu Fashion Week",
@@ -20823,9 +20841,27 @@
         "precio_num": 650.0,
         "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-sx/",
         "fecha_deteccion": "04/11/2026"
+      },
+      {
+        "titulo": "White Rabbit –  Bunny A.R.M.Y – 23 – 2",
+        "precio_num": 1100.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-2/",
+        "fecha_deteccion": "06/11/2026"
+      },
+      {
+        "titulo": "White Rabbit – The bunny army",
+        "precio_num": 800.0,
+        "url": "https://www.artevistas.eu/product/white-rabbit-the-bunny-army/",
+        "fecha_deteccion": "06/11/2026"
+      },
+      {
+        "titulo": "White Rabbit – Bunny revolution red tropicana",
+        "precio_num": 95.0,
+        "url": "https://www.artevistas.eu/product/white-rabbitbunny-revolution-red-tropicana/",
+        "fecha_deteccion": "06/11/2026"
       }
     ],
-    "ultima_actualizacion": "04/11/2026 19:37"
+    "ultima_actualizacion": "06/11/2026 22:05"
   },
   "Xavi Mira": {
     "total": 137420.0,
