@@ -6843,5 +6843,68 @@
     "precio": "650,00€",
     "precio_num": 650.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-contemporary-mask-eye-sx/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Que aunque me encuentre lejos me sientes cerca PRINT",
+    "tipo": "vendida",
+    "precio": "50,00€",
+    "precio_num": 50.0,
+    "url": "https://www.artevistas.eu/product/que-aunque-me-encuentre-lejos-me-sientes-cerca/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – Colom PRINT",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-colom-2/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "Reb.MWC",
+    "obra": "Reb Mwc – Plaza Real I PRINT",
+    "tipo": "vendida",
+    "precio": "25,00€",
+    "precio_num": 25.0,
+    "url": "https://www.artevistas.eu/product/reb-mwc-plaza-real-i-2/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "The Catman",
+    "obra": "The Catman – Here now welcome home",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-here-now-welcome-home/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit –  Bunny A.R.M.Y – 23 – 2",
+    "tipo": "vendida",
+    "precio": "1.100,00€",
+    "precio_num": 1100.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-bunny-a-r-m-y-23-2/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – The bunny army",
+    "tipo": "vendida",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-the-bunny-army/"
+  },
+  {
+    "fecha": "06/11/2026 22:05",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Bunny revolution red tropicana",
+    "tipo": "vendida",
+    "precio": "95,00€",
+    "precio_num": 95.0,
+    "url": "https://www.artevistas.eu/product/white-rabbitbunny-revolution-red-tropicana/"
   }
 ]
