@@ -22441,9 +22441,9 @@
     "ultima_actualizacion": "20/09/2026 11:21"
   },
   "Josep Maria Carbó": {
-    "total": 4500.0,
-    "obras_vendidas": 3,
-    "obras_con_precio": 3,
+    "total": 7800.0,
+    "obras_vendidas": 5,
+    "obras_con_precio": 5,
     "detalle": [
       {
         "titulo": "Josep Maria Carbó – Met museum – Three figures Lorna Simpson",
@@ -22462,8 +22462,20 @@
         "precio_num": 1500.0,
         "url": "https://www.artevistas.eu/product/josep-maria-carbo-the-script/",
         "fecha_recuperacion": "01/11/2026"
+      },
+      {
+        "titulo": "Josep Maria Carbó – Muse",
+        "precio_num": 1800.0,
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-muse/",
+        "fecha_recuperacion": "07/11/2026"
+      },
+      {
+        "titulo": "Josep Maria Carbó – Disorganized reader",
+        "precio_num": 1500.0,
+        "url": "https://www.artevistas.eu/product/josep-maria-carbo-disorganized-reader/",
+        "fecha_recuperacion": "07/11/2026"
       }
     ],
-    "ultima_actualizacion": "01/11/2026 19:47"
+    "ultima_actualizacion": "07/11/2026 19:11"
   }
 }
