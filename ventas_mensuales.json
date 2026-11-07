@@ -3376,6 +3376,22 @@
       "precio": "95,00€",
       "precio_num": 95.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "07/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Just a crazy person in love with life",
+      "precio": "400,00€",
+      "precio_num": 400.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "07/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Love",
+      "precio": "200,00€",
+      "precio_num": 200.0,
+      "tipo": "vendida"
     }
   ]
 }
