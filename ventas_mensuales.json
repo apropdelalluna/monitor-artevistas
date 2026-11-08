@@ -3392,6 +3392,38 @@
       "precio": "200,00€",
       "precio_num": 200.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "08/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Zulu son gold sharada",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Zulu mom gold renaissance",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Santamuerte renaissance",
+      "precio": "95,00€",
+      "precio_num": 95.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "08/11/2026",
+      "artista": "White Rabbit",
+      "obra": "White Rabbit – Sound on Yellow and Black",
+      "precio": "60,00€",
+      "precio_num": 60.0,
+      "tipo": "vendida"
     }
   ]
 }
