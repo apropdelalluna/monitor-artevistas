@@ -6960,5 +6960,23 @@
     "precio": "60,00€",
     "precio_num": 60.0,
     "url": "https://www.artevistas.eu/product/white-rabbit-sound-on-yellow-and-black/"
+  },
+  {
+    "fecha": "09/11/2026 22:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Enamorados",
+    "tipo": "vendida",
+    "precio": "500,00€",
+    "precio_num": 500.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-enamorados/"
+  },
+  {
+    "fecha": "09/11/2026 22:48",
+    "artista": "Art is Trash – F. de Pájaro",
+    "obra": "Art is Trash – Suicidio español",
+    "tipo": "vendida",
+    "precio": "450,00€",
+    "precio_num": 450.0,
+    "url": "https://www.artevistas.eu/product/art-is-trash-suicidio-espan%cc%83ol/"
   }
 ]
