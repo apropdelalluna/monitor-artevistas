@@ -6978,5 +6978,14 @@
     "precio": "450,00€",
     "precio_num": 450.0,
     "url": "https://www.artevistas.eu/product/art-is-trash-suicidio-espan%cc%83ol/"
+  },
+  {
+    "fecha": "10/11/2026 19:42",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Baby buddha Wu Wei",
+    "tipo": "nueva",
+    "precio": "800,00€",
+    "precio_num": 800.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-baby-buddha-wu-wei/"
   }
 ]
