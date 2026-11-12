@@ -6987,5 +6987,32 @@
     "precio": "800,00€",
     "precio_num": 800.0,
     "url": "https://www.artevistas.eu/product/neon-sandwich-baby-buddha-wu-wei/"
+  },
+  {
+    "fecha": "12/11/2026 19:18",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Que bello es vivir (C)",
+    "tipo": "nueva",
+    "precio": "400,00€",
+    "precio_num": 400.0,
+    "url": "https://www.artevistas.eu/product/me-lata-que-bello-es-vivir-c/"
+  },
+  {
+    "fecha": "12/11/2026 19:18",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amour rosa (C)",
+    "tipo": "nueva",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amour-rosa-c/"
+  },
+  {
+    "fecha": "12/11/2026 19:18",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Love (C)",
+    "tipo": "nueva",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-love-c/"
   }
 ]
