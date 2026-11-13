@@ -7014,5 +7014,86 @@
     "precio": "200,00€",
     "precio_num": 200.0,
     "url": "https://www.artevistas.eu/product/me-lata-love-c/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes  – Reflejo urbano II",
+    "tipo": "nueva",
+    "precio": "8.000,00€",
+    "precio_num": 8000.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-reflejo-urbano-ii/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Bcn random city I",
+    "tipo": "nueva",
+    "precio": "7.200,00€",
+    "precio_num": 7200.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-bcn-random-city-i/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Lugar o no lugar I",
+    "tipo": "nueva",
+    "precio": "6.400,00€",
+    "precio_num": 6400.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-lugar-o-no-lugar-i/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Bcn pixels I",
+    "tipo": "nueva",
+    "precio": "5.000,00€",
+    "precio_num": 5000.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-bcn-pixels-i/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Puerto de Bcn II",
+    "tipo": "nueva",
+    "precio": "4.600,00€",
+    "precio_num": 4600.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-puerto-de-bcn-ii/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Bcn El Vela",
+    "tipo": "nueva",
+    "precio": "2.600,00€",
+    "precio_num": 2600.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-bcn-el-vela/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "Pepe Pujol Carabantes",
+    "obra": "Pepe Pujol Carabantes – Bcn World Trade Center",
+    "tipo": "nueva",
+    "precio": "2.400,00€",
+    "precio_num": 2400.0,
+    "url": "https://www.artevistas.eu/product/pepe-pujol-carabantes-bcn-world-trade-center/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "The Catman",
+    "obra": "The Catman – Play station",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-play-station/"
+  },
+  {
+    "fecha": "13/11/2026 21:03",
+    "artista": "ZZZ – Various Artists",
+    "obra": "Isabel Rabassa – Vicious",
+    "tipo": "desaparecida",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://www.artevistas.eu/product/vicious/"
   }
 ]
