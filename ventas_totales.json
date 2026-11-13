@@ -19058,9 +19058,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13710.0,
-    "obras_vendidas": 156,
-    "obras_con_precio": 156,
+    "total": 13758.0,
+    "obras_vendidas": 157,
+    "obras_con_precio": 157,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19889,9 +19889,15 @@
         "precio_num": 98.0,
         "url": "https://www.artevistas.eu/product/the-catman-truth-is-over/",
         "fecha_deteccion": "27/10/2026"
+      },
+      {
+        "titulo": "The Catman – Play station",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-play-station/",
+        "fecha_deteccion": "13/11/2026"
       }
     ],
-    "ultima_actualizacion": "27/10/2026 07:21"
+    "ultima_actualizacion": "13/11/2026 21:03"
   },
   "Tim Marsh": {
     "total": 52400.0,
