@@ -3440,6 +3440,22 @@
       "precio": "450,00€",
       "precio_num": 450.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "13/11/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Play station",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "13/11/2026",
+      "artista": "ZZZ – Various Artists",
+      "obra": "Isabel Rabassa – Vicious",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "desaparecida"
     }
   ]
 }
