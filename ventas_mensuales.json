@@ -3456,6 +3456,38 @@
       "precio": "SOLD",
       "precio_num": 0.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "14/11/2026",
+      "artista": "Julien Deniau aka Unavista",
+      "obra": "Julien Deniau aka Unavista – Owl wild life (RESERVED)",
+      "precio": "2.600,00€",
+      "precio_num": 2600.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/11/2026",
+      "artista": "Neon Sandwich",
+      "obra": "Neon Sandwich – Action Baby Buddha Spiderman pg. 31",
+      "precio": "130,00€",
+      "precio_num": 130.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/11/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Utopia is truthful and necessary",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "14/11/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Difícil no pensarte",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
