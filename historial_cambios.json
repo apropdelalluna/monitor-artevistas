@@ -7095,5 +7095,50 @@
     "precio": "SOLD",
     "precio_num": 0.0,
     "url": "https://www.artevistas.eu/product/vicious/"
+  },
+  {
+    "fecha": "14/11/2026 19:46",
+    "artista": "Julien Deniau aka Unavista",
+    "obra": "Julien Deniau aka Unavista – Owl wild life (RESERVED)",
+    "tipo": "vendida",
+    "precio": "2.600,00€",
+    "precio_num": 2600.0,
+    "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-owl-wild-life/"
+  },
+  {
+    "fecha": "14/11/2026 19:46",
+    "artista": "Neon Sandwich",
+    "obra": "Neon Sandwich – Action Baby Buddha Spiderman pg. 31",
+    "tipo": "vendida",
+    "precio": "130,00€",
+    "precio_num": 130.0,
+    "url": "https://www.artevistas.eu/product/neon-sandwich-action-baby-buddha-spiderman-pg-31/"
+  },
+  {
+    "fecha": "14/11/2026 19:46",
+    "artista": "The Catman",
+    "obra": "The Catman – Utopia is truthful and necessary",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-utopia-is-truthful-and-necessary-3/"
+  },
+  {
+    "fecha": "14/11/2026 19:46",
+    "artista": "The Catman",
+    "obra": "The Catman – Difícil no pensarte",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-dificil-no-pensarte/"
+  },
+  {
+    "fecha": "14/11/2026 19:46",
+    "artista": "The Catman",
+    "obra": "The Catman – Youniverse",
+    "tipo": "nueva",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-youniverse/"
   }
 ]
