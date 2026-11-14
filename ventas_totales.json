@@ -6409,9 +6409,9 @@
     "ultima_actualizacion": "15/10/2026 12:35"
   },
   "Julien Deniau aka Unavista": {
-    "total": 13725.0,
-    "obras_vendidas": 28,
-    "obras_con_precio": 26,
+    "total": 16325.0,
+    "obras_vendidas": 29,
+    "obras_con_precio": 27,
     "detalle": [
       {
         "titulo": "Julien Deniau aka Unavista – Japanese fish",
@@ -6558,9 +6558,15 @@
         "precio_num": 25.0,
         "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-vinilo04low/",
         "fecha_deteccion": "07/10/2026"
+      },
+      {
+        "titulo": "Julien Deniau aka Unavista – Owl wild life (RESERVED)",
+        "precio_num": 2600.0,
+        "url": "https://www.artevistas.eu/product/julien-deniau-aka-unavista-owl-wild-life/",
+        "fecha_deteccion": "14/11/2026"
       }
     ],
-    "ultima_actualizacion": "07/10/2026 18:44"
+    "ultima_actualizacion": "14/11/2026 19:46"
   },
   "Konair": {
     "total": 47046.0,
@@ -15130,9 +15136,9 @@
     "ultima_actualizacion": "28/10/2026 19:36"
   },
   "Neon Sandwich": {
-    "total": 7620.0,
-    "obras_vendidas": 89,
-    "obras_con_precio": 89,
+    "total": 7750.0,
+    "obras_vendidas": 90,
+    "obras_con_precio": 90,
     "detalle": [
       {
         "titulo": "Neon Sandwich – Powdered Water II",
@@ -15585,9 +15591,15 @@
         "precio_num": 50.0,
         "url": "https://www.artevistas.eu/product/neon-sandwich-disco-death-darth-star-lotus/",
         "fecha_deteccion": "29/10/2026"
+      },
+      {
+        "titulo": "Neon Sandwich – Action Baby Buddha Spiderman pg. 31",
+        "precio_num": 130.0,
+        "url": "https://www.artevistas.eu/product/neon-sandwich-action-baby-buddha-spiderman-pg-31/",
+        "fecha_deteccion": "14/11/2026"
       }
     ],
-    "ultima_actualizacion": "29/10/2026 19:51"
+    "ultima_actualizacion": "14/11/2026 19:46"
   },
   "Orson Buch": {
     "total": 6850.0,
@@ -19058,9 +19070,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13758.0,
-    "obras_vendidas": 157,
-    "obras_con_precio": 157,
+    "total": 13854.0,
+    "obras_vendidas": 159,
+    "obras_con_precio": 159,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19895,9 +19907,21 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-play-station/",
         "fecha_deteccion": "13/11/2026"
+      },
+      {
+        "titulo": "The Catman – Utopia is truthful and necessary",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-utopia-is-truthful-and-necessary-3/",
+        "fecha_deteccion": "14/11/2026"
+      },
+      {
+        "titulo": "The Catman – Difícil no pensarte",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-dificil-no-pensarte/",
+        "fecha_deteccion": "14/11/2026"
       }
     ],
-    "ultima_actualizacion": "13/11/2026 21:03"
+    "ultima_actualizacion": "14/11/2026 19:46"
   },
   "Tim Marsh": {
     "total": 52400.0,
