@@ -7185,5 +7185,41 @@
     "precio": "1.620,00€",
     "precio_num": 1620.0,
     "url": "https://www.artevistas.eu/product/xavi-mira-aislada/"
+  },
+  {
+    "fecha": "18/11/2026 21:27",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amor degradado (C)",
+    "tipo": "nueva",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amor-degradado-c/"
+  },
+  {
+    "fecha": "18/11/2026 21:27",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amor turquesa y rosa (C)",
+    "tipo": "nueva",
+    "precio": "200,00€",
+    "precio_num": 200.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amor-c/"
+  },
+  {
+    "fecha": "18/11/2026 21:27",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amor pequeño negro (C)",
+    "tipo": "nueva",
+    "precio": "125,00€",
+    "precio_num": 125.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amor-pequeno-negro-c/"
+  },
+  {
+    "fecha": "18/11/2026 21:27",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Amor pequeño rojo (C)",
+    "tipo": "nueva",
+    "precio": "125,00€",
+    "precio_num": 125.0,
+    "url": "https://www.artevistas.eu/product/me-lata-amor-pequeno-rojo-c/"
   }
 ]
