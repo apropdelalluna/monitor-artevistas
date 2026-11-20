@@ -7221,5 +7221,14 @@
     "precio": "125,00€",
     "precio_num": 125.0,
     "url": "https://www.artevistas.eu/product/me-lata-amor-pequeno-rojo-c/"
+  },
+  {
+    "fecha": "20/11/2026 22:58",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann",
+    "tipo": "nuevo_artista",
+    "precio": "",
+    "precio_num": 0,
+    "url": ""
   }
 ]
