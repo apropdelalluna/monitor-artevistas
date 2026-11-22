@@ -7230,5 +7230,185 @@
     "precio": "",
     "precio_num": 0,
     "url": ""
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Luz entre las sobras",
+    "tipo": "nueva",
+    "precio": "2.310,00€",
+    "precio_num": 2310.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-luz-entre-las-sobras/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Viaje en el tiempo",
+    "tipo": "nueva",
+    "precio": "1.900,00€",
+    "precio_num": 1900.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-viaje-en-el-tiempo/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Marta en rojo",
+    "tipo": "nueva",
+    "precio": "1.760,00€",
+    "precio_num": 1760.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-marta-en-rojo/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – La Siesta",
+    "tipo": "nueva",
+    "precio": "1.250,00€",
+    "precio_num": 1250.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-la-siesta/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto 6",
+    "tipo": "nueva",
+    "precio": "6.000,00€",
+    "precio_num": 6000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-6/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto bio-PR [02]",
+    "tipo": "nueva",
+    "precio": "4.000,00€",
+    "precio_num": 4000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-bio-pr-02/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto bio-PR [01]",
+    "tipo": "nueva",
+    "precio": "4.000,00€",
+    "precio_num": 4000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-bio-pr-01/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Ensayo 222-0",
+    "tipo": "nueva",
+    "precio": "3.000,00€",
+    "precio_num": 3000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-ensayo-222-0/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto 12/21-RT",
+    "tipo": "nueva",
+    "precio": "3.000,00€",
+    "precio_num": 3000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-12-21-rt/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto 050820",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-050820/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto bio-09/13",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-bio-09-13/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto IRN-19/5",
+    "tipo": "nueva",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-irn-19-5/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto SG/3-2",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-sg-3-2/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto IRN-19/4",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-irn-19-4/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto +2A-20",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-2a-20/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto 04/21",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-04-21/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto IRN-18/3",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-irn-18-3/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto IRN-18/2",
+    "tipo": "nueva",
+    "precio": "2.200,00€",
+    "precio_num": 2200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-irn-18-2/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto IRN-18/1",
+    "tipo": "nueva",
+    "precio": "2.000,00€",
+    "precio_num": 2000.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-irn-18-1/"
+  },
+  {
+    "fecha": "22/11/2026 09:28",
+    "artista": "Topert W. Plessmann",
+    "obra": "Topert W. Plessmann – Objeto D-35",
+    "tipo": "nueva",
+    "precio": "1.200,00€",
+    "precio_num": 1200.0,
+    "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-d-35/"
   }
 ]
