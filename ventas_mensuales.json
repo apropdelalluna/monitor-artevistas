@@ -3528,6 +3528,14 @@
       "precio": "1.620,00€",
       "precio_num": 1620.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "24/11/2026",
+      "artista": "Mark Rox",
+      "obra": "Mark Rox – ARTonaut #True style",
+      "precio": "2.800,00€",
+      "precio_num": 2800.0,
+      "tipo": "vendida"
     }
   ]
 }
