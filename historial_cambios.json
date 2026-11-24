@@ -7410,5 +7410,14 @@
     "precio": "1.200,00€",
     "precio_num": 1200.0,
     "url": "https://www.artevistas.eu/product/topert-w-plessmann-objeto-d-35/"
+  },
+  {
+    "fecha": "24/11/2026 20:05",
+    "artista": "Mark Rox",
+    "obra": "Mark Rox – ARTonaut #True style",
+    "tipo": "vendida",
+    "precio": "2.800,00€",
+    "precio_num": 2800.0,
+    "url": "https://www.artevistas.eu/product/mark-rox-artonaut-true-style/"
   }
 ]
