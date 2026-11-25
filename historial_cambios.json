@@ -7419,5 +7419,41 @@
     "precio": "2.800,00€",
     "precio_num": 2800.0,
     "url": "https://www.artevistas.eu/product/mark-rox-artonaut-true-style/"
+  },
+  {
+    "fecha": "25/11/2026 19:09",
+    "artista": "António Azevedo",
+    "obra": "António Azevedo – Era uma vez… (288º Acto)",
+    "tipo": "vendida",
+    "precio": "245,00€",
+    "precio_num": 245.0,
+    "url": "https://www.artevistas.eu/product/antonio-azevedo-era-uma-vez-o288-acto/"
+  },
+  {
+    "fecha": "25/11/2026 19:09",
+    "artista": "White Rabbit",
+    "obra": "White Rabbit – Bunny revolution golden sharada",
+    "tipo": "vendida",
+    "precio": "145,00€",
+    "precio_num": 145.0,
+    "url": "https://www.artevistas.eu/product/white-rabbit-bunny-revolution-golden-sharada/"
+  },
+  {
+    "fecha": "25/11/2026 19:09",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Luz entre las sobras",
+    "tipo": "desaparecida",
+    "precio": "2.310,00€",
+    "precio_num": 2310.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-luz-entre-las-sobras/"
+  },
+  {
+    "fecha": "25/11/2026 19:09",
+    "artista": "Xavi Mira",
+    "obra": "Xavi Mira – Luz entre las sombras",
+    "tipo": "nueva",
+    "precio": "2.310,00€",
+    "precio_num": 2310.0,
+    "url": "https://www.artevistas.eu/product/xavi-mira-luz-entre-las-sombras/"
   }
 ]
