@@ -7455,5 +7455,14 @@
     "precio": "2.310,00€",
     "precio_num": 2310.0,
     "url": "https://www.artevistas.eu/product/xavi-mira-luz-entre-las-sombras/"
+  },
+  {
+    "fecha": "26/11/2026 19:37",
+    "artista": "Vaidehi Kinkhabwala",
+    "obra": "Vaidehi Kinkhabwala – Maps PRINT",
+    "tipo": "vendida",
+    "precio": "65,00€",
+    "precio_num": 65.0,
+    "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/"
   }
 ]
