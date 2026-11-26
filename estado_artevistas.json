@@ -38192,8 +38192,8 @@
     }
   },
   "Vaidehi Kinkhabwala": {
-    "hash": "b11959ec08ad5daaddd11a96d7784d88",
-    "texto": "Vaidehi Kinkhabwala\nVaidehi Kinkhabwala\nVaidehi Kinkhabwala is a Painter and Printmaker living and working in New York City. Kinkhabwala is a multidisciplinary artist who grew up in India, grounding her work in a rich bicultural perspective.\nHer current body of work explores the bicultural experiences, gender disparities, and the profound struggles inherent in the transition to American life, which have fundamentally shaped her recent artistic focus. Through a familiar modern visual language, her art navigates these complex personal and societal landscapes.Her work has been exhibited and collected in various places around the world, including The United States, India, London, France, and Spain.\nPermanent artist in\nArtevistas Gallery\n.\nRelated artwork\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Grand Central PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Subway PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Met Fountain PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Park PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Downtown PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – The Beginning PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Maps PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Supermarket PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Whitney PRINT\n65,00\n€",
+    "hash": "fffca2e7f092b56365929ac77e64f811",
+    "texto": "Vaidehi Kinkhabwala\nVaidehi Kinkhabwala\nVaidehi Kinkhabwala is a Painter and Printmaker living and working in New York City. Kinkhabwala is a multidisciplinary artist who grew up in India, grounding her work in a rich bicultural perspective.\nHer current body of work explores the bicultural experiences, gender disparities, and the profound struggles inherent in the transition to American life, which have fundamentally shaped her recent artistic focus. Through a familiar modern visual language, her art navigates these complex personal and societal landscapes.Her work has been exhibited and collected in various places around the world, including The United States, India, London, France, and Spain.\nPermanent artist in\nArtevistas Gallery\n.\nRelated artwork\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Grand Central PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Subway PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Met Fountain PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Park PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – Downtown PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – The Beginning PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Supermarket PRINT\n65,00\n€\nQuick View\nGotic Gallery, Print\nVaidehi Kinkhabwala – At the Whitney PRINT\n65,00\n€\nQuick View\nSold\nGotic Gallery, Print\nVaidehi Kinkhabwala – Maps PRINT\nSOLD",
     "obras": {
       "https://www.artevistas.eu/product/vaidehi-kinkhabwala-grand-central/": {
         "titulo": "Vaidehi Kinkhabwala – Grand Central PRINT",
@@ -38237,13 +38237,6 @@
         "estado": "disponible",
         "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-the-beginning/"
       },
-      "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/": {
-        "titulo": "Vaidehi Kinkhabwala – Maps PRINT",
-        "precio": "65,00€",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/"
-      },
       "https://www.artevistas.eu/product/vaidehi-kinkhabwala-at-the-supermarket/": {
         "titulo": "Vaidehi Kinkhabwala – At the Supermarket PRINT",
         "precio": "65,00€",
@@ -38257,6 +38250,13 @@
         "precio_num": 65.0,
         "estado": "disponible",
         "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-at-the-whitney/"
+      },
+      "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/": {
+        "titulo": "Vaidehi Kinkhabwala – Maps PRINT",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/"
       }
     }
   },
