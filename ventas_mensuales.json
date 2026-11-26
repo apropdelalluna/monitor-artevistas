@@ -3560,6 +3560,14 @@
       "precio": "2.310,00€",
       "precio_num": 2310.0,
       "tipo": "desaparecida"
+    },
+    {
+      "fecha": "26/11/2026",
+      "artista": "Vaidehi Kinkhabwala",
+      "obra": "Vaidehi Kinkhabwala – Maps PRINT",
+      "precio": "65,00€",
+      "precio_num": 65.0,
+      "tipo": "vendida"
     }
   ]
 }
