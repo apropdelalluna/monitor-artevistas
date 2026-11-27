@@ -3568,6 +3568,62 @@
       "precio": "65,00€",
       "precio_num": 65.0,
       "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "Alberto Blanchart",
+      "obra": "Alberto Blanchart – Stop Wars",
+      "precio": "550,00€",
+      "precio_num": 550.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Poetry",
+      "precio": "260,00€",
+      "precio_num": 260.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Don’t worry be happy",
+      "precio": "380,00€",
+      "precio_num": 380.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Peace and love (C)",
+      "precio": "300,00€",
+      "precio_num": 300.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "Me Lata",
+      "obra": "Me Lata – Carpe diem",
+      "precio": "380,00€",
+      "precio_num": 380.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Happy birthday",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
+    },
+    {
+      "fecha": "27/11/2026",
+      "artista": "The Catman",
+      "obra": "The Catman – Curriculum vitae",
+      "precio": "48,00€",
+      "precio_num": 48.0,
+      "tipo": "vendida"
     }
   ]
 }
