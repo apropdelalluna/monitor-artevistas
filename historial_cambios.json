@@ -7464,5 +7464,68 @@
     "precio": "65,00€",
     "precio_num": 65.0,
     "url": "https://www.artevistas.eu/product/vaidehi-kinkhabwala-maps/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "Alberto Blanchart",
+    "obra": "Alberto Blanchart – Stop Wars",
+    "tipo": "vendida",
+    "precio": "550,00€",
+    "precio_num": 550.0,
+    "url": "https://www.artevistas.eu/product/alberto-blanchart-stop-wars/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Poetry",
+    "tipo": "vendida",
+    "precio": "260,00€",
+    "precio_num": 260.0,
+    "url": "https://www.artevistas.eu/product/me-lata-poetry/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Don’t worry be happy",
+    "tipo": "vendida",
+    "precio": "380,00€",
+    "precio_num": 380.0,
+    "url": "https://www.artevistas.eu/product/me-lata-dont-worry-be-happy-5/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Peace and love (C)",
+    "tipo": "vendida",
+    "precio": "300,00€",
+    "precio_num": 300.0,
+    "url": "https://www.artevistas.eu/product/me-lata-peace-and-love-2/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "Me Lata",
+    "obra": "Me Lata – Carpe diem",
+    "tipo": "vendida",
+    "precio": "380,00€",
+    "precio_num": 380.0,
+    "url": "https://www.artevistas.eu/product/me-lata-carpe-diem-4/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "The Catman",
+    "obra": "The Catman – Happy birthday",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-happy-birthday/"
+  },
+  {
+    "fecha": "27/11/2026 20:02",
+    "artista": "The Catman",
+    "obra": "The Catman – Curriculum vitae",
+    "tipo": "vendida",
+    "precio": "48,00€",
+    "precio_num": 48.0,
+    "url": "https://www.artevistas.eu/product/the-catman-curriculum-vitae-2/"
   }
 ]
