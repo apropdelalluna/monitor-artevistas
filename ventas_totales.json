@@ -997,9 +997,9 @@
     "ultima_actualizacion": "23/09/2026 18:26"
   },
   "Alberto Blanchart": {
-    "total": 37820.0,
-    "obras_vendidas": 46,
-    "obras_con_precio": 46,
+    "total": 38370.0,
+    "obras_vendidas": 47,
+    "obras_con_precio": 47,
     "detalle": [
       {
         "titulo": "Alberto Blanchart – Squirtle",
@@ -1244,9 +1244,15 @@
         "precio_num": 680.0,
         "url": "https://www.artevistas.eu/product/alberto-blanchart-bulbasaur/",
         "fecha_deteccion": "27/10/2026"
+      },
+      {
+        "titulo": "Alberto Blanchart – Stop Wars",
+        "precio_num": 550.0,
+        "url": "https://www.artevistas.eu/product/alberto-blanchart-stop-wars/",
+        "fecha_deteccion": "27/11/2026"
       }
     ],
-    "ultima_actualizacion": "27/10/2026 07:21"
+    "ultima_actualizacion": "27/11/2026 20:02"
   },
   "Álvaro Gómez-Pantoja": {
     "total": 21850.0,
@@ -7737,9 +7743,9 @@
     "ultima_actualizacion": "27/09/2026 16:54"
   },
   "Me Lata": {
-    "total": 300199.0,
-    "obras_vendidas": 1197,
-    "obras_con_precio": 1191,
+    "total": 301519.0,
+    "obras_vendidas": 1201,
+    "obras_con_precio": 1195,
     "detalle": [
       {
         "titulo": "Me Lata – Amour",
@@ -14389,9 +14395,33 @@
         "precio_num": 200.0,
         "url": "https://www.artevistas.eu/product/me-lata-amor-38/",
         "fecha_deteccion": "15/11/2026"
+      },
+      {
+        "titulo": "Me Lata – Poetry",
+        "precio_num": 260.0,
+        "url": "https://www.artevistas.eu/product/me-lata-poetry/",
+        "fecha_deteccion": "27/11/2026"
+      },
+      {
+        "titulo": "Me Lata – Don’t worry be happy",
+        "precio_num": 380.0,
+        "url": "https://www.artevistas.eu/product/me-lata-dont-worry-be-happy-5/",
+        "fecha_deteccion": "27/11/2026"
+      },
+      {
+        "titulo": "Me Lata – Peace and love (C)",
+        "precio_num": 300.0,
+        "url": "https://www.artevistas.eu/product/me-lata-peace-and-love-2/",
+        "fecha_deteccion": "27/11/2026"
+      },
+      {
+        "titulo": "Me Lata – Carpe diem",
+        "precio_num": 380.0,
+        "url": "https://www.artevistas.eu/product/me-lata-carpe-diem-4/",
+        "fecha_deteccion": "27/11/2026"
       }
     ],
-    "ultima_actualizacion": "15/11/2026 19:53"
+    "ultima_actualizacion": "27/11/2026 20:02"
   },
   "Miquel Serratosa": {
     "total": 55950.0,
@@ -19100,9 +19130,9 @@
     "ultima_actualizacion": "08/06/2026 11:49"
   },
   "The Catman": {
-    "total": 13854.0,
-    "obras_vendidas": 159,
-    "obras_con_precio": 159,
+    "total": 13950.0,
+    "obras_vendidas": 161,
+    "obras_con_precio": 161,
     "detalle": [
       {
         "titulo": "The Catman – Art Loves You",
@@ -19949,9 +19979,21 @@
         "precio_num": 48.0,
         "url": "https://www.artevistas.eu/product/the-catman-dificil-no-pensarte/",
         "fecha_deteccion": "14/11/2026"
+      },
+      {
+        "titulo": "The Catman – Happy birthday",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-happy-birthday/",
+        "fecha_deteccion": "27/11/2026"
+      },
+      {
+        "titulo": "The Catman – Curriculum vitae",
+        "precio_num": 48.0,
+        "url": "https://www.artevistas.eu/product/the-catman-curriculum-vitae-2/",
+        "fecha_deteccion": "27/11/2026"
       }
     ],
-    "ultima_actualizacion": "14/11/2026 19:46"
+    "ultima_actualizacion": "27/11/2026 20:02"
   },
   "Tim Marsh": {
     "total": 52400.0,
